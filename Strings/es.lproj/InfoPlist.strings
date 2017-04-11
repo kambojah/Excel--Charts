@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+"Create File" = "Crear archivo";
+kSTRING_NEW_FROM_TEMPLATES = "Nuevo desde plantillas";

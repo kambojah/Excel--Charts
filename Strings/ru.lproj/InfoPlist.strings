@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+"Create File" = "Создать файл";
+kSTRING_NEW_FROM_TEMPLATES = "Создать из шаблонов";

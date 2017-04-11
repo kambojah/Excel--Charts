@@ -1,0 +1,3020 @@
+/* 
+  Localizable.strings
+  Office Suite Pro
+
+  Created by Vladimir Grigorov on 7/26/12.
+  Copyright (c) 2012 Mobile Systems, Inc. All rights reserved.
+*/
+
+/*
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Untitled" = "Без названия";
+"Label_Error" = "Ошибка";
+"Label_OK" = "OK";
+"Label_Cancel" = "Отмена";
+"Label_Confirmation" = "Подтверждение";
+"Label_Enter" = "Ввод";
+"Label_Password" = "Пароль";
+"Label_DontSave" = "Не сохранять";
+"Label_Save" = "Сохранить";
+"Label_SaveAs" = "Сохранить как";
+"Label_UndoRedoTitle" = "Отменить/вернуть";
+"Label_Undo" = "Отменить";
+"Label_Redo" = "Вернуть";
+"Label_Copy" = "Копировать";
+"Label_Paste" = "Вставить";
+"Label_Cut" = "Вырезать";
+"Label_Clear" = "Очистить";
+"Label_Insert" = "Вставка";
+"Label_Delete" = "Удалить";
+"Label_Functions" = "Функции";
+"Label_Recalculate" = "Пересчитать";
+"Label_Hide" = "Скрыть";
+"Label_Unhide" = "Показать";
+"Label_Autofit" = "Вписать";
+"Label_Goto" = "Перейти к...";
+"Label_GoToCell" = "Перейти к ячейке";
+"Label_ReferenceNotValid" = "Ссылка недействительна.";
+"Label_GoToPage" = "Перейти на страницу";
+"Label_EnterPageNumber" = "Номер страницы (1-%d)";
+"Label_CellAddress" = "Введите координаты ячейки:";
+"Label_Previous" = "Предыдущая";
+"Label_Next" = "Следующая";
+"Label_Replace" = "Заменить";
+"Label_Done" = "Готово";
+"Label_search" = "Поиск";
+"Label_SearchOptions" = "Параметры поиска";
+"Label_replace" = "заменить";
+
+/* Up to 26 chars */
+"Label_MatchCase" = "С учетом регистра";
+
+"Label_MatchWholeWords" = "Только слова целиком";
+
+/* Up to 22 chars */
+"Label_MatchEntireCell" = "Только ячейки целиком";
+
+"Label_Values" = "Значения";
+"Label_Formulas" = "Формулы";
+"Label_Options" = "Параметры";
+"Label_LookIn" = "Искать в";
+"Label_Rows" = "Строки";
+"Label_Columns" = "Столбцы";
+"Label_Back" = "Назад";
+"Label_Menu" = "Меню";
+"Label_Fx" = "Fx";
+"Label_Zoom" = "Масштабирование";
+"Label_ZoomPercentage" = "Масштабирование: $1";
+"Label_ZoomFit" = "Вписать по ширине";
+"Label_Search" = "Поиск";
+"Label_Help" = "Справка";
+"Label_About" = "О программе";
+"Label_Keyboard" = "Клавиатура";
+"Label_Settings" = "Настройки";
+"Label_SettingAutoCorrect" = "Автозамена";
+
+"Button_Font" = "Шрифт";
+"Button_Cell" = "Ячейка";
+"Button_Number" = "Номер";
+"Button_Paragraph" = "Параграф";
+"Label_Horizontal" = "Горизонтальный";
+"Label_Vertical" = "Вертикальный";
+"Label_Indent" = "Отступ";
+"Label_Style" = "Стиль";
+"Label_Color" = "Цвет";
+"Label_BorderThin" = "Тонкий";
+"Label_BorderMedium" = "Средний";
+"Label_BorderThick" = "Толстый";
+"Label_NumGeneral" = "Общий";
+"Label_NumNumber" = "Номер";
+"Label_NumCurrency" = "Валюта";
+"Label_NumDate" = "Дата";
+"Label_NumTime" = "Время";
+"Label_NumPercentage" = "Проценты";
+"Label_NumScientific" = "Научный";
+"Label_NumText" = "Текст";
+
+/* Up to 16 chars */
+"Label_NumDecimalPlaces" = "Десятичные разряды";
+
+/* Up to 28 chars */
+"Label_NumThousandSeparator" = "Использовать знак разделения 1000";
+
+"Label_CurrencyNone" = "Отсутствует";
+"Label_Font" = "Шрифт";
+"Label_Fonts" = "Шрифты";
+"Label_FontFamilies" = "Семейства шрифтов";
+"Label_FontFamily" = "Название шрифта:";
+"Label_FontSize" = "Размер шрифта";
+"Label_FontTextColor" = "Цвет текста"; 
+"Label_FontBgColor" = "Цвет ячейки";
+"Label_FontHighlightColor" = "Цвет выделения";
+"Label_FontBold" = "Жирный";
+"Label_FontItalic" = "Курсив";
+"Label_Fill" = "Заливка";
+"Label_Highlight" = "Подчеркнутый";
+
+/* Up to 16 chars */
+"Label_LineSpacing" = "Разрядка строк";
+
+"Label_TextAlignmentLeft" = "По левому краю";
+"Label_TextAlignmentCenter" = "По центру";
+"Label_TextAlignmentRight" = "По правому краю";
+"Label_TextAlignmentJustified" = "По ширине";
+"Label_Lists" = "Списки";
+"Label_ListTypeNone" = "Отсутствует";
+"Label_ListTypeBullet" = "Маркированный";
+"Label_ListTypeNumbered" = "Нумерованный";
+
+"Label_Top" = "Наибольшие";
+"Label_Bottom" = "Наименьшие";
+
+"Label_PasswordProtectedDocument" = "Защищенный паролем документ";
+"Label_EnterPassword" = "Введите пароль";
+
+"Err_UnsupportedFile" = "Неправильный или неподдерживаемый формат файла.";
+"Err_IO_Error" = "Ошибка ввода-вывода";
+"Err_OutOfMemory" = "Недостаточно памяти";
+
+"Label_Edition" = "Professional Edition";
+"Label_Version" = "Версия";
+"Label_Website" = "Веб-сайт";
+"Label_Facebook" = "Facebook";
+"Label_AppStore" = "Оценить на App Store";
+"Label_LibsUsed" = "Использованные библиотеки";
+
+"PRGRSS_LoadingString" = "Загрузка...";
+"PRGRSS_SavingString" = "Сохранение...";
+"PRGRSS_SearchingString" = "Поиск...";
+
+/* 
+   All ErrClass strings are used together with other strings,
+   that's why the space at the end is important
+ 
+   THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrClass_NewFileString" = "Не удалось создать файл. ";
+"ErrClass_LoadFileString" = "Не удалось загрузить $1. ";
+"ErrClass_RestoreFileString" = "Не удалось восстановить документ. ";
+"ErrClass_SaveFileString" = "Не удалось сохранить файл. ";
+"ErrClass_CellTextString" = "Не удалось изменить текст ячейки. ";
+"ErrClass_PasteString" = "Вставка не удалась. ";
+"ErrClass_ClearString" = "Очистка не удалась. ";
+"ErrClass_CopyString" = "Копирование не удалось. ";
+"ErrClass_CutString" = "Не удалось вырезать выделенный фрагмент. ";
+"ErrClass_SetSheetString" = "Не удалось изменить активный лист. ";
+"ErrClass_UndoString" = "Невозможно отменить. ";
+"ErrClass_RedoString" = "Невозможно вернуть. ";
+"ErrClass_FormatString" = "Не удалось применить форматирование. ";
+"ErrClass_InsertRowString" = "Не удалось вставить строку(и). ";
+"ErrClass_InsertColString" = "Не удалось вставить столбец(цы). ";
+"ErrClass_FormulaString" = "Ошибка формулы. ";
+"ErrClass_GotoString" = "Переход не удался. ";
+"ErrClass_HideUnhideString" = "Скрыть/показать не удалось. ";
+"ErrClass_ResizeString" = "Изменить размер не удалось. ";
+"ErrClass_DeleteRowsString" = "Не удалось удалить строку(и). ";
+"ErrClass_DeleteColsString" = "Не удалось удалить столбец(цы). ";
+"ErrClass_ZoomString" = "Масштабирование не удалось. ";
+"ErrClass_AddSheetString" = "Не удалось вставить лист. ";
+"ErrClass_RenameSheetString" = "Не удалось переименовать лист. ";
+"ErrClass_DeleteSheetString" = "Не удалось удалить лист. ";
+"ErrClass_FindString" = "Не удалось найти совпадение. ";
+"ErrClass_ReplaceString" = "Операция перемещения не удалась. ";
+
+
+"Err_UnknownString" = "Произошла неизвестная ошибка.";
+"Err_InternalString" = "Внутренняя ошибка.";
+"Err_NoMemDynString" = "Недостаточно динамической памяти.";
+"Err_NoMemStgString" = "Недостаточно памяти данных.";
+"ErrDoc_BadPasswordString" = "Неправильный пароль."; // also used in PDF
+"ErrDoc_Load_UnsupportedString" = "Версия файла не поддерживается.";
+"ErrDoc_Load_FailedToOpenGeneralTitle" = "Не удалось открыть файл.";
+"ErrDoc_Load_ReturningToFileManagerString" = "Необходимо вернуться к диспетчеру файлов.";
+"ErrDoc_Load_Bad_FileString" = "Файл поврежден.";
+"ErrDoc_Load_EncryptionString" = "Тип шифрования не поддерживается. Поддерживаемая схема шифрования \"office 97/2000 compatible\".";
+"ErrDoc_Load_EncryptionNotImplemented" = "Защищенные паролем файлы еще не поддерживаются.";
+"ErrDoc_Load_InvalidXlsString" = "Неправильный XLS-формат.";
+"ErrDoc_Save_Bad_Destination" = "Конечная папка полна или недоступна. Попробуйте сохранить в другом месте.";
+"Confirm_Find_Start_OverString" = "Вы достигли конца документа. Хотите начать заново?";
+"ErrPaste_Area_Not_SameString" = "Области копирования и вставки не совпадают.";
+"ErrSheet_ExistsString" = "Лист с таким именем уже существует.";
+"ErrSheet_LockedString" = "Команду невозможно выполнить, поскольку лист защищен.";
+"Confirm_DeleteSheetString" = "Вы точно хотите удалить выбранный лист?";
+"ErrFile_Illegal_NameString" = "Введенное имя недействительно.";
+"InfFind_No_MatchesString" = "Совпадений не найдено."; // also used in PPT & PDF
+"InfFind_No_More_MatchesString" = "Новых совпадений не найдено."; // also used in PPT & PDF
+"ErrCateg_MinimumOneString" = "Вы не можете удалить все листы.";
+"Err_CellsNotEmptyString" = "Последние ячейки заполнены.";
+"ErrFormula_ErrorString" = "Неизвестная ошибка формулы.";
+"ErrFormula_NotAFormulaString" = "Неправильная формула.";
+"ErrFormula_MissingOperandString" = "Отсутствует операнд.";
+"ErrFormula_MissingOperatorString" = "Отсутствует оператор.";
+"ErrFormula_IllegalTokenString" = "Недопустимый маркер.";
+"ErrFormula_MissingQuoteString" = "Отсутствуют кавычки ( \" ).";
+"ErrFormula_MissingArrayCloseString" = "Отсутствует закрывающая скобка массива ' } '.";
+"ErrFormula_IllegalIdentifierString" = "Недопустимый идентификатор.";
+"ErrFormula_IconsistentArrayString" = "Несогласованный массив.";
+"ErrFormula_MissingArrayEltString" = "Пропущен элемент массива.";
+"ErrFormula_IllegalArrayEltString" = "Недопустимый элемент массива.";
+"ErrFormula_MissingFuncCloseString" = "Отсутствует закрывающая скобка функции ' ) '.";
+"ErrFormula_DeepFuncNestingString" = "Слишком глубокое вложение функций.";
+"ErrFormula_UnknownFunctionString" = "Неизвестная функция.";
+"ErrFormula_MissingSingleQuoteString" = "Отсутствует одинарная кавычка ( ' ).";
+"ErrFormula_CircularReferenceString" = "Циклическая ссылка.";
+"ErrFormula_UnknownEvalErrorString" = "Неизвестная ошибка оценки.";
+"ErrFormula_NotEnoughArgumentsString" = "Не хватает аргументов.";
+"ErrFormula_TooMuchArgumentsString" = "Слишком много аргументов.";
+"ErrFormula_InitDependencesFailedString" = "Ошибка в задании формулы. Формулы не будут вычислены.";
+"Confirm_SelectionTypeString" = "Выберите типы объектов для обработки.";
+
+
+"FUNCCAT_CommonString" = "Общие";
+"FUNCCAT_AllString" = "Все";
+"FUNCCAT_DatabaseString" = "База данных";
+"FUNCCAT_InformationString" = "Информация";
+"FUNCCAT_LogicalString" = "Логическая";
+"FUNCCAT_MathString" = "Математическая";
+"FUNCCAT_DateTimeString" = "Дата и время";
+"FUNCCAT_StatisticalString" = "Статистическая";
+"FUNCCAT_FinancialString" = "Финансовая";
+"FUNCCAT_LookRefString" = "Поиск и ссылка";
+"FUNCCAT_TextString" = "Текст";
+
+
+"CONFIRM_DeleteSheet" = "$1 будет удален. Продолжить?";
+"CONFIRM_SaveFile" = "Сохранить изменения в $1?";
+"CONFIRM_CsvDataLoss" = "Данный формат не поддерживает несколько листов, форматирование, объекты и прочие свойства. Сохранится только активный лист. Хотите продолжать?";
+
+"Label_ExcelWorkbook" = "Книга Excel";
+"Label_Excel97Workbook" = "Книга Excel 97-2003";
+"Label_CommaDelimited" = "Разделитель – запятая";
+"Label_CsvDataLoss" = "Данный формат не поддерживает несколько листов, форматирование, объекты и прочие свойства. Сохранится только активный лист.";
+"Label_ChartsheetsUnsupported" = "Это лист диаграммы. Диаграммы пока что не поддерживаются.";
+
+"Label_ChooseCSVDelims" = "Выберите разделители CSV";
+"Label_Column_Delim" = "Разделитель столбца:";
+"Label_Decimal_Delim" = "Десятичный разделитель:";
+"Label_Decimal_Dot" = "Точка(.)";
+"Label_Decimal_Comma" = "Запятая(,)";
+"Lable_CSV_Delim_Warning" = "Выберите разделитель столбцов.";
+
+"Label_BorderStyle" = "Стиль границ";
+"Label_Borders" = "Границы";
+
+/* Up to 20 chars */
+"Label_Slideshow" = "Показ слайдов";
+
+"Label_AdvanceSlides" = "Следующие слайды";
+"Label_Manually" = "Вручную";
+"Label_Automatically" = "Автоматически";
+"Label_SlideshowDelayFormat" = "%d сек";
+"Label_StartSlideshow" = "Запустить показ слайдов";
+"Label_Delay" = "Приостановить";
+"Label_Notes" = "Примечания";
+"Label_TableOfContents" = "Содержание";
+
+
+"Label_Home" = "Начало";
+"Label_Documents" = "Документы";
+"Label_Cloud" = "Облако";
+"Label_Prev" = "Пред.";
+"Label_Storage" = "Хранилище";
+"Label_OfficeSuite" = "OfficeSuite";
+"Label_Create" = "Создать";
+"Label_CreateNew" = "Создать новую...";
+"Label_NewFolder" = "Новая папка";
+
+/* Up to 10 chars */
+"Label_Rename" = "Другое имя";
+
+"Label_Close" = "Закрыть";
+"Label_Properties" = "Свойства";
+
+/* Up to 22 chars */
+"Label_RemoteAccounts" = "Удаленные аккаунты";
+"Label_RemoteAccountsCap" = "УДАЛЕННЫЕ АККАУНТЫ";
+
+"Label_OpenIn" = "Открыть в...";
+"Label_Extract" = "Извлечь";
+"Label_ExtractTo" = "Извлечь в";
+"Label_Edit" = "Изменить";
+"Label_Play" = "Воспроизвести";
+"Label_Stop" = "Остановить";
+"Label_Unknown" = "Неизвестный";
+"Label_TypeWordDocument" = "Документ";
+"Label_TypeExcelSpreadsheet" = "Электронная таблица";
+"Label_TypePowerPointPresentation" = "Презентация";
+"Label_TypePDFFile" = "Файл PDF";
+"Label_TypeZipArchive" = "Архив ZIP";
+"Label_TypeImage" = "Образ";
+"Label_TypeVideo" = "Видео";
+"Label_TypeAudio" = "Аудио";
+"Label_TypeFolder" = "Папка";
+"Label_SearchResults" = "Результаты поиска";
+
+/* Для диалога свойств файла */
+"Label_Type" = "Тип";
+"Label_Size" = "Размер";
+"Label_Date" = "Дата";
+"Label_Path" = "Путь";
+
+/*
+    THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Label_Share" = "Разделить";
+"Label_Recover" = "Восстановить";
+"Label_Relink" = "Повторить соединение";
+"Label_Later" = "Позже";
+"Label_UseICloud" = "Использовать iCloud";
+"Label_ContinueUsingICloud" = "Продолжить использование iCloud";
+"Label_KeepLocalCopy" = "Сохранить локальную копию";
+"Label_KeepOnICloudOnly" = "Хранить только в iCloud";
+
+"ErrTitle_CopyError" = "Ошибка копирования";
+"ErrTitle_PasteError" = "Ошибка вставки";
+"ErrTitle_DownloadError" = "Ошибка загрузки";
+"ErrTitle_DeleteError" = "Ошибка удаления";
+"ErrTitle_RenameFailed" = "Ошибка переименования";
+"ErrTitle_UploadFailed" = "Ошибка выгрузки";
+"ErrTitle_FileExists" = "%@ Существует";
+"ErrTitle_NoItemsSelected" = "Элементы не выбраны";
+"ErrTitle_Error" = "Ошибка";
+"ErrTitle_CreateFolder" = "Не удалось создать папку";
+"ErrTitle_CannotPlayFile" = "Невозможно воспроизвести файл";
+"ErrTitle_SessionEnded" = "Сеанс завершен";
+"ErrTitle_NoInternet" = "Нет подключения к Интернету";
+"ErrTitle_FileNameEmpty" = "Не заполнено имя файла";
+
+"WarningTitle_Warning" = "Предупреждение";
+"WarningTitle_CloseDocument" = "Закрыть текущий документ";
+"WarningTitle_ConfirmDeletion" = "Подтвердить удаление";
+
+"InfoTitle_NotUsingICloud" = "iCloud был выключен";
+"InfoTitle_iCloudAvailable" = "iCloud доступен";
+"InfoTitle_UnsupportedFile" = "Файл не поддерживается";
+"InfoTitle_CannotSendMail" = "Невозможно отправить e-mail";
+"InfoTitle_iCloudOn" = "iCloud включен";
+"InfoTitle_iCloudOff" = "iCloud выключен";
+"InfoTitle_DocumentRecovery" = "Восстановление документа";
+"InfoTitle_DisplayFile" = "Невозможно отобразить файл";
+"InfoTitle_Info" = "Информация";
+
+"ErrMsg_SameFolderCopy" = "Папка %@ не будет скопирована. Это вложенная папка конечной папки.";
+"ErrMsg_FileExists" = "%@ под именем %@ уже существует. Хотите заменить?";
+"ErrMsg_FileRename" = "%@ под именем %@ уже существует. Выберите другое имя.";
+"ErrMsg_PasteError" = "Произошла ошибка во время вставки %@. Ошибка: %@";
+"ErrMsg_ReadFile" = "Не удалось прочесть файл %@.";
+"ErrMsg_DeleteFile" = "Не удалось удалить файл %@.";
+"ErrMsg_UploadFailed" = "Не удалось выгрузить файл. Попробуйте сохранить в другом месте.";
+"ErrMsg_SelectItems" = "Выберите несколько элементов.";
+"ErrMsg_DocumentLoad" = "Не удастся загрузить документ %@.";
+"ErrMsg_FileNotFound" = "Файл %@ не найден.";
+"ErrMsg_InternetOffline" = "Нет подключения к Интернету.";
+"ErrMsg_UnknownError" = "Произошла неизвестная ошибка";
+"ErrMsg_CannotOpenFile" = "Не удалось открыть файл %@. Ошибка: %@";
+"ErrMsg_PlayingAudio" = "Произошла ошибка при воспроизведении аудио-файла.";
+"ErrMsg_SuggestRelink" = "Хотите повторить соединение?";
+"ErrMsg_NeedsRelink" = "Требуется восстановить соединение перед дальнейшим использованием вашей учетной записи.";
+"ErrMsg_UnrecognizedPath" = "Неверный путь.";
+"ErrMsg_CannotCopyFolder" = "Папка %@ не может копироваться.";
+"ErrMsg_CannotUploadFile" = "Не удается выгрузить файл с полным путем к нему. %@";
+"ErrMsg_PasteInSameFolder" = "Вы пытаетесь вставить объект в исходную папку.";
+"ErrMsg_InvalidFileName" = "Имя файла не может начинаться с '.'.";
+"ErrMsg_TryAgainWhenHavingInternet" = "Попробуйте снова при наличии соединения с Интернетом.";
+"ErrMsg_FileNameEmpty" = "Имя файла не может быть пустым.";
+
+"InfoMsg_DocsStoredInICloud" = "Ваши документы были удалены с устройства, но остались в iCloud.";
+"InfoMsg_UseICloud" = "Автоматическое сохранение ваших документов в облаке, чтобы поддерживать их актуальный статус для всех ваших сетей и устройств.";
+"InfoMsg_UnsupportedFile" = "Формат файла не поддерживается.";
+"InfoMsg_CheckMainConf" = "Проверьте конфигурацию вашей электронной почты.";
+"InfoMsg_NotUsingICloud" = "Что вы хотите делать с текущими документами на данном устройстве?";
+"InfoMsg_iCloudOn" = "Сейчас iCloud включен. Выберите местоположение и имя файла для сохранения в iCloud.";
+"InfoMsg_iCloudOff" = "Сейчас iCloud выключен. Выберите местоположение и имя файла для сохранения на устройстве.";
+"InfoMsg_DocumentRecovery" = "Возникла проблема с последним открытым документом. Хотите восстановить?";
+"InfoMsg_ProcessingICloudFiles" = "Обработка файлов iCloud...";
+"InfoMsg_CannotSendFolders" = "Невозможно отправить папки. Вместо этого используйте параметр «Архивировать и отправить».";
+"InfoMsg_SwitchOnICloudFromSettings" = "Документ резервной копии iCloud на данный момент отключен на вашем устройстве. Перейти к настройкам -> iCloud для включения.";
+
+"WarningMsg_CloseDocument" = "У вас имеется открытый документ. Хотите закрыть?";
+"WarningMsg_DeleteItem" = "Вы точно хотите удалить данный элемент?";
+"WarningMsg_DeleteItems" = "Вы точно хотите удалить данные элементы?";
+"WarningMsg_UploadInterrupted" = "Выгрузка файла не удалась. Сохраните файл еще раз.";
+"WarningMsg_PasteInterrupted" = "Операция вставки не удалась.";
+"WarningMsg_DeleteInterrupted" = "Операция удаления не удалась.";
+"WarningMsg_RenameInterrupted" = "Операция переименования не удалась.";
+"WarningMsg_LoadFileListInterrupted" = "Ошибка содержимого загружаемого файла.";
+
+"DetailString_file" = "файл";
+"DetailString_folder" = "папка";
+"DetailString_File" = "Файл";
+"DetailString_Folder" = "Папка";
+
+
+"PRGRSS_CopyICloudToLocal" = "Копирование файлов с iCloud на устройство...";
+"PRGRSS_CreateFolder" = "Создание папки";
+"PRGRSS_CopyFile" = "Копирование файла %@...";
+"PRGRSS_Moving" = "Перемещение";
+"PRGRSS_Copying" = "Копирование";
+"PRGRSS_PreparePaste" = "Подготовка к вставке";
+"PRGRSS_Fetching" = "Выборка";
+"PRGRSS_CreatingFolder" = "Создание папки";
+"PRGRSS_UploadingFile" = "Выгрузка файла";
+"PRGRSS_Deleting" = "Удаление";
+"PRGRSS_LoadingAccountInfo" = "Загрузка информации об учетной записи...";
+"PRGRSS_LoadingFileList" = "Загрузка списка файлов...";
+"PRGRSS_LoadingFile" = "Загрузка файла...";
+"PRGRSS_RenamingFile" = "Переименование файла";
+"PRGRSS_LoadingProperties" = "Загрузка свойств";
+"PRGRSS_Extracting" = "Извлечение";
+"PRGRSS_PleaseWait" = "Ожидайте";
+"PRGRSS_ForBigICloudFolders" = "больших папок iCloud";
+
+	/*
+		Default names for new file and folder
+	 */
+
+"Name_NewFile" = "Без названия";
+"Name_NewFolder" = "Папка без названия";
+
+/* 
+    NEW STRINGS AFTER VER 2.3 
+ 
+    THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Print" = "Печать";
+"Label_WebSearch" = "Поиск в Интернете";
+"Label_Dictionary" = "Словарь";
+"Label_Open" = "Открыть";
+"Label_LinkURL" = "Ссылка";
+"Label_LinkName" = "Отображать";
+"Label_Bookmark" = "Закладка";
+"Label_Section" = "Раздел";
+"Label_NumberOfColumns" = "Количество столбцов";
+"Label_AddSectionBreak" = "Вставить разрыв раздела";
+"Label_Tools" = "Инструменты";
+"Label_PrintAndShare" = "Распечатать и поделиться";
+"Label_OpenInAnotherApp" = "Открыть в другом приложении";
+"Label_Accounts"= "Учетные записи";
+"Label_EmailDocument" = "Отправить документ по эл. почте";
+"Label_EmailDocuments" = "Отправить документы по эл. почте";
+
+/* Up to 30 chars */
+"Label_ZipAndEmailDocument" = "Архив и отправка документа";
+
+/* Up to 30 chars */
+"Label_ZipAndEmailDocuments" = "Архив и отправка документов";
+
+/* Up to 14 chars */
+"Label_TextSize" = "Размер шрифта";
+
+"Label_RecentFilesCap" = "ПОСЛЕДНИЕ ФАЙЛЫ";
+"Label_Document" = "Документ";
+"Label_Spreadsheet" = "Таблица";
+"Label_Presentation" = "Презентация";
+"Label_PDF" = "PDF";
+"ErrTitle_CannotSaveFile" = "Невозможно сохранить файл";
+"InfoTitle_AttachFile" = "Прикрепить файл?";
+"InfoTitle_SendCrashReport" = "Отправить отчет об ошибке?";
+"InfoTitle_CrashReportMailSubject" = "Отчет об ошибке и файлы журнала";
+"InfoTitle_NoAvailableApps" = "Нет доступных приложений";
+"InfoTitle_SelectOnlyOneFile" = "Выбрать файл";
+"ErrMsg_NoPermissionToCreate" = "Нет разрешения на создание %@ %@";
+"ErrMsg_NoPermissionToSaveFile" = "Нет разрешения на сохранение файла. Попробуйте сохранить в другом месте.";
+"ErrMsg_InvalidCharInFileName" = "Недопустимые символы в имени.";
+"ErrMsg_GeneralFileNameError" = "Недопустимое имя файла.";
+"InfoMsg_AttachFile" = "Прикрепить  %@ к вашему отчету? Ваш файл может помочь нам установить причину ошибки.";
+"InfoMsg_SendCrashReport" = "Помогите улучшить OfficeSuite, отправив созданный отчет об ошибке.";
+"InfoMsg_CrashReportMailMessage" = "Произошел сбой при последнем использовании OfficeSuite!";
+"InfoMsg_NoAvailableApps" = "Нет установленных приложений, в которых можно открыть файл такого формата.";
+"InfoMsg_SelectOnlyOneFile" = "Пожалуйста, выберите только один файл, чтобы открыть в другом приложении.";
+
+"InfoMsg_SelectRightEncoding" = "Выбрать кодировку, которая сделает текст читабельным:";
+"Label_Encoding" = "Кодировка";
+"Label_Preview" = "Просмотр";
+"Encoding_EasternEuropean" = "Восточноевропейская";
+"Encoding_WesternEuropean" = "Западноевропейская";
+"Encoding_NorthEuropean" = "Северноевропейская";
+"Encoding_SouthEuropean" = "Южноевропейская";
+"Encoding_Cyrillic" = "Кириллица";
+"Encoding_Greek" = "Греческая";
+"Encoding_Turkish" = "Турецкая";
+"Encoding_Baltic" = "Балтийская";
+"Encoding_Latin9" = "Латинская 9";
+"Encoding_Russian" = "Русская";
+"Encoding_Arabic" = "Арабская";
+"Encoding_Vietnamese" = "Въетнамская";
+"Encoding_Japanese" = "Японская";
+"Encoding_Korean" = "Корейская";
+"Encoding_ChineseSimplified" = "Китайская упрощенная";
+"Encoding_ChineseTraditional" = "Китайская традиционная";
+"Encoding_ChineseTraditionalHK" = "Китайская традиционная (Гонконг)";
+"Encoding_Thai" = "Тайская";
+"Encoding_Hebrew" = "Иврит";
+"Encoding_Indic" = "Индийское письмо";
+"Encoding_Unicode" = "Юникод";
+"Encoding_UnicodeBE" = "Юникод Big Endian";
+"Encoding_UnicodeLE" = "Юникод Little Endian";
+
+"Label_Email" = "Эл. почта";
+"Label_ZipAndEmail" = "Архивировать и отправить по эл. почте";
+
+
+/*
+ NEW STRINGS AFTER VER 3.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_PasswordProtectionLoss" = "Защита паролем будет утеряна при сохранении файла в другом формате.";
+"Label_Freeze" = "Заморозить";
+"Label_Unfreeze" = "Разморозить";
+"Label_SortMenu" = "Сортировать...";
+"Label_Sort" = "Сортировать";
+
+/* Up to 26 chars */
+"Label_CaseSensitive" = "С учетом регистра";
+
+"Label_RowNo" = "Строка %d";
+"Label_ColumnNo" = "Столбец %S";
+"Label_SortBy" = "Сортировать по";
+"Label_ThenSortBy" = "Затем по";
+"Label_Ascending" = "В порядке возрастания";
+"Button_Columns" = "Столбцы";
+"Button_Rows" = "Строки";
+
+"Label_RemoveAds" = "Убрать рекламу";
+
+"ErrorTitle_CannotZipFile" = "Архивировать не удалось";
+"ErrorMsg_CannotZipFile" = "Невозможно сжать файл.";
+
+"Label_On" = "Включить";
+"Label_Off" = "Выключить";
+
+/* Up to 20 chars */
+"Label_SettingSpellCheck" = "Проверка ошибок";
+
+"Label_Language" = "Язык";
+"Label_LearnedWords" = "Знакомые слова";
+"Label_LearnWord" = "Добавить слово";
+"Label_UnLearnWord" = "Удалить слово";
+"Label_NoReplacementsFound" = "Замен не найдено";
+
+"Label_WordCount" = "Подсчет слов";
+"Label_Words" = "Слова";
+"Label_Paragraphs" = "Абзацы";
+"Label_Pages" = "Страницы";
+"Label_CharactersNoSpaces" = "Символы (без пробелов)";
+"Label_CharactersWithSpaces" = "Символы (с пробелами)";
+
+"Label_WebDAV_FailedLogIn_Malformed" = "Некорректный HTTP-адрес!";
+"Label_WebDAV_FailedLogIn_Prefix" = "HTTP-адрес должен начинаться с 'http://' или 'https://'!";
+"Label_WebDAV_FailedLogIn_EmptyField" = "Все поля должны быть заполнены!";
+"Label_WebDAV_FailedLogIn_IncorrectData" = "Некорректные данные аутентификации!\nПожалуйста, попробуйте снова, используя другой HTTP-адрес, имя пользователя или пароль.";
+"Label_WebDAV_FailedLogIn_BadRequest_400" = "Сервер WebDAV: Неверный запрос.\nСервер не может распознать синтаксис запроса.";
+"Label_WebDAV_FailedLogIn_NotImplemented_501" = "Сервер WebDAV: Не реализовано.\nВозможно, учетная запись не поддерживает доступ через WebDAV-клиенты. Пожалуйста, включите поддержку WebDAV в настройках учетной записи.";
+"ErrMsg_WebDAV_Conflict_409" = "Сервер WebDAV: Конфликт. Возможно, на этом сервере недостаточно места.";
+"ErrMsg_WebDAV_NotAllowedOperation" = "Сервер WebDAV не разрешает эту операцию.";
+"ErrMsg_WebDAV_ReservedName" = "Указанное имя не может быть использовано на этом сервере. Пожалуйста, выберите другое имя.";
+"ErrMsg_WebDAV_WriteError" = "Файл назначения отсутствует или поврежден. Пожалуйста, проверьте разрешения вашей учетной записи и свободное место, после чего повторите попытку.";
+
+/* Up to 32 chars */
+"Label_Timing" = "Хронометраж слайд-шоу";
+
+"InfoTitle_NotAvailableICloud" = "iCloud недоступен";
+"InfoMsg_SwitchOnICloudFromSettingsDetailed" = "Чтобы использовать iCloud для резервного копирования ваших файлов, убедитесь, что вы вошли в свою учетную запись iCloud и включили функцию Настройки -> iCloud -> Документы и данные.";
+"Label_UnsupportedWorksheet" = "Это не обычная таблица, такие пока не поддерживаются.";
+"ErrDoc_Save_Csv_Not_Supported" = "Активный лист не может быть сохранен в формате csv.";
+
+"Label_Professional" = "( Профессиональная версия )";
+"Label_ProfessionalFeature" = "$1 доступен как часть профессиональной версии OfficeSuite. Желаете ли вы установить его сейчас?";
+
+"InfoTitle_BoxAppFailedToLaunch" = "Приложение Box не запустилось";
+"InfoMsg_BoxAppFailedToLaunch" = "Не удалось запустить приложение Box.";
+
+"Label_Continue" = "Продолжить";
+
+/* Up to 16 chars */
+"Label_Upgrade" = "Премиум апгрейд";
+
+"Label_UpgradeText1" = "Добро пожаловать в бесплатный OfficeSuite!";
+"Label_UpgradeText2" = "Это полнофункциональная версия для просмотра и редактирования ваших MS Office документов!";
+"Label_UpgradeText3" = "Переходите на профессиональную версию OfficeSuite, чтобы:";
+"Label_UpgradeText4" = "- редактировать документы без просмотра рекламы\n- проверять правописание в текстовых документах";
+
+/*
+ NEW STRINGS AFTER VER 3.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_SortHasHeaders" = "Данные с заголовками";
+"Label_Yes" = "Да";
+"Label_No" = "Нет";
+"Label_CreatePassword" = "Создать пароль";
+
+/* Up to 22 chars */
+"Label_DontUsePassword" = "Не использовать пароль";
+
+"Label_ConfirmPassword" = "Подтвердить пароль";
+"Label_RequirePassword" = "Требовать пароль";
+"Label_Enable" = "Включить";
+"Label_Confirm" = "Подтвердить";
+"Label_Required" = "Необходимо";
+"Label_CreatePasswordWarning" = "Ваш пароль потребуется при запуске приложения. Пожалуйста, обратите внимание, что утерянные пароли восстановить невозможно.";
+"Label_Immediately" = "Немедленно";
+"Label_Minute" = "минута";
+"Label_Minutes" = "минуты";
+"Label_Hour" = "час";
+"Label_Hours" = "часы";
+"Label_RequirePasswordTime" = "Через %d %@";
+
+"Label_EmptyFolder" = "Эта папка пуста.";
+"Label_Name" = "Имя";
+
+/* Up to 26 chars */
+"InfoTitle_PasswordProtection" = "Защита паролем";
+
+"InfoMsg_EnablePasswordProtection" = "Хотите ли вы создать пароль для ограничения доступа к OfficeSuite? Вы сможете изменить настройки защиты паролем, выбрав \"Защита паролем\" в меню \"Инструменты\".";
+"InfoMsg_EnterCurrentPassword" = "Введите текущий пароль, чтобы продолжить:";
+"InfoMsg_WrongPassword" = "Неверный пароль. Пожалуйста, попробуйте еще раз.";
+"InfoMsg_PasswordMismatch" = "Пароли не совпадают. Пожалуйста, введите одинаковые пароли.";
+
+"InfoMsg_DocumentPasswordSaved" = "Пароль для этого документа установлен.";
+"InfoMsg_DocumentPasswordRemoved" = "Теперь документ не защищен паролем.";
+"InfoMsg_RemoveDocumentPassword" = "Удалить пароль для документа";
+"InfoMsg_AddDocumentPassword" = "Создать пароль для документа";
+
+"Label_CurrentPassword" = "Текущий пароль";
+"Label_ExportToPDF" = "Экспорт в PDF";
+
+"Label_Labels" = "Подписи";
+"Label_ChartTitle" = "Заголовок диаграммы";
+"Label_DataRange" = "Диапазон данных";
+"Label_LegendEntries" = "Элементы легенды";
+"Label_Title" = "Заголовок";
+"Label_HorizontalLabels" = "Горизонтальные подписи";
+"Label_Range" = "Диапазон:";
+"Label_SeriesIn" = "Ряд из";
+"Label_Series" = "Ряд";
+"Label_Format" = "Формат";
+"Label_Chart" = "Диаграмма";
+"Label_Image" = "Изображение";
+
+
+"Label_TextBox" = "Текстовый блок";
+"Label_Picture" = "Рисунок";
+"Label_Duplicate" = "Дубликат";
+"Label_MoveUp" = "Подвинуть вверх";
+"Label_MoveDown" = "Подвинуть вниз";
+"Label_MoveLeft" = "Подвинуть влево";
+"Label_MoveRight" = "Подвинуть вправо";
+"Label_ChooseLayout" = "Выбрать макет";
+
+/* Up to 26 chars */
+"InfoTitle_AddTitle" = "Коснитесь дважды, чтобы добавить заголовок";
+
+"InfoTitle_AddSubtitle" = "Коснитесь дважды, чтобы добавить подзаголовок";
+"InfoTitle_AddText" = "Коснитесь дважды, чтобы добавить текст";
+"InfoTitle_PicturePlaceholder" = "Место для рисунка";
+
+"ErrMsg_UndoCmdCouldNotBeSaved" = "Команда не может быть сохранена в стек отмены";
+"ErrMsg_RedoFailed" = "Повторное выполнение не удалось, поскольку состояние не могло быть записано на диск";
+"ErrMsg_UndoFailed" = "Отмена не удалась, поскольку состояние не могло быть записано на диск";
+
+
+"Label_SeriesInfo" = "Информация о ряде";
+"Label_EditSeries" = "Изменить ряд";
+"Confirm_DeleteUnsupportedDrawObject" = "Удаление этого объекта не сможет быть отменено. Продолжить?";
+"Label_InvalidRange" = "Пожалуйста, укажите правильный диапазон ячеек.";
+"Label_InvalidRangeAndList" = "Значение должно быть представлено правильным диапазоном ячеек или списком, элементы которого разделены точкой с запятой.";
+"Label_InvalidSeriesValues" = "Значение должно быть представлено правильным диапазоном ячеек или списком значений.";
+"Label_GoToCellNotAvailable" = "Функция 'Перейти к ячейке' недоступна для этого листа.";
+"Label_FreezeNotAvailable" = "Функция 'Заморозить' недоступна для этого листа.";
+"Label_SortNotAvailable" = "Функция 'Сортировать' недоступна для этого листа.";
+"Label_ComplexRange" = "Сложный диапазон";
+"Label_ClearOptions" = "Очистить опции";
+"Label_ClearAll" = "Очистить все";
+"Label_ClearFormats" = "Очистить форматы";
+"Label_ClearContents" = "Очистить содержимое";
+"Label_RangePlaceholder" = "Диапазон";
+"Label_XlsSaveDrawingsNotSupported" = "Сохранение диаграмм и изображений в формате xls невозможно. Эти объекты не будут сохранены.";
+"Label_LabelsIPhone" = "Метки:";
+"Label_InvalidLinearRange" = "Пожалуйста, введите диапазон строк/столбцов или список значений с разделителями.";
+"Label_InvalidTitleRange" = "Заголовок должен быть представлен диапазоном ячеек/строк/столбцов или строкой.";
+"Label_InvalidSeriesNameRange" = "Название должны быть представлено диапазоном ячеек/строк/столбцов или строкой.";
+"Label_InvalidSeriesValuesRange" = "Значения должны быть представлены диапазоном ячеек/строк/столбцов или списком чисел с разделителями.";
+
+/*
+ NEW STRINGS AFTER VER 3.5
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Names" = "Имена";
+"Label_FunctionCategories" = "Категории функций";
+"Label_DefinedNames" = "Определенные имена";
+"Label_NamesInfo" = "Информация об имени";
+"Label_Range" = "Диапазон";
+"Label_EditNames" = "Редактировать имена";
+"Label_Scope" = "Область действия";
+"Label_Workbook" = "Книга";
+"Label_NoDefinedNames" = "Нет определенных имен";
+"Label_InvalidName" = "Это имя содержит недопустимые символы.";
+"Label_DuplicateName" = "Введенное имя уже существует. Пожалуйста, введите уникальное имя.";
+"ErrClass_Edit_Name" = "Не удалось отредактировать имя.";
+"Label_DuplicateNameWarning" = "Имя уже существует";
+"Label_InvalidNameWarning" = "Недопустимые символы";
+"Label_Move" = "Переместить";
+"InfoMsg_MoveSheetDescription" = "Чтобы переместить лист, нажмите и удерживайте вкладку листа.";
+
+"ErrMsg_CannotBeReplacedBySelfContents" = "Папка %@ не может быть заменена элементом, который она содержит.";
+"Confirm_DeleteRecentFiles" = "Вы уверены, что хотите удалить последние файлы?";
+
+
+/*
+ NEW STRINGS AFTER VER 3.5.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Table" = "Таблица";
+"Label_TableProperties" = "Свойства таблицы";
+"Label_InsertRowAfter" = "Вставить строку после";
+"Label_InsertRowBefore" = "Вставить строку перед";
+"Label_DeleteRow" = "Удалить строку";
+"Label_DeleteTable" = "Удалить таблицу";
+
+"Label_Export" = "Экспорт";
+"Label_ExportTo" = "Экспорт в";
+
+
+"Label_Filter" = "Фильтр";
+"Label_ClearFilter" = "Очистить фильтр";
+"Label_ReapplyFilter" = "Применить фильтр снова";
+"Label_ComparisonFilter" = "Сравнительный фильтр";
+"Label_Multichoice" = "Множественный выбор";
+"Label_AboveAverage" = "Выше среднего";
+"Label_BelowAverage" = "Ниже среднего";
+"Label_Top10" = "Топ-10";
+
+"Label_Equal" = "Равно";
+"Label_LessThan" = "Меньше чем";
+"Label_LessThanOrEqual" = "Меньше или равно";
+"Label_NotEqual" = "Не равно";
+"Label_GreaterThanEqual" = "Больше или равно";
+"Label_GreaterThan" = "Больше чем";
+"Label_Between" = "Между";
+
+"Label_Items" = "Элементы";
+"Label_Percent" = "Процент";
+"Label_Count" = "Счет";
+"Label_Value" = "Значение";
+"Label_And" = "И";
+"Label_Or" = "Или";
+"Label_None" = "Нет";
+"Label_Blanks" = "(Пустые)";
+"Label_ShowAll" = "(Показать все)";
+"Label_InvalidFilter" = "Неверный фильтр.";
+
+"Label_XlsSaveFiltersNotSupported" = "Сохранение фильтров в формате xls не поддерживается. Информация о фильтре не будет сохранена.";
+"Confirm_ClearUnsupportedFilters" = "Лист содержит неподдерживаемые фильтры. Хотите удалить эти фильтры и продолжить редактирование? Отменить это действие будет невозможно.";
+"ErrClass_Execute_Command" = "Невозможно выполнить команду.";
+"ErrExecute_EmptyRange" = "Выбранный диапазон пуст.";
+"ErrExecute_RangeWithinFilters" = "Выбранный диапазон содержит фильтры.";
+
+"Label_NewSlide" = "Новый слайд";
+"Label_TitleSubtitle" = "Заголовок и подзаголовок по центру";
+"Label_TitleText" = "Заголовок и текст";
+"Label_TitleTextText" = "Заголовок, текст слева, текст справа";
+"Label_TitleTable" = "Заголовок и таблица";
+"Label_TitleTextChart" = "Заголовок, текст слева, график справа";
+"Label_TitleChartText" = "Заголовок, график слева и текст справа";
+"Label_TitleDiagram" = "Заголовок и диаграмма";
+"Label_TitleChart" = "Заголовок и график";
+"Label_TitleTextClipArt" = "Заголовок, текст слева, иллюстрация справа";
+"Label_TitleClipArtText" = "Заголовок, иллюстрация слева, текст справа";
+"Label_TitleOnly" = "Только заголовок";
+"Label_Blank" = "Пустой";
+"Label_TitleTextObject" = "Заголовок, текст слева, объект справа";
+"Label_TitleObjectText" = "Заголовок, объект слева, текст справа";
+"Label_ObjectOnly" = "Только объект";
+"Label_TitleObject" = "Текст и объект";
+"Label_TitleTextMedia" = "Заголовок, текст слева, мультимедиа справа";
+"Label_TitleMediaText" = "Заголовок, мультимедиа слева, текст справа";
+"Label_TitleTopObjectBottomText" = "Заголовок, объект сверху, текст снизу";
+"Label_TitleTopTextBottomObject" = "Заголовок, текст сверху, объект снизу";
+"Label_TitleText2Objects" = "Заголовок, текст слева, два объекта справа";
+"Label_Title2ObjectsText" = "Заголовок, два объекта слева, текст справа";
+"Label_TitleTop2ObjectsBottomText" = "Заголовок, два объекта сверху, текст снизу";
+"Label_Title4Objects" = "Заголовок и четыре объекта";
+"Label_TitleVerticalText" ="Заголовок и вертикальный текст";
+"Label_TitleClipArtVerticalText" = "Заголовок, иллюстрация слева, вертикальный текст справа";
+"Label_VerticalTitleVerticalText" = "Вертикальный заголовок справа, вертикальный текст слева";
+"Label_VerticalTitleVerticalTextChart" = "Вертикальный заголовок справа, вертикальный текст сверху, график снизу";
+"Label_TitleObjectObject" = "Заголовок, объект слева, объект справа";
+"Label_TitleObject2Objects" = "Заголовок, один объект слева, два объекта справа";
+"Label_Title2ObjectsObject" = "Заголовок, два объекта слева, один объект справа";
+"Label_CustomLayout" = "Настраиваемый макет";
+"Label_SectionHeaderTitleSubtitle" = "Название раздела: текст заголовка и подзаголовка";
+"Label_Title2Objects" = "Заголовок и два объекта с текстом";
+"Label_TitleObjectCaptionText" = "Заголовок, объект и подпись";
+"Label_TitlePictureCaptionText" = "Заголовок, изображение и подпись";
+"Label_SlideNumberNotes" = "Примечания к слайду %d";
+
+"Label_OpenHyperlink" = "Открыть гиперссылку";
+"Label_CopyHyperlink" = "Копировать гиперссылку";
+"Label_Hyperlink" = "Гиперссылка";
+"Label_RemoveHyperlink" = "Удалить гиперссылку";
+"Label_EnterURL" = "Ввести адрес URL";
+"Label_EnterEmail" = "Ввести адрес эл. почты";
+"Label_EnterSubject" = "Ввести тему";
+"Label_URL" = "URL";
+"Label_Slide" = "Слайд";
+"Label_SetHyperlinkAction" = "Установить переход по гиперссылке при касании";
+"Label_SlideNumber" = "Слайд %d";
+"Label_NextSlide" = "Следующий слайд";
+"Label_PreviousSlide" = "Предыдущий слайд";
+"Label_FirstSlide" = "Первый слайд";
+"Label_LastSlide" = "Последний слайд";
+
+/* Up to 32 chars */
+"Label_EndSlideshow" = "Завершить слайд-шоу";
+
+"Label_NoAction" = "Никаких действий";
+"Label_Unsupported" = "Не поддерживается";
+
+
+"Label_Shape" = "Фигура";
+"Label_Shapes" = "Фигуры";
+"Label_Lines" = "Линии";
+"Label_Rectangles" = "Прямоугольники";
+"Label_BasicShapes" = "Основные фигуры";
+"Label_BlockArrows" = "Стрелки";
+"Label_EquationShapes" = "Фигуры для формул";
+"Label_FlowchartShapes" = "Фигуры блок-схемы";
+"Label_StarsAndBanners" = "Звезды и баннеры";
+"Label_Callouts" = "Выноски";
+"Label_ActionButtons" = "Управляющие кнопки";
+"Label_Others" = "Другие";
+"Label_BringToFront" = "На передний план";
+"Label_SendToBack" = "На задний план";
+"Label_BringForward" = "Переместить вперед";
+"Label_SendBackward" = "Переместить назад";
+
+
+"Label_GoPremiumDetails" = "Получить максимальные возможности OfficeSuite с премиум-версией OfficeSuite";
+"Label_HideGoPremium" = "Скрыть переход на премиум-версию";
+"Label_ShowGoPremium" = "Показывать переход на премиум-версию";
+"Label_RestorePurchases" = "Восстановить покупки";
+
+"Label_BuyMonthly" = "Ежемесячно %@/месяц";
+"Label_BuyYearly" = "Ежегодно %@/год (%@/месяц)";
+
+"Label_Feature1" = "Редактирование и создание документов Word";
+"Label_Feature2" = "Редактирование и создание документов Excel";
+"Label_Feature3" = "Редактирование и создание документов PowerPoint";
+"Label_Feature4" = "Просмотр PDF-файлов";
+"Label_Feature5" = "Поддержка облачных технологий и общий доступ к документам";
+"Label_Feature6" = "Печать";
+"Label_Feature7" = "Защита паролем";
+"Label_Feature8" = "Экспорт текстового документа в PDF";
+"Label_Feature9" = "Экспорт PDF-файлов в Word, Excel и ePub";
+"Label_Feature10" = "Проверка правописания";
+"Label_Feature11" = "Сохранение документов в PDF без потери форматирования, таблиц и графики";
+"Label_Feature12" = "Установка фильтров в Excel";
+"Label_Feature13" = "Отсутствие рекламы";
+
+"Label_GoPremFeature" = "Возможность";
+"Label_GoPremFree" = "Бесплатно";
+"Label_GoPremPro" = "Про";
+"Label_GoPremPremium" = "Премиум-версия";
+"Label_Premium" = "Премиум-версия";
+"Label_GoPremiumBenefits" = "Преимущества премиум-пакета";
+
+"InfoTitle_PremiumFeature" = "Премиум-возможности";
+"InfoMsg_PremiumFeature" = "Эта возможность доступна только в премиум-версии.";
+
+"Label_FreeEdition" = "Бесплатная версия";
+"Label_PremiumEdition" = "Премиум-версия";
+
+"Label_TopN" = "Топ-N";
+"Label_ShowRowsWhere" = "Показать строки, где значение равно:";
+"Label_TopNAutoFilter" = "Автофильтр Топ-N";
+"Label_ShowTop10" = "Показать:";
+"Label_FilterOn" = "Включить фильтры";
+"Label_FilterOff" = "Выключить фильтры";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_CopyTo" = "Скопировать в...";
+"Label_MoveTo" = "Переместить в...";
+"InfoMsg_SelectOnlyOneFileForDocPicker" = "Пожалуйста, выберите только один файл.";
+
+"Label_WebDAV_FailedLogIn_ErrorCode" = "Не удалось войти в систему!\nКод ошибки: %d.\nПожалуйста, попробуйте снова, используя другой HTTP-адрес, логин или пароль.";
+
+"Label_SheetOrientation" = "Ориентация листа:";
+"Label_Landscape" = "Альбомная";
+"Label_Portrait" = "Книжная";
+"Label_SheetsToPrint" = "Печатать листы:";
+"Label_ActiveSheet" = "Активный лист";
+"Label_MultipleSheets" = "Несколько листов";
+"Label_AllSheets" = "Всю книгу";
+"Label_Proceed" = "Продолжить";
+
+"Label_FiltersNotAvailable" = "Фильтры недоступны для этого листа.";
+"ErrMsg_InsertImageError" = "Поврежденное или неподдерживаемое изображение";
+"FUNCCAT_Compatibility" = "Совместимость";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"InfoTitle_WouldYouRecommend" = "Помогите сделать\nOfficeSuite лучше!";
+"InfoMsg_WouldYouRecommend" = "Порекомендуйте приложение с помощью быстрого\nрейтинга App Store или свяжитесь с нами напрямую, чтобы поделиться своим мнением.";
+"Label_RateDialogRate" = "Оценить OfficeSuite";
+"Label_RateDialogSendFeedback" = "Отправить отзыв";
+"Label_RateDialogDismiss" = "Возможно, позже";
+"InfoTitle_FeedbackMailSubject" = "Отзыв пользователя OfficeSuite о версии %@";
+"InfoTitle_CannotOpenAppStore" = "App Store недоступен";
+"InfoMsg_CannotOpenAppStoreForRate" = "Невозможно открыть страницу с рейтингами, поскольку App Store недоступен";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Files" = "Файлы";
+"Label_File" = "Файл";
+"Label_View" = "Просмотреть";
+"Label_Go_To" = "Перейти к";
+"Label_WrapText" = "Обтекание текстом";
+"Label_MergeAndCenter" = "Объединить и выровнять по центру";
+"Label_AutoSum" = "Автосумма";
+
+"Label_New" = "Новый";
+"Label_Templates" = "Шаблоны";
+"Label_OpenRecent" = "Открыть последний";
+"Label_Send" = "Отправить";
+"Label_Protect" = "Защитить";
+"Label_PageSetup" = "Параметры страницы";
+
+"Label_CameraPicture" = "Изображение с камеры";
+"Label_RowAbove" = "Строка выше";
+"Label_ColumnLeft" = "Столбец слева";
+"Label_ChartInANewSheet" = "График на новом листе";
+
+"Label_NumberFormatting" = "Форматирование чисел";
+"Label_AlignmentInCell" = "Выравнивание в ячейке";
+"Label_CellFont" = "Шрифт в ячейке";
+"Label_CellBorder" = "Границы ячеек";
+"Label_HideRows" = "Скрыть строки";
+"Label_UnhideRows" = "Показать строки";
+"Label_HideColumns" = "Скрыть столбцы";
+"Label_UnhideColumns" = "Показать столбцы";
+"Label_AutoFitColumns" = "Автоподбор ширины столбцов";
+"Label_RenameSheet" = "Переименовать лист";
+"Label_EditHyperlink" = "Редактировать гиперссылку";
+
+"Label_InsertFunction" = "Вставить функцию";
+"Label_NameManager" = "Диспетчер имен";
+"Label_Reference" = "Ссылка";
+
+"Label_CellContent" = "Содержимое ячейки";
+"Label_ShowGridlines" = "Показать сетку";
+"Label_StartSelection" = "Начать выбор";
+"Label_SelectAll" = "Выбрать все";
+"Label_FindReplace" = "Найти и заменить";
+
+"Label_PageBreak" = "Разрыв страницы";
+"Label_Paragraph" = "Абзац";
+"Label_SelectAll" = "Выбрать все";
+"Label_FormattingSymbols" = "Символы форматирования";
+"Label_Bullets" = "Маркеры";
+"Label_Numbering" = "Нумерация";
+
+/* Up to 18 chars */
+"Label_MultilevelList" = "Многоярусный лист";
+
+"Label_IncreaseIndent" = "Увеличить отступ";
+"Label_DecreaseIndent" = "Уменьшить отступ";
+"Label_Margins" = "Поля";
+"Label_Orientation" = "Ориентация";
+"Label_SectionBreaks" = "Разрыв раздела";
+"Label_PageBreaks" = "Разрыв страницы";
+"Label_GoToTop" = "Перейти наверх";
+"Label_GoToBottom" = "Перейти вниз";
+"Label_GoToBookmark" = "Перейти по закладке";
+"Label_DeleteBookmark" = "Удалить закладку";
+"Label_FullScreen" = "Во весь экран";
+"Label_PasteStyle" = "Вставить\nстиль";
+"Label_FormatPainter" = "Формат\nпо образцу";
+"Label_ChangeStyle" = "Изменить стиль";
+"Label_InsertAbove" = "Вставить над";
+"Label_InsertBelow" = "Вставить под";
+"Label_InsertToTheLeft" = "Вставить слева";
+"Label_InsertToTheRight" = "Вставить справа";
+"Label_DeleteColumn" = "Удалить столбец";
+"Label_DeleteCells" = "Удалить ячейки";
+
+"ErrClass_SortString" = "Сортировка не удалась. ";
+"Err_CellsHasMergesString" = "Не удалось изменить часть объдиненных ячеек.";
+
+
+"Label_RedeemActivationCode" = "Использовать код активации";
+"Label_EnterRedeemActivationCode" = "Ввести код активации";
+
+"InfoTitle_RedeemActivationSuccess" = "Успешная активация";
+"ErrTitle_RedeemActivationFailed" = "Активация не удалась";
+"ErrMsg_RedeemActivationInvalidKey" = "Неверный ключ активации!";
+"ErrMsg_RedeemActivationNoInternet" = "Нет интернет-соединения!";
+"ErrMsg_RedeemActivationSystemError" = "Системная ошибка!";
+
+"InfoMsg_RedeemActivationStatusRedeemed" = "Ключ использован успешно!";
+"ErrMsg_RedeemActivationStatusKeyNotFound" = "Ключ не найден!";
+"ErrMsg_RedeemActivationStatusHashNotFound" = "Не найдено устройство для указанного ключа!";
+"ErrMsg_RedeemActivationStatusServerError" = "Ошибка сервера!";
+"ErrMsg_RedeemActivationStatusNotSpecial" = "Устройство не принято для этого ключа!";
+"ErrMsg_RedeemActivationStatusKeyExpired" = "Ключ устарел!";
+"ErrMsg_RedeemActivationStatusLimitReached" = "Достигнуты лимиты ключа!";
+
+"Label_BuyOneTime" = "Полная лицензия %@";
+"ErrMsg_PaymentFailed" = "К сожалению, оплата не удалась.";
+
+/* Up to 22 chars */
+"Label_RecentFiles" = "Последние файлы";
+"WarningMsg_DeleteRecentItem" = "Вы уверены, что хотите удалить этот элемент из последних файлов?";
+"WarningMsg_DeleteRecentItems" = "Вы уверены, что хотите удалить эти элементы из последних файлов?";
+"Label_ExternalLocation" = "Внешнее расположение";
+"Label_OpenContainingFolder" = "Открыть папку с этим файлом";
+"Label_NoRecentFiles" = "Нет последних файлов";
+"Label_Network" = "Сеть";
+
+/* Up to 20 chars */
+"Label_AddAccount" = "Добавить аккаунт";
+
+"Label_iCloudDrive" = "iCloud Drive";
+"Label_CopyFromICloudDrive" = "Копировать с iCloud Drive";
+"Label_CopyToICloudDrive" = "Копировать на iCloud Drive";
+"Label_MoveToICloudDrive" = "Переместить на iCloud Drive";
+"Label_iCloud" = "iCloud";
+"Label_LocalStorage" = "Лок. хранилище";
+
+"Label_FitPage" = "Поместить на страницу";
+"Label_100PercentZoom" = "Увеличение 100%";
+"Label_GoToSlide" = "Перейти к слайду";
+"Label_DuplicateSlide" = "Дублировать слайд";
+"Label_ReorderSlides" = "Изменить порядок слайдов";
+"Label_DeleteSlide" = "Удалить слайд";
+"Label_StartSlideShow" = "Начать показ слайдов";
+"Label_StartFromCurrent" = "Начать с текущего";
+"Label_AutomaticAdvance" = "Автоматическое перелистывание";
+"Label_Find" = "Найти";
+
+"Label_ExportToWord" = "Преобразовать в Word";
+"Label_ExportToExcel" = "Преобразовать в Excel";
+"Label_ExportToEPub" = "Преобразовать в ePub";
+
+"Label_ZoomFitPage" = "Поместить";
+"Label_Zoom25" = "25 %";
+
+"Label_Note" = "Примечание";
+"Label_Underline" = "Подчеркнуть";
+"Label_Strikethrough" = "Зачеркнуть";
+"Label_Text" = "Текст";
+
+"Label_Content" = "Содержимое";
+
+"Err_ReloadFailed" = "Не удалось перезагрузить документ после сохранения.";
+"Label_SaveChangesBeforeExport" = "Несохраненные изменения не будут экспортированы. Хотите сохранить их сейчас?";
+"Err_PdfConversion_ServerError" = "Удаленному серверу не удалось экспортировать.";
+"Err_PdfPasswordChangeNotPermitted" = "У вас нет разрешения на изменение пользовательского пароля к этому документу.";
+"Err_PdfSecuritySettingsChangeFailed" = "Изменение установок безопасности не удалось.";
+"Err_PdfConversion_PasswordProtectedFilesNotSupported" = "Этот файл нельзя экспортировать, так как он защищен паролем. Пожалуйста, отмените защиту паролем, если хотите продолжить.";
+
+"Label_Exporting" = "Экспорт...";
+"Label_PdfConversionSuccessful" = "Файл успешно экспортирован.";
+"Label_PdfPasswordChangeRequiresSaving" = "Для изменения пароля необходимо сначала сохранить файл. После сохранения у вас не будет возможности отменять и повторно применять изменения, сделанные перед сохранением.";
+
+/* Up to 10 chars */
+"Label_Review" = "Обзор";
+
+"Label_Annotation" = "Примечания";
+
+"Label_Photos" = "Фото";
+"Label_ClearStyle" = "Очистить стиль";
+"Label_Normal" = "Нормальный";
+"Label_Wide" = "Широкий";
+"Label_Narrow" = "Узкий";
+"Label_Moderate" = "Умеренный";
+
+"Label_a3" = "A3";
+"Label_a4" = "A4";
+"Label_a5" = "A5";
+"Label_b4" = "B4";
+"Label_b5" = "B5";
+"Label_letter" = "Letter";
+"Label_tabloid" = "Tabloid";
+"Label_ledger" = "Ledger";
+"Label_legal" = "Legal";
+"Label_statement" = "Statement";
+"Label_executive" = "Executive";
+"Label_folio" = "Folio";
+"Label_quarto" = "Quarto";
+
+"Label_Page" = "Страница";
+"Label_Continuous" = "Непрерывная";
+"Label_EvenPage" = "Четные страницы";
+"Label_OddPage" = "Нечетные страницы";
+"Label_Column" = "Столбец";
+"Label_TextWrapping" = "Обтекание текста";
+
+"Label_Zoom200" = "200 %";
+"Label_Zoom150" = "150 %";
+"Label_Zoom100" = "100 %";
+"Label_Zoom75" = "75 %";
+"Label_Zoom50" = "50 %";
+
+"Label_NoItems" = "Нет элементов";
+"Label_NoBookmarks" = "Нет закладок";
+"Label_EnterBookmarkName" = "Введите название закладки";
+"Label_InsertBookmark" = "Вставить закладку";
+"Label_SelectBookmark" = "Выбрать закладку";
+"Label_FormatFont" = "Форматирование шрифта";
+
+/* Up to 26 chars */
+"Label_FormatParagraph" = "Форматирование абзаца";
+
+"Label_NONE" = "НЕТ";
+"Label_CircleBullets" = "Круглые маркеры";
+"Label_SquareBullets" = "Квадратные маркеры";
+
+"Label_NumbersWithDot" = "Цифры с точкой";
+"Label_NumbersWithBracket" = "Цифры со скобкой";
+"Label_LowerLettersWithDot" = "Строчные буквы с точкой";
+"Label_LowerLettersWithBracket" = "Строчные буквы со скобкой";
+"Label_LowerRomanNumbersWithDot" = "Строчные римские цифры с точкой";
+"Label_UpperLettersWithDot" = "Заглавные буквы с точкой";
+"Label_UpperRomanNumbersWithDot" = "Заглавные римские цифры с точкой";
+"Label_MultilevelListWithNumbers" = "Многоуровневый список с цифрами";
+"Label_MultilevelListWithNumbersAndLetters" = "Многоуровневый список с цифрами и буквами";
+
+"Label_1_0" = "1.0";
+"Label_1_15" = "1.15";
+"Label_1_5" = "1.5";
+"Label_2_0" = "2.0";
+"Label_2_5" = "2.5";
+"Label_3_0" = "3.0";
+
+"Label_RevealFormating" = "Показать форматирование";
+"Label_DenyMessagePhotos" = "Это приложение не имеет доступа к вашим фото и видео.";
+"Label_DenyMessageInstructions" = "Вы можете разрешить доступ в настройках конфиденциальности.";
+"Label_DenyNoAlbumPhotos" = "Нет фото или видео";
+"Label_DenyNoAlbumPhotosMessage" = "Вы можете снять фото или видео с помощью камеры либо синхронизировать фото или видео через iTunes.";
+
+"Button_Paper" = "Бумага";
+"Button_Margins" = "Поля";
+"Label_Custom" = "Настраиваемый";
+"Label_Width" = "Ширина";
+"Label_Height" = "Высота";
+"Label_Left" = "Слева";
+"Label_Right" = "Справа";
+"Label_Insert" = "Вставить";
+"Label_Layout" = "Макет";
+"Label_Styles" = "Стили";
+"Label_PageMargins" = "Поля страницы";
+"Label_PageOrientation" = "Ориентация страницы";
+"Label_PageSize" = "Размер страницы";
+"Label_Bookmarks" = "Закладки";
+"Label_Subrscript" = "Подстрочный";
+"Label_Superrscript" = "Надстрочный";
+"Label_DocumentIndex" = "Предметный указатель";
+"Label_Alignment" = "Выравнивание";
+"Label_Indents" = "Отступы";
+"Label_Spacing" = "Интервалы";
+"Label_Before" = "До";
+"Label_After" = "После";
+"Label_FirstLine" = "Первая строка";
+"Label_Units" = "Единицы";
+"Label_Millimeters" = "Миллиметры";
+"Label_Centimeters" = "Сантиметры";
+"Label_Inches" = "Дюймы";
+"Label_Points" = "Точки";
+"Label_InchesTextFormat" = "%@\"";
+"Label_CentimetersTextFormat" = "%@ см";
+"Label_MillimetersTextFormat" = "%@ мм";
+"Label_PointsTextFormat" = "%@ тчк";
+"Button_TableStyleStylesTab" = "Стили таблицы";
+"Button_TableStyleSettingsTab" = "Настройки";
+"Label_TableStyleCustomStyles" = "Настраиваемые стили";
+"Label_TableStyleBuiltInStyles" = "Встроенные стили";
+"Label_TableStyleHeaderRow" = "Строка заголовка";
+"Label_TableStyleTotalRow" = "Строка итогов";
+"Label_TableStyleFirstColumn" = "Первый столбец";
+"Label_TableStyleLastColumn" = "Последний столбец";
+"Label_TableStyleBandedRows" = "Связанные строки";
+"Label_TableStyleBandedColumns" = "Связанные столбцы";
+"Label_Tab" = "Вкладка";
+"Label_LineBreak" = "Перенос строки";
+
+"Label_MSCaptureCameraUsePhoto" = "Использовать фото";
+"Label_MSCaptureCameraRetake" = "Переснять";
+
+"Label_Moments" = "Моменты";
+
+"Label_CameraDenyAccessTitle" = "Нет доступа к камере";
+"Label_CameraDenyAccessMessage" = "Чтобы разрешить доступ к камере, перейдите в Настройки > Приватность > Фотографии и включите доступ OfficeSuite.";
+
+/* Up to 24 chars */
+"Label_SlideShowSettings" = "Настройки слайд-шоу";
+
+"Label_NewName" = "Новое имя:";
+"ErrMsg_LongName" = "Слишком длинное имя.";
+"ErrMsg_SheetNameEmpty" = "Название листа не может быть пустым.";
+"WarningMessage_RtfWillLoseFormatting" = "При сохранении файла в RTF форматирование может быть частично потеряно. Продолжить?";
+"WarningMessage_TxtWillLoseFormatting" = "Сохранение в виде текстового файла может привести к потере всего форматирования, изображений и объектов в вашем файле. Продолжить?";
+
+/* Up to 16 chars */
+"Label_BuyMoreFonts" = "Купить шрифты";
+"Label_InstalledFonts" = "Установленные шрифты";
+
+"Label_Breaks" = "Разрывы";
+
+"Label_GoPremium" = "Премиум апгрейд";
+"Label_FontPackDescription1" = "Подборка самых популярных шрифтов для OfficeSuite. Просматривайте ваши документы такими, какими они должны выглядеть.";
+"Label_FontPackDescription2" = "Содержит 12 монотипных шрифтов, таких как Calibri, Tahoma и Wingdings.";
+"Label_FontPackDescription3" = "Также содержит 60 шрифтов OFL, таких как Garamond, Modern, Open Sans и Times Gothic.";
+
+"Label_FontPack" = "Пакет шрифтов";
+"Label_FontPackDescription" = "Подборка из более 50 шрифтов, таких как Calibri, Tahoma и Wingdings, для OfficeSuite.";
+"Label_EditPdf" = "Редактировать документы PDF";
+"Label_EditPdfDescription" = "Преобразовать ваши PDF-файлы в полностью редактируемые файлы формата Word/Excel";
+"Label_SaveAsPdf" = "Сохранить как PDF";
+"Label_SaveAsPdfDescription" = "Сохранить ваши документы как PDF без потери форматирования";
+"Label_AnnotatePdf" = "Комментировать ваши PDF-файлы";
+"Label_AnnotatePdfDescription" = "Делать пометки и комментарии при рецензировании документов";
+"Label_AddCameraPhoto" = "Добавить снятое на камеру фото";
+"Label_AddCameraPhotoDescription" = "Включить изображения в ваши документы";
+"Label_ProtectYourDocs" = "Защитить ваши документы";
+"Label_ProtectYourDocsDescription" = "Защитить паролем отдельные файлы или задать пароль для всех файлов OfficeSuite";
+"Label_AdFree" = "Без рекламы";
+"Label_AdFreeDescription" = "Ничего не отвлекает от работы";
+
+"Label_DoubleUnderline" = "Двойное подчеркивание";
+
+"Label_IncreaseFont" = "Увеличить шрифт";
+"Label_DecreaseFont" = "Уменьшить шрифт";
+
+"Label_HorizontalAlignLeft" = "Горизонтальное выравнивание по левому краю";
+"Label_HorizontalAlignRight" = "Горизонтальное выравнивание по правому краю";
+"Label_HorizontalAlignCenter" = "Горизонтальное выравнивание по центру";
+
+"Label_VerticalAlignBottom" = "Вертикальное выравнивание по нижнему краю";
+"Label_VerticalAlignMiddle" = "Вертикальное выравнивание по центру";
+"Label_VerticalAlignTop" = "Вертикальное выравнивание по верхнему краю";
+
+"Label_SelectTextColor" = "Выбрать цвет текста";
+"Label_SelectTextBgColor" = "Выбрать цвет ячейки";
+
+/* Up to 8 chars (these two strings are part of the phrase "Buy the Font Pack")  */
+"Label_BuyThe" = "Купить";
+"Label_Pack" = "Пакет";
+
+"Label_OneTimePurchase" = "Одноразовая покупка";
+
+"Label_FontPackMonotypeTitle" = "Содержит следующие 12 монотипных шрифтов:";
+"Label_FontPackMonotypeDesc" = "Arial Narrow, Calibri, Cambria, Cambria Math, Comic Sans Ms, Monotype Sorts, Tahoma, Palace Script MT, Webdings, Wingdings, Wingdings 2, Wingdings 3";
+
+
+"Excel_func_ABS" = "Возвращает абсолютную величину числа";
+"Excel_func_ACCRINT" = "Возвращает накопленный процент по ценным бумагам с периодической выплатой процентов";
+"Excel_func_ACCRINTM" = "Возвращает накопленный процент по ценным бумагам, процент по которым выплачивается в срок погашения";
+"Excel_func_ACOS" = "Возвращает арккосинус числа";
+"Excel_func_ACOSH" = "Возвращает гиперболический арккосинус числа";
+"Excel_func_ADDRESS" = "Возвращает ссылку на отдельную ячейку листа в виде текста";
+"Excel_func_AMORDEGRC" = "Возвращает величину амортизации для каждого учетного периода, используя коэффициент амортизации";
+"Excel_func_AMORLINC" = "Возвращает величину амортизации для каждого учетного периода";
+"Excel_func_AND" = "Возвращает значение TRUE (ИСТИНА), если все аргументы равны TRUE (ИСТИНА)";
+"Excel_func_AREAS" = "Возвращает количество областей в ссылке";
+"Excel_func_ASC" = "Для языков с двухбайтовыми наборами знаков (например, катакана) преобразует полноширинные (двухбайтовые) знаки в полуширинные (однобайтовые)";
+"Excel_func_ASIN" = "Возвращает арксинус числа";
+"Excel_func_ASINH" = "Возвращает гиперболический арксинус числа";
+"Excel_func_ATAN" = "Возвращает арктангенс числа";
+"Excel_func_ATAN2" = "Возвращает арктангенс, вычисляемый по координатам x и y";
+"Excel_func_ATANH" = "Возвращает гиперболический арктангенс числа";
+"Excel_func_AVEDEV" = "Возвращает среднее абсолютных значений отклонений точек данных от среднего";
+"Excel_func_AVERAGE" = "Возвращает среднее по аргументам";
+"Excel_func_AVERAGEA" = "Возвращает среднее арифметическое аргументов, включая числа, текст и логические значения";
+"Excel_func_AVERAGEIF" = "Возвращает среднее значение (среднее арифметическое) всех ячеек в диапазоне, которые удовлетворяют условию";
+"Excel_func_AVERAGEIFS" = "Возвращает среднее значение (среднее арифметическое) всех ячеек, которые удовлетворяют нескольким условиям";
+"Excel_func_BAHTTEXT" = "Преобразует число в текст, используя денежный формат ? (БАТ)";
+"Excel_func_BESSELI" = "Возвращает модифицированную функцию Бесселя In(x)";
+"Excel_func_BESSELJ" = "Возвращает функцию Бесселя Jn(x)";
+"Excel_func_BESSELK" = "Возвращает модифицированную функцию Бесселя Kn(x)";
+"Excel_func_BESSELY" = "Возвращает функцию Бесселя Yn(x)";
+"Excel_func_BETADIST" = "Возвращает выборочную функцию распределения для бета-распределения";
+"Excel_func_BETAINV" = "Возвращает обратную выборочную функцию распределения для указанного бета-распределения";
+"Excel_func_BIN2DEC" = "Преобразует двоичное число в десятичное";
+"Excel_func_BIN2HEX" = "Преобразует двоичное число в шестнадцатеричное";
+"Excel_func_BIN2OCT" = "Преобразует двоичное число в восьмеричное";
+"Excel_func_BINOMDIST" = "Возвращает вероятность по биномиальному распределению для отдельного члена";
+"Excel_func_CALL" = "Вызывает процедуру из библиотеки динамической компоновки (DLL) или кодового ресурса";
+"Excel_func_CEILING" = "Округляет число до ближайшего целого или до ближайшего значимого кратного";
+"Excel_func_CELL" = "Возвращает сведения о формате, расположении или содержимом ячейки";
+"Excel_func_CHAR" = "Возвращает символ с заданным кодом";
+"Excel_func_CHIDIST" = "Возвращает одностороннюю вероятность по распределению хи-квадрат";
+"Excel_func_CHIINV" = "Возвращает значение, обратное к односторонней вероятности распределения хи-квадрат";
+"Excel_func_CHITEST" = "Возвращает тест на независимость";
+"Excel_func_CHOOSE" = "Выбирает значение из списка значений";
+"Excel_func_CLEAN" = "Удаляет все нераспечатываемые знаки из текста";
+"Excel_func_CODE" = "Возвращает числовой код первого символа в текстовой строке";
+"Excel_func_COLUMN" = "Возвращает номер столбца, определяемого ссылкой";
+"Excel_func_COLUMNS" = "Возвращает количество столбцов в ссылке";
+"Excel_func_COMBIN" = "Возвращает количество комбинаций для заданного числа объектов";
+"Excel_func_COMPLEX" = "Преобразует коэффициенты при вещественной и мнимой частях комплексного числа в комплексное число";
+"Excel_func_CONCATENATE" = "Объединяет несколько текстовых элементов в один";
+"Excel_func_CONFIDENCE" = "Возвращает доверительный интервал для среднего по генеральной совокупности";
+"Excel_func_CONVERT" = "Преобразует значение из одной системы мер в другую";
+"Excel_func_CORREL" = "Возвращает коэффициент корреляции между двумя наборами данных";
+"Excel_func_COS" = "Возвращает косинус числа";
+"Excel_func_COSH" = "Возвращает гиперболический косинус числа";
+"Excel_func_COUNT" = "Подсчитывает количество чисел в списке аргументов";
+"Excel_func_COUNTA" = "Подсчитывает количество значений в списке аргументов";
+"Excel_func_COUNTBLANK" = "Подсчитывает количество пустых ячеек в пределах диапазона";
+"Excel_func_COUNTIF" = "Подсчитывает количество ячеек в диапазоне, удовлетворяющих заданному условию";
+"Excel_func_COUNTIFS" = "Подсчитывает количество ячеек внутри диапазона, удовлетворяющих нескольким условиям";
+"Excel_func_COUPDAYBS" = "Возвращает количество дней от начала действия купона до даты соглашения";
+"Excel_func_COUPDAYS" = "Возвращает количество дней в периоде купона, который содержит дату расчета";
+"Excel_func_COUPDAYSNC" = "Возвращает количество от даты расчета до срока следующего купона";
+"Excel_func_COUPNCD" = "Возвращает порядковый номер даты следующего купона после даты соглашения";
+"Excel_func_COUPNUM" = "Возвращает количество купонов между датой соглашения и сроком вступления в силу";
+"Excel_func_COUPPCD" = "Возвращает порядковый номер даты предыдущего купона до даты соглашения";
+"Excel_func_COVAR" = "Возвращает ковариацию, среднее произведений парных отклонений";
+"Excel_func_CRITBINOM" = "Возвращает наименьшее значение, для которого выборочная функция распределения для биномиального распределения меньше заданного значения или равна ему";
+"Excel_func_CUMIPMT" = "Возвращает накопительную величину процентов, выплачиваемых по займу в промежутке между двумя периодами выплат";
+"Excel_func_CUMPRINC" = "Возвращает накопительную сумму, выплачиваемую в погашение основной суммы займа в промежутке между двумя периодами";
+"Excel_func_DATE" = "Возвращает порядковое число конкретной даты";
+"Excel_func_DATEVALUE" = "Преобразует дату, представленную в текстовом виде, в порядковое число";
+"Excel_func_DAVERAGE" = "Возвращает среднее значение выбранных записей базы данных";
+"Excel_func_DAY" = "Преобразует порядковое число в день месяца";
+"Excel_func_DAYS360" = "Вычисляет количество дней между двумя датами на основе 360-дневного года";
+"Excel_func_DB" = "Возвращает величину амортизации актива для заданного периода, рассчитанную методом фиксированного уменьшения остатка";
+"Excel_func_DCOUNT" = "Подсчитывает количество числовых ячеек в базе данных";
+"Excel_func_DCOUNTA" = "Подсчитывает количество непустых ячеек в базе данных";
+"Excel_func_DDB" = "Возвращает величину амортизации актива за данный период, используя метод двойного уменьшения остатка или иной явно указанный метод";
+"Excel_func_DEC2BIN" = "Преобразует десятичное число в двоичное";
+"Excel_func_DEC2HEX" = "Преобразует десятичное число в шестнадцатеричное";
+"Excel_func_DEC2OCT" = "Преобразует десятичное число в восьмеричное";
+"Excel_func_DEGREES" = "Преобразует радианы в градусы";
+"Excel_func_DELTA" = "Проверяет равенство двух значений";
+"Excel_func_DEVSQ" = "Возвращает сумму квадратов отклонений";
+"Excel_func_DGET" = "Извлекает из базы данных одну запись, удовлетворяющую заданному условию";
+"Excel_func_DISC" = "Возвращает ставку дисконтирования для ценных бумаг";
+"Excel_func_DMAX" = "Возвращает максимальное значение среди выделенных записей базы данных";
+"Excel_func_DMIN" = "Возвращает минимальное значение среди выделенных записей базы данных";
+"Excel_func_DOLLAR" = "Преобразует число в текст, используя денежный формат рубля";
+"Excel_func_DOLLARDE" = "Преобразует цену в рублях, выраженную в виде дроби, в цену в рублях, выраженную десятичным числом";
+"Excel_func_DOLLARFR" = "Преобразует цену в рублях, выраженную десятичным числом, в цену в рублях, выраженную в виде дроби";
+"Excel_func_DPRODUCT" = "Перемножает значения определенного поля в записях базы данных, удовлетворяющих условию";
+"Excel_func_DSTDEV" = "Оценивает стандартное отклонение по выборке из выделенной части базы данных";
+"Excel_func_DSTDEVP" = "Вычисляет стандартное отклонение по генеральной совокупности из выделенной части базы данных";
+"Excel_func_DSUM" = "Суммирует числа в поле для записей базы данных, удовлетворяющих условию";
+"Excel_func_DURATION" = "Возвращает продолжительность Макалея для ценных бумаг, по которым выплачивается периодический процент";
+"Excel_func_DVAR" = "Оценивает дисперсию по выборке из выделенной части базы данных";
+"Excel_func_DVARP" = "Вычисляет дисперсию по генеральной совокупности из выделенной части базы данных";
+"Excel_func_EDATE" = "Возвращает порядковый номер даты, отстоящей на заданное число месяцев вперед или назад от заданной даты";
+"Excel_func_EFFECT" = "Возвращает фактическую (эффективную) годовую процентную ставку";
+"Excel_func_EOMONTH" = "Возвращает порядковый номер последнего дня месяца, отстоящего на заданное число месяцев вперед или назад от заданной даты";
+"Excel_func_ERF" = "Возвращает функцию ошибки";
+"Excel_func_ERFC" = "Возвращает дополнительную функцию ошибки";
+"Excel_func_ERROR_TYPE" = "Возвращает число, соответствующее типу ошибки";
+"Excel_func_EUROCONVERT" = "Преобразует число в значение в единицах евро, преобразует значения в евро в значение в национальной валюте стран, использующих евро, или преобразует число из одной национальной валюты в другую, используя в качестве промежуточного результата значение в евро (триангуляция)";
+"Excel_func_EVEN" = "Округляет число до ближайшего четного целого";
+"Excel_func_EXACT" = "Проверяет на идентичность два текстовых значения";
+"Excel_func_EXP" = "Возвращает e в степени заданного числа";
+"Excel_func_EXPONDIST" = "Возвращает экспоненциальное распределение";
+"Excel_func_FACT" = "Возвращает факториал числа";
+"Excel_func_FACTDOUBLE" = "Возвращает двойной факториал числа";
+"Excel_func_FALSE" = "Возвращает логическое значение FALSE (ЛОЖЬ)";
+"Excel_func_FDIST" = "Возвращает F-распределение вероятности";
+"Excel_func_FIND" = "Находит текстовой значение внутри другого текстового значения (с учетом регистра)";
+"Excel_func_FINV" = "Возвращает обратное значение для F-распределения вероятностей";
+"Excel_func_FISHER" = "Возвращает преобразование Фишера";
+"Excel_func_FISHERINV" = "Возвращает обратное преобразование Фишера";
+"Excel_func_FIXED" = "Форматирует число и преобразует его в текст с заданным числом десятичных знаков";
+"Excel_func_FLOOR" = "Округляет число до ближайшего меньшего по модулю";
+"Excel_func_FORECAST" = "Возвращает значение в соответствии с линейным трендом";
+"Excel_func_FREQUENCY" = "Возвращает распределение частот в виде вертикального массива";
+"Excel_func_FV" = "Возвращает будущую стоимость капиталовложений";
+"Excel_func_FVSCHEDULE" = "Возвращает будущее значение первоначальной основной суммы после применения ряда (плана) ставок сложных процентов";
+"Excel_func_GAMMADIST" = "Возвращает гамма-распределение";
+"Excel_func_GAMMAINV" = "Возвращает обратное гамма-распределение";
+"Excel_func_GAMMALN" = "Возвращает натуральный логарифм гамма-функции";
+"Excel_func_GCD" = "Возвращает наибольший общий делитель";
+"Excel_func_GEOMEAN" = "Возвращает среднее геометрическое";
+"Excel_func_GESTEP" = "Проверяет, превышает ли число пороговое значение";
+"Excel_func_GETPIVOTDATA" = "Возвращает данные, хранящиеся в отчете сводной таблицы";
+"Excel_func_GROWTH" = "Возвращает значения в соответствии с экспоненциальным трендом";
+"Excel_func_HARMEAN" = "Возвращает среднее гармоническое";
+"Excel_func_HEX2BIN" = "Преобразует шестнадцатеричное число в двоичное";
+"Excel_func_HEX2DEC" = "Преобразует шестнадцатеричное число в десятичное";
+"Excel_func_HEX2OCT" = "Преобразует шестнадцатеричное число в восьмеричное";
+"Excel_func_HLOOKUP" = "Просматривает верхнюю строку массива и возвращает значение указанной ячейки";
+"Excel_func_HOUR" = "Преобразует порядковое число в часы";
+"Excel_func_HYPERLINK" = "Создает ссылку, открывающую документ, который находится на сервере сети, в интрасети или в Интернете";
+"Excel_func_HYPGEOMDIST" = "Возвращает гипергеометрическое распределение";
+"Excel_func_IF" = "Выполняет проверку условия";
+"Excel_func_IFERROR" = "Возвращает введенное значение, если вычисление по формуле вызывает ошибку";
+"Excel_func_IMABS" = "Возвращает модуль комплексного числа";
+"Excel_func_IMAGINARY" = "Возвращает коэффициент при мнимой части комплексного числа";
+"Excel_func_IMARGUMENT" = "Возвращает значение аргумента комплексного числа (тета) – угол, выраженный в радианах";
+"Excel_func_IMCONJUGATE" = "Возвращает комплексно-сопряженное комплексного числа";
+"Excel_func_IMCOS" = "Возвращает косинус комплексного числа";
+"Excel_func_IMDIV" = "Возвращает частное двух комплексных чисел";
+"Excel_func_IMEXP" = "Возвращает экспоненту комплексного числа";
+"Excel_func_IMLN" = "Возвращает натуральный логарифм комплексного числа";
+"Excel_func_IMLOG10" = "Возвращает десятичный логарифм комплексного числа";
+"Excel_func_IMLOG2" = "Возвращает двоичный логарифм комплексного числа";
+"Excel_func_IMPOWER" = "Возвращает комплексное число, возведенное в степень с целочисленным показателем";
+"Excel_func_IMPRODUCT" = "Возвращает произведение комплексных чисел";
+"Excel_func_IMREAL" = "Возвращает коэффициент при вещественной части комплексного числа";
+"Excel_func_IMSIN" = "Возвращает синус комплексного числа";
+"Excel_func_IMSQRT" = "Возвращает значение квадратного корня из комплексного числа";
+"Excel_func_IMSUB" = "Возвращает разность двух комплексных чисел";
+"Excel_func_IMSUM" = "Возвращает сумму комплексных чисел";
+"Excel_func_INDEX" = "Использует индекс для выбора значения из ссылки или массива";
+"Excel_func_INDIRECT" = "Возвращает ссылку, заданную текстовым значением";
+"Excel_func_INFO" = "Возвращает сведения о текущей операционной среде";
+"Excel_func_INT" = "Округляет число до ближайшего меньшего целого";
+"Excel_func_INTERCEPT" = "Возвращает отрезок, отсекаемый на оси линии линейной регрессии";
+"Excel_func_INTRATE" = "Возвращает процентную ставку для полностью инвестированных ценных бумаг";
+"Excel_func_IPMT" = "Возвращает сумму платежей процентов по инвестиции за данный период";
+"Excel_func_IRR" = "Возвращает норму прибыли для последовательности денежных потоков";
+"Excel_func_ISBLANK" = "Возвращает TRUE (ИСТИНА), если значение является пустым";
+"Excel_func_ISERR" = "Возвращает значение TRUE (ИСТИНА), если значение выражения - любая ошибка, кроме \"#N/A\"";
+"Excel_func_ISERROR" = "Возвращает значение TRUE (ИСТИНА), если значение выражения — какая-либо ошибка";
+"Excel_func_ISEVEN" = "Возвращает значение TRUE (ИСТИНА), если число четное";
+"Excel_func_ISLOGICAL" = "Возвращает TRUE (ИСТИНА), если значение является логическим";
+"Excel_func_ISNA" = "Возвращает значение TRUE (ИСТИНА), если значение выражения — ошибка \"#N/A\"";
+"Excel_func_ISNONTEXT" = "Возвращает TRUE (ИСТИНА), если значение не является текстом";
+"Excel_func_ISNUMBER" = "Возвращает TRUE (ИСТИНА), если значение является числом";
+"Excel_func_ISODD" = "Возвращает TRUE (ИСТИНА), если число нечетное";
+"Excel_func_ISREF" = "Возвращает TRUE (ИСТИНА), если значение является ссылкой";
+"Excel_func_ISTEXT" = "Возвращает TRUE (ИСТИНА), если значение является текстом";
+"Excel_func_ISPMT" = "Вычисляет выплаты за указанный период инвестиции";
+"Excel_func_JIS" = "Для языков с двухбайтовыми наборами знаков (например, катакана) преобразует полуширинные (однобайтовые) знаки в текстовой строке в полноширинные (двухбайтовые)";
+"Excel_func_KURT" = "Возвращает эксцесс набора данных";
+"Excel_func_LARGE" = "Возвращает k-ое наибольшее значение в множестве данных";
+"Excel_func_LCM" = "Возвращает наименьшее общее кратное";
+"Excel_func_LEFT" = "Возвращает крайние левые символы текстового значения";
+"Excel_func_LEN" = "Возвращает число символов в текстовой строке";
+"Excel_func_LINEST" = "Возвращает параметры линейного тренда";
+"Excel_func_LN" = "Возвращает натуральный логарифм числа";
+"Excel_func_LOG" = "Возвращает логарифм числа по заданному основанию";
+"Excel_func_LOG10" = "Возвращает десятичный логарифм числа";
+"Excel_func_LOGEST" = "Возвращает параметры экспоненциального тренда";
+"Excel_func_LOGINV" = "Возвращает обратную функцию логарифмического нормального распределения";
+"Excel_func_LOGNORMDIST" = "Возвращает интегральное логарифмическое нормальное распределение";
+"Excel_func_LOOKUP" = "Ищет значения в векторе или массиве";
+"Excel_func_LOWER" = "Преобразует все буквы текста в строчные";
+"Excel_func_MATCH" = "Ищет значения в ссылке или массиве";
+"Excel_func_MAX" = "Возвращает максимальное значение в списке аргументов";
+"Excel_func_MAXA" = "Возвращает наибольшее значение в списке аргументов, включая числа, текст и логические значения";
+"Excel_func_MDETERM" = "Возвращает определитель матрицы (матрица хранится в массиве)";
+"Excel_func_MDURATION" = "Возвращает модифицированную продолжительность Макалея для ценных бумаг с предполагаемой номинальной стоимостью 100 рублей";
+"Excel_func_MEDIAN" = "Возвращает медиану заданных чисел";
+"Excel_func_MID" = "Возвращает определенное число знаков из текстовой строки, начиная с указанной позиции";
+"Excel_func_MIN" = "Возвращает минимальное значение в списке аргументов";
+"Excel_func_MINA" = "Возвращает наименьшее значение в списке аргументов, включая числа, текст и логические значения";
+"Excel_func_MINUTE" = "Преобразует порядковое число в минуты";
+"Excel_func_MINVERSE" = "Возвращает обратную матрицу массива";
+"Excel_func_MIRR" = "Возвращает внутреннюю ставку доходности, при которой положительные и отрицательные денежные потоки имеют разные значения ставки";
+"Excel_func_MMULT" = "Возвращает матричное произведение двух массивов";
+"Excel_func_MOD" = "Возвращает остаток от деления";
+"Excel_func_MODE" = "Возвращает значение моды набора данных";
+"Excel_func_MONTH" = "Преобразует порядковое число в месяц";
+"Excel_func_MROUND" = "Возвращает число, округленное до нужного кратного";
+"Excel_func_MULTINOMIAL" = "Возвращает отношение факториала суммы значений к произведению факториалов значений";
+"Excel_func_N" = "Возвращает значение, преобразованное в число";
+"Excel_func_NA" = "Возвращает значение ошибки — \"#N/A\"";
+"Excel_func_NEGBINOMDIST" = "Возвращает отрицательное биномиальное распределение";
+"Excel_func_NETWORKDAYS" = "Возвращает количество полных рабочих дней между двумя датами";
+"Excel_func_NOMINAL" = "Возвращает номинальную годовую процентную ставку";
+"Excel_func_NORMDIST" = "Возвращает нормальную функцию распределения";
+"Excel_func_NORMINV" = "Возвращает обратное нормальное распределение";
+"Excel_func_NORMSDIST" = "Возвращает стандартное нормальное выборочное распределение";
+"Excel_func_NORMSINV" = "Возвращает обратное значение стандартного нормального выборочного распределения";
+"Excel_func_NOT" = "Изменяет логическое значение аргумента на противоположное";
+"Excel_func_NOW" = "Возвращает порядковое число текущих даты и времени";
+"Excel_func_NPER" = "Возвращает количество периодов для капиталовложений";
+"Excel_func_NPV" = "Возвращает чистую приведенную стоимость капиталовложений на основе последовательности периодических движений денежной наличности и учетной ставки";
+"Excel_func_OCT2BIN" = "Преобразует восьмеричное число в двоичное";
+"Excel_func_OCT2DEC" = "Преобразует восьмеричное число в десятичное";
+"Excel_func_OCT2HEX" = "Преобразует восьмеричное число в шестнадцатеричное";
+"Excel_func_ODD" = "Округляет число до ближайшего нечетного целого";
+"Excel_func_ODDFPRICE" = "Возвращает цену за 100 рублей для номинальной стоимости ценных бумаг с нерегулярным (коротким или длинным) первым периодом купона";
+"Excel_func_ODDFYIELD" = "Возвращает доход по ценным бумагам с нерегулярным (коротким или длинным) первым периодом купона";
+"Excel_func_ODDLPRICE" = "Возвращает цену за 100 рублей для номинальной стоимости ценных бумаг с нерегулярным (коротким или длинным) последним периодом купона";
+"Excel_func_ODDLYIELD" = "Возвращает доход по ценным бумагам с нерегулярным (коротким или длинным) последним периодом купона";
+"Excel_func_OFFSET" = "Возвращает смещение ссылки относительно заданной ссылки";
+"Excel_func_OR" = "Возвращает значение TRUE (ИСТИНА), если какой-либо из аргументов равен TRUE (ИСТИНА)";
+"Excel_func_PEARSON" = "Возвращает коэффициент корреляции Пирсона";
+"Excel_func_PERCENTILE" = "Возвращает k-ую персентиль для значений диапазона";
+"Excel_func_PERCENTRANK" = "Возвращает процентную норму значения в наборе данных";
+"Excel_func_PERMUT" = "Возвращает число перестановок для заданного числа элементов";
+"Excel_func_PHONETIC" = "Извлекает фонетические (фуригана) знаки из текстовой строки";
+"Excel_func_PI" = "Возвращает значение числа пи";
+"Excel_func_PMT" = "Возвращает периодический платеж в счет ежегодных выплат";
+"Excel_func_POISSON" = "Возвращает распределение Пуассона";
+"Excel_func_POWER" = "Возвращает результат возведения числа в степень";
+"Excel_func_PPMT" = "Возвращает платеж с основного вложенного капитала за данный период";
+"Excel_func_PRICE" = "Возвращает цену за 100 рублей для номинальной стоимости ценных бумаг, по которым выплачивается периодический процент";
+"Excel_func_PRICEDISC" = "Возвращает цену за 100 рублей для номинальной стоимости ценных бумаг, на которые сделана скидка";
+"Excel_func_PRICEMAT" = "Возвращает цену за 100 рублей для номинальной стоимости ценных бумаг, по которым процент выплачивается в срок погашения";
+"Excel_func_PROB" = "Возвращает вероятность того, что значения диапазона находятся внутри заданных пределов";
+"Excel_func_PRODUCT" = "Перемножает аргументы";
+"Excel_func_PROPER" = "Преобразует первые буквы всех слов в текстовом значении в прописные";
+"Excel_func_PV" = "Возвращает текущую стоимость капиталовложений";
+"Excel_func_QUARTILE" = "Возвращает квартиль набора данных";
+"Excel_func_QUOTIENT" = "Возвращает целую часть от деления";
+"Excel_func_RADIANS" = "Преобразует градусы в радианы";
+"Excel_func_RAND" = "Возвращает случайное число между 0 и 1";
+"Excel_func_RANDBETWEEN" = "Возвращает случайное число между двумя заданными числами";
+"Excel_func_RANK" = "Возвращает ранг числа в списке чисел";
+"Excel_func_RATE" = "Возвращает процентную ставку за период ежегодных выплат";
+"Excel_func_RECEIVED" = "Возвращает сумму, полученную к сроку погашения полностью инвестированных ценных бумаг";
+"Excel_func_REGISTER_ID" = "Возвращает регистрационный идентификатор указанной библиотеки динамической компоновки (DLL) или ранее зарегистрированного кодового ресурса";
+"Excel_func_REPLACE" = "Заменяет символы в тексте";
+"Excel_func_REPT" = "Повторяет текст заданное количество раз";
+"Excel_func_RIGHT" = "Возвращает крайние правые символы текстового значения";
+"Excel_func_ROMAN" = "Преобразует арабские числа в римские, в текстовом формате";
+"Excel_func_ROUND" = "Округляет число до указанного количества десятичных разрядов";
+"Excel_func_ROUNDDOWN" = "Округляет число до ближайшего меньшего по модулю";
+"Excel_func_ROUNDUP" = "Округляет число до ближайшего большего по модулю";
+"Excel_func_ROW" = "Возвращает номер строки, определяемой ссылкой";
+"Excel_func_ROWS" = "Возвращает количество строк в ссылке";
+"Excel_func_RSQ" = "Возвращает квадрат коэффициента корреляции Пирсона по данным точкам";
+"Excel_func_SEARCH" = "Находит текстовое значение внутри другого текстового значения (без учета регистра)";
+"Excel_func_SEARCHB" = "Находит текстовое значение внутри другого текстового значения (без учета регистра)";
+"Excel_func_SECOND" = "Преобразует порядковое число в секунды";
+"Excel_func_SERIESSUM" = "Возвращает сумму степенного ряда, вычисленную по формуле";
+"Excel_func_SIGN" = "Возвращает знак числа";
+"Excel_func_SIN" = "Возвращает синус заданного угла";
+"Excel_func_SINH" = "Возвращает гиперболический синус числа";
+"Excel_func_SKEW" = "Возвращает асимметрию распределения относительно среднего";
+"Excel_func_SLN" = "Возвращает значение равномерного снижения основного капитала за некоторый период";
+"Excel_func_SLOPE" = "Возвращает наклон линии линейной регрессии";
+"Excel_func_SMALL" = "Возвращает k-ое наименьшее значение в наборе данных";
+"Excel_func_SQL_REQUEST" = "Подключает к внешнему источнику данных и выполняет запрос из листа. Результат возвращается в виде массива. Дополнительное программирование не требуется";
+"Excel_func_SQRT" = "Возвращает положительное значение квадратного корня";
+"Excel_func_SQRTPI" = "Возвращает квадратный корень из значения выражения (число * пи)";
+"Excel_func_STANDARDIZE" = "Возвращает нормализованное значение";
+"Excel_func_STDEV" = "Вычисляет среднеквадратическое отклонение по выборке";
+"Excel_func_STDEVA" = "Оценивает стандартное отклонение по выборке, включая числа, текст и логические значения";
+"Excel_func_STDEVP" = "Вычисляет среднеквадратическое отклонение по генеральной совокупности значений";
+"Excel_func_STDEVPA" = "Вычисляет стандартное отклонение по генеральной совокупности, включая числа, текст и логические значения";
+"Excel_func_STEYX" = "Возвращает стандартную ошибку предсказанных значений y для каждого значения x в регрессии";
+"Excel_func_SUBSTITUTE" = "Подставляет новый текст вместо старого текста в текстовой строке";
+"Excel_func_SUBTOTAL" = "Возвращает промежуточные итоги в список или базу данных";
+"Excel_func_SUM" = "Складывает аргументы";
+"Excel_func_SUMIF" = "Добавляет ячейки, определяемые заданными критериями";
+"Excel_func_SUMIFS" = "Суммирует ячейки в диапазоне, удовлетворяющие нескольким условиям";
+"Excel_func_SUMPRODUCT" = "Возвращает сумму произведений соответствующих элементов массивов";
+"Excel_func_SUMSQ" = "Возвращает сумму квадратов аргументов";
+"Excel_func_SUMX2MY2" = "Возвращает сумму разностей квадратов соответствующих значений в двух массивах";
+"Excel_func_SUMX2PY2" = "Возвращает сумму сумм квадратов соответствующих элементов двух массивов";
+"Excel_func_SUMXMY2" = "Возвращает сумму квадратов разностей соответствующих значений в двух массивах";
+"Excel_func_SYD" = "Возвращает величину амортизации актива за данный период, рассчитанную методом суммирования годовых чисел";
+"Excel_func_T" = "Преобразует аргументы в текст";
+"Excel_func_TAN" = "Возвращает тангенс числа";
+"Excel_func_TANH" = "Возвращает гиперболический тангенс числа";
+"Excel_func_TBILLEQ" = "Возвращает эквивалентный облигации доход по казначейскому векселю";
+"Excel_func_TBILLPRICE" = "Возвращает цену за 100 рублей для номинальной стоимости казначейского векселя";
+"Excel_func_TBILLYIELD" = "Возвращает доходность по казначейскому векселю";
+"Excel_func_TDIST" = "Возвращает t-распределение Стьюдента";
+"Excel_func_TEXT" = "Форматирует число и преобразует его в текст";
+"Excel_func_TIME" = "Возвращает порядковое число для конкретного времени";
+"Excel_func_TIMEVALUE" = "Преобразует время, представленное в текстовом виде, в порядковое число";
+"Excel_func_TINV" = "Возвращает обратное t-распределение Стьюдента";
+"Excel_func_TODAY" = "Возвращает текущую дату в числовом формате";
+"Excel_func_TRANSPOSE" = "Возвращает транспонированный массив";
+"Excel_func_TREND" = "Возвращает значения в соответствии с линейным трендом";
+"Excel_func_TRIM" = "Удаляет из текста пробелы";
+"Excel_func_TRIMMEAN" = "Возвращает среднее по внутренности набора данных";
+"Excel_func_TRUE" = "Возвращает логическое значение TRUE (ИСТИНА)";
+"Excel_func_TRUNC" = "Отбрасывает дробную часть, оставляя целое число";
+"Excel_func_TTEST" = "Возвращает вероятность, соответствующую t-тесту по критерию Стьюдента";
+"Excel_func_TYPE" = "Возвращает число, обозначающее тип данных значения";
+"Excel_func_UPPER" = "Преобразует все буквы текста в прописные";
+"Excel_func_VALUE" = "Преобразует текстовый аргумент в число";
+"Excel_func_VAR" = "Вычисляет дисперсию на основе выборки";
+"Excel_func_VARA" = "Оценивает дисперсию по выборке, включая числа, текст и логические значения";
+"Excel_func_VARP" = "Вычисляет дисперсию по генеральной совокупности значений";
+"Excel_func_VARPA" = "Вычисляет дисперсию по генеральной совокупности, включая числа, текст и логические значения";
+"Excel_func_VDB" = "Возвращает величину амортизации актива для указанного или частичного периода при использовании метода сокращающегося баланса";
+"Excel_func_VLOOKUP" = "Просматривает первый столбец массива и перемещается по строке для возврата значения ячейки";
+"Excel_func_WEEKDAY" = "Преобразует порядковое число в день недели";
+"Excel_func_WEEKNUM" = "Преобразует дату в числовом формате в число, которое указывает, на какую неделю года приходится дата";
+"Excel_func_WEIBULL" = "Вычисляет дисперсию по генеральной совокупности, включая числа, текст и логические значения";
+"Excel_func_WORKDAY" = "Возвращает порядковый номер даты, отстоящей на заданное число рабочих дней вперед или назад от начальной даты";
+"Excel_func_XIRR" = "Возвращает внутреннюю норму прибыли для графика поступлений денежных средств, не обязательно носящих периодический характер";
+"Excel_func_XNPV" = "Возвращает чистую приведенную стоимость для денежных потоков, не обязательно носящих периодический характер";
+"Excel_func_YEAR" = "Преобразует порядковое число в год";
+"Excel_func_YEARFRAC" = "Возвращает долю года, которую составляет количество дней между начальной и конечной датами";
+"Excel_func_YIELD" = "Возвращает доходность ценных бумаг, по которым выплачивается периодический процент";
+"Excel_func_YIELDDISC" = "Возвращает годовую доходность по ценным бумагам, на которые сделана скидка";
+"Excel_func_YIELDMAT" = "Возвращает годовую доходность ценных бумаг, по которым процент выплачивается в срок погашения";
+"Excel_func_ZTEST" = "Возвращает одностороннее значение вероятности для z-теста";
+"Excel_func_FTEST" = "Возвращает двустороннюю вероятность того, что разница между дисперсиями аргументов \"массив1\" и \"массив2\" несущественна";
+"Excel_func_DATEDIF" = "Вычисляет разность между двумя датами на основе указанного интервала";
+"Excel_func_DBCS" = "Преобразует полуширинные (однобайтовые) буквы в строке символов в полноширинные (двухбайтовые)";
+"Excel_func_USDOLLAR" = "Преобразует число в текст, используя денежный формат с округлением до заданного числа десятичных знаков";
+"Excel_func_UNICHAR" = "Подставляет соответствующий символ Юникода вместо представленного числового значения";
+"Excel_func_UNICODE" = "Подставляет число (элемент кода), соответствующее первому символу текста";
+
+/*
+ NEW STRINGS AFTER VER 3.7.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"InfoMsg_TransactionInProgress" = "Транзакция может занять несколько минут...";
+"InfoTitle_TransactionCompleted" = "Транзакция завершена";
+"InfoMsg_InAppRestoreDone" = "Восстановление успешно завершено.";
+"Label_FontPackDescription70" = "Коллекция из 70+ шрифтов, включая Calibri, Tahoma и Wingdings, для использования в OfficeSuite.";
+"Label_FontPackDescriptionOFL" = "Также включает 60 шрифтов OFL, например, Garamond, Open Sans и Times Gothic.";
+"Label_OneTimePurchase2" = "Разовая покупка";
+
+/* Up to 10 chars */
+"Label_Unlock" = "Открыть";
+
+/* Up to 14 chars */
+"Label_Features" = "Функции";
+
+"Label_InfoMsgAutoSumNotAvailable" = "Выделение не должно содержать всю строку, столбец или таблицу.";
+"Label_MultiSelection" = "Выбор нескольких элементов";
+"Label_ClearFilterC" = "Очистить фильтр";
+"Label_ReapplyFilterC" = "Повторно применить фильтр";
+"Label_AboveAverageC" = "Выше среднего";
+"Label_BelowAverageC" = "Ниже среднего";
+"Label_DeleteCell" = "Удалить ячейку";
+"Label_Buy" = "Купить";
+"Label_YourHTTPAddress" = "Ваш HTTP-адрес";
+"Label_YourUsername" = "Имя пользователя";
+"Label_YourPassword" = "Пароль";
+
+/*
+ NEW STRINGS AFTER VER 4.0
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// File Browser
+"Label_NewFile" = "Новый файл";
+"Label_FolderUp" = "Папка вверх";
+"Label_Sidebar" = "Боковая панель";
+"Label_Ad" = "Реклама";
+"Label_DeselectAll" = "Отменить выбор всех";
+"Label_Apply" = "Применить";
+"ErrMsg_LocalStorageOnly" = "Вы можете сохранять файлы только на локальном диске.";
+"Label_Submit" = "Отправить";
+"Label_Username" = "Имя пользователя";
+"InfoTitle_LoginFailure" = "Ошибка входа в систему";
+"InfoTitle_ServerIdentity" = "Не удается проверить идентичность сервера";
+"InfoTitle_LoginRequired" = "На этой странице требуется, чтобы вы авторизовались";
+"InfoMsg_LoginFailureSSOUntrusted" = "Не удалось завершить авторизацию, поскольку сервер единого входа не является доверенным. Для получения дополнительной информации обратитесь к администратору.";
+"InfoMsg_ServerIdentity" = "Box не удается проверить идентичность \"%@\". Все равно продолжить?";
+"InfoMsg_VerifyUsernameAndPassword" = "Не удается авторизоваться. Пожалуйста, проверьте написание имени пользователя\\пароля и повторите попытку.";
+"Label_WordTemplates" = "Шаблоны Документ";
+"Label_ExcelTemplates" = "Шаблоны таблиц";
+"Label_PowerpointTemplates" = "Шаблоны презентаций";
+// PowerPoint
+"Label_PowerPoint97Presentation" = "Презентация PowerPoint 97-2003";
+"Label_PowerPointMacroPresentation" = "Презентация PowerPoint с поддержкой макросов";
+"Label_PowerPointSlideShow" = "Слайд-шоу PowerPoint";
+"Label_PowerPoint97SlideShow" = "Слайд-шоу PowerPoint 97-2003";
+"Label_PowerPointMacroSlideShow" = "Слайд-шоу PowerPoint с поддержкой макросов";
+"Label_SlideRange" = "Номер слайда (1 - %d)";
+"Label_DataLostAfterSave" = "Некоторые данные могут не сохраниться.";
+"Label_PowerPointTemplate" = "Шаблон Презентация";
+"Label_Transitions" = "Переходы";
+"Label_TransitionEffect" = "Эффект перехода";
+"Label_EffectOptions" = "Параметры эффекта";
+"Label_TransitionDuration" = "Длительность перехода";
+"Label_AdvanceSlideAfter" = "Смена слайда после";
+
+/* Up to 22 chars */
+"Label_ChangeSlideAfter" = "Смена слайда после";
+
+"Label_ApplyToAll" = "Применить ко всем";
+"Label_ApplyTransition" = "Применить переход";
+
+/* Up to 14 chars */
+"Label_SetDuration" = "Длительность";
+
+"Label_Min" = "Мин";
+"Label_Sec" = "Сек";
+
+/* Up to 60 chars */
+"Label_TransitionAppliedToAll" = "Параметры перехода были применены ко всем слайдам.";
+
+"Label_Subtle" = "Нежный";
+"Label_Exciting" = "Радостный";
+"Label_DynamicContent" = "Динамичный контент";
+
+/* Transition names - each one must be 10 chars or less */
+"Label_Fade" = "Выцветание";
+"Label_Push" = "Вытеснение";
+"Label_Wipe" = "Стирание";
+"Label_Split" = "Разделение";
+"Label_Reveal" = "Проявление";
+"Label_RandomBars" = "Полосы";
+"Label_Uncover" = "Раскрытие";
+"Label_Cover" = "Закрытие";
+"Label_Flash" = "Вспышка";
+"Label_Dissolve" = "Растворение";
+"Label_Checkboard" = "Шашки";
+"Label_Blinds" = "Жалюзи";
+"Label_Clock" = "Часы";
+"Label_Ripple" = "Рябь";
+"Label_Honeycomb" = "Соты";
+"Label_Glitter" = "Блеск";
+"Label_Vortex" = "Воронка";
+"Label_Shred" = "Дробление";
+"Label_Switch" = "Взмах";
+"Label_Flip" = "Переворот";
+"Label_Gallery" = "Галерея";
+"Label_Cube" = "Куб";
+"Label_Doors" = "Двери";
+"Label_Box" = "Ящик";
+"Label_Comb" = "Гребень";
+"Label_Wheel" = "Колесо";
+"Label_Newsflash" = "Новости";
+"Label_Pan" = "Сдвиг";
+"Label_FerrisWheel" = "Панорама";
+"Label_Conveyor" = "Конвейер";
+"Label_Rotate" = "Поворот";
+"Label_Window" = "Окно";
+"Label_Orbit" = "Орбита";
+"Label_FlyThrough" = "Вылет";
+/* End Transition names */
+
+// Transition options
+"Label_ThroughBlack" = "Через черное";
+"Label_Smoothly" = "Плавно";
+"Label_FromBottom" = "Снизу";
+"Label_FromLeft" = "Слева";
+"Label_FromRight" = "Справа";
+"Label_FromTop" = "Сверху";
+"Label_FromTopRight" = "Сверху-справа";
+"Label_FromTopLeft" = "Сверху-слева";
+"Label_FromBottomLeft" = "Снизу-слева";
+"Label_FromBottomRight" = "Снизу-справа";
+"Label_Vertical" = "По вертикали";
+"Label_VerticalOut" = "По вертикали наружу";
+"Label_VerticalIn" = "По вертикали внутрь";
+"Label_Horizontal" = "По горизонтали";
+"Label_HorizontalOut" = "По горизонтали наружу";
+"Label_HorizontalIn" = "По горизонтали внутрь";
+"Label_SmoothlyFromRight" = "Плавно справа";
+"Label_SmoothlyFromLeft" = "Плавно слева";
+"Label_ThroughBlackFromRight" = "Через черное справа";
+"Label_ThroughBlackFromLeft" = "Через черное слева";
+"Label_Circle" = "Круг";
+"Label_Diamond" = "Ромб";
+"Label_Plus" = "Плюс";
+"Label_In" = "Внутрь";
+"Label_Out" = "Наружу";
+"Label_Clockwise" = "По час. стрелке";
+"Label_Counterclockwise" = "Против час. стрелки";
+"Label_Wedge" = "Клин";
+"Label_Center" = "Центр";
+"Label_2SpokesClockwise" = "2 сектора по час. стрелке";
+"Label_3SpokesClockwise" = "3 сектора по час. стрелке";
+"Label_4SpokesClockwise" = "4 сектора по час. стрелке";
+"Label_8SpokesClockwise" = "8 секторов по час. стрелке";
+"Label_2SpokesCounterclockwise" = "2 сектора против час. стрелки";
+"Label_3SpokesCounterclockwise" = "3 сектора против час. стрелки";
+"Label_4SpokesCounterclockwise" = "4 сектора против час. стрелки";
+"Label_8SpokesCounterclockwise" = "8 секторов против час. стрелки";
+"Label_HexagonsFromLeft" = "Шестиугольники слева";
+"Label_HexagonsFromTop" = "Шестиугольники сверху";
+"Label_HexagonsFromRight" = "Шестиугольники справа";
+"Label_HexagonsFromBottom" = "Шестиугольники снизу";
+"Label_DiamondsFromLeft" = "Ромбы слева";
+"Label_DiamondsFromTop" = "Ромбы сверху";
+"Label_DiamondsFromRight" = "Ромбы справа";
+"Label_DiamondsFromBottom" = "Ромбы снизу";
+"Label_StripsIn" = "Полосы внутрь";
+"Label_StripsOut" = "Полосы наружу";
+"Label_ParticlesIn" = "Частицы внутрь";
+"Label_ParticlesOut" = "Частицы наружу";
+"Label_Left" = "Слева";
+"Label_Right" = "Справа";
+"Label_InWithBounce" = "Внутрь с выскакиванием";
+"Label_OutWithBounce" = "Наружу с выскакиванием";
+"Label_ExcelMacroEnabledWorkbook" = "Книга Excel с поддержкой макросов";
+"Label_ExcelTemplate" = "Шаблон Электронная таблица";
+"Label_Zip" = "Zip";
+"Label_ZipDocument" = "Архивировать в Zip";
+"Label_ZipDocuments" = "Архивировать в Zip";
+// Conditional Formatting
+"Label_ConditionalFormatting" = "Условное форматирование";
+
+/* Up to 16 chars */
+"Label_HighlightCellsRules" = "Выделить правила";
+
+/* Up to 16 chars */
+"Label_Top/Bottom/Avg" = "Верх./ниж./сред.";
+
+"Label_DataBars" = "Панели данных";
+"Label_ColorScales" = "Цветовые шкалы";
+"Label_ClearRulesFromEntireSheet" = "Убрать правила со всего листа";
+"Label_RulesManager" = "Управление правилами";
+"Label_TitleClearCFRulesAlert" = "Вы хотите убрать все правила?";
+"Label_MessageClearCFRulesAlert" = "Условное форматирование будет удалено.";
+"Label_FormatCellsRules" = "Правила для формат. ячеек";
+
+/* Up to 20 chars */
+"Label_TopBottomAverage" = "Верхние/нижние/средние";
+
+"Label_Content" = "Содержимое";
+"Label_Rank" = "Ранг";
+"Label_RuleType" = "Тип правила";
+
+/* Up to 8 chars */
+"Label_Value_1" = "Знач-е 1";
+
+/* Up to 8 chars */
+"Label_Value_2" = "Знач-е 2";
+
+// Conditional format types
+"Excel_CF_CellValue" = "Значение ячейки";
+"Excel_CF_SpecificText" = "Определенный текст";
+"Excel_CF_Blanks" = "Пустые";
+"Excel_CF_NoBlanks" = "Нет пустых";
+"Excel_CF_Errors" = "Ошибки";
+"Excel_CF_NoErrors" = "Нет ошибок";
+"Excel_CF_Unique" = "Уникальный";
+"Excel_CF_Duplicate" = "Дубликат";
+"Excel_CF_DatesOccurring" = "Даты";
+"Excel_CF_EqualTo" = "равно";
+"Excel_CF_NotEqualTo" = "не равно";
+"Excel_CF_LessThan" = "меньше чем";
+"Excel_CF_LessEqual" = "меньше чем или равно";
+"Excel_CF_GreaterThan" = "больше чем";
+"Excel_CF_GreaterEqual" = "больше чем или равно";
+"Excel_CF_Between" = "между";
+"Excel_CF_NotBetween" = "не между";
+"Excel_CF_Contains" = "содержит";
+"Excel_CF_NotContains" = "не содержит";
+"Excel_CF_BeginsWith" = "начинается с";
+"Excel_CF_EndsWith" = "кончается на";
+"Excel_CF_Top" = "Верх";
+"Excel_CF_Bottom" = "Низ";
+"Excel_CF_StdDevAbove" = "ст. откл. выше";
+"Excel_CF_StdDevBelow" = "ст. откл. ниже";
+"Excel_CF_EqualOrAbove" = "Равно или выше";
+"Excel_CF_EqualOrBelow" = "Равно или ниже";
+"Excel_CF_AboveAverage" = "Выше среднего";
+"Excel_CF_BelowAverage" = "Ниже среднего";
+// Conditional format descriptions
+"Excel_CFDescr_blank" = "Ячейка содержит пустое значение";
+"Excel_CFDescr_no_blank" = "Ячейка не содержит пустое значение";
+"Excel_CFDescr_error" = "Ячейка содержит ошибку";
+"Excel_CFDescr_no_error" = "Ячейка не содержит ошибку";
+"Excel_CFDescr_cell_value" = "Значение ячейки";
+"Excel_CFDescr_between" = "Между";
+"Excel_CFDescr_not_between" = "Не между";
+"Excel_CFDescr_and" = "и";
+"Excel_CFDescr_contains" = "Содержит";
+"Excel_CFDescr_does_not_contain" = "Не содержит";
+"Excel_CFDescr_begins_with" = "Начинается с";
+"Excel_CFDescr_ends_with" = "Кончается на";
+"Excel_CFDescr_std_dev" = "ст. откл.";
+"Excel_CFDescr_equal_to_or" = "Равно или";
+"Excel_CFDescr_above_average" = "Выше среднего";
+"Excel_CFDescr_below_average" = "Ниже среднего";
+"Excel_CFDescr_dates_occurring_yesterday" = "Вчера";
+"Excel_CFDescr_dates_occurring_today" = "Сегодня";
+"Excel_CFDescr_dates_occurring_tomorrow" = "Завтра";
+"Excel_CFDescr_dates_occurring_last_7_days" = "За посл. 7 дней";
+"Excel_CFDescr_dates_occurring_last_week" = "На прошлой неделе";
+"Excel_CFDescr_dates_occurring_this_week" = "На этой неделе";
+"Excel_CFDescr_dates_occurring_next_week" = "На след. неделе";
+"Excel_CFDescr_dates_occurring_last_month" = "В прошлом месяце";
+"Excel_CFDescr_dates_occurring_this_month" = "В этом месяце";
+"Excel_CFDescr_dates_occurring_next_month" = "В след. месяце";
+"Label_XlsSaveCFRulesNotSupported" = "Сохранение условного форматирования в формате xls не поддерживается. Условное форматирование не будет сохранено.";
+// Accessibility labels
+"Label_Inside" = "Внутри";
+"Label_Outside" = "Снаружи";
+"Label_Vertical_Inside" = "По вертикали внутри";
+"Label_Horizontal_Inside" = "По горизонтали внутри";
+"Label_ShowFormattingSymbols" = "Показать символы форматирования";
+"Label_JustifiedParagraphAlignment" = "По ширине";
+"Label_LeftParagraphAlignment" = "По левому краю";
+"Label_CenterParagraphAlignment" = "Центр";
+"Label_RightParagraphAlignment" = "По правому краю";
+"Label_FontTextColorDropdown" = "Раскрыв. список цвета текста";
+"Label_FontHighlightColorDropdown" = "Раскрыв. список цвета выделения";
+"Label_NumberingDropdown" = "Раскрыв. список нумерации";
+"Label_BulletsDropdown" = "Раскрыв. список маркеров";
+"Label_EnterViewMode" = "В режим просмотра";
+"Label_EnterEditMode" = "В режим редактирования";
+"Label_ChangeTableStyle" = "Изменить стиль таблицы";
+"Label_InsertTableRowAbove" = "Вставить строку таблицы выше";
+"Label_InsertTableRowBelow" = "Вставить строку таблицы ниже";
+"Label_InsertTableColumnToTheLeft" = "Вставить столбец слева";
+"Label_InsertTableColumnToTheRight" = "Вставить столбец справа";
+"Label_DeleteTableRow" = "Удалить строку таблицы";
+"Label_DeleteTableColumn" = "Удалить столбец таблицы";
+"Label_DeleteTableCell" = "Удалить ячейку таблицы";
+"Label_TableSizeGrid" = "Выбор размера сетки таблицы";
+"Label_IncreaseValue" = "Увеличить значение";
+"Label_DecreaseValue" = "Уменьшить значение";
+"Label_Photo" = "Фото";
+"Label_Graphic" = "Графика";
+"Label_CaptureImage" = "Сделать снимок";
+"Label_SwitchCamera" = "Переключить камеру";
+"Label_NewSheet" = "Новый лист";
+"Label_SheetOfSheets" = "Лист $1 из $2";
+"Label_MenuItem" = "Пункт меню";
+"Label_CellContent" = "Содержимое ячейки";
+// pdf
+"Label_ViewMode" = "Режим просмотра";
+"Label_SinglePage" = "Одна страница";
+"Label_Ellipse" = "Эллипс";
+"Label_Rectangle" = "Прямоугольник";
+"Label_Line" = "Линия";
+"Label_FreeDraw" = "Свобод. рисование";
+
+// File Browser
+"WarningMsg_ZippingFilesInterrupted" = "Не удалось добавить файлы в архив.";
+"Label_UnsupportedDocumentType" = "Тип документа не поддерживается";
+"Label_UnknownDocumentType" = "Неизвестный тип документа";
+"Label_Certificate" = "Сертификат";
+"Label_PersonalInformationExchange" = "Обмен личной информацией";
+"ErrTitle_NoPermission" = "Нет разрешения";
+"ErrMsg_CannotDeleteInboxFolder" = "Вы не можете удалить папку \"Входящие\", когда сервис iCloud выключен.";
+"Label_OpenODF" = "Поддержка ODF";
+"Label_OpenODFDescription" = "Откройте .odt, .ods и .odp файлы";
+// Word
+"WarningMessage_RtfWillLoseFormatting2" = "Если вы сохраните файл как файл формата RTF, защита паролем и некоторые элементы форматирования могут быть утеряны. Продолжить?";
+"WarningMessage_TxtWillLoseFormatting2" = "Сохранение в виде текстового файла приведет к потере защиты паролем, форматирования, картинок и объектов в файле. Продолжить?";
+"WarningMessage_OdtWillLoseFormatting2" = "Если вы сохраните файл как файл формата ODT, защита паролем и некоторые элементы форматирования могут быть утеряны. Продолжить?";
+"WarningMessage_ExportToPDFWillLoseProtection" = "Экспортированный файл PDF не защищен паролем. Продолжить?";
+// Excel
+"Label_Selection" = "Выбор";
+"Label_Worksheet" = "Лист";
+"ErrMsg_NoStyleForCFRule" = "В правиле не установлено форматирование.";
+"ErrMsg_InvalidCFRule" = "В правиле не установлены значения.";
+"Label_XlsSaveSomeItemsNotSupported" = "Не поддерживается сохранение некоторых функций из этой книги в формате xls.";
+"Label_RandomTransition" = "Случайный";
+// pdf accessibility
+"Label_PageNumber" = "Страница %d";
+
+/*
+ NEW STRINGS AFTER VER 4.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Label_ColumnChart" = "Гистограмма";
+"Label_BarChart" = "Линейчатая";
+"Label_LineChart" = "Линия";
+"Label_AreaChart" = "С областями";
+"Label_PieChart" = "Круговая";
+"Label_ScatterChart" = "Точечная";
+"Label_Clustered" = "Кластерная";
+"Label_Stacked" = "С накоплением";
+"Label_Stacked100" = "Нормированная";
+"Label_ScatterMarkers" = "С маркерами";
+"Label_ScatterLines" = "Линия";
+"Label_ScatterLinesMarkers" = "C кривыми и маркерами";
+"Label_FeatureIsNotAvaialableForSheet" = "Эта функция недоступна для этого листа.";
+"Label_TextToDisplay" = "Отображаемый текст";
+"Label_Address" = "Адрес";
+
+//Accessibility strings
+"Accessibility_Label_StrikeThrough" = "Зачеркивание";
+"Accessibility_Label_TextColorOptions" = "Варианты цвета текста";
+"Accessibility_Label_LeftAlignment" = "Слева";
+"Accessibility_Label_CenterAlignment" = "По центру";
+"Accessibility_Label_RightAlignment" = "Справа";
+"Accessibility_Label_JustifyAlignment" = "Выровнять по ширине";
+"Accessibility_Label_Increase" = "Увеличить";
+"Accessibility_Label_Decrease" = "Уменьшить";
+"Accessibility_Label_Hours" = "Часы";
+"Accessibility_Label_Minutes" = "Минуты";
+"Accessibility_Label_Seconds" = "Секунды";
+"Accessibility_Label_Centiseconds" = "Сантисекунды";
+"Accessibility_Label_Color_Description" = "Цвет: красный %d, зеленый %d, синий %d и прозрачность %d";
+
+"Label_ShapeType_AccentBorderCallout1" = "Выноска 1 (граница и черта)";
+"Label_ShapeType_AccentBorderCallout2" = "Выноска 2 (граница и черта)";
+"Label_ShapeType_AccentBorderCallout3" = "Выноска 3 (граница и черта)";
+"Label_ShapeType_AccentCallout1" = "Выноска 1 (с чертой)";
+"Label_ShapeType_AccentCallout2" = "Выноска 2 (с чертой)";
+"Label_ShapeType_AccentCallout3" = "Выноска 3 (с чертой)";
+"Label_ShapeType_ActionButtonBackPrevious" = "Фигура кнопки \"Назад\" или \"Предыдущее\"";
+"Label_ShapeType_ActionButtonBeginning" = "Кнопка \"Начало\"";
+"Label_ShapeType_ActionButtonBlank" = "Кнопка \"Пусто\"";
+"Label_ShapeType_ActionButtonDocument" = "Кнопка \"Документ\"";
+"Label_ShapeType_ActionButtonEnd" = "Кнопка \"Завершить\"";
+"Label_ShapeType_ActionButtonForwardNext" = "Фигура кнопки \"Вперед\" или \"Далее\"";
+"Label_ShapeType_ActionButtonHelp" = "Кпопка \"Справка\"";
+"Label_ShapeType_ActionButtonHome" = "Кнопка \"Домашняя страница\"";
+"Label_ShapeType_ActionButtonInformation" = "Кнопка \"Информация\"";
+"Label_ShapeType_ActionButtonMovie" = "Кнопка \"Фильм\"";
+"Label_ShapeType_ActionButtonReturn" = "Кнопка \"Возврат\"";
+"Label_ShapeType_ActionButtonSound" = "Кнопка \"Звук\"";
+"Label_ShapeType_Arc" = "Скругленная дуга";
+"Label_ShapeType_BentArrow" = "Стрелка углом";
+"Label_ShapeType_BentConnector2" = "Изогнутая соед. линия 2";
+"Label_ShapeType_BentConnector3" = "Изогнутая соед. линия 3";
+"Label_ShapeType_BentConnector4" = "Изогнутая соед. линия 4";
+"Label_ShapeType_BentConnector5" = "Изогнутая соед. линия 5";
+"Label_ShapeType_BentUpArrow" = "Изогнутая стрелка вверх";
+"Label_ShapeType_Bevel" = "Багетная рамка";
+"Label_ShapeType_BlockArc" = "Арка";
+"Label_ShapeType_BorderCallout1" = "Выноска 1 (с границей)";
+"Label_ShapeType_BorderCallout2" = "Выноска 2 (с границей)";
+"Label_ShapeType_BorderCallout3" = "Выноска 3 (с границей)";
+"Label_ShapeType_BracePair" = "Двойные фигурные скобки";
+"Label_ShapeType_BracketPair" = "Двойные круглые скобки";
+"Label_ShapeType_Callout1" = "Выноска 1";
+"Label_ShapeType_Callout2" = "Выноска 2";
+"Label_ShapeType_Callout3" = "Выноска 3";
+"Label_ShapeType_Can" = "Цилиндр";
+"Label_ShapeType_ChartPlus" = "Диаграмма с плюсом";
+"Label_ShapeType_ChartStar" = "Диаграмма со звездой";
+"Label_ShapeType_ChartX" = "Диаграмма X";
+"Label_ShapeType_Chevron" = "Нашивка";
+"Label_ShapeType_Chord" = "Аккорд";
+"Label_ShapeType_CircularArrow" = "Круговая стрелка";
+"Label_ShapeType_Cloud" = "Облако";
+"Label_ShapeType_CloudCallout" = "Выноска-облако";
+"Label_ShapeType_Corner" = "Угол";
+"Label_ShapeType_CornerTabs" = "Угловые вкладки";
+"Label_ShapeType_Cube" = "Куб";
+"Label_ShapeType_CurvedConnector2" = "Скругленная соед. линия 2";
+"Label_ShapeType_CurvedConnector3" = "Скругленная соед. линия 3";
+"Label_ShapeType_CurvedConnector4" = "Скругленная соед. линия 4";
+"Label_ShapeType_CurvedConnector5" = "Скругленная соед. линия 5";
+"Label_ShapeType_CurvedDownArrow" = "Выгнутая вверх стрелка";
+"Label_ShapeType_CurvedLeftArrow" = "Выгнутая вправо стрелка";
+"Label_ShapeType_CurvedRightArrow" = "Выгнутая влево стрелка";
+"Label_ShapeType_CurvedUpArrow" = "Выгнутая вниз стрелка";
+"Label_ShapeType_Decagon" = "Десятиугольник";
+"Label_ShapeType_DiagStripe" = "Диагональная полоса";
+"Label_ShapeType_Diamond" = "Ромб";
+"Label_ShapeType_Dodecagon" = "Двенадцатиугольник";
+"Label_ShapeType_Donut" = "Кольцо";
+"Label_ShapeType_DoubleWave" = "Двойная волна";
+"Label_ShapeType_DownArrow" = "Стрелка вниз";
+"Label_ShapeType_DownArrowCallout" = "Выноска со стрелкой вниз";
+"Label_ShapeType_Ellipse" = "Эллипс";
+"Label_ShapeType_EllipseRibbon" = "Лента овала";
+"Label_ShapeType_EllipseRibbon2" = "Лента овала 2";
+"Label_ShapeType_FlowChartAlternateProcess" = "Блок-схема: альтернативный процесс";
+"Label_ShapeType_FlowChartCollate" = "Блок-схема: сопоставление";
+"Label_ShapeType_FlowChartConnector" = "Блок-схема: узел";
+"Label_ShapeType_FlowChartDecision" = "Блок-схема: решение";
+"Label_ShapeType_FlowChartDelay" = "Блок-схема: задержка";
+"Label_ShapeType_FlowChartDisplay" = "Блок-схема: дисплей";
+"Label_ShapeType_FlowChartDocument" = "Блок-схема: документ";
+"Label_ShapeType_FlowChartExtract" = "Блок-схема: извлечение";
+"Label_ShapeType_FlowChartInputOutput" = "Блок-схема: ввод-вывод";
+"Label_ShapeType_FlowChartInternalStorage" = "Блок-схема: внутренняя память";
+"Label_ShapeType_FlowChartMagneticDisk" = "Блок-схема: магнитный диск";
+"Label_ShapeType_FlowChartMagneticDrum" = "Блок-схема: магнитный барабан";
+"Label_ShapeType_FlowChartMagneticTape" = "Блок-схема: магнитная лента";
+"Label_ShapeType_FlowChartManualInput" = "Блок-схема: ручной ввод";
+"Label_ShapeType_FlowChartManualOperation" = "Блок-схема: ручное управление";
+"Label_ShapeType_FlowChartMerge" = "Блок-схема: объединение";
+"Label_ShapeType_FlowChartMultidocument" = "Блок-схема: несколько документов";
+"Label_ShapeType_FlowChartOfflineStorage" = "Блок-схема: автономное хранилище";
+"Label_ShapeType_FlowChartOffpageConnector" = "Блок-схема: ссылка на другую страницу";
+"Label_ShapeType_FlowChartOnlineStorage" = "Блок-схема: онлайн-хранилище";
+"Label_ShapeType_FlowChartOr" = "Блок-схема: ИЛИ";
+"Label_ShapeType_FlowChartPredefinedProcess" = "Блок-схема: типовой процесс";
+"Label_ShapeType_FlowChartPreparation" = "Блок-схема: подготовка";
+"Label_ShapeType_FlowChartProcess" = "Блок-схема: процесс";
+"Label_ShapeType_FlowChartPunchedCard" = "Блок-схема: перфокарта";
+"Label_ShapeType_FlowChartPunchedTape" = "Блок-схема: перфолента";
+"Label_ShapeType_FlowChartSort" = "Блок-схема: сортировка";
+"Label_ShapeType_FlowChartSummingJunction" = "Блок-схема: узел суммирования";
+"Label_ShapeType_FlowChartTerminator" = "Блок-схема: знак завершения";
+"Label_ShapeType_FoldedCorner" = "Загнутый угол";
+"Label_ShapeType_Frame" = "Рамка";
+"Label_ShapeType_Funnel" = "Воронка";
+"Label_ShapeType_Gear6" = "Шестеренка 6";
+"Label_ShapeType_Gear9" = "Шестеренка 9";
+"Label_ShapeType_HalfFrame" = "Половина рамки";
+"Label_ShapeType_Heart" = "Сердце";
+"Label_ShapeType_Heptagon" = "Семиугольник";
+"Label_ShapeType_Hexagon" = "Шестиугольник";
+"Label_ShapeType_HomePlate" = "Пятиугольник";
+"Label_ShapeType_HorizontalScroll" = "Горизонтальная прокрутка";
+"Label_ShapeType_IrregularSeal1" = "Пятно 1";
+"Label_ShapeType_IrregularSeal2" = "Пятно 2";
+"Label_ShapeType_LeftArrow" = "Стрелка влево";
+"Label_ShapeType_LeftArrowCallout" = "Выноска со стрелкой влево";
+"Label_ShapeType_LeftBrace" = "Открывающая фигурная скобка";
+"Label_ShapeType_LeftBracket" = "Открывающая круглая скобка";
+"Label_ShapeType_LeftCircularArrow" = "Круговая стрелка влево";
+"Label_ShapeType_LeftRightArrow" = "Стрелка влево и вправо";
+"Label_ShapeType_LeftRightArrowCallout" = "Выноска в виде двойной стрелки влево/вправо";
+"Label_ShapeType_LeftRightCircularArrow" = "Круговая стрелка влево/вправо";
+"Label_ShapeType_LeftRightRibbon" = "Лента влево/вправо";
+"Label_ShapeType_LeftRightUpArrow" = "Тройная стрелка влево-вправо-вверх";
+"Label_ShapeType_LeftUpArrow" = "Двойная стрелка влево/вверх";
+"Label_ShapeType_LightningBolt" = "Молния";
+"Label_ShapeType_Line" = "Линия";
+"Label_ShapeType_LineInv" = "Обратная линия";
+"Label_ShapeType_MathDivide" = "Знак \"разделить\"";
+"Label_ShapeType_MathEqual" = "Знак \"равно\"";
+"Label_ShapeType_MathMinus" = "Знак \"минус\"";
+"Label_ShapeType_MathMultiply" = "Знак \"умножить\"";
+"Label_ShapeType_MathNotEqual" = "Знак \"не равно\"";
+"Label_ShapeType_MathPlus" = "Знак \"плюс\"";
+"Label_ShapeType_Moon" = "Луна";
+"Label_ShapeType_NonIsoscelesTrapezoid" = "Неравнобедренная трапеция";
+"Label_ShapeType_NoSmoking" = "Курение запрещено";
+"Label_ShapeType_NotchedRightArrow" = "Стрелка вправо с вырезом";
+"Label_ShapeType_Octagon" = "Восьмиугольник";
+"Label_ShapeType_Parallelogram" = "Параллелограмм";
+"Label_ShapeType_Pentagon" = "Пятиугольник";
+"Label_ShapeType_Pie" = "Круговая";
+"Label_ShapeType_PieWedge" = "Клин круговой диаграммы";
+"Label_ShapeType_Plaque" = "Табличка";
+"Label_ShapeType_PlaqueTabs" = "Вкладки таблички";
+"Label_ShapeType_Plus" = "Плюс";
+"Label_ShapeType_QuadArrow" = "Счетверенная стрелка";
+"Label_ShapeType_QuadArrowCallout" = "Выноска с четырьмя стрелками";
+"Label_ShapeType_Rectangle" = "Прямоугольник";
+"Label_ShapeType_Ribbon" = "Лента";
+"Label_ShapeType_Ribbon2" = "Лента 2";
+"Label_ShapeType_RightArrow" = "Стрелка вправо";
+"Label_ShapeType_RightArrowCallout" = "Выноска со стрелкой вправо";
+"Label_ShapeType_RightBrace" = "Закрывающая фигурная скобка";
+"Label_ShapeType_RightBracket" = "Закрывающая круглая скобка";
+"Label_ShapeType_Round1Rect" = "Прямоугольник с одним скругленным углом";
+"Label_ShapeType_Round2DiagRect" = "Прямоугольник с двумя скругленными противолежащими углами";
+"Label_ShapeType_Round2SameRect" = "Прямоугольник с двумя скругленными соседними углами";
+"Label_ShapeType_RoundRectangle" = "Прямоугольник со скругленными углами";
+"Label_ShapeType_RightTriangle" = "Прямоугольный треугольник";
+"Label_ShapeType_SmileyFace" = "Улыбающееся лицо";
+"Label_ShapeType_Snip1Rect" = "Прямоугольник с одним усеченным углом";
+"Label_ShapeType_Snip2DiagRect" = "Прямоугольник с двумя усеченными противолежащими углами";
+"Label_ShapeType_Snip2SameRect" = "Прямоугольник с двумя усеченными соседними углами";
+"Label_ShapeType_SnipRoundRect" = "Прямоугольник с одним скругленным и одним усеченным углами";
+"Label_ShapeType_SquareTabs" = "Квадратные вкладки";
+"Label_ShapeType_Star10" = "10-конечная звезда";
+"Label_ShapeType_Star12" = "12-конечная звезда";
+"Label_ShapeType_Star16" = "16-конечная звезда";
+"Label_ShapeType_Star24" = "24-конечная звезда";
+"Label_ShapeType_Star32" = "32-конечная звезда";
+"Label_ShapeType_Star4" = "4-конечная звезда";
+"Label_ShapeType_Star" = "5-конечная звезда";
+"Label_ShapeType_Star6" = "6-конечная звезда";
+"Label_ShapeType_Star7" = "7-конечная звезда";
+"Label_ShapeType_Star8" = "8-конечная звезда";
+"Label_ShapeType_StraightConnector1" = "Прямая соед. линия 1";
+"Label_ShapeType_StripedRightArrow" = "Штриховая стрелка вправо";
+"Label_ShapeType_Sun" = "Солнце";
+"Label_ShapeType_SwooshArrow" = "Изогнутая стрелка";
+"Label_ShapeType_Teardrop" = "Капля";
+"Label_ShapeType_Trapezoid" = "Трапеция";
+"Label_ShapeType_Triangle" = "Треугольник";
+"Label_ShapeType_UpArrow" = "Стрелка вверх";
+"Label_ShapeType_UpArrowCallout" = "Выноска со стрелкой вверх";
+"Label_ShapeType_UpDownArrow" = "Стрелка вниз";
+"Label_ShapeType_UpDownArrowCallout" = "Выноска со стрелками вверх/вниз";
+"Label_ShapeType_UturnArrow" = "Развернутая стрелка";
+"Label_ShapeType_VerticalScroll" = "Вертикальная полоса прокрутки";
+"Label_ShapeType_Wave" = "Волна";
+"Label_ShapeType_WedgeEllipseCallout" = "Овальная выноска";
+"Label_ShapeType_WedgeRectCallout" = "Прямоугольная выноска";
+"Label_ShapeType_WedgeRRectCallout" = "Скругленная прямоугольная выноска";
+
+"Label_FilledRoundBullets" = "Заполненные круглые маркеры";
+"Label_HollowRoundBullets" = "Пустые круглые маркеры";
+"Label_FilledSquareBullets" = "Заполненные квадратные маркеры";
+"Label_HollowSquareBullets" = "Пустые квадратные маркеры";
+"Label_StarBullets" = "Маркеры-звездочки";
+"Label_ArrowBullets" = "Маркеры-стрелки";
+"Label_CheckmarkBullets" = "Маркеры-галочки";
+
+"Label_NumbersInBrackets" = "Числа в скобках";
+"Label_LowerLettersInBrackets" = "Большие буквы в скобках";
+"Label_UpperLettersWithBracket" = "Большие буквы со скобкой";
+"Label_UpperLettersInBrackets" = "Большие буквы в скобках";
+"Label_UpperRomanNumbersWithBracket" = "Большие буквы со скобкой";
+"Label_UpperRomanNumbersInBrackets" = "Большие буквы в скобках";
+"Label_LowerRomanNumbersWithBracket" = "Маленькие римские цифры со скобкой";
+"Label_LowerRomanNumbersInBrackets" = "Маленькие римские цифры в скобках";
+
+"InfoTitle_AddNotes" = "Коснитесь дважды, чтобы добавить заметки";
+
+"Label_BubbleChart" = "Пузырек";
+"Label_BubbleChart3D" = "3D-пузырек";
+
+/* Up to 30 chars */
+"Label_ClearHyperlink" = "Очистить гиперссылки";
+
+"Label_EnterTitle" = "Введите название";
+"Label_RemoveLink" = "Удалить ссылку";
+"Label_NumAccounting" = "Финансовый";
+"Label_SelectCell" = "Выберите ячейку";
+"Label_SelectSheet"= "Выберите лист";
+"Label_TypeInTheCellRef" = "Введите ссылку на ячейку";
+"Label_StockChart" = "Биржевая";
+
+/* Up to 22 chars */
+"Label_StockHLC" = "макс.-мин.-закр.";
+
+/* Up to 22 chars */
+"Label_StockOHLC" = "откр.- макс.-мин.-закр.";
+
+/* Up to 10 chars */
+"Label_Comment" = "Коммент.";
+
+"Label_XlsSaveCommentsNotSupported" = "Сохранение файлов в формате .XLS не поддерживается. Комментарии не будут сохраняться.";
+"Label_PrevComment" = "Предыдущий комментарий";
+"Label_NextComment" = "Следующий комментарий";
+"Label_EditComment" = "Изменить комментарий";
+"Label_DeleteComment" = "Удалить комментарий";
+"Label_ClearComments" = "Очистить комментарии";
+
+/* Up to 10 chars */
+"Label_XValues" = "Значения X";
+"Label_YValues" = "Значения Y";
+"Label_ZValues" = "Значения Z";
+
+"Label_StockChartInfo" = "Информация о биржевой диаграмме";
+"Label_HighLowClose" = "Чтобы вставить эту диаграмму, укажите данные в таком порядке: максимальная цена, минимальная цена, цена закрытия. Используйте даты или названия акций в качестве подписей данных.";
+"Label_OpenHighLowClose" = "Чтобы вставить эту диаграмму, укажите данные в таком порядке: цена открытия. максимальная цена, минимальная цена, цена закрытия. Используйте даты или названия акций в качестве подписей данных.";
+
+"Label_Other" = "Другое";
+"Label_NegativeNumbers" = "Отрицательные числа";
+
+"Label_Opacity" = "Прозрачность";
+"Label_Thickness" = "Толщина";
+"Label_LineEndings" = "Завершение строк";
+
+"ErrMsg_RequestTimeOut" = "Истекло время ожидания запроса";
+"Label_ContactSupport" = "Служба поддержки";
+
+/* Up to 28 chars */
+"Label_FillSurvey" = "Заполните форму обратной связи";
+
+"InfoTitle_TellUsOpinion" = "Поделитесь своим мнением\nоб OfficeSuite!";
+"InfoMsg_TellUsOpinion" = "Заполните форму отзыва или свяжитесь с нами\nнапрямую и поделитесь своим мнением.";
+"Label_Feedback" = "Отправить отзыв";
+
+/* Up to 20 chars */
+"Label_FeedbackForm" = "Форма отзыва";
+
+/* Up to 28 chars */
+"Label_LikeUsOnFacebook" = "Мы в Facebook";
+
+"Label_ShareWithFriends" = "Поделиться с друзьями";
+
+/* Up to 28 chars */
+"Label_JoinOurBetaTestingGroup" = "Станьте нашим бета-тестером";
+
+"Label_BetaTesterForm" = "Форма бета-тестера";
+"Label_More" = "Еще";
+
+"Label_RadarChart" = "Радар";
+"Label_RadarChartStandard" = "Стандартно";
+"Label_RadarChartMarker" = "Маркеры";
+"Label_RadarChartFilled" = "Фильтр";
+
+"Label_HighLowCloseInfo" = "Чтобы вставить эту диаграмму, укажите данные в таком порядке: максимальная цена, минимальная цена, цена закрытия. Вы можете использовать даты или названия акций в качестве подписей данных.";
+
+/* Up to 72 chars */
+"Label_AgitationBarGoPremiumLongMessage" = "Успевайте больше, используя самое передовое приложение Office";
+
+"Label_AgitationBarGoPremiumShortMessage" = "Получить доп. функции";
+"Label_AgitationBarGoPremiumButtonText" = "ПОДРОБНЕЕ";
+
+"Label_AgitationBarUpdateLongMessage" = "Доступно обновление для OfficeSuite";
+"Label_AgitationBarUpdateShortMessage" = "Доступно обновление";
+"Label_AgitationBarUpdateButtonText" = "СКАЧАТЬ";
+"Label_PasteFormat" = "Вставьте\nформат";
+
+"Label_3DPie" = "Объемная круговая диаграмма";
+"ErrMsg_SaveInOtherFormat" = "Не удалось сохранить файл в текущем формате. Сохраните его в другом формате, прежде чем делиться им с другими.";
+
+/*
+ NEW STRINGS AFTER VER 4.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// PDF
+
+"Label_LineEndings_None" = "Нет";
+"Label_LineEndings_Square" = "Квадрат";
+"Label_LineEndings_Circle" = "Круг";
+"Label_LineEndings_Diamond" = "Ромб";
+"Label_LineEndings_OpenArrow" = "Открытая стрелка";
+"Label_LineEndings_ClosedArrow" = "Закрытая стрелка";
+"Label_NightMode" = "Ночной режим";
+
+"Label_ChoiceSelection_Multiple" = "Выбрать параметры";
+"Label_ChoiceSelection_Single" = "Выбрать параметр";
+
+"Label_LineThicknessValueFormat" = "%.0f тчк"; // %.0f is replaced with the actual number programatically
+
+"Label_Done" = "Готово";
+
+"Label_AddComment" = "Добавить комментарий";
+"Label_LineStart" = "Начало линии";
+"Label_LineEnd" = "Конец линии";
+
+// File Browser
+"Label_ShareWithFriends" = "Рассказать друзьям";
+"InfoMsg_CannotOpenAppStoreForDownload" = "Не удалось открыть страницу загрузки, поскольку нет доступа к App Store.";
+
+"Label_CameraCantStartMessage" = "Не удалось включить камеру. Разрешите приложению OfficeSuite доступ к камере в меню настроек.";
+"Label_CameraUnavailableMessage" = "Камера недоступна в режимах Split View и Slide Over.";
+"ErrTitle_ConnectionProblem" = "Проблема с подключением";
+
+/* Up to 45 chars */
+"Label_EditWordDocument" = "Начните редактировать новый документ Word.";
+"Label_EditExcelDocument" = "Начните редактировать новую таблицу Excel.";
+"Label_EditPresentationDocument" = "Начните редактировать новый файл PowerPoint.";
+
+"Label_CreateNewOnly" = "Создать";
+
+"Label_IncreaseFontSize" = "Увеличить размер шрифта";
+"Label_DecreaseFontSize" = "Уменьшить размер шрифта";
+
+// From windows porting
+"ErrMsg_PDFExportFailed" = "Ошибка экспорта в PDF.";
+"Label_ZoomFitTwoPages" = "На двух страницах";
+"PRGRSS_PreparingString" = "Подготовка…";
+
+/*
+ NEW STRINGS AFTER VER 4.2.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Lable_OpenFilesFrom" = "Открыть файлы из:";
+"Label_Account" = "Уч. запись";
+"Label_Add" = "Добавить";
+
+/* Up to 80 chars
+ %@ will be replaced with a brand name, for instance
+ "Add Dropbox account to view and edit remote files".
+ Brand name length does not count towards the 80 characters limit.
+ */
+"Label_AddAccountSpotlightDescription" = "Добавить уч. запись %@ для просмотра и редактирования файлов из удаленных мест";
+
+"Label_TouchID" = "Touch ID";
+"Label_TouchIDEnable" = "Чтобы разблокировать OfficeSuite, включите распознавание отпечатков с помощью Touch ID";
+"Label_TouchProvideBiometrics"="Добавьте хотя бы один отпечаток из меню настроек.";
+"InfoMsg_WarningNonEmptyPassword"="Поле пароля не заполнено. Введите пароль.";
+"InfoMsg_PreviewNotAvailable"="Предпросмотр недоступен.";
+"InfoPlist_shortcutTitleCreateFile" = "Создать файл";
+// MobileIron Edition strings
+"Label_MobileIronEdition" = "Выпуск MobileIron";
+
+"Label_OpenInForbidden" = "Администратор %@ запретил открывать документы в этом приложении.";
+"Label_AppNotAuthorized" = "Приложение не авторизовано";
+// End MobileIron Edition strings
+
+//Excel
+"Label_FractionNumberFormat"        = "Доли";
+"Label_SpecialNumberFormat"         = "Особые";
+"Label_CustomNumberFormat"          = "Настройка";
+
+/* Up to 28 chars */
+"Label_FractionUpToOneDigit"        = "Простыми дробями (1/4)";
+"Label_FractionUpToTwoDigits"       = "Дробями до двух цифр (10/25)";
+"Label_FractionUpToThreeDigits"     = "Дробями до трех цифр (300/850)";
+
+"Label_FractionUpAsHalves"          = "Половинными долями (1/2)";
+"Label_FractionUpAsQuarters"        = "Четвертыми долями (2/4)";
+"Label_FractionUpAsEights"          = "Восьмыми долями (4/8)";
+"Label_FractionUpAsSixteenths"      = "Шестнадцатыми долями (8/16)";
+"Label_FractionUpAsTenths"          = "Десятыми долями (5/10)";
+"Label_FractionUpAsHundreths"       = "Сотыми долями (50/100)";
+
+/* Up to 28 chars */
+"Label_UseCustomDenominator"        = "Заданными долями (1/%ld)";
+
+"Label_FractionCustomdenominator"   = "Заданные доли";
+"Label_FractionCustomDenominator"   = "Заданные доли";
+"Label_Denominator"                 = "Знаменатель";
+"Label_PostCode"                    = "Индекс";
+"Label_ZipCode(US)"                 = "Индекс (США)";
+"Label_ZipCode4(US)"                = "Индекс + 4 (США)";
+"Label_Postcode(A)"                 = "Индекс (A)";
+"Label_Postcode(CH)"                = "Индекс (CH)";
+"Label_Postcode(D)"                 = "Индекс (D)";
+"Label_Postcode(L)"                 = "Индекс (L)";
+"Label_Postcode(4digits)"           = "Индекс (4 цифры)";
+"Label_Postcode(5digits)"           = "Индекс (5 цифр)";
+"Label_Postcode(6digits)"           = "Индекс (6 цифр)";
+"Label_PhoneNumber"                 = "Номер телефона";
+"Label_SocialSecurityNumber"        = "Страховой номер";
+"Label_PdfOptions"                  = "Параметры PDF";
+
+"Label_PrintHeadings"               = "Печать заголовков";
+
+/* Up to 26 chars */
+"Label_PrintGridlines"              = "Печать сетки";
+
+"Label_SelectSheets"                = "Выбрать листы";
+"Label_ShowHeadings"                = "Показать заголовки";
+"Label_EmptyPage"                   = "Пустая страница";
+
+"Label_NewComment"                  = "Добавить комментарий";
+"Label_DefineName"                  = "Добавить название";
+"Label_CellRange"                   = "Диапазон ячеек";
+
+"Label_PremiumODF" = "Работайте с файлами формата OpenDocument (ODF), включая ODS, ODT и ODP. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumBinaryFormat" = "Сохраняйте в форматах прежних версий Word и Excel для наибольшей совместимости. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumCSV" = "Сохраняйте таблицы в формате CSV (значения с разделителями). Доступно в составе OfficeSuite Premium.";
+"Label_PremiumConditionalFormatting" = "Изменяйте форматирование и диапазоны ячеек, задавая определенные условия. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumHyperlinks" = "Создавайте и изменяйте гиперссылки на веб-сайты и адреса электронной почты. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumEditComments" = "Создавайте и изменяйте комментарии в файлах Excel. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumWordToPDF" = "Быстро преобразуйте файлы в формат PDF. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumCameraPhoto" = "Делайте снимки и сразу же вставляйте изображения с камеры устройства. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumAnnotatePdf" = "Создавайте и изменяйте заметки и выноски в PDF. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumAppProtectionPass" = "Ограничивайте доступ к OfficeSuite с помощью пароля. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumPDFtoWord" = "Преобразуйте PDF-файл в полностью редактируемый документ Word. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumPDFtoExcel" = "Преобразуйте PDF-файл в полностью редактируемую таблицу. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumPDFtoEPub" = "Преобразуйте PDF-файл в файл ePub. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumPdfPasswordChange" = "Ограничивайте доступ к файлу с помощью пароля. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumExcelToPDF" = "Быстро создавайте PDF-файлы из таблиц. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumPPTtoPDF" = "Быстро создавайте PDF-файлы из презентаций. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumFormFill" = "Заполняйте и сохраняйте редактируемые PDF-формы. Доступно в составе OfficeSuite Premium.";
+"Label_PremiumNightMode" = "Смотрите PDF-файлы со светлым текстом на темном фоне при слабом освещении. Доступно в составе OfficeSuite Premium.";
+"Label_PdfOptions"                  = "Параметры PDF";
+
+//Apple Watch Strings
+"Label_Start" = "Начать";
+"Label_Playing" = "Показ";
+
+/* Up to 57 chars */
+"Label_ParentAppConnectivityPrompt" = "Откройте презентацию в OfficeSuite для iPhone";
+
+"Label_FromSlideNumber" = "Со слайда %d";
+"Label_SlideNumberOfSlideCount" = "Слайд %d из %d";
+"Label_Restart" = "Перезапуск";
+"Label_EndShow" = "Завершить";
+
+// PDF
+
+"Label_PDFContainsDigitalSignatures" = "В этом документе содержатся цифровые подписи.";
+
+// annotation tips
+"Label_ToolTip_Note" = "Нажмите там, куда хотите добавить заметку";
+"Label_ToolTip_FreeText" = "Нажмите там, куда хотите добавить текст";
+"Label_ToolTip_Highlight" = "Чтобы выделить, перетащите поверх текста";
+"Label_ToolTip_Underline" = "Чтобы подчеркнуть, перетащите поверх текста";
+"Label_ToolTip_Strikethrough" = "Чтобы зачеркнуть, перетащите поверх текста";
+"Label_ToolTip_FreeDraw" = "Чтобы нарисовать, перетащите в любое место";
+"Label_ToolTip_Line" = "Чтобы создать линию, нажмите и перетащите";
+"Label_ToolTip_Rectangle" = "Чтобы создать треугольник, нажмите и перетащите";
+"Label_ToolTip_Ellipse" = "Чтобы создать эллипс, нажмите и перетащите";
+
+
+"Label_ProtectYourDocumentsTitle" = "Защищайте свои документы";
+"Label_ProtectYourDocumentsInfo" = "Устанавливайте пароли к OfficeSuite с помощью Touch ID";
+"Label_AnnotatePdfAndFillFormsTitle" = "PDF заметками и формы";
+"Label_AnnotatePdfAndFillFormsInfo" = "Создавайте и изменяйте заметки, заполняйте и сохраняйте редактируемые PDF-формы";
+"Label_SaveAsPDFTitle" = "Сохраняйте в PDF";
+"Label_SaveAsPDFInfo" = "Преобразуйте файлы Word, Excel и PowerPoint в формат PDF без потери форматирования";
+"Label_EditPDFDocumentsTitle" = "Изменяйте PDF-файлы";
+"Label_EditPDFDocumentsInfo" = "Преобразуйте любые PDF-файлы в полностью редактируемые файлы Word, Excel или ePub";
+"Label_SaveAsLegacyFormatsTitle" = "Устаревшие форматы Microsoft";
+"Label_SaveAsLegacyFormatsInfo" = "Сохраняйте документы в форматах DOC и XLS для наибольшей совместимости";
+"Label_OpenODFDocumentsTitle" = "Документы ODF";
+"Label_OpenODFDocumentsInfo" = "Работайте с файлами ODT, ODS и ODP.";
+"Label_GetExtraFontsTitle" = "Дополнительные шрифты";
+"Label_GetExtraFontsInfo" = "Более 70 таких неотъемлемых шрифтов, как Tahoma, Calibri и Wingdings";
+"Label_RemoveAdsTitle" = "Без рекламы";
+"Label_RemoveAdsInfo" = "Оцените все возможности OfficeSuite без рекламы";
+
+
+"Label_PremiumPowerPointEditNotes" = "Создавайте и изменяйте заметки выступающего на слайдах. Доступно в составе OfficeSuite Premium.";
+
+/*
+ NEW STRINGS AFTER VER 4.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+/* Up to 14 chars, "free" as "arbitrary", "user-generated"  */
+"Label_FreeText" = "Текст";
+
+"Label_Sign" = "Подписать";
+"Label_QuickSign" = "Быстрая подпись";
+"Label_AddDate" = "Добавить дату";
+"Label_PickDate" = "Выбрать дату";
+"Label_AddSignature" = "Добавить";
+"Label_QuickSignHint" = "Вставьте подпись или инициалы";
+"Label_QuickSignNoAvailableSignatures" = "Без подписей ";
+
+"Label_ToolTip_QuickSign" = "Коснитесь, где нужно добавить подпись";
+"Label_ToolTip_Date" = "Коснитесь, где нужно добавить дату";
+
+"Label_TryAgain" = "Повторите попытку";
+"Label_YouMustBeOnlineInOrderToUpgrade" = "Для обновления необходимо подключение к Интернету";
+"Label_CannotConnectToITunesStore" = "Не удается подключиться к iTunes Store";
+
+"ErrClass_FillString" = "Сбой заполнения. ";
+
+/*
+ NEW STRINGS AFTER VER 4.3.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_UnsupportedDefinedName" = "У этого документа неподдерживаемое имя. При сохранении может произойти ошибка.";
+
+"Label_SignIn" = "Вход";
+"Label_SignUp" = "Регистрация";
+"Label_SignOut" = "Выход";
+"Label_ForgotPassword" = "Забыли пароль ?";
+"Label_ResetPassword"  = "Сбросить пароль";
+"Label_Remove" = "Удалить";
+"Label_TakePhoto" = "Сделать снимок";
+"Label_ChooseFromCameraRoll" = "Выбрать из фотопленки";
+"Err_EnterDifferentPassword" = "Старый и новый пароли совпадают. Введите пароль, который не повторяется!";
+"Label_SaveAppSettings" = "Сохраняйте настройки приложения, последние файлы и прочее";
+
+//Common error strings from Android version
+"Err_PleaseFillYourCredentials" = "Введите учетные данные.";
+"Err_InvalidEmailAddress"       = "Неверный адрес электронной почты.";
+"Err_AccountDoesNotExist"       = "Такой учетной записи нет. Проверьте адрес электронной почты и повторите попытку.";
+"Err_AccountAlreadyExist"       = "Такое имя уже занято. Хотите сбросить пароль?";
+"Err_PasswordMissmatch"         = "Неправильное имя пользователя или пароль.";
+"Wrn_SighOutDecription"         = "Хотите выйти?";
+"Msg_PasswordChanged"           = "Пароль изменен";
+"Err_AccountNotValidated"       = "Учетная запись еще не подтверждена";
+"Btn_ResendValidation"          = "Подтвердить";
+"Msg_ValidationResendSuccess"   = "Ссылка для подтверждения отправлена на ваш адрес электронной почты.";
+"Msg_PasswordReset"             = "Новый пароль отправлен на ваш адрес электронной почты. Проверьте почту и выполните вход.";
+
+// PDF
+
+"PRGRSS_ExecutingJavaScript" = "Выполнение сценария JavaScript…";
+
+"Label_AddEditComment" = "Добавить/изменить комментарий";
+
+// MSConnect / Payments
+
+"Label_TooManyDevices" = "Вы выполнили вход, использовав слишком много устройств.";
+"Label_PleaseUpdatePayment" = "Вы давно не обновляли платежные данные Android. Версия Premium будет доступна, когда вы обновите их.";
+
+//Word - WebView
+
+"Label_WebView" = "Веб-просмотр";
+"Label_PageView" = "Просмотр страницы";
+
+//Go Premium Screen Strings
+"Label_UpgadeToPremium" = "Перейти на Premium";
+"Label_DescriptionProtectYourDocuments" = "Устанавливайте пароли к OfficeSuite с помощью Touch ID";
+"Label_DescritpionEditPDFs" = "Конвертируйте любые PDF-файлы в Word, Excel или ePub";
+"Label_TitleSignYourPDFFiles" = "Подписывайте PDF-файлы";
+"Label_DescriptionSignYourPDFFiles" = "Добавлять цифровые подписи к документам с быстрой знак";
+"Label_SubscriptionPeriodMonthly" = "мес.";
+"Label_SubscriptionPeriodYearly"  = "г.";
+"Label_SaveForPrice" = "СОХРАНИТЬ"; // save for price e.g "SAVE $15.99"
+"Label_UpgradeText" = "Обновить";
+"Label_OfficeSuitePremium" = "OfficeSuite Premium";
+"Label_OfficeSutiePremiumDesc" = "Максимально повысьте продуктивность своей работы на мобильных устройствах";
+"Label_UpgradeNow" = "Перейти на Premium сейчас";
+"Label_LoginInfo" = "Используйте свою подписку на разных платформах и устройствах";
+"Label_SignInWith" = "Вход с помощью";
+"Label_DontHaveAccount" = "Еще не зарегистрированы?";
+"Label_DontHaveAnAccount" = "Не зарегистрированы?";
+"Label_SignUpHere" = "Зарегистрируйтесь здесь";
+"Label_AlreadyHaveAccount" = "Уже зарегистрированы?";
+"Label_SignInNow" = "Войдите";
+"Label_ResetPasswordDesc" = "На указанный адрес электронной почты мы отправим пароль и инструкции по сбросу пароля.";
+"Label_FullName" = "Полное имя";
+"Label_ChangePassword" = "Изменить пароль";
+"Label_UserSettings" = "Настройки пользователя";
+"Label_EnterOldPassword" = "Введите старый пароль";
+"Label_EnterNewPassword" = "Введите новый пароль";
+"Label_Re-EnterNewPassword" = "Введите новый пароль еще раз";
+
+// MSConnect / Payment messages
+
+"Label_PremiumTransferFailed" = "Ошибка перехода на версию Premium";
+"Label_PremiumLicenseHasAnotherAccount" = "Эта лицензия на версию Premium уже привязана к адресу %@";
+"Label_TooManyDevicesMan" = "Вы используете слишком много устройств с этой лицензией Premium.";
+"Label_PremiumLicenseExpired" = "Срок действия лицензии на версию Premium истек.";
+"Label_PremiumExpired" = "Срок действия лицензии Premium истек";
+"Label_PremiumPleaseUpdateStatus" = "Статус лицензии Premium не обновлен. Чтобы обновить его, выполните вход с оригинального устройства.";
+"Label_PremiumNotUpdated" = "Лицензия Premium не обновлена";
+
+/*
+ NEW STRINGS AFTER VER 4.4
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_TryToLoginWithAnotherAccount" = "Не удалось войти в эту учетную запись. Попробуйте другую.";
+"Label_NothingToRestore" = "У вас нет покупок для восстановления.";
+"Label_ShareWithFriends" = "Поделиться с друзьями";
+
+"Label_InactivityUrge1" = "Вы знали, что у вас есть полноценный пакет Office прямо под рукой?";
+"Label_InactivityUrge2" = "А вы знаете, что в OfficeSuite можно прочитать и отредактировать любой документ?";
+"Label_InactivityUrge3" = "А вы знаете, что в OfficeSuite можно редактировать документы PDF?";
+"Label_CompleteSubscriptionUrge1" = "Зачем откладывать на потом? Оформите подписку и повысьте свою продуктивность!";
+"Label_CompleteSubscriptionUrge2" = "Оформите подписку, чтобы получить наилучшее мобильное приложение для работы с документами — OfficeSuite Premium!";
+"Msg_PasswordChangedPassive"      = "Пароль изменен.";
+
+// PowerPoint
+
+"Label_FillColor" = "Цвет заливки";
+"Label_NoFill" = "Без заливки";
+"Label_LineColor" = "Цвет линии";
+"Label_NoLine" = "Без линии";
+"Label_LineWeight" = "Толщина линии";
+"Label_LineStyle" = "Стиль линии";
+
+"Accessibility_Label_DashingType_Solid" = "Сплошная";
+"Accessibility_Label_DashingType_SysDash" = "Сист. штриховая";
+"Accessibility_Label_DashingType_SysDot" = "Сист. пунктирная";
+"Accessibility_Label_DashingType_SysDashDot" = "Сист. штрих-пунктир";
+"Accessibility_Label_DashingType_SysDashDotDot" = "Сист. штрих-пунктир-пунктир";
+"Accessibility_Label_DashingType_Dot" = "Пунктирная";
+"Accessibility_Label_DashingType_Dash" = "Штриховая";
+"Accessibility_Label_DashingType_LgDash" = "Длинный штрих";
+"Accessibility_Label_DashingType_DashDot" = "Штрих-пунктир";
+"Accessibility_Label_DashingType_LgDashDot" = "Длинный штрих-пунктир";
+"Accessibility_Label_DashingType_LgDashDotDot" = "Длинный штрих-пунктир-пунктир";
+
+//File browser
+
+"Label_ForgotYourPassword" = "Забыли пароль?";
+"Err_EnterLessSimilarPassword" = "Старый пароль слишком похож на новый. Введите другой!";
+"Label_PremiumSubscriptionExpired" = "Срок действия подписки Premium истек.";
+"Label_PremiumSubscriptionHasAnotherAccount" = "Эта подписка Premium уже связана с %@.";
+"Label_TooManyDevicesForSubscriptionMan" = "Вы превысили максимально допустимое количество устройств, разрешенных в подписке Premium.";
+"Msg_ShareDescription" = "Попробуйте OfficeSuite — прекрасное приложение для работы с документами Word, Excel, PowerPoint и PDF.";
+"Label_CPPleaseTryAgain" = "Проблема с подключением. Повторите попытку позже.";
+"Label_YouMustBeOnlineToSync" = "Для синхронизации учетной записи необходимо быть в сети.";
+"Label_LastSync" = "Последняя синхронизация:";
+"Wrn_WillLosePremiumSubscriptionIfSignOut" = "Действительно выйти? Вы больше не сможете использовать подписку Premium на этом устройстве.";
+
+/*
+ NEW STRINGS AFTER VER 4.5
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// Track Changes Strings
+"Label_Review" = "Просмотр";
+"Label_TrackChanges" = "ОТСЛЕЖИВАТЬ ИСПРАВЛЕНИЯ";
+
+/* Up to 24 chars */
+"Label_TrackChangesMergedView" = "Единое представление";
+
+"Label_TrackChangesOriginalView" = "Исходное представление";
+"Label_TrackChangesFinalView" = "Конечное представление";
+"Label_ReviewMarkup" = "ПРОСМОТР ИСПРАВЛЕНИЙ";
+"Label_PreviousChange" = "ПРЕД. ИСПРАВЛЕНИЕ";
+"Label_NextChange" = "СЛЕД. ИСПРАВЛЕНИЕ";
+"Label_PreviousComment" = "ПРЕД. КОММЕНТАРИЙ";
+"Label_NextComment" = "СЛЕД. КОММЕНТАРИЙ";
+"Label_HiddenTrackChanges" = "Все отслеживаемые исправления сейчас скрыты.";
+"Label_ShowAllTrackChanges" = "Показать все";
+"Label_NoChangesInDocument" = "Отслеживаемых исправлений в документе нет.";
+"Label_SearchFromBeginningOfDocument" = "Продолжить поиск с начала документа?";
+"Label_SearchFromEndOfDocument" = "Продолжить поиск с конца документа?";
+"Label_RevisionsTracking" = "Отслеживание исправлений";
+"Label_RevisionsTrackingMessage" = "Это действие не будет отмечено как исправление. Продолжить?";
+"Label_UntrackedOperationMessage" = "Эта операция не будет отмечена как исправление, поскольку она влияет на таблицу.";
+
+//Months
+"Label_January" = "Январь";
+"Label_February" = "Февраль";
+"Label_March" = "Март";
+"Label_April" = "Апрель";
+"Label_May" = "Май";
+"Label_June" = "Июнь";
+"Label_July" = "Июль";
+"Label_August" = "Август";
+"Label_September" = "Сентябрь";
+"Label_October" = "Октябрь";
+"Label_November" = "Ноябрь";
+"Label_December" = "Декабрь";
+
+// PDF
+"Label_SwitchOffReflow" = "Редактирование в режиме расплавления отключено. Перейти в непрерывный режим?";
+"Label_ProtectedFile" = "Защищенный файл";
+"Label_FullAccessPasswordRequired" = "Файл защищен паролем.\nВведите пароль для полного доступа:";
+"Label_Annotations" = "Примечания";
+"Label_NoAnnotations" = "Примечаний нет";
+"Label_NoContents" = "Ничего не найдено";
+"Label_WillDeleteAllAnnotations" = "Удалить все примечания в этом документе?";
+"Label_Reflow" = "Расплавление";
+"Label_DocumentNavigation" = "Навигация в документе";
+"Label_DeletingAnnotations" = "Удаление примечаний…";
+"Label_WillSwitchToContinuousMode" = "Примечания в режиме расплавления недоступны. Перейти в непрерывный режим?";
+"Label_PdfUserPasswordSameAsOwnerPassword" = "Пароль владельца и пароль пользователя не могут совпадать.";
+
+
+"Label_DontAskAgain" = "Больше не спрашивать";
+
+//File Browser new design sitrngs
+"Label_TabRecent" = "Последние";
+"Label_RecentFilesUp" = "Последние файлы";
+"Label_NewBlankDocument" = "Создать документ";
+"Label_NewBlankSpreadsheet" = "Создать таблицу";
+"Label_NewBlankPresentation" = "Создать презентацию";
+
+/* Up to 28 chars */
+"Label_AddCloudStorage" = "Добавить обл. хранилище";
+
+"Label_MDM_Clouds_Disabled" = "Ваш администратор отключил доступ к облачным хранилищам. Сейчас вы можете  открывать/редактировать/сохранять только локальные файлы. ";
+"Label_MDM_AirWatchEdition" = "Выпуск AirWatch";
+"Lable_MDM_PermissionChanged" = "Разрешение изменено";
+"Label_MDM_PasscodeDisabled" = "Администратор отключил установку пароля для приложения.";
+
+"Label_AboutOfficeSuite" = "О приложении OfficeSuite";
+"Label_AccountSettings" = "Уч. запись";
+"Label_SelectAll" = "Выбрать все";
+"Label_DeselectAll" = "Отменить выбор";
+"Label_ManagePlaces" = "Обзор мест";
+
+//Track changes
+"Label_ReviewMarkupTitleCase" = "Просмотр исправлений";
+"Label_PremiumWordTrackChanges" = "Удобная совместная работа: создавайте и редактируйте исправления.";
+"Label_SearchCommentsFromBeginningOfDocument" = "Поиск комментариев с начала документа.";
+"Label_SearchCommentsFromEndOfDocument" = "Поиск комментариев с конца документа.";
+
+"Label_SearchTabPlaceHolder" = "Поиск OfficeSuite";
+
+/* Up to 22 chars */
+"Label_CloudStorage" = "Обл. хранилище";
+
+/*
+ NEW STRINGS AFTER VER 4.6
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+/* Up to 13 chars */
+"Label_Unprotect" = "Снять защиту";
+
+/* Up to 28 chars */
+"Label_SelectLockedCells" = "Заблокированные ячейки";
+
+/* Up to 28 chars */
+"Label_SelectUnlockedCells" = "Незаблокированные ячейки";
+
+"Label_FormatCells" = "Форматировать ячейки";
+"Label_FormatColumns" = "Форматировать столбцы";
+"Label_FormatRows" = "Форматировать строки";
+"Label_InsertColumns" = "Вставить столбцы";
+"Label_InsertRows" = "Вставить строки";
+
+/* Up to 30 chars */
+"Label_InsertHyperlinks" = "Вставить гиперссылки";
+
+"Label_DeleteColumns" = "Удалить столбцы";
+"Label_DeleteRows" = "Удалить строки";
+"Label_UseAutoFilter" = "Использовать автофильтр";
+
+/* Up to 30 chars */
+"Label_PivotTable" = "Сводную таблицу и диаграмму";
+
+"Label_EditObjects" = "Изменить диаграммы";
+"Label_EditScenarios" = "Изменить сценарии";
+"Label_ProtectSheet" = "Защитить лист";
+"Label_UnprotectToChange" = "Этот лист защищен. Чтобы внести изменения, снимите защиту.";
+"Label_PasswordProtectedSheet" = "Защищенный паролем лист";
+"Label_UnprotectSheet" = "Снять защиту с листа";
+"Label_ProtectedSheet" = "Защищенный лист";
+"Label_HideLockCellInfo" = "Если заблокировать ячейки или скрыть формулы, это отразится только на защищенных листах.";
+"Label_CellLocked" = "Заблокировано";
+"Label_CellHidden" = "Скрыто";
+"Label_CellProtection" = "Защита ячеек";
+"Label_Data" = "Данные";
+"Label_DataValidation" = "Проверка";
+"Label_ErrorAlert" = "Оповещение об ошибке";
+"Label_ErrorMessage" = "Сообщение об ошибке";
+"Label_InputMessage" = "Подсказка";
+"Label_Criteria" = "Условие";
+"Label_ValidationCriteria" = "Условие проверки";
+"Label_AnyValue" = "Любое значение";
+"Label_WholeNumber" = "Целое число";
+"Label_Decimal" = "Десятичное число";
+"Label_List" = "Список";
+"Label_Time" = "Время";
+"Label_TextLength" = "Длина текста";
+"Label_DVBetween" = "в диапазоне";
+"Label_DVNotBetween" = "вне диапазона";
+"Label_DVEqualTo" = "равно";
+"Label_DVNotEqualTo" = "не равно";
+"Label_DVGreaterThan" = "больше";
+"Label_DVLessThan" = "меньше";
+"Label_DVGreaterThanOrEqualTo" = "больше или равно";
+"Label_DVLessThanOrEqualTo" = "меньше или равно";
+"Label_IgnoreBlank" = "Пропуск пустых ячеек";
+"Label_InCellDropdown" = "Допустимые значения";
+"Label_Source" = "Источник";
+"Label_Formula" = "Формула";
+"Label_Minimum" = "Минимум";
+"Label_Maximum" = "Максимум";
+"Label_Length" = "Длина";
+"Label_StartDate" = "Дата начала";
+"Label_EndDate" = "Дата окончания";
+"Label_StartTime" = "Начало";
+"Label_EndTime" = "Окончание";
+"Label_ShowInputMessage" = "Отображать подсказку";
+"Label_Message" = "Сообщение";
+"Label_ShowErrorAlert" = "Оповещать об ошибке";
+"Label_Warning" = "Предупреждение";
+"Label_Information" = "Информация";
+"Label_CircleInvalidData" = "Обвести неверные данные";
+"Label_Retry" = "Повтор";
+"InfoTitle_Date" = "Дата";
+"InfoTitle_SlideNumber" = "Номер слайда";
+"InfoTitle_Footer" = "Нижний колонтитул";
+"Label_AllowProtectionTypes" = "Разрешить всем пользователям этого листа:";
+"Label_ProtectChartSheetFor" = "Защитить листы для:";
+"Label_Objects" = "Объекты";
+"Label_NoResult" = "Ничего не найдено";
+"Label_EditObjects2" = "Изменить объекты";
+"Label_ReplaceAll" = "Заменить все";
+"Label_SeparateCoverPage" = "Отдельная обложка";
+"Label_ViewModeOptions" = "Параметры режима просмотра";
+
+/* Up to 26 chars */
+"Label_ContinuousTwoPages" = "Без разбиения на страницы";
+
+"Label_PremiumQuickSign" = "Добавьте рукописную подпись к PDF-документам. Эта функция доступна в составе OfficeSuite Premium.";
+"Label_PrintLowQuality" = "Печать в низком качестве";
+"Label_PrintHighQuality" = "Печать в высоком качестве";
+"Label_FullAccessPasswordRequiredForHighQualityPrinting" = "Этот файл защищен паролем. Для печати в высоком качестве введите пароль полного доступа.";
+"Label_DeleteSheet" = "Удалить лист";
+"Label_CantDeleteSheet" = "Не удается удалить. Для удаления отобразите другой лист (если имеются скрытые) или добавьте новый.";
+
+"Label_PremiumAllBinaryFormats" = "Сохраняйте в форматах прежних версий Word, Excel и PowerPoint для наибольшей совместимости. Доступно в составе OfficeSuite Premium.";
+"Label_SaveAsAllLegacyFormatsInfo" = "Сохраняйте документы в .DOC, .XLS и .PPT для наибольшей совместимости";
+
+/*
+ NEW STRINGS AFTER VER 4.7
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrMsg_EmptyTextField" = "Необходимо заполнить все текстовые поля";
+"Confirm_EraseDataValidation" = "В выделенных областях содержится более одного типа проверок. Заменить текущую проверку и продолжить?";
+"ErrMsg_DataValidationIsInvalid" = "Введенное значение недопустимо.";
+"WarnMsg_DataValidationIsInvalid" = "Введенное значение недопустимо. Все равно изменить ячейку?";
+"InfoMsg_DataValidationIsInvalid" = "Введенное значение недопустимо.";
+"ErrMsg_InvalidChars" = "Содержатся недопустимые символы";
+
+"Msg_ErrorLockedOutAfterFailedSignIns" = "Слишком много попыток входа. Повторите попытку позже.";
+"Label_ManageAccount" = "Управление учетной записью";
+
+//Word
+"Label_Shading" = "Заливка";
+
+"Label_WhatsNew" = "Что нового";
+"Label_Sheets" = "Таблицы";
+"Label_OpenPDF" = "Открыть PDF";
+"Label_RateUs" = "Оцените нас";
+"TextBox_DefaultText" = "Для правки нажмите дважды";
+"Label_Slides" = "Слайды";
+
+/*
+ NEW STRINGS AFTER VER 4.8
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrDoc_Save_Xls_Not_Supported" = "Не удается сохранить документ в формате XLS, потому что он состоит только из листов диаграмм.";
+"InfoMsg_InvalidDVAllTable" = "Задать правила проверки данных для всего листа нельзя.";
+"Label_MarkerLineChart" = "График с маркерами";
+"Err_PleaseLoginAgain"       = "Вы вышли из учетной записи. Войдите снова.";
+"Label_PremiumProtectSheet" = "Можно защитить ячейки в таблицах. Эта функция доступна в составе OfficeSuite Premium.";
+"Label_NoColor" = "Без цвета";
+"Label_CellShading" = "Заливка ячеек";
+"Label_EnterPassToUnprotect" = "Введите пароль, чтобы снять защиту листа.";
+
+//Excel
+"Label_Cells" = "Ячейки";
+"Label_ShiftLeft" = "Со сдвигом влево";
+"Label_ShiftUp" = "Со сдвигом вверх";
+"Label_EntireRow" = "Вся строка";
+"Label_EntireColumn" = "Весь столбец";
+"Label_DeleteOptions" = "Параметры удаления";
+
+"WarnMsg_Continue" = "\n\nПродолжить?";
+
+"Err_WillChangeFilteredRange" = "Отфильтрованный диапазон будет изменен.";
+"ErrClass_DeleteCells" = "Не удалось удалить ячейки.";
+
+"Label_Alert" = "Оповещение";
+"AlertMsg_DeleteRow" = "Удалить всю строку?";
+"AlertMsg_WillUnmergeCells" = "Этой командой вы разъедините некоторые объединенные ячейки. Хотите продолжить?";
+
+//File browser
+"Label_SearchByType" = "Поиск по типу";
+"Label_RecentSearches" = "Последние поиски";
+
+// Excel
+"Label_BarOfPie" = "Вторичная гистограмма";
+"Label_PieOfPie" = "Вторичная круговая";
+"Label_3DColumn" = "Объемная гистограмма";
+
+/*
+ NEW STRINGS AFTER VER 4.9
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// PowerPoint
+"Label_PowerPointMacroTemplate" = "Шаблон PowerPoint с поддержкой макросов";
+"Label_EnterpriseMode" = "Режим предприятия";
+"Label_NetForEntrpriseNeeded" = "Для перехода в режим предприятия требуется интернет-подключение.";
+"Label_SolidFill" = "Сплошная заливка";
+"Label_PictureFill" = "Заливка рисунком";
+
+// PDF
+"Label_TwoPages" = "Две страницы";
+"Label_ContinuousScroll" = "Непрерывная прокрутка";
+"Label_PdfPageView" = "Просмотр страницы";
+"Label_ReflowView" = "Режим расплавления";
+
+//FileCommander
+
+"Label_Favorites" = "Закреплено";
+"Label_NoFavorites" = "Чтобы прикрепить файлы, нажмите «Изменить».";
+"Label_NoFavoritesInEditMode" = "Прикрепленных файлов нет.";
+"Label_OtherLocations" = "Открыть другое место";
+"Label_CreateNewFolder" = "Создать папку";
+"Label_CreateNewOfficeDoc" = "Создать файл";
+"Label_MoveToThisLocation" = "Перенести в это место";
+"InfoTitle_iCloudSwitchedOn" = "Включена служба iCloud";
+"InfoMsg_iCloudSwitchedOn" = "Хотите перенести локальные файлы в iCloud?";
+"InfoMsg_iCloudIsDisabled" = "Доступ к iCloud Drive отключен для OfficeSuite. Включить его можно в настройках.";
+"Label_AddCloud" = "Добавить облако";
+"Label_OpenFrom" = "Выбрать место";
+"InfoMsg_NewItem" = "Создать";
+"Label_FromTemplate" = "Из шаблона";
+"Label_NoResults" = "Ничего не найдено";
+"Label_SearchByTypeCapitalized" = "Поиск по типу";
+"Label_RecentSearchesCapitalized" = "Недавние запросы";
+"Label_OfficeSutiePremiumDescription" = "Пользуйтесь всеми возможностями сразу";
+"Label_OfficeForEveryPlatformTitle" = "Универсальный мобильный OfficeSuite";
+"Label_OfficeForEveryPlatformDescription" = "Войдите и оцените полноту возможностей на разных платформах с одной подпиской";
+"Label_NewFromTemplates" = "Создать из шаблонов";
+
+// Excel charts
+"Label_Doughnut" = "Кольцевая";
+
+// Word
+"Label_Header" = "Заголовок";
+"Label_Footer" = "Нижний колонтитул";
+"Label_LinkToPrevious" = "Связать с предыдущим";
+"Label_FirstPage" = "Первая страница";
+"Label_OddAndEvenPages" = "Четные и нечетные страницы";
+"Label_GoToFooter" = "К нижнему колонтитулу";
+"Label_GoToHeader" = "К заголовку";
+"Label_HeaderOffset" = "Смещение заголовка";
+"Label_FooterOffset" = "Смещение нижнего колонтитула";
+"Label_HeaderFooter" = "Нижний колонтитул/заголовок";
+"Label_HeaderFromTop" = "От верхнего края до верхнего колонтитула";
+"Label_FooterFromBottom" = "От нижнего края до нижнего колонтитула";
+"Label_WordPageNumber" = "Номер страницы";
+"Label_PageNumberFormat" = "Формат номеров страниц";
+"Label_PageNumbering" = "Нумерация страниц";
+"Label_NumberFormat" = "Формат чисел";
+"Label_Location" = "Расположение";
+"Label_StartingPage" = "Начальная страница";
+"Label_ContinueFromPrevSection" = "Продолжить";
+"Label_DocumentsNewComment" = "Новый комментарий";
+"Label_DeleteAllComments" = "Удалить все";
+"Label_AcceptChange" = "ПРИНЯТЬ ИЗМЕНЕНИЕ";
+"Label_RejectChange" = "ОТКЛОНИТЬ ИЗМЕНЕНИЕ";
+
+/***************************************************************************************************
+ 
+ TRANSLATION ENDS HERE. STRINGS BELOW MAY BE EDITED.
+ 
+ **************************************************************************************************/
+
+/*
+ NEW STRINGS AFTER VER 5.0
+ 
+ STRINGS MAY BE EDITED.
+ */
+
+"Label_IncorrectPassword" = "Incorrect password.";

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Excel Charts Test" duration-ms="49605" started-at="2017-04-10T16:25:04Z" finished-at="2017-04-10T16:25:53Z">
+    <groups>
+    </groups>
+    <test name="Test Data" duration-ms="28754" started-at="2017-04-10T16:25:04Z" finished-at="2017-04-10T16:25:33Z">
+      <class name="com.mobisystems.automation.excel.data.TestData">
+        <test-method status="PASS" signature="clearAlerts()[pri:0, instance:com.mobisystems.automation.excel.data.TestData@668bc3d5]" name="clearAlerts" is-config="true" duration-ms="6824" started-at="2017-04-10T19:25:04Z" finished-at="2017-04-10T19:25:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearAlerts -->
+        <test-method status="PASS" signature="AddGoogleCloud()[pri:1, instance:com.mobisystems.automation.excel.data.TestData@668bc3d5]" name="AddGoogleCloud" duration-ms="21918" started-at="2017-04-10T19:25:11Z" finished-at="2017-04-10T19:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddGoogleCloud -->
+        <test-method status="PASS" signature="restore(org.testng.ITestResult, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mobisystems.automation.excel.data.TestData@668bc3d5]" name="restore" is-config="true" duration-ms="1" started-at="2017-04-10T19:25:33Z" finished-at="2017-04-10T19:25:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AddGoogleCloud status=SUCCESS method=TestData.AddGoogleCloud()[pri:1, instance:com.mobisystems.automation.excel.data.TestData@668bc3d5] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[QA Air 2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10.3.1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[data]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[com.mobisystems.OfficeSuite]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1ff3ca8785493b460ccbdab2fc913e9e0b58032a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restore -->
+      </class> <!-- com.mobisystems.automation.excel.data.TestData -->
+    </test> <!-- Test Data -->
+    <test name="Area Charts" duration-ms="20837" started-at="2017-04-10T16:25:33Z" finished-at="2017-04-10T16:25:53Z">
+      <class name="com.mobisystems.automation.excel.area.AreaStacked100">
+        <test-method status="PASS" signature="initAppiumServer()[pri:0, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f]" name="initAppiumServer" is-config="true" duration-ms="3413" started-at="2017-04-10T19:24:10Z" finished-at="2017-04-10T19:24:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initAppiumServer -->
+        <test-method status="PASS" signature="initAppiumDriver(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f]" name="initAppiumDriver" is-config="true" duration-ms="41678" started-at="2017-04-10T19:24:14Z" depends-on-methods="com.mobisystems.automation.BaseTest.initAppiumServer" finished-at="2017-04-10T19:24:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[QA Air 2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10.3.1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1ff3ca8785493b460ccbdab2fc913e9e0b58032a]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.mobisystems.OfficeSuite]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[XCUITest]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initAppiumDriver -->
+        <test-method status="PASS" signature="loadLocale(java.lang.String, java.lang.String)[pri:0, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f]" name="loadLocale" is-config="true" duration-ms="83" started-at="2017-04-10T19:24:55Z" finished-at="2017-04-10T19:24:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/pavelpopov/Desktop/Automation/Excel/Charts/Strings]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[en]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadLocale -->
+        <test-method status="PASS" signature="setOutputPath(java.lang.String)[pri:0, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f]" name="setOutputPath" is-config="true" duration-ms="0" started-at="2017-04-10T19:24:55Z" finished-at="2017-04-10T19:24:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/pavelpopov/Desktop/Automation/Excel/Charts/target/[QA Air 2] iOS 10.3.1 (07-24-10)//en/screenshots]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setOutputPath -->
+        <test-method status="PASS" signature="whatsNew()[pri:0, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f]" name="whatsNew" is-config="true" duration-ms="8445" started-at="2017-04-10T19:24:55Z" depends-on-methods="com.mobisystems.automation.BaseTest.initAppiumServer, com.mobisystems.automation.BaseTest.loadLocale, com.mobisystems.automation.BaseTest.setOutputPath, com.mobisystems.automation.BaseTest.initAppiumDriver" finished-at="2017-04-10T19:25:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whatsNew -->
+        <test-method status="PASS" signature="clearAlerts()[pri:0, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f]" name="clearAlerts" is-config="true" duration-ms="1521" started-at="2017-04-10T19:25:33Z" finished-at="2017-04-10T19:25:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearAlerts -->
+        <test-method status="PASS" signature="openAreaStacked100()[pri:1, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f]" name="openAreaStacked100" duration-ms="17422" started-at="2017-04-10T19:25:34Z" finished-at="2017-04-10T19:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAreaStacked100 -->
+        <test-method status="PASS" signature="restore(org.testng.ITestResult, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f]" name="restore" is-config="true" duration-ms="0" started-at="2017-04-10T19:25:52Z" finished-at="2017-04-10T19:25:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=openAreaStacked100 status=SUCCESS method=AreaStacked100.openAreaStacked100()[pri:1, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[QA Air 2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10.3.1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[area]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[com.mobisystems.OfficeSuite]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1ff3ca8785493b460ccbdab2fc913e9e0b58032a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restore -->
+        <test-method status="PASS" signature="visualAreaStacked100()[pri:2, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f]" name="visualAreaStacked100" duration-ms="1891" started-at="2017-04-10T19:25:52Z" finished-at="2017-04-10T19:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visualAreaStacked100 -->
+        <test-method status="PASS" signature="restore(org.testng.ITestResult, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f]" name="restore" is-config="true" duration-ms="1" started-at="2017-04-10T19:25:53Z" finished-at="2017-04-10T19:25:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visualAreaStacked100 status=SUCCESS method=AreaStacked100.visualAreaStacked100()[pri:2, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[QA Air 2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10.3.1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[area]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[com.mobisystems.OfficeSuite]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1ff3ca8785493b460ccbdab2fc913e9e0b58032a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restore -->
+        <test-method status="PASS" signature="logCount()[pri:0, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f]" name="logCount" is-config="true" duration-ms="1" started-at="2017-04-10T19:25:53Z" finished-at="2017-04-10T19:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logCount -->
+        <test-method status="PASS" signature="quitAppiumDriver()[pri:0, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f]" name="quitAppiumDriver" is-config="true" duration-ms="1732" started-at="2017-04-10T19:25:53Z" finished-at="2017-04-10T19:25:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitAppiumDriver -->
+        <test-method status="PASS" signature="stopAppiumServer()[pri:0, instance:com.mobisystems.automation.excel.area.AreaStacked100@6be46e8f]" name="stopAppiumServer" is-config="true" duration-ms="0" started-at="2017-04-10T19:25:55Z" finished-at="2017-04-10T19:25:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopAppiumServer -->
+      </class> <!-- com.mobisystems.automation.excel.area.AreaStacked100 -->
+    </test> <!-- Area Charts -->
+  </suite> <!-- Excel Charts Test -->
+</testng-results>

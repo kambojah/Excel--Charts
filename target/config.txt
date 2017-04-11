@@ -1,0 +1,11 @@
+device.name=QA Air 2
+
+device.platform=10.3.1
+
+device.udid=1ff3ca8785493b460ccbdab2fc913e9e0b58032a
+
+automation.name=XCUITest
+
+bundle.id=com.mobisystems.OfficeSuite
+
+app.strings.path=/Users/pavelpopov/Desktop/Automation/Excel/Charts/Strings

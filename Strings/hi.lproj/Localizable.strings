@@ -1,0 +1,3020 @@
+/*
+ Localizable.strings
+ Office Suite Pro
+ 
+ Created by Vladimir Grigorov on 7/26/12.
+ Copyright (c) 2012 Mobile Systems, Inc. All rights reserved.
+ */
+
+/*
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Untitled" = "अनामांकित";
+"Label_Error" = "त्रुटि";
+"Label_OK" = "ठीक है";
+"Label_Cancel" = "रद्द करें";
+"Label_Confirmation" = "पुष्टिकरण";
+"Label_Enter" = "प्रविष्‍ट करें";
+"Label_Password" = "पासवर्ड";
+"Label_DontSave" = "सहेजें नहीं";
+"Label_Save" = "सहेजें";
+"Label_SaveAs" = "के रूप में सहेजें";
+"Label_UndoRedoTitle" = "पूर्ववत करें/फिर से करें";
+"Label_Undo" = "पूर्ववत करें";
+"Label_Redo" = "फिर से करें";
+"Label_Copy" = "प्रतिलिपि बनाएं";
+"Label_Paste" = "चिपकाएं";
+"Label_Cut" = "काटें";
+"Label_Clear" = "साफ करें";
+"Label_Insert" = "सम्मिलित करें";
+"Label_Delete" = "हटाएं";
+"Label_Functions" = "फंक्‍शंस";
+"Label_Recalculate" = "फिर से गणना करें";
+"Label_Hide" = "छिपाएं";
+"Label_Unhide" = "दिखाएं";
+"Label_Autofit" = "फिट हो";
+"Label_Goto" = "...पर जाएं";
+"Label_GoToCell" = "सेल पर जाएं";
+"Label_ReferenceNotValid" = "संदर्भ मान्‍य नहीं है।";
+"Label_GoToPage" = "पृष्‍ठ पर जाएं";
+"Label_EnterPageNumber" = "पृष्‍ठ संख्‍या (1 - %d)";
+"Label_CellAddress" = "सेल के निर्देशांक प्रविष्‍ट करें :";
+"Label_Previous" = "पिछला";
+"Label_Next" = "अगला";
+"Label_Replace" = "प्रतिस्‍थापित करें";
+"Label_Done" = "पूरा हुआ";
+"Label_search" = "खोजें";
+"Label_SearchOptions" = "खोज विकल्‍प";
+"Label_replace" = "प्रतिस्‍थापित करें";
+
+/* Up to 26 chars */
+"Label_MatchCase" = "केस मिलाएं";
+
+"Label_MatchWholeWords" = "पूरे शब्‍द मिलाएं";
+
+/* Up to 22 chars */
+"Label_MatchEntireCell" = "पूरा सेल मिलाएं";
+
+"Label_Values" = "मान";
+"Label_Formulas" = "फॉर्म्‍युलाज़";
+"Label_Options" = "विकल्‍प";
+"Label_LookIn" = "में देखें";
+"Label_Rows" = "पंक्ति";
+"Label_Columns" = "स्‍तंभ";
+"Label_Back" = "पीछे";
+"Label_Menu" = "मेन्‍यू";
+"Label_Fx" = "FX";
+"Label_Zoom" = "ज़ूम करें";
+"Label_ZoomPercentage" = "ज़ूम करें : $1";
+"Label_ZoomFit" = "चौड़ाई में फिट हो";
+"Label_Search" = "खोजें";
+"Label_Help" = "सहायता";
+"Label_About" = "के बारे में";
+"Label_Keyboard" = "कुंजीपटल";
+"Label_Settings" = "सेटिंग्‍स";
+"Label_SettingAutoCorrect" = "स्‍वत:सुधार";
+
+"Button_Font" = "फॉण्‍ट";
+"Button_Cell" = "सेल";
+"Button_Number" = "संख्‍या";
+"Button_Paragraph" = "पैराग्राफ";
+"Label_Horizontal" = "क्षैतिज";
+"Label_Vertical" = "उर्ध्‍वाधर";
+"Label_Indent" = "इंडेट";
+"Label_Style" = "शैली";
+"Label_Color" = "रंग";
+"Label_BorderThin" = "पतला";
+"Label_BorderMedium" = "मध्‍यम";
+"Label_BorderThick" = "मोटा";
+"Label_NumGeneral" = "सामान्‍य";
+"Label_NumNumber" = "संख्‍या";
+"Label_NumCurrency" = "मुद्रा";
+"Label_NumDate" = "तिथि‍";
+"Label_NumTime" = "समय";
+"Label_NumPercentage" = "प्रतिशत";
+"Label_NumScientific" = "वैज्ञानिक";
+"Label_NumText" = "पाठ";
+
+/* Up to 16 chars */
+"Label_NumDecimalPlaces" = "दशमलव के स्‍थान";
+
+/* Up to 28 chars */
+"Label_NumThousandSeparator" = "1,000 वाले पृथक्‍करणों का इस्‍तेमाल करें";
+
+"Label_CurrencyNone" = "कोई नहीं";
+"Label_Font" = "फॉण्‍ट";
+"Label_Fonts" = "फॉण्‍ट";
+"Label_FontFamilies" = "फॉण्‍ट परिवार";
+"Label_FontFamily" = "फॉण्‍ट का नाम :";
+"Label_FontSize" = "फॉण्‍ट का आकार";
+"Label_FontTextColor" = "पाठ का रंग";
+"Label_FontBgColor" = "सेल का रंग";
+"Label_FontHighlightColor" = "हाइलाइट का रंग";
+"Label_FontBold" = "बोल्‍ड";
+"Label_FontItalic" = "इटैलिक";
+"Label_Fill" = "भरें";
+"Label_Highlight" = "हाइलाइट करें";
+
+/* Up to 16 chars */
+"Label_LineSpacing" = "पंक्तियों के बीच अंतर";
+
+"Label_TextAlignmentLeft" = "बाएं";
+"Label_TextAlignmentCenter" = "मध्‍य";
+"Label_TextAlignmentRight" = "दाएं";
+"Label_TextAlignmentJustified" = "जस्‍टीफाइड";
+"Label_Lists" = "सूचियां";
+"Label_ListTypeNone" = "कुछ नहीं";
+"Label_ListTypeBullet" = "बुलेट्स";
+"Label_ListTypeNumbered" = "संख्‍याकृत";
+
+"Label_Top" = "सबसे ऊपर";
+"Label_Bottom" = "सबसे नीचे";
+
+"Label_PasswordProtectedDocument" = "पासवर्ड से सुरक्षित दस्‍तावेज";
+"Label_EnterPassword" = "पासवर्ड दर्ज करें";
+
+"Err_UnsupportedFile" = "असमर्थित फाइल प्रारूप।";
+"Err_IO_Error" = "I/O त्रुटि";
+"Err_OutOfMemory" = "स्‍मृति से बाहर";
+
+"Label_Edition" = "पेशेवर संस्‍करण";
+"Label_Version" = "संस्‍करण";
+"Label_Website" = "वेबसाइट";
+"Label_Facebook" = "फेसबुक";
+"Label_AppStore" = "ऐप स्‍टोर पर रेट करें";
+"Label_LibsUsed" = "इस्‍तेमाल की गई लाइब्रेरीज़";
+
+"PRGRSS_LoadingString" = "लोड हो रहा है...";
+"PRGRSS_SavingString" = "सहेज रहा है...";
+"PRGRSS_SearchingString" = "खोज रहा है...";
+
+/*
+ All ErrClass strings are used together with other strings,
+ that's why the space at the end is important
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrClass_NewFileString" = "फाइल सृजित करने में असफल रहा। ";
+"ErrClass_LoadFileString" = "$1 को लोड करने में असफल रहा। ";
+"ErrClass_RestoreFileString" = "दस्‍तावेज को रीस्‍टोर करने में असफल रहा। ";
+"ErrClass_SaveFileString" = "फाइल को सहेजने में असफल रहा। ";
+"ErrClass_CellTextString" = "सेल का पाठ बदलने में असफल रहा। ";
+"ErrClass_PasteString" = "चिपकाना असफल रहा। ";
+"ErrClass_ClearString" = "साफ करना असफल रहा। ";
+"ErrClass_CopyString" = "प्रतिलिपि बनाना असफल रहा। ";
+"ErrClass_CutString" = "चयनित को काटने में असफल रहा। ";
+"ErrClass_SetSheetString" = "सक्रिय पत्रक को बदलने में असफल रहा। ";
+"ErrClass_UndoString" = "पूर्ववत नहीं कर सकता। ";
+"ErrClass_RedoString" = "फिर से वापस नहीं ला सकता। ";
+"ErrClass_FormatString" = "फॉर्मेटिंग लागू करने में असफल रहा। ";
+"ErrClass_InsertRowString" = "नई पंक्ति(यां) डालने में असफल रहा। ";
+"ErrClass_InsertColString" = "स्‍तंभ डालने में असफल रहा। ";
+"ErrClass_FormulaString" = "फॉर्म्‍युला की त्रुटि। ";
+"ErrClass_GotoString" = "पर जाएं में असफल रहा। ";
+"ErrClass_HideUnhideString" = "छिपाएं/दिखाएं में असफल रहा। ";
+"ErrClass_ResizeString" = "पुन: आकार देना असफल रहा। ";
+"ErrClass_DeleteRowsString" = "पंक्ति(यां) हटाने में असफल रहा। ";
+"ErrClass_DeleteColsString" = "स्‍तंभ हटाने में असफल रहा। ";
+"ErrClass_ZoomString" = "ज़ूम करने में असफल रहा। ";
+"ErrClass_AddSheetString" = "पत्रक सम्मिलित करने में असफल रहा। ";
+"ErrClass_RenameSheetString" = "पत्रक के पुन: नामकरण में असफल रहा। ";
+"ErrClass_DeleteSheetString" = "पत्रक हटाने में असफल रहा। ";
+"ErrClass_FindString" = "कोई मेल ढूंढने में असफल रहा। ";
+"ErrClass_ReplaceString" = "प्रतिस्‍थापन कार्य असफल रहा। ";
+
+
+"Err_UnknownString" = "अज्ञात त्रुटि हुई है।";
+"Err_InternalString" = "आंतरिक त्रुटि।";
+"Err_NoMemDynString" = "अपर्याप्‍त गतिशील स्‍मृति।";
+"Err_NoMemStgString" = "अपर्याप्‍त भंडारण स्‍मृति।";
+"ErrDoc_BadPasswordString" = "अमान्‍य पासवर्ड।"; // also used in PDF
+"ErrDoc_Load_UnsupportedString" = "असमर्थित फाइल संस्‍करण।";
+"ErrDoc_Load_FailedToOpenGeneralTitle" = "फाइल खोलने में असमर्थ रहा।";
+"ErrDoc_Load_ReturningToFileManagerString" = "हमें फाइल प्रबंधक पर लौटना चाहिए।";
+"ErrDoc_Load_Bad_FileString" = "फाइल भ्रष्‍ट हो गई है।";
+"ErrDoc_Load_EncryptionString" = "असमर्थित एन्क्रिप्‍शन प्रकार। समर्थित एन्क्रिप्‍शन है \"ऑफिस 97/2000 कॉम्‍पैटिबल\" योजना।";
+"ErrDoc_Load_EncryptionNotImplemented" = "पासवर्ड संरक्षित फाइलें अब तक समर्थित नहीं हैं।";
+"ErrDoc_Load_InvalidXlsString" = "अमान्‍य XLS प्रारूप।";
+"ErrDoc_Save_Bad_Destination" = "गंतव्‍य फोल्‍डर भरा हुआ या अगम्‍य है। कृपया किसी अन्‍य स्‍थान पर सहेजें।";
+"Confirm_Find_Start_OverString" = "आप दस्‍तावेज के अंत पर पहुंच चुके हैं। क्‍या आप फिर से आरंभ करना चाहेंगे?";
+"ErrPaste_Area_Not_SameString" = "प्रतिलिपि बनाने और चिपकाने वाले क्षेत्र समान नहीं हैं।";
+"ErrSheet_ExistsString" = "समान नाम वाला एक पत्रक पहले से मौजूद है।";
+"ErrSheet_LockedString" = "आदेश का पालन नहीं किया जा सकता है क्‍योंकि पत्रक सुरक्षित किया हुआ है।";
+"Confirm_DeleteSheetString" = "क्‍या आप निश्चित हैं कि आप चयनित पत्रक को हटाना चाहते हैं?";
+"ErrFile_Illegal_NameString" = "आपके द्वारा टाइप किया गया नाम मान्‍य नहीं है।";
+"InfFind_No_MatchesString" = "कोई मेल नहीं मिले।"; // also used in PPT & PDF
+"InfFind_No_More_MatchesString" = "और अधिक मेल नहीं मिले।"; // also used in PPT & PDF
+"ErrCateg_MinimumOneString" = "आप सभी पत्रकों को नहीं हटा सकते हैं।";
+"Err_CellsNotEmptyString" = "अंतिम सेल खाली नहीं हैं।";
+"ErrFormula_ErrorString" = "अज्ञात फार्म्‍युला त्रुटि।";
+"ErrFormula_NotAFormulaString" = "अमान्‍य फार्म्‍युला।";
+"ErrFormula_MissingOperandString" = "गुम हुआ ऑपरंड।";
+"ErrFormula_MissingOperatorString" = "गुम हुआ ऑपरेटर।";
+"ErrFormula_IllegalTokenString" = "अवैध टोकन।";
+"ErrFormula_MissingQuoteString" = "गुम हुआ उद्धरण-चिन्‍ह ( \" ).";
+"ErrFormula_MissingArrayCloseString" = "गुम हुआ सरणी को बंद करने वाला कोष्‍ठक ' } '.";
+"ErrFormula_IllegalIdentifierString" = "अवैध पहचानकर्ता।";
+"ErrFormula_IconsistentArrayString" = "असतत सरणी।";
+"ErrFormula_MissingArrayEltString" = "गुम हुआ सरणी तत्‍व।";
+"ErrFormula_IllegalArrayEltString" = "अवैध सरणी तत्‍व।";
+"ErrFormula_MissingFuncCloseString" = "गुम हुआ फ़ंक्‍शन बंद करने वाला कोष्‍ठक ' ) '.";
+"ErrFormula_DeepFuncNestingString" = "फ़ंक्‍शन बहुत गहराई में नेस्‍टेड है।";
+"ErrFormula_UnknownFunctionString" = "अज्ञात फ़ंक्‍शन।";
+"ErrFormula_MissingSingleQuoteString" = "गुम हुआ एकल उद्धरण-चिन्‍ह ( ' ).";
+"ErrFormula_CircularReferenceString" = "चक्रीय संदर्भ।";
+"ErrFormula_UnknownEvalErrorString" = "अज्ञात मूल्‍यांकन त्रुटि।";
+"ErrFormula_NotEnoughArgumentsString" = "पर्याप्त तर्क नहीं हैं।";
+"ErrFormula_TooMuchArgumentsString" = "बहुत अधिक तर्क हैं।";
+"ErrFormula_InitDependencesFailedString" = "फॉर्म्‍युला स्‍थापित करने में त्रुटि। फॉर्म्‍युलों की गणना नहीं की जाएगी।";
+"Confirm_SelectionTypeString" = "कृपया चुनें किस प्रकार के मदों का प्रसंस्‍करण होना है।";
+
+
+"FUNCCAT_CommonString" = "सामान्‍य";
+"FUNCCAT_AllString" = "सभी";
+"FUNCCAT_DatabaseString" = "डेटाबेस";
+"FUNCCAT_InformationString" = "जानकारी";
+"FUNCCAT_LogicalString" = "तार्किक";
+"FUNCCAT_MathString" = "गणित";
+"FUNCCAT_DateTimeString" = "तिथि एवं समय";
+"FUNCCAT_StatisticalString" = "सांख्यिकीय";
+"FUNCCAT_FinancialString" = "वित्‍तीय";
+"FUNCCAT_LookRefString" = "लुकअप एंड रेफ";
+"FUNCCAT_TextString" = "पाठ";
+
+
+"CONFIRM_DeleteSheet" = "$1 हटा दिया जाएगा। जारी रखें?";
+"CONFIRM_SaveFile" = "$1 के बदलावों को सहेजें?";
+"CONFIRM_CsvDataLoss" = "यह प्रारूप एकाधिक पत्रकों, फॉर्म्‍युलों, वस्‍तुओं और अन्‍य विशेषताओं का समर्थन नहीं करता है। सिर्फ सक्रिय पत्रक ही सहेजा जाएगा। क्‍या आप जारी रखना चाहते हैं?";
+
+"Label_ExcelWorkbook" = "एक्‍सेल वर्कबुक";
+"Label_Excel97Workbook" = "एक्‍सेल 97-2003 वर्कबुक";
+"Label_CommaDelimited" = "कॉमा डिलिमिटेड";
+"Label_CsvDataLoss" = "यह प्रारूप एकाधिक पत्रकों, फॉर्म्‍युलों, प्रारूपों, वस्‍तुओं और अन्‍य विशेषताओं का समर्थन नहीं करता है। सिर्फ सक्रिय पत्रक ही सहेजा जाएगा।";
+"Label_ChartsheetsUnsupported" = "यह एक चार्ट पत्रक है। चार्ट अब तक समर्थित नहीं हैं।";
+
+"Label_ChooseCSVDelims" = "CSV डिलिमिटर्स चुनें";
+"Label_Column_Delim" = "स्‍तंभ डिलिमिटर :";
+"Label_Decimal_Delim" = "दशमलव डिलिमिटर :";
+"Label_Decimal_Dot" = "डॉट (.)";
+"Label_Decimal_Comma" = "कॉमा (,)";
+"Lable_CSV_Delim_Warning" = "कृपया एक स्‍तंभ डिलिमिटर चुनें।";
+
+"Label_BorderStyle" = "बॉर्डर शैली";
+"Label_Borders" = "बॉडर्स";
+
+/* Up to 20 chars */
+"Label_Slideshow" = "स्‍लाइड शो";
+
+"Label_AdvanceSlides" = "उन्‍नत स्‍लाइडें";
+"Label_Manually" = "मैन्‍युअल रूप से";
+"Label_Automatically" = "स्‍वचालित रूप से";
+"Label_SlideshowDelayFormat" = "%d सेकंड";
+"Label_StartSlideshow" = "स्‍लाइडशो आरंभ करें";
+"Label_Delay" = "विलंब";
+"Label_Notes" = "नोट्स";
+"Label_TableOfContents" = "विषय-सूची";
+
+
+"Label_Home" = "होम";
+"Label_Documents" = "दस्‍तावेज";
+"Label_Cloud" = "क्‍लाउड";
+"Label_Prev" = "पिछला";
+"Label_Storage" = "संग्रहण";
+"Label_OfficeSuite" = "ऑफिस-सुइट";
+"Label_Create" = "सृजित करें";
+"Label_CreateNew" = "नया ... सृजित करें";
+"Label_NewFolder" = "नया फोल्‍डर";
+
+/* Up to 10 chars */
+"Label_Rename" = "फिर से नाम रखें";
+
+"Label_Close" = "बंद करें";
+"Label_Properties" = "गुण";
+
+/* Up to 22 chars */
+"Label_RemoteAccounts" = "रिमोट अकाउंट्स";
+"Label_RemoteAccountsCap" = "रिमोट अकाउंट्स";
+
+"Label_OpenIn" = "...में खोलें";
+"Label_Extract" = "निकालें";
+"Label_ExtractTo" = "इसमें निकालें";
+"Label_Edit" = "संपादित करें";
+"Label_Play" = "प्‍ले करें";
+"Label_Stop" = "रोकें";
+"Label_Unknown" = "अज्ञात";
+"Label_TypeWordDocument" = "वर्ड डॉक्‍युमेंट";
+"Label_TypeExcelSpreadsheet" = "एक्‍सेल स्‍प्रेडशीट";
+"Label_TypePowerPointPresentation" = "पावरप्‍वाइंट प्रेज़ेंटेशन";
+"Label_TypePDFFile" = "PDF फाइल";
+"Label_TypeZipArchive" = "ZIP आर्काइव";
+"Label_TypeImage" = "चित्र";
+"Label_TypeVideo" = "वीडियो";
+"Label_TypeAudio" = "ऑडियो";
+"Label_TypeFolder" = "फोल्‍डर";
+"Label_SearchResults" = "खोज परिणाम";
+
+/* For the File properties dialog */
+"Label_Type" = "प्रकार";
+"Label_Size" = "आकार";
+"Label_Date" = "तिथि";
+"Label_Path" = "पथ";
+
+/*
+    THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Label_Share" = "साझा करें";
+"Label_Recover" = "पुनर्प्राप्‍त करें";
+"Label_Relink" = "पुन: कनेक्‍ट करें";
+"Label_Later" = "बाद में";
+"Label_UseICloud" = "iCloud का इस्‍तेमाल करें";
+"Label_ContinueUsingICloud" = "iCloud का इस्‍तेमाल जारी रखें";
+"Label_KeepLocalCopy" = "एक स्‍थानीय प्रतिलिपि रखें";
+"Label_KeepOnICloudOnly" = "सिर्फ iCloud पर ही रखें";
+
+"ErrTitle_CopyError" = "प्रतिलिपि में त्रुटि";
+"ErrTitle_PasteError" = "चिपकाने में त्रुटि";
+"ErrTitle_DownloadError" = "डाउनलोड करने में त्रुटि";
+"ErrTitle_DeleteError" = "त्रुटि हटाएं";
+"ErrTitle_RenameFailed" = "पुन: नाम रखना असफल हुआ";
+"ErrTitle_UploadFailed" = "अपलोड असफल रहा";
+"ErrTitle_FileExists" = "%@ मौजूद है";
+"ErrTitle_NoItemsSelected" = "कोई भी आइटम नहीं चुने गए";
+"ErrTitle_Error" = "त्रुटि";
+"ErrTitle_CreateFolder" = "फोल्‍डर सृजित करना असफल रहा";
+"ErrTitle_CannotPlayFile" = "फाइल को प्‍ले नहीं कर सकता";
+"ErrTitle_SessionEnded" = "सत्र समाप्‍त हुआ";
+"ErrTitle_NoInternet" = "इंटरनेट कनेक्‍शन नहीं है";
+"ErrTitle_FileNameEmpty" = "फाइल का नाम रिक्‍त है";
+
+"WarningTitle_Warning" = "चेतावनी";
+"WarningTitle_CloseDocument" = "वर्तमान दस्‍तावेज को बंद करें";
+"WarningTitle_ConfirmDeletion" = "हटाए जाने की पुष्टि करें";
+
+"InfoTitle_NotUsingICloud" = "iCloud स्विच ऑफ कर दिया गया है";
+"InfoTitle_iCloudAvailable" = "iCloud उपलब्‍ध है";
+"InfoTitle_UnsupportedFile" = "असमर्थित फाइल";
+"InfoTitle_CannotSendMail" = "ई-मेल नहीं भेज सकता";
+"InfoTitle_iCloudOn" = "iCloud चालू है";
+"InfoTitle_iCloudOff" = "iCloud बंद है";
+"InfoTitle_DocumentRecovery" = "दस्‍तावेज की पुन:प्राप्ति";
+"InfoTitle_DisplayFile" = "फाइल प्रदर्शित नहीं कर सकता";
+"InfoTitle_Info" = "जानकारी";
+
+"ErrMsg_SameFolderCopy" = "फोल्‍डर %@ कॉपी नहीं किया जाएगा। यह गंतव्‍य फोल्‍डर का सब-फोल्‍डर है।";
+"ErrMsg_FileExists" = "एक %@ नामक %@ पहले से मौजूद है। क्‍या आप इसे प्रतिस्‍थापित करना चाहते हैं?";
+"ErrMsg_FileRename" = "एक %@ नामक %@ पहले से मौजूद है। कृपया एक भिन्‍न नाम चुनें।";
+"ErrMsg_PasteError" = "%@ को चिपकाते समय एक त्रुटि हुई है। त्रुटि : %@";
+"ErrMsg_ReadFile" = "%@ फाइल को पढ़ने में असफल रहा।";
+"ErrMsg_DeleteFile" = "%@ फाइल को हटाने में असफल रहा।";
+"ErrMsg_UploadFailed" = "फाइल को अपलोड करने में असफल रहा। कृपया किसी अन्‍य स्‍थान पर सहेजें।";
+"ErrMsg_SelectItems" = "कृपया कुछ आइट्म चुनें।";
+"ErrMsg_DocumentLoad" = "दस्‍तावेज %@ को लोड नहीं कर सका।";
+"ErrMsg_FileNotFound" = "फाइल  %@ नहीं मिला।";
+"ErrMsg_InternetOffline" = "इंटरनेट कनेक्‍शन नहीं है।";
+"ErrMsg_UnknownError" = "अज्ञात त्रुटि हुई है।";
+"ErrMsg_CannotOpenFile" = "फाइल %@ को नहीं खोल सकता। त्रुटि : %@";
+"ErrMsg_PlayingAudio" = "ऑडियो फाइल को प्‍ले करते समय एक त्रुटि हुई है।";
+"ErrMsg_SuggestRelink" = "क्‍या आप पुन: कनेक्‍ट करना चाहते हैं?";
+"ErrMsg_NeedsRelink" = "अपने अकाउंट का इस्‍तेमाल करना जारी रखने के लिए आपको फिर से कनेक्‍ट करना होगा।";
+"ErrMsg_UnrecognizedPath" = "न पहचाना हुआ पथ।";
+"ErrMsg_CannotCopyFolder" = "फोल्‍डर %@ की प्रतिलिपि नहीं बनाई जा सकती।";
+"ErrMsg_CannotUploadFile" = "फाइल को पूरे फाइल पथ  %@ के साथ अपलोड नहीं कर सकता";
+"ErrMsg_PasteInSameFolder" = "आप स्रोत फोल्‍डर में नहीं चिपका सकते।";
+"ErrMsg_InvalidFileName" = "फाइल का नाम '.' से आरंभ नहीं हो सकता है।";
+"ErrMsg_TryAgainWhenHavingInternet" = "कृपया एक सक्रिय इंटरनेट कनेक्‍शन के साथ पुन: प्रयास करें।";
+"ErrMsg_FileNameEmpty" = "फाइल नाम रिक्‍त नहीं हो सकता है।";
+
+"InfoMsg_DocsStoredInICloud" = "आपके दस्‍तावेज इस उपकरण से मिटा दिए गए हैं लेकिन ये iCloud में भंडारित रहेंगे।";
+"InfoMsg_UseICloud" = "अपने दस्‍तावेजों को स्‍वत: ही क्‍लाउड में भंडारित होने दें ताकि ये आपके सभी उपकरणों और वेब के बीच अप-टू-डेट रहें।";
+"InfoMsg_UnsupportedFile" = "असमर्थित फाइल प्रारूप।";
+"InfoMsg_CheckMainConf" = "कृपया अपने ई-मेल कन्फिगरेशन की जांच करें।";
+"InfoMsg_NotUsingICloud" = "अभी इस उपकरण में मौजूद दस्‍तावेजों के साथ आप क्‍या करना चाहेंगे?";
+"InfoMsg_iCloudOn" = "iCloud अब चालू है। कृपया एक नाम और स्‍थान चुनें जहां फाइल को सहेजा जाएगा।";
+"InfoMsg_iCloudOff" = "iCloud अब बंद है। फाइल को अपने उपकरण पर सहेजे जाने के लिए कृपया एक नाम और स्‍थान चुनें।";
+"InfoMsg_DocumentRecovery" = "खोले गए अंतिम दस्‍तावेज के साथ एक समस्‍या थी। क्‍या आप इसे पुन: प्राप्‍त करना चाहते हैं?";
+"InfoMsg_ProcessingICloudFiles" = "iCloud फाइलों को प्रसंस्‍कृत कर रहा है...";
+"InfoMsg_CannotSendFolders" = "फोल्‍डर्स नहीं भेजे जा सकते हैं। कृपया इसके स्‍थान पर ज़ि‍प करें एवं भेजें विकल्‍प का इस्‍तेमाल करें।";
+"InfoMsg_SwitchOnICloudFromSettings" = "iCloud दस्‍तावेज बैकअप इस समय आपके उपकरण पर सक्षम नहीं है। इसे सक्षम करने के लिए सेटिंग्‍स -> iCloud पर जाएं।";
+
+"WarningMsg_CloseDocument" = "आपके पास एक खुला हुआ दस्‍तावेज है। क्‍या आप इसे बंद करना चाहते हैं?";
+"WarningMsg_DeleteItem" = "क्‍या आप पक्का हैं कि आप इस आइटम को हटाना चाहते हैं?";
+"WarningMsg_DeleteItems" = "क्‍या आप पक्का हैं कि आप इन आइटम्‍स को हटाना चाहते हैं?";
+"WarningMsg_UploadInterrupted" = "फाइल अपलोड करना असफल रहा। कृपया फिर से प्रयास करें।";
+"WarningMsg_PasteInterrupted" = "चिपकाने का कार्य असफल रहा।";
+"WarningMsg_DeleteInterrupted" = "हटाने का कार्य असफल रहा।";
+"WarningMsg_RenameInterrupted" = "पुन: नाम रखने का कार्य असफल रहा।";
+"WarningMsg_LoadFileListInterrupted" = "फोल्‍डर की सामग्री लोड करने का कार्य असफल रहा।";
+
+"DetailString_file" = "फाइल";
+"DetailString_folder" = "फोल्‍डर";
+"DetailString_File" = "फाइल";
+"DetailString_Folder" = "फोल्‍डर";
+
+
+"PRGRSS_CopyICloudToLocal" = "iCloud से आपके उपकरण पर फाइलों की प्रतिलिपि बना रहा है...";
+"PRGRSS_CreateFolder" = "फोल्‍डर सृजित कर रहा है...";
+"PRGRSS_CopyFile" = "%@ की प्रतिलिपि बना रहा है...";
+"PRGRSS_Moving" = "ले जा रहा है...";
+"PRGRSS_Copying" = "प्रतिलिपि बना रहा है...";
+"PRGRSS_PreparePaste" = "चिपकाने की तैयारी कर रहा है";
+"PRGRSS_Fetching" = "ले रहा है...";
+"PRGRSS_CreatingFolder" = "फोल्‍डर सृजित  कर रहा है...";
+"PRGRSS_UploadingFile" = "फाइल अपलोड कर रहा है...";
+"PRGRSS_Deleting" = "हटा रहा है...";
+"PRGRSS_LoadingAccountInfo" = "अकाउंट की जानकारी लोड कर रहा है...";
+"PRGRSS_LoadingFileList" = "फाइल की सूची लोड कर रहा है...";
+"PRGRSS_LoadingFile" = "फाइल लोड कर रहा है...";
+"PRGRSS_RenamingFile" = "फाइल का फिर से नाम रख रहा है...";
+"PRGRSS_LoadingProperties" = "गुणों को लोड कर रहा है...";
+"PRGRSS_Extracting" = "निकाल रहा है...";
+"PRGRSS_PleaseWait" = "कृपया प्रतीक्षा करें...";
+"PRGRSS_ForBigICloudFolders" = "बड़े iCloud फोल्‍डरों के लिए";
+
+/*
+ Default names for new file and folder
+ */
+
+"Name_NewFile" = "शीर्षकहीन";
+"Name_NewFolder" = "शीर्षकहीन फोल्‍डर";
+
+/*
+ NEW STRINGS AFTER VER 2.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Print" = "प्रिंट";
+"Label_WebSearch" = "वेब खोज";
+"Label_Dictionary" = "शब्‍दकोश";
+"Label_Open" = "खोलें";
+"Label_LinkURL" = "लिंक";
+"Label_LinkName" = "डिस्‍प्‍ले करें";
+"Label_Bookmark" = "बुकमार्क";
+"Label_Section" = "अनुभाग";
+"Label_NumberOfColumns" = "स्‍तंभों की संख्‍या";
+"Label_AddSectionBreak" = "अनुभाग विराम जोड़ें";
+"Label_Tools" = "टूल्‍स";
+"Label_PrintAndShare" = "प्रिंट करें एवं साझा करें";
+"Label_OpenInAnotherApp" = "किसी अन्‍य ऐप में खोलें";
+"Label_Accounts"= "अकाउंट्स";
+"Label_EmailDocument" = "दस्‍तावेज ई-मेल करें";
+"Label_EmailDocuments" = "दस्‍तावेजों को ई-मेल करें";
+
+/* Up to 30 chars */
+"Label_ZipAndEmailDocument" = "दस्‍तावेज को ज़ि‍प और ई-मेल करें";
+
+/* Up to 30 chars */
+"Label_ZipAndEmailDocuments" = "दस्‍तावेजों को ज़ि‍प और ई-मेल करें";
+
+/* Up to 14 chars */
+"Label_TextSize" = "पाठ का आकार";
+
+"Label_RecentFilesCap" = "हाल ही की फाइलें";
+"Label_Document" = "दस्‍तावेज";
+"Label_Spreadsheet" = "स्‍प्रेडशीट";
+"Label_Presentation" = "प्रस्‍तुति";
+"Label_PDF" = "PDF";
+"ErrTitle_CannotSaveFile" = "फाइल को नहीं सहेज सकता";
+"InfoTitle_AttachFile" = "फाइल संलग्‍न करें?";
+"InfoTitle_SendCrashReport" = "क्रैश रिपोर्ट भेजें?";
+"InfoTitle_CrashReportMailSubject" = "क्रैश रिपोर्ट और लॉग फाइलें";
+"InfoTitle_NoAvailableApps" = "कोई उपलब्‍ध ऐप नहीं";
+"InfoTitle_SelectOnlyOneFile" = "एक फाइल चुनें";
+"ErrMsg_NoPermissionToCreate" = "%@ %@ को सृजित करने की अनुमति नहीं है";
+"ErrMsg_NoPermissionToSaveFile" = "फाइल सहेजने की अनुमति नहीं है। किसी अन्‍य स्‍थान का प्रयास करें।";
+"ErrMsg_InvalidCharInFileName" = "नाम में अमान्‍य वर्ण हैं।";
+"ErrMsg_GeneralFileNameError" = "अमान्‍य फाइल नाम।";
+"InfoMsg_AttachFile" = "आपकी रिपोर्ट में %@ संलग्‍न करें? आपकी फाइल त्रुटि के कारण की पहचान करने में हमारी सहायता कर सकती है।";
+"InfoMsg_SendCrashReport" = "उत्‍पन्‍न की हुई क्रैश रिपोर्ट भेजकर ऑफिस-सुइट को सुधारने में सहायता करें।";
+"InfoMsg_CrashReportMailMessage" = "अंतिम बार जब मैं ऑफिस-सुइट का इस्‍तेमाल कर रहा था तो यह क्रैश हो गया!";
+"InfoMsg_NoAvailableApps" = "ऐसे कोई ऐप संस्‍थापित नहीं हैं जो इस फाइल प्रारूप को खोल सकें।";
+"InfoMsg_SelectOnlyOneFile" = "कृपया, किसी अन्‍य ऐप में खोलने के लिए सिर्फ एक फाइल चुनें।";
+
+"InfoMsg_SelectRightEncoding" = "वह एन्कोडिंग चुनें जो पाठ को पठनीय बना दे :";
+"Label_Encoding" = "एन्कोडिंग";
+"Label_Preview" = "पूर्वदृश्‍य";
+"Encoding_EasternEuropean" = "पूर्वी यूरोपीय";
+"Encoding_WesternEuropean" = "पश्चिमी यूरोपीय";
+"Encoding_NorthEuropean" = "उत्‍तरी यूरोपीय";
+"Encoding_SouthEuropean" = "दक्षिणी यूरोपीय";
+"Encoding_Cyrillic" = "सिरिलिक";
+"Encoding_Greek" = "यूनानी";
+"Encoding_Turkish" = "तुर्की";
+"Encoding_Baltic" = "बाल्टिक";
+"Encoding_Latin9" = "लैटिन-9";
+"Encoding_Russian" = "रूसी";
+"Encoding_Arabic" = "अरबी";
+"Encoding_Vietnamese" = "वियतनामी";
+"Encoding_Japanese" = "जापानी";
+"Encoding_Korean" = "कोरियन";
+"Encoding_ChineseSimplified" = "सरलीकृत चीनी";
+"Encoding_ChineseTraditional" = "पारंपरिक चीनी";
+"Encoding_ChineseTraditionalHK" = "हांग-कांग विस्‍तारों के साथ पारंपरिक चीनी";
+"Encoding_Thai" = "थाई";
+"Encoding_Hebrew" = "हिब्रू";
+"Encoding_Indic" = "इंडिक पाठ";
+"Encoding_Unicode" = "यूनीकोड";
+"Encoding_UnicodeBE" = "यूनीकोड बिग एनडियन";
+"Encoding_UnicodeLE" = "यूनीकोड लिटिल एनडियन";
+
+"Label_Email" = "ई-मेल करें";
+"Label_ZipAndEmail" = "ज़ि‍प एवं ई-मेल करें";
+
+
+/*
+ NEW STRINGS AFTER VER 3.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_PasswordProtectionLoss" = "यदि आप फाइल को किसी भिन्‍न प्रारूप में सहेजते हैं, तो पासवर्ड सुरक्षा समाप्त हो जाएगी।";
+"Label_Freeze" = "फ्रीज़ करें";
+"Label_Unfreeze" = "अनफ्रीज़ करें";
+"Label_SortMenu" = "छांटें...";
+"Label_Sort" = "छांटें";
+
+/* Up to 26 chars */
+"Label_CaseSensitive" = "केस संवेदनशील";
+
+"Label_RowNo" = "पंक्ति %d";
+"Label_ColumnNo" = "स्‍तंभ %S";
+"Label_SortBy" = "द्वारा छांटें";
+"Label_ThenSortBy" = "इसके बाद के द्वारा";
+"Label_Ascending" = "बढ़ते क्रम में";
+"Button_Columns" = "स्‍तंभ";
+"Button_Rows" = "पंक्ति";
+
+"Label_RemoveAds" = "विज्ञापन दूर करें";
+
+"ErrorTitle_CannotZipFile" = "ज़ि‍प असफल रहा";
+"ErrorMsg_CannotZipFile" = "फाइल कंप्रेस करने में अक्षम है।";
+
+"Label_On" = "चालू करें";
+"Label_Off" = "बंद करें";
+
+/* Up to 20 chars */
+"Label_SettingSpellCheck" = "स्‍पेल चेक चलाएं";
+
+"Label_Language" = "भाषा";
+"Label_LearnedWords" = "सीखे हुए शब्‍द";
+"Label_LearnWord" = "शब्‍द सीखें";
+"Label_UnLearnWord" = "शब्‍द नहीं सीखें";
+"Label_NoReplacementsFound" = "कोई प्रतिस्‍थापन नहीं मिले";
+
+"Label_WordCount" = "शब्‍द संख्‍या";
+"Label_Words" = "शब्‍द";
+"Label_Paragraphs" = "पैराग्राफ";
+"Label_Pages" = "पृष्‍ठ";
+"Label_CharactersNoSpaces" = "वर्ण (कोई अंतराल नहीं)";
+"Label_CharactersWithSpaces" = "वर्ण (अंतराल सहित)";
+
+"Label_WebDAV_FailedLogIn_Malformed" = "HTTP पता विकृत है!";
+"Label_WebDAV_FailedLogIn_Prefix" = "HTTP पते का आरंभ 'http://' या 'https://' से होना चाहिए!";
+"Label_WebDAV_FailedLogIn_EmptyField" = "सभी क्षेत्रों को भरा होना चाहिए!";
+"Label_WebDAV_FailedLogIn_IncorrectData" = "गलत प्रमाणीकरण डेटा!\nकृपया किसी अन्‍य HTTP पते, उपयोगकर्तानाम या पासवर्ड के साथ पुन: प्रयास करें।";
+"Label_WebDAV_FailedLogIn_BadRequest_400" = "WebDAV सर्वर : खराब अनुरोध।\nसर्वर इस सिन्‍टैक्‍स को नहीं समझ सका।";
+"Label_WebDAV_FailedLogIn_NotImplemented_501" = "WebDAV सर्वर : लागू नहीं किया गया।\nयह संभव है कि अकाउंट WebDAV क्‍लाइंट्स के जरिए पहुंच को समर्थन नहीं देता हो। WebDAV समर्थन को सक्षम करने के लिए, कृपया अकाउंट के कॉन्फिगरेशन को देखें।";
+"ErrMsg_WebDAV_Conflict_409" = "WebDAV सर्वर : विवाद। यह संभव है कि सर्वर पर पर्याप्‍त जगह नहीं हो।";
+"ErrMsg_WebDAV_NotAllowedOperation" = "WebDAV सर्वर इस कार्य को अनुमति नहीं देता है।";
+"ErrMsg_WebDAV_ReservedName" = "इस निर्दिष्‍ट नाम का इस सर्वर पर इस्‍तेमाल नहीं किया जा सकता है। कृपया, कोई अन्‍य नाम चुनें।";
+"ErrMsg_WebDAV_WriteError" = "गंतव्‍य फाइल या तो गुम है या भ्रष्‍ट है। कृपया अपने अकाउंट की अनुमतियों और खाली जगह की जांच करें, और फिर से प्रयास करें।";
+
+/* Up to 32 chars */
+"Label_Timing" = "स्‍लाइड शो की समय-व्‍यवस्‍था";
+
+"InfoTitle_NotAvailableICloud" = "iCloud उपलब्‍ध नहीं है";
+"InfoMsg_SwitchOnICloudFromSettingsDetailed" = "अपनी स्‍थानीय फाइलों के बैकअप के लिए iCloud का इस्‍तेमाल करने हेतु, यह सुनिश्चित करें कि आपने अपने iCloud अकाउंट पर लॉगिन किया हुआ है और सेटिंग्‍स -> iCloud -> दस्‍तावेज एवं डेटा चालू है।";
+"Label_UnsupportedWorksheet" = "यह नियमित वर्कशीट नहीं है और अब तक समर्थित भी नहीं है।";
+"ErrDoc_Save_Csv_Not_Supported" = "सक्रिय पत्रक को csv प्रारूप में नहीं सहेजा जा सकता है।";
+
+"Label_Professional" = "( Professional )";
+"Label_ProfessionalFeature" = "ऑफिस-सुइट के अंग के रूप में $1 उपलब्‍ध है। क्‍या आप इसे अभी संस्‍थापित करना चाहेंगे?";
+
+"InfoTitle_BoxAppFailedToLaunch" = "बॉक्‍स ऐप लॉन्‍च होने में असफल रहा";
+"InfoMsg_BoxAppFailedToLaunch" = "बॉक्‍स ऐप को लॉन्‍च नहीं किया जा सका।";
+
+"Label_Continue" = "जारी रखें";
+
+/* Up to 16 chars */
+"Label_Upgrade" = "प्रीमियम हो जाएं";
+
+"Label_UpgradeText1" = "ऑफिस-सुइट फ्री में स्‍वागत है!";
+"Label_UpgradeText2" = "आपके ऑफिस दस्‍तावेजों को देखने और संपादित करने के लिए यह एक पूर्णत: फ़ंक्‍शनल संस्‍करण है!";
+"Label_UpgradeText3" = "ऑफिस-सुइट प्रोफेशनल में अपग्रेड करें प्रति :";
+"Label_UpgradeText4" = "- दस्‍तावेज के विज्ञापन रहित संपादन का अनुभव लें\n- अपने पाठ दस्‍तावेजों का स्‍पेल चेक करें";
+
+/*
+ NEW STRINGS AFTER VER 3.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_SortHasHeaders" = "मेरे डेटा में हेडर्स हैं";
+"Label_Yes" = "हां";
+"Label_No" = "नहीं";
+"Label_CreatePassword" = "पासवर्ड सृजित करें";
+
+/* Up to 22 chars */
+"Label_DontUsePassword" = "पासवर्ड का इस्‍तेमाल नहीं करें";
+
+"Label_ConfirmPassword" = "पासवर्ड की पुष्टि करें";
+"Label_RequirePassword" = "पासवर्ड की आवश्‍यकता है";
+"Label_Enable" = "सक्षम करें";
+"Label_Confirm" = "पुष्टि करें";
+"Label_Required" = "आवश्‍यकता है";
+"Label_CreatePasswordWarning" = "आप जब ऐप को लॉन्‍च करेंगे, तब आपसे पासवर्ड के लिए अनुरोध किया जाएगा। कृपया ध्‍यान दें कि खोए हुए पासवर्ड को फिर से पाने का कोई तरीका नहीं है।";
+"Label_Immediately" = "तत्‍काल";
+"Label_Minute" = "मिनट";
+"Label_Minutes" = "मिनट";
+"Label_Hour" = "घंटा";
+"Label_Hours" = "घंटे";
+"Label_RequirePasswordTime" = "%d %@ के बाद";
+
+"Label_EmptyFolder" = "यह फोल्‍डर रिक्‍त है।";
+"Label_Name" = "नाम";
+
+/* Up to 26 chars */
+"InfoTitle_PasswordProtection" = "पासवर्ड द्वारा सुरक्षित";
+
+"InfoMsg_EnablePasswordProtection" = "क्‍या आप ऑफिस-सुइट तक पहुंच को प्रतिबंधित करने के लिए एक पासवर्ड सृजित करना चाहेंगे? आप टूल्‍स मेन्‍यु से  \"पासवर्ड सुरक्षा\" को चुनकर पासवर्ड सुरक्षा के विकल्‍पों को संपादित करने में सक्षम होंगे।";
+"InfoMsg_EnterCurrentPassword" = "आगे बढ़ने के लिए अपना वर्तमान पासवर्ड दर्ज करें :";
+"InfoMsg_WrongPassword" = "अमान्‍य पासवर्ड। कृपया फिर से प्रयास करें।";
+"InfoMsg_PasswordMismatch" = "पासवर्ड मेल नहीं खाते। कृपया एकसमान पासवर्ड दर्ज करें।";
+
+"InfoMsg_DocumentPasswordSaved" = "इस दस्‍तावेज के लिए पासवर्ड स्‍थापित कर दिया गया है।";
+"InfoMsg_DocumentPasswordRemoved" = "दस्‍तावेज अब पासवर्ड द्वारा सुरक्षित नहीं रह गया है।";
+"InfoMsg_RemoveDocumentPassword" = "दस्‍तावेज का पासवर्ड हटाएं।";
+"InfoMsg_AddDocumentPassword" = "दस्‍तावेज में पासवर्ड जोड़ें।";
+
+"Label_CurrentPassword" = "वर्तमान पासवर्ड";
+"Label_ExportToPDF" = "PDF में निर्यात करें";
+
+"Label_Labels" = "लेबल";
+"Label_ChartTitle" = "चार्ट का शीर्षक";
+"Label_DataRange" = "डेटा रेंज";
+"Label_LegendEntries" = "लेजेंड प्रविष्टियां";
+"Label_Title" = "शीर्षक";
+"Label_HorizontalLabels" = "क्षैतिज लेबल";
+"Label_Range" = "रेंज :";
+"Label_SeriesIn" = "इसमें शृंखला";
+"Label_Series" = "शृंखला";
+"Label_Format" = "प्रारूप";
+"Label_Chart" = "चार्ट";
+"Label_Image" = "चित्र";
+
+
+"Label_TextBox" = "पाठ्य बॉक्‍स";
+"Label_Picture" = "तस्‍वीर";
+"Label_Duplicate" = "डुप्लिकेट";
+"Label_MoveUp" = "ऊपर जाएं";
+"Label_MoveDown" = "नीचे जाएं";
+"Label_MoveLeft" = "बाएं जाएं";
+"Label_MoveRight" = "दाहिने जाएं";
+"Label_ChooseLayout" = "लेआउट चुनें";
+
+/* Up to 26 chars */
+"InfoTitle_AddTitle" = "शीर्षक जोड़ने के लिए दो बार  टैप करें";
+
+"InfoTitle_AddSubtitle" = "उप-शीर्षक जोड़ने के लिए दो बार  टैप करें";
+"InfoTitle_AddText" = "पाठ जोड़ने के लिए दो बार टैप करें";
+"InfoTitle_PicturePlaceholder" = "तस्‍वीर प्‍लेसहोल्‍डर";
+
+"ErrMsg_UndoCmdCouldNotBeSaved" = "आदेश को पूर्ववत करें वाले स्‍टैक में सहेजा नहीं जा सका";
+"ErrMsg_RedoFailed" = "फिर से करें असफल रहा क्‍योंकि डिस्क पर स्थिति को लिखा नहीं जा सका";
+"ErrMsg_UndoFailed" = "पूर्ववत करना असफल रहा क्‍योंकि डिस्क पर स्थिति को लिखा नहीं जा सका";
+
+
+"Label_SeriesInfo" = "शृंखला की जानकारी";
+"Label_EditSeries" = "शृंखला संपादित करें";
+"Confirm_DeleteUnsupportedDrawObject" = "इस वस्‍तु को हटाए जाने के कार्य को पलटा नहीं जा सकता। जारी रखें?";
+"Label_InvalidRange" = "कृपया एक मान्‍य सेल रेंज दर्ज करें।";
+"Label_InvalidRangeAndList" = "मान को एक  मान्‍य सेल रेंज या अर्द्ध-विराम से पृथक्‍कृत एक सूची होना चाहिए।";
+"Label_InvalidSeriesValues" = "मान को एक मान्‍य सेल रेंज या मानों की एक सूची होना चाहिए।";
+"Label_GoToCellNotAvailable" = "इस पत्रक के लिए 'सेल पर जाएं' विशेषता उपलब्‍ध नहीं है।";
+"Label_FreezeNotAvailable" = "इस पत्रक के लिए 'फ्रीज़' की विशेषता उपलब्‍ध नहीं है।";
+"Label_SortNotAvailable" = "इस पत्रक के लिए 'छांटें' की विशेषता उपलब्‍ध नहीं है।";
+"Label_ComplexRange" = "जटिल रेंज";
+"Label_ClearOptions" = "साफ करें विकल्‍प";
+"Label_ClearAll" = "सभी को साफ करें";
+"Label_ClearFormats" = "प्रारूपों को साफ करें";
+"Label_ClearContents" = "विषयवस्‍तुओं को साफ करें";
+"Label_RangePlaceholder" = "रेंज";
+"Label_XlsSaveDrawingsNotSupported" = "चार्ट्स और चित्रों को xls प्रारूप में सहेजने के लिए समर्थन नहीं है। ये वस्‍तुएं सहेजी नहीं जाएंगी।";
+"Label_LabelsIPhone" = "Labels:";
+"Label_InvalidLinearRange" = "कृपया पंक्ति/स्‍तंभ की रेंज या मानों की एक पृथक सूची दर्ज करें।";
+"Label_InvalidTitleRange" = "शीर्षक को एक सेल/पंक्ति/स्‍तंभ की रेंज या एक स्ट्रिंग  होना चाहिए।";
+"Label_InvalidSeriesNameRange" = "नाम को एक सेल/पंक्ति/स्‍तंभ की रेंज या एक स्ट्रिंग  होना चाहिए।";
+"Label_InvalidSeriesValuesRange" = "मानों को को एक सेल/पंक्ति/स्‍तंभ की रेंज या संख्‍याओं की एक पृथक सूची होना चाहिए।";
+
+/*
+ NEW STRINGS AFTER VER 3.5
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Names" = "नाम";
+"Label_FunctionCategories" = "फ़ंक्‍शन की श्रेणियां";
+"Label_DefinedNames" = "परिभाषित नाम";
+"Label_NamesInfo" = "नाम की जानकारी";
+"Label_Range" = "रेंज";
+"Label_EditNames" = "नामों को संपादित करें";
+"Label_Scope" = "कार्यक्षेत्र";
+"Label_Workbook" = "वर्कबुक";
+"Label_NoDefinedNames" = "कोई परिभाषित नाम नहीं";
+"Label_InvalidName" = "इस नाम में अमान्‍य संकेत शामिल हैं।";
+"Label_DuplicateName" = "दर्ज किया नाम पहले से मौजूद है। कृपया एक अद्वितीय नाम दर्ज करें।";
+"ErrClass_Edit_Name" = "नाम संपादित करना असफल रहा।";
+"Label_DuplicateNameWarning" = "नाम पहले से मौजूद है";
+"Label_InvalidNameWarning" = "अमान्‍य संकेत";
+"Label_Move" = "जाएं";
+"InfoMsg_MoveSheetDescription" = "पत्रक को बढ़ाने के लिए, पत्रक के टैब पर टैप करके इसे दबाएं रखें।";
+
+"ErrMsg_CannotBeReplacedBySelfContents" = "फोल्‍डर %@ को इसमें शामिल किसी आइटम से प्रतिस्‍थापित नहीं किया जा सकता है।";
+"Confirm_DeleteRecentFiles" = "क्‍या आप निश्चित हैं कि आप हाल ही की फाइलें हटाना चाहते हैं?";
+
+
+/*
+ NEW STRINGS AFTER VER 3.5.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Table" = "तालिका";
+"Label_TableProperties" = "तालिका के गुण";
+"Label_InsertRowAfter" = "इसके बाद पंक्ति डालें";
+"Label_InsertRowBefore" = "इससे पहले पंक्ति डालें";
+"Label_DeleteRow" = "पंक्ति हटाएं";
+"Label_DeleteTable" = "तालिका हटाएं";
+
+"Label_Export" = "निर्यात करें";
+"Label_ExportTo" = "को निर्यात करें";
+
+
+"Label_Filter" = "फिल्‍टर";
+"Label_ClearFilter" = "फिल्‍टर साफ करें";
+"Label_ReapplyFilter" = "फिल्‍टर को पुन: लागू करें";
+"Label_ComparisonFilter" = "फिल्‍टर की तुलना करें";
+"Label_Multichoice" = "एकाधिक चयन";
+"Label_AboveAverage" = "औसत से ऊपर";
+"Label_BelowAverage" = "औसत से नीचे";
+"Label_Top10" = "सर्वोच्‍च 10";
+
+"Label_Equal" = "के समान";
+"Label_LessThan" = "से कम";
+"Label_LessThanOrEqual" = "से कम या इसके समान";
+"Label_NotEqual" = "के समान नहीं";
+"Label_GreaterThanEqual" = "से बड़ा या इसके समान";
+"Label_GreaterThan" = "से बड़ा";
+"Label_Between" = "इनके बीच";
+
+"Label_Items" = "आइटम्‍स";
+"Label_Percent" = "प्रतिशत";
+"Label_Count" = "गणना";
+"Label_Value" = "मान";
+"Label_And" = "और";
+"Label_Or" = "या";
+"Label_None" = "कोई नहीं";
+"Label_Blanks" = "(रिक्‍त)";
+"Label_ShowAll" = "(सभी दर्शाएं)";
+"Label_InvalidFilter" = "अमान्‍य फिल्‍टर।";
+
+"Label_XlsSaveFiltersNotSupported" = "फिल्‍टर्स को xls प्रारूप में सहेजना समर्थित नहीं है। फिल्‍टर की जानकारी सहेजी नहीं जाएगी।";
+"Confirm_ClearUnsupportedFilters" = "पत्रक में असमर्थित फिल्‍टर्स शामिल हैं। क्‍या आप इन फिल्‍टर्स को हटाना चाहते हैं और फिल्‍टर संपादन के साथ आगे बढ़ना चाहते हैं? इस कार्य को पलटा नहीं जा सकता है।";
+"ErrClass_Execute_Command" = "आदेश को पूरा नहीं कर सकता है। ";
+"ErrExecute_EmptyRange" = "चुनी हुई रेंज रिक्‍त है।";
+"ErrExecute_RangeWithinFilters" = "चुनी हुई रेंज में फिल्‍टर हैं।";
+
+"Label_NewSlide" = "नई स्‍लाइड";
+"Label_TitleSubtitle" = "शीर्षक को मध्‍य में और उप-शीर्षक को प्‍लेसहोल्‍डर्स में करके लेआउट करें";
+"Label_TitleText" = "शीर्षक और पाठ";
+"Label_TitleTextText" = "शीर्षक, पाठ बायीं ओर, पाठ दाहिनी ओर";
+"Label_TitleTable" = "शीर्षक और तालिका";
+"Label_TitleTextChart" = "शीर्षक, पाठ बायीं ओर और चार्ट दाहिनी ओर";
+"Label_TitleChartText" = "शीर्षक, चार्ट बायीं ओर और पाठ दाहिनी ओर";
+"Label_TitleDiagram" = "शीर्षक और रेखाचित्र";
+"Label_TitleChart" = "शीर्षक और चार्ट";
+"Label_TitleTextClipArt" = "शीर्षक, पाठ बायीं ओर और क्लिपआर्ट दाहिनी ओर";
+"Label_TitleClipArtText" = "शीर्षक, क्लिपआर्ट बायीं ओर, पाठ दाहिनी ओर";
+"Label_TitleOnly" = "केवल शीर्षक";
+"Label_Blank" = "रिक्‍त";
+"Label_TitleTextObject" = "शीर्षक, पाठ बायीं ओर, वस्‍तु दाहिनी ओर";
+"Label_TitleObjectText" = "शीर्षक, वस्‍तु बायीं ओर और पाठ दाहिनी ओर";
+"Label_ObjectOnly" = "केवल वस्‍तु";
+"Label_TitleObject" = "शीर्षक और वस्‍तु";
+"Label_TitleTextMedia" = "शीर्षक, पाठ बायीं ओर, मीडिया दाहिनी ओर";
+"Label_TitleMediaText" = "शीर्षक, मीडिया बायीं ओर और, पाठ दाहिनी ओर";
+"Label_TitleTopObjectBottomText" = "शीर्षक, वस्‍तु सबसे ऊपर, पाठ सबसे नीचे";
+"Label_TitleTopTextBottomObject" = "शीर्षक, पाठ सबसे ऊपर, वस्‍तु सबसे नीचे";
+"Label_TitleText2Objects" = "शीर्षक, पाठ बायीं ओर, दो वस्‍तुएं दाहिनी ओर";
+"Label_Title2ObjectsText" = "शीर्षक, दो वस्‍तुएं बायीं ओर, पाठ दाहिनी ओर";
+"Label_TitleTop2ObjectsBottomText" = "शीर्षक, दो वस्‍तुएं सबसे ऊपर, पाठ सबसे नीचे";
+"Label_Title4Objects" = "शीर्षक और चार वस्‍तुएं";
+"Label_TitleVerticalText" ="शीर्षक और उर्ध्‍वाधर बॉडी टेक्‍स्‍ट";
+"Label_TitleClipArtVerticalText" = "शीर्षक, क्लिपआर्ट बायीं ओर, उर्ध्‍वाधर पाठ दाहिनी ओर";
+"Label_VerticalTitleVerticalText" = "उर्ध्‍वाधर शीर्षक दाहिनी ओर, उर्ध्‍वाधर पाठ बायीं ओर";
+"Label_VerticalTitleVerticalTextChart" = "उर्ध्‍वाधर शीर्षक दाहिनी ओर, उर्ध्‍वाधर पाठ सबसे ऊपर, चार्ट सबसे नीचे";
+"Label_TitleObjectObject" = "शीर्षक, वस्‍तु बायीं ओर, वस्‍तु दाहिनी ओर";
+"Label_TitleObject2Objects" = "शीर्षक, एक वस्‍तु बायीं ओर, दो वस्‍तुएं दाहिनी ओर";
+"Label_Title2ObjectsObject" = "शीर्षक, दो वस्‍तुएं बायीं ओर, एक वस्‍तु दाहिनी ओर";
+"Label_CustomLayout" = "उपयोगकर्ता द्वारा परिभाषित कस्‍टम लेआउट";
+"Label_SectionHeaderTitleSubtitle" = "अनुभाग शीर्षलेख शीर्षक और उप-शीर्षक पाठ";
+"Label_Title2Objects" = "पाठ के साथ शीर्षक और दो वस्‍तुएं";
+"Label_TitleObjectCaptionText" = "शीर्षक, वस्‍तु, और कैप्‍शन पाठ्य";
+"Label_TitlePictureCaptionText" = "शीर्षक, तस्‍वीर, और कैप्‍शन पाठ्य";
+"Label_SlideNumberNotes" = "स्‍लाइड %d नोट्स";
+
+"Label_OpenHyperlink" = "हाइपरलिंक खोलें";
+"Label_CopyHyperlink" = "हाइपरलिंक की प्रतिलिपि बनाएं";
+"Label_Hyperlink" = "हाइपरलिंक";
+"Label_RemoveHyperlink" = "हाइपरलिंक दूर करें";
+"Label_EnterURL" = "URL पता दर्ज करें";
+"Label_EnterEmail" = "ई-मेल पता दर्ज करें";
+"Label_EnterSubject" = "विषय दर्ज करें";
+"Label_URL" = "URL";
+"Label_Slide" = "स्‍लाइड";
+"Label_SetHyperlinkAction" = "टैप करने पर हाइपरलिंक कार्य करना स्‍थापित करें";
+"Label_SlideNumber" = "स्‍लाइड %d";
+"Label_NextSlide" = "अगली स्‍लाइड";
+"Label_PreviousSlide" = "पिछली स्‍लाइड";
+"Label_FirstSlide" = "पहली स्‍लाइड";
+"Label_LastSlide" = "अंतिम स्‍लाइड";
+
+/* Up to 32 chars */
+"Label_EndSlideshow" = "स्‍लाइडशो का अंत";
+
+"Label_NoAction" = "कोई कार्य नहीं";
+"Label_Unsupported" = "असमर्थित";
+
+
+"Label_Shape" = "आकृति";
+"Label_Shapes" = "आकृतियां";
+"Label_Lines" = "रेखाएं";
+"Label_Rectangles" = "आयत";
+"Label_BasicShapes" = "बुनियादी आकृतियां";
+"Label_BlockArrows" = "ब्‍लॉक वाले तीर";
+"Label_EquationShapes" = "समीकरण वाली आकृतियां";
+"Label_FlowchartShapes" = "फ्लोचार्ट वाली आकृतियां";
+"Label_StarsAndBanners" = "तारे और बैनर";
+"Label_Callouts" = "कॉलआउट्स";
+"Label_ActionButtons" = "एक्‍शन बटन्‍स";
+"Label_Others" = "अन्‍य";
+"Label_BringToFront" = "सबसे आगे लाएं";
+"Label_SendToBack" = "सबसे पीछे ले जाएं";
+"Label_BringForward" = "आगे लाएं";
+"Label_SendBackward" = "पीछे ले जाएं";
+
+
+"Label_GoPremiumDetails" = "ऑफिस-सुइट प्रीमियम के साथ ऑफिस-सुइट से अधिकतम प्राप्‍त करें";
+"Label_HideGoPremium" = "प्रीमियम हों को छिपाएं";
+"Label_ShowGoPremium" = "प्रीमियम हों को दिखाएं";
+"Label_RestorePurchases" = "खरीदारियों को रीस्‍टोर करें";
+
+"Label_BuyMonthly" = "मासिक %@/माह";
+"Label_BuyYearly" = "वार्षिक %@/वर्ष (%@/माह)";
+
+"Label_Feature1" = "वर्ड के दस्‍तावेज संपादित और सृजित करें";
+"Label_Feature2" = "एक्‍सेल के दस्‍तावेज संपादित और सृजित करें";
+"Label_Feature3" = "पावरप्‍वाइंट के दस्‍तावेज संपादित और सृजित करें";
+"Label_Feature4" = "PDF फाइलें देखें";
+"Label_Feature5" = "क्‍लाउड समर्थन और दस्‍तावेज साझा करना";
+"Label_Feature6" = "प्रिंट करें";
+"Label_Feature7" = "पासवर्ड सुरक्षा";
+"Label_Feature8" = "पाठ्य दस्‍तावेजों को PDF में निर्यात करें";
+"Label_Feature9" = "पीडीएफ फाइलों को वर्ड, एक्‍सेल और ई-पब में निर्यात करें";
+"Label_Feature10" = "स्‍पेल चेक चलाएं";
+"Label_Feature11" = "PDF निर्यात के बाद मूल लेआउट, फॉर्मेटिंग, तालिकाएं और ग्राफिक्‍स को बनाए रखें";
+"Label_Feature12" = "एक्‍सेल में फिल्‍टर डालें";
+"Label_Feature13" = "विज्ञापन मुक्‍त";
+
+"Label_GoPremFeature" = "विशेषता";
+"Label_GoPremFree" = "मुफ्त";
+"Label_GoPremPro" = "प्रो";
+"Label_GoPremPremium" = "प्रीमियम";
+"Label_Premium" = "प्रीमियम";
+"Label_GoPremiumBenefits" = "प्रीमियम पैकेज के फायदे";
+
+"InfoTitle_PremiumFeature" = "प्रीमियम विशेषता";
+"InfoMsg_PremiumFeature" = "यह विशेषता केवल प्रीमियम संस्‍करण में ही उपलब्‍ध है।";
+
+"Label_FreeEdition" = "मुफ्त संस्‍करण";
+"Label_PremiumEdition" = "प्रीमियम संस्‍करण";
+
+"Label_TopN" = "सर्वोच्‍च N";
+"Label_ShowRowsWhere" = "यह मान होने पर पंक्तियां दिखाएं :";
+"Label_TopNAutoFilter" = "सर्वोच्‍च N ऑटोफिल्‍टर";
+"Label_ShowTop10" = "दिखाएं :";
+"Label_FilterOn" = "फिल्‍टरर्स को चालू करें";
+"Label_FilterOff" = "फिल्‍टरर्स को बंद करें";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_CopyTo" = "...पर प्रतिलिपि बनाएं";
+"Label_MoveTo" = "...पर ले जाएं";
+"InfoMsg_SelectOnlyOneFileForDocPicker" = "कृपया केवल एक फाइल चुनें।";
+
+"Label_WebDAV_FailedLogIn_ErrorCode" = "लॉगिन करने में असफल रहा!\nHTTP त्रुटि कोड : %d.\nकृपया किसी अन्‍य HTTP पते, उपयोगकर्तानाम या पासवर्ड के साथ पुन: प्रयास करें।";
+
+"Label_SheetOrientation" = "पत्रक की ओरिएंटेशन :";
+"Label_Landscape" = "लैंडस्‍केप";
+"Label_Portrait" = "पोट्रेट";
+"Label_SheetsToPrint" = "प्रिंट के लिए पत्रक :";
+"Label_ActiveSheet" = "सक्रिय पत्रक";
+"Label_MultipleSheets" = "एकाधिक पत्रक";
+"Label_AllSheets" = "संपूर्ण वर्कबुक";
+"Label_Proceed" = "आगे बढ़ें";
+
+"Label_FiltersNotAvailable" = "इस पत्रक के लिए फिल्‍टर्स की विशेषता उपलब्‍ध नहीं है।";
+"ErrMsg_InsertImageError" = "अमान्‍य या असमर्थित चित्र";
+"FUNCCAT_Compatibility" = "कॉम्‍पैटिबिलिटी";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"InfoTitle_WouldYouRecommend" = "बेहतर ऑफिस-सुइट\nबनाने में मदद करें!";
+"InfoMsg_WouldYouRecommend" = "किसी क्विक\nऐप स्‍टोर रेटिंग में चर्चित करें, या सीधे हमसे संपर्क करें और अपने विचार हमें बताएं।";
+"Label_RateDialogRate" = "आफिस-सुइट को रेट करें";
+"Label_RateDialogSendFeedback" = "प्रतिक्रिया भेजें";
+"Label_RateDialogDismiss" = "शायद बाद में";
+"InfoTitle_FeedbackMailSubject" = "संस्‍करण %@ के लिए ऑफिस-सुइट उपयोगकर्ता की प्रतिक्रि‍या";
+"InfoTitle_CannotOpenAppStore" = "ऐप स्‍टोर उपलब्‍ध नहीं है";
+"InfoMsg_CannotOpenAppStoreForRate" = "रेटिंग्‍स पृष्‍ठ नहीं खुल सका क्‍योंकि ऐप स्‍टोर उपलब्‍ध नहीं है";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Files" = "फाइलें";
+"Label_File" = "फाइल";
+"Label_View" = "देखें";
+"Label_Go_To" = "पर जाएं";
+"Label_WrapText" = "पाठ लपेटें";
+"Label_MergeAndCenter" = "मिलाएं और मध्‍य में करें";
+"Label_AutoSum" = "स्‍वत: योग";
+
+"Label_New" = "नया";
+"Label_Templates" = "टेम्‍पलेट्स";
+"Label_OpenRecent" = "हाल वाले खोलें";
+"Label_Send" = "भेजें";
+"Label_Protect" = "प्रोजेक्‍ट";
+"Label_PageSetup" = "पृष्‍ठ का सेटअप";
+
+"Label_CameraPicture" = "कैमरे की तस्‍वीर";
+"Label_RowAbove" = "ऊपर की पंक्ति";
+"Label_ColumnLeft" = "बायीं ओर का स्‍तंभ";
+"Label_ChartInANewSheet" = "एक नए पत्रक में चार्ट";
+
+"Label_NumberFormatting" = "संख्‍या की फॉर्मेटिंग";
+"Label_AlignmentInCell" = "सेल में संरेखण";
+"Label_CellFont" = "सेल का फॉण्‍ट";
+"Label_CellBorder" = "सेल का बॉर्डर";
+"Label_HideRows" = "पंक्तियां छिपाएं";
+"Label_UnhideRows" = "पंक्तियां दिखाएं";
+"Label_HideColumns" = "स्‍तंभ छुपाएं";
+"Label_UnhideColumns" = "स्‍तंभ दिखाएं";
+"Label_AutoFitColumns" = "स्‍वत:-फिट स्‍तंभ";
+"Label_RenameSheet" = "पत्रक का पुन: नामकरण";
+"Label_EditHyperlink" = "हाइपरलिंक संपादित करें";
+
+"Label_InsertFunction" = "फॉर्म्‍युला डालें";
+"Label_NameManager" = "प्रबंधक का नाम";
+"Label_Reference" = "संदर्भ";
+
+"Label_CellContent" = "सेल की सामग्री";
+"Label_ShowGridlines" = "ग्रिडलाइन दिखाएं";
+"Label_StartSelection" = "चयन आरंभ करें";
+"Label_SelectAll" = "सभी को चुनें";
+"Label_FindReplace" = "खोजें और बदलें";
+
+"Label_PageBreak" = "पृष्‍ठ विराम";
+"Label_Paragraph" = "पैराग्राफ";
+"Label_SelectAll" = "सभी को चुनें";
+"Label_FormattingSymbols" = "फॉर्मेटिंग के संकेत";
+"Label_Bullets" = "बुलेट्स";
+"Label_Numbering" = "संख्‍यात्‍मक करें";
+
+/* Up to 20 chars */
+"Label_MultilevelList" = "बहुस्‍तरीय सूची";
+
+"Label_IncreaseIndent" = "इंडेंट बढ़ाएं";
+"Label_DecreaseIndent" = "इंडेंट घटाएं";
+"Label_Margins" = "हाशिए";
+"Label_Orientation" = "ओरिएंटेशन";
+"Label_SectionBreaks" = "अनुभाग विराम";
+"Label_PageBreaks" = "पृष्‍ठ विराम";
+"Label_GoToTop" = "शीर्ष पर जाएं";
+"Label_GoToBottom" = "अंत पर जाएं";
+"Label_GoToBookmark" = "बुकमार्क पर जाएं";
+"Label_DeleteBookmark" = "बुकमार्क हटाएं";
+"Label_FullScreen" = "पूर्ण स्‍क्रीन";
+"Label_PasteStyle" = "चिपकाएं\nशैली";
+"Label_FormatPainter" = "फॉर्मेट\nपेंटर";
+"Label_ChangeStyle" = "शैली बदलें";
+"Label_InsertAbove" = "ऊपर डालें";
+"Label_InsertBelow" = "नीचे डालें";
+"Label_InsertToTheLeft" = "बाएं डालें";
+"Label_InsertToTheRight" = "दाएं डालें";
+"Label_DeleteColumn" = "स्‍तंभ हटाएं";
+"Label_DeleteCells" = "सेल हटाएं";
+
+"ErrClass_SortString" = "छांटना असफल रहा। ";
+"Err_CellsHasMergesString" = "मिलाए हुए सेल का अंश नहीं बदल सकता है।";
+
+
+"Label_RedeemActivationCode" = "सक्रियण कोड को रिडीम करें";
+"Label_EnterRedeemActivationCode" = "सक्रियण कोड दर्ज करें";
+
+"InfoTitle_RedeemActivationSuccess" = "सक्रियण को रिडीम करना सफल रहा";
+"ErrTitle_RedeemActivationFailed" = "सक्रियण को रिडीम करना असफल रहा";
+"ErrMsg_RedeemActivationInvalidKey" = "अमान्‍य सक्रियण कुंजी!";
+"ErrMsg_RedeemActivationNoInternet" = "इंटरनेट कनेक्‍शन नहीं है!";
+"ErrMsg_RedeemActivationSystemError" = "सिस्‍टम त्रुटि!";
+
+"InfoMsg_RedeemActivationStatusRedeemed" = "कुंजी को सफलतापूर्वक रिडीम किया!";
+"ErrMsg_RedeemActivationStatusKeyNotFound" = "कुंजी नहीं मिली!";
+"ErrMsg_RedeemActivationStatusHashNotFound" = "निर्दिष्‍ट कुंजी के लिए उपकरण नहीं मिला!";
+"ErrMsg_RedeemActivationStatusServerError" = "सर्वर त्रुटि!";
+"ErrMsg_RedeemActivationStatusNotSpecial" = "इस कुंजी के लिए उपकरण को स्‍वीकार नहीं किया!";
+"ErrMsg_RedeemActivationStatusKeyExpired" = "कुंजी की वैधता-अवधि समाप्‍त हो गई है!";
+"ErrMsg_RedeemActivationStatusLimitReached" = "कुंजी सीमा आ गई है!";
+
+"Label_BuyOneTime" = "पूरा लाइसेंस %@";
+"ErrMsg_PaymentFailed" = "दुर्भाग्‍यवश, आपका भुगतान असफल हो गया है।";
+
+/* Up to 22 chars */
+"Label_RecentFiles" = "हाल ही की फाइलें";
+"WarningMsg_DeleteRecentItem" = "क्‍या आप निश्चित हैं कि आप इस आइटम को हाल ही की फाइलों से हटाना चाहते हैं?";
+"WarningMsg_DeleteRecentItems" = "क्‍या आप निश्चित हैं कि आप इन आइटम्‍स को हाल ही की फाइलों से हटाना चाहते हैं?";
+"Label_ExternalLocation" = "बाह्य स्‍थान";
+"Label_OpenContainingFolder" = "इसे रखने वाले फोल्‍डर को खोलें";
+"Label_NoRecentFiles" = "हाल ही की कोई भी फाइलें नहीं हैं";
+"Label_Network" = "नेटवर्क";
+
+/* Up to 20 chars */
+"Label_AddAccount" = "अकाउंट जोड़ें";
+
+"Label_iCloudDrive" = "iCloud ड्राइव";
+"Label_CopyFromICloudDrive" = "iCloud ड्राइव से प्रतिलिपि बनाएं";
+"Label_CopyToICloudDrive" = "iCloud ड्राइव पर प्रतिलिपि बनाएं";
+"Label_MoveToICloudDrive" = "iCloud ड्राइव पर ले जाएं";
+"Label_iCloud" = "iCloud";
+"Label_LocalStorage" = "स्‍थानीय भंडार";
+
+"Label_FitPage" = "पृष्‍ठ को फिट करें";
+"Label_100PercentZoom" = "100% ज़ूम";
+"Label_GoToSlide" = "स्‍लाइड पर जाएं";
+"Label_DuplicateSlide" = "डुप्लिकेट स्‍लाइड";
+"Label_ReorderSlides" = "स्‍लाइडों को पुन: क्रमित करें";
+"Label_DeleteSlide" = "स्‍लाइड हटाएं";
+"Label_StartSlideShow" = "स्‍लाइडशो आरंभ करें";
+"Label_StartFromCurrent" = "वर्तमान से आरंभ करें";
+"Label_AutomaticAdvance" = "स्‍वत:स्‍फूर्त उन्‍नत";
+"Label_Find" = "खोजें";
+
+"Label_ExportToWord" = "वर्ड में परिवर्तित करें";
+"Label_ExportToExcel" = "एक्‍सेल में परिवर्तित करें";
+"Label_ExportToEPub" = "ePub में परिवर्तित करें";
+
+"Label_ZoomFitPage" = "फिट करें";
+"Label_Zoom25" = "25 %";
+
+"Label_Note" = "नोट";
+"Label_Underline" = "अंडरलाइन करें";
+"Label_Strikethrough" = "स्‍ट्राइकथ्रू";
+"Label_Text" = "पाठ";
+
+"Label_Content" = "सामग्री";
+
+"Err_ReloadFailed" = "दस्‍तावेज को सहेजने के बाद पुन: लोड करने में असफल रहा।";
+"Label_SaveChangesBeforeExport" = "बिना सहेजे हुए बदलावों को निर्यात नहीं करेगा। क्‍या आप अब सहेजना चाहेंगे?";
+"Err_PdfConversion_ServerError" = "निर्यात करने में रिमोट सर्वर असफल रहा।";
+"Err_PdfPasswordChangeNotPermitted" = "आपके पास इस दस्‍तावेज का उपयोगकर्ता पासवर्ड बदलने की अनुमति नहीं है।";
+"Err_PdfSecuritySettingsChangeFailed" = "सुरक्षा सेटिंग्‍स को बदलना असफल रहा।";
+"Err_PdfConversion_PasswordProtectedFilesNotSupported" = "इस फाइल को निर्यात नहीं किया जा सकता क्‍योंकि यह पासवर्ड द्वारा सुरक्षित है। यदि आप आगे कार्य करना चाहते हैं तो कृपया पासवर्ड सुरक्षा दूर करें।";
+
+"Label_Exporting" = "निर्यात कर रहा है...";
+"Label_PdfConversionSuccessful" = "फाइल को सफलतापूर्वक निर्यात कर दिया गया।";
+"Label_PdfPasswordChangeRequiresSaving" = "पासवर्ड बदलने के लिए फाइल को सहेजने की आवश्‍यकता है। एक बार सहेज दिए जाने पर,  आप सहेजने से पहले किए गए पूर्ववत करें/फिर से करें वाले बदलाव करने में सक्षम नहीं रहेंगे।";
+
+/* Up to 10 chars */
+"Label_Review" = "समीक्षा";
+
+"Label_Annotation" = "एनोटेशन";
+
+"Label_Photos" = "तस्‍वीरें";
+"Label_ClearStyle" = "शैली साफ करें";
+"Label_Normal" = "सामान्‍य";
+"Label_Wide" = "चौड़ा";
+"Label_Narrow" = "संकरा";
+"Label_Moderate" = "मॉडरेट";
+
+"Label_a3" = "A3";
+"Label_a4" = "A4";
+"Label_a5" = "A5";
+"Label_b4" = "B4";
+"Label_b5" = "B5";
+"Label_letter" = "लेटर";
+"Label_tabloid" = "टैबलॉयड";
+"Label_ledger" = "लेज़र";
+"Label_legal" = "लीगल";
+"Label_statement" = "कथन";
+"Label_executive" = "एक्ज़ीक्यूटिव";
+"Label_folio" = "फोलियो";
+"Label_quarto" = "क्‍वार्टो";
+
+"Label_Page" = "पृष्‍ठ";
+"Label_Continuous" = "निरंतर";
+"Label_EvenPage" = "सम पृष्‍ठ";
+"Label_OddPage" = "विषम पृष्‍ठ";
+"Label_Column" = "स्‍तंभ";
+"Label_TextWrapping" = "पाठ को रैप यानी लपेट रहा है";
+
+"Label_Zoom200" = "200 %";
+"Label_Zoom150" = "150 %";
+"Label_Zoom100" = "100 %";
+"Label_Zoom75" = "75 %";
+"Label_Zoom50" = "50 %";
+
+"Label_NoItems" = "कोई भी आइटम्‍स नहीं";
+"Label_NoBookmarks" = "कोई भी बुकमार्क नहीं";
+"Label_EnterBookmarkName" = "बुकमार्क का नाम दर्ज करें";
+"Label_InsertBookmark" = "बुकमार्क डालें";
+"Label_SelectBookmark" = "बुकमार्क चुनें";
+"Label_FormatFont" = "फॉण्‍ट फॉर्मेट करें";
+
+/* Up to 26 chars */
+"Label_FormatParagraph" = "पैराग्राफ फॉर्मेट करें";
+
+"Label_NONE" = "कोई नहीं";
+"Label_CircleBullets" = "वृत्‍ताकार बुलेट्स";
+"Label_SquareBullets" = "चौकोर बुलेट्स";
+
+"Label_NumbersWithDot" = "बिंदु के साथ संख्‍याएं";
+"Label_NumbersWithBracket" = "कोष्‍ठक के साथ संख्‍याएं";
+"Label_LowerLettersWithDot" = "बिंदु के साथ लोअरकेस वाले अक्षर";
+"Label_LowerLettersWithBracket" = "कोष्‍ठक के साथ लोअरकेस वाले अक्षर";
+"Label_LowerRomanNumbersWithDot" = "बिंदु के साथ लोअरकेस वाले रोमन अंक";
+"Label_UpperLettersWithDot" = "बिंदु के साथ अपरकेस वाले अक्षर";
+"Label_UpperRomanNumbersWithDot" = "बिंदु के साथ अपरकेस वाले रोमन अंक";
+"Label_MultilevelListWithNumbers" = "संख्‍याओं के साथ बहुस्‍तरीय सूची";
+"Label_MultilevelListWithNumbersAndLetters" = "संख्‍याओं और अक्षरों के साथ बहुस्‍तरीय सूची";
+
+"Label_1_0" = "1.0";
+"Label_1_15" = "1.15";
+"Label_1_5" = "1.5";
+"Label_2_0" = "2.0";
+"Label_2_5" = "2.5";
+"Label_3_0" = "3.0";
+
+"Label_RevealFormating" = "फॉर्मेटिंग उजागर करें";
+"Label_DenyMessagePhotos" = "इस ऐप के पास आपकी तस्‍वीरों या वीडियोज़ की पहुंच नहीं है।";
+"Label_DenyMessageInstructions" = "आप निजता सेटिंग्‍स में पहुंच को सक्षम कर सकते हैं।";
+"Label_DenyNoAlbumPhotos" = "कोई भी तस्‍वीरें या वीडियोज़ नहीं";
+"Label_DenyNoAlbumPhotosMessage" = "आप कैमरे का इस्‍तेमाल करके तस्‍वीरें और वीडियोज़ ले सकते हैं, या iTunes का इस्‍तेमाल करके तस्‍वीरों और वीडियोज़ को समकालिक कर सकते हैं।";
+
+"Button_Paper" = "कागज";
+"Button_Margins" = "हाशिए";
+"Label_Custom" = "कस्‍टम";
+"Label_Width" = "चौड़ाई";
+"Label_Height" = "ऊंचाई";
+"Label_Left" = "बायां";
+"Label_Right" = "दाहिना";
+"Label_Insert" = "डालें";
+"Label_Layout" = "लेआउट";
+"Label_Styles" = "शैलियां";
+"Label_PageMargins" = "पृष्‍ठ के हाशिए";
+"Label_PageOrientation" = "पृष्‍ठ का ओरिएंटेशन";
+"Label_PageSize" = "पृष्‍ठ का आकार";
+"Label_Bookmarks" = "बुकमार्क्‍स";
+"Label_Subrscript" = "सबस्क्रिप्‍ट";
+"Label_Superrscript" = "सुपरस्क्रिप्‍ट";
+"Label_DocumentIndex" = "दस्‍तावेज की विषय-सूची";
+"Label_Alignment" = "संरेखण";
+"Label_Indents" = "इंडेंट्स";
+"Label_Spacing" = "अंतराल";
+"Label_Before" = "पहले";
+"Label_After" = "बाद में";
+"Label_FirstLine" = "पहली रेखा";
+"Label_Units" = "इकाईयां";
+"Label_Millimeters" = "मिलिमीटर";
+"Label_Centimeters" = "सेंटीमीटर";
+"Label_Inches" = "इंच";
+"Label_Points" = "प्‍वाइंट्स";
+"Label_InchesTextFormat" = "%@\"";
+"Label_CentimetersTextFormat" = "%@ cm";
+"Label_MillimetersTextFormat" = "%@ mm";
+"Label_PointsTextFormat" = "%@ प्‍वाइंट";
+"Button_TableStyleStylesTab" = "तालिका की शैलियां";
+"Button_TableStyleSettingsTab" = "सेटिंग्‍स";
+"Label_TableStyleCustomStyles" = "कस्‍टम शैलियां";
+"Label_TableStyleBuiltInStyles" = "अंतर्निर्मित शैलियां";
+"Label_TableStyleHeaderRow" = "शीर्षक पंक्ति";
+"Label_TableStyleTotalRow" = "कुल पंक्ति";
+"Label_TableStyleFirstColumn" = "पहला स्‍तंभ";
+"Label_TableStyleLastColumn" = "अंतिम स्‍तंभ";
+"Label_TableStyleBandedRows" = "बैंडेड पंक्तियां";
+"Label_TableStyleBandedColumns" = "बैंडेड स्‍तंभ";
+"Label_Tab" = "टैब";
+"Label_LineBreak" = "रेखा विराम";
+
+"Label_MSCaptureCameraUsePhoto" = "तस्‍वीर का इस्‍तेमाल करें";
+"Label_MSCaptureCameraRetake" = "रीटेक लें";
+
+"Label_Moments" = "पल";
+
+"Label_CameraDenyAccessTitle" = "कैमरा तक पहुंच नहीं बना सकता";
+"Label_CameraDenyAccessMessage" = "अपने कैमरा तक पहुंच बनाने के लिए, सेटिंग्‍स > निजता > कैमरा पर जाएं, और ऑफिस-सुइट स्विच को चालू पर कर दें।";
+
+/* Up to 24 chars */
+"Label_SlideShowSettings" = "स्‍लाइड शो की सेटिंग्‍स";
+
+"Label_NewName" = "नया नाम :";
+"ErrMsg_LongName" = "नाम बहुत लंबा है।";
+"ErrMsg_SheetNameEmpty" = "पत्रक का नाम रिक्‍त नहीं रह सकता है।";
+"WarningMessage_RtfWillLoseFormatting" = "यदि आप अपनी फाइल को RTF के रूप में सहेजते हैं, तो कुछ फॉर्मेटिंग नष्‍ट हो जाएगी। जारी रखें?";
+"WarningMessage_TxtWillLoseFormatting" = "एक पाठ्य फाइल के रूप में सहेजे जाने पर, आपकी फाइल में स्थित समस्‍त फॉर्मेटिंग, तस्‍वीरें और वस्‍तुएं नष्‍ट हो जाएंगी। जारी रखें?";
+
+/* Up to 16 chars */
+"Label_BuyMoreFonts" = "अतिरिक्‍त फॉण्‍ट खरीदें";
+"Label_InstalledFonts" = "संस्‍थापित फॉण्‍ट";
+
+"Label_Breaks" = "विराम";
+
+"Label_GoPremium" = "प्रीमियम हो जाएं";
+"Label_FontPackDescription1" = "ऑफिस-सुइट में इस्‍तेमाल के लिए सर्वाधिक लोकप्रिय फॉण्‍ट्स का एक संग्रह। आपके दस्‍तावेज जिस प्रकार से दिखेंगे, उन्‍हें उस प्रकार से देखें।";
+"Label_FontPackDescription2" = "Calibri, Tahoma और Wingdings जैसे 12 मोनोटाइप फॉण्‍ट्स हैं।";
+"Label_FontPackDescription3" = "साथ ही Garamond, Modern, Open Sans और Times Gothic जैसे 60 OFL फॉण्‍ट्स भी शामिल हैं।";
+
+"Label_FontPack" = "फॉण्‍ट पैक";
+"Label_FontPackDescription" = "ऑफिस-सुइट में इस्‍तेमाल के लिए Calibri, Tahoma और Wingdings जैसे 50+ फॉण्‍ट्स का एक संग्रह है।";
+"Label_EditPdf" = "PDF दस्‍तावेजों को संपादित करें";
+"Label_EditPdfDescription" = "अपनी PDFs को पूर्णत:-संपादनीय वर्ड/एक्‍सेल फाइलों में परिवर्तित करें";
+"Label_SaveAsPdf" = "PDF के रूप में सहेजें";
+"Label_SaveAsPdfDescription" = "अपने दस्‍तावेजों को फॉर्मेटिंग के नुकसान के बिना PDFs के रूप में सहेजें";
+"Label_AnnotatePdf" = "अपनी PDFs को ऐनोटेट करें";
+"Label_AnnotatePdfDescription" = "दस्‍तावेजों की समीक्षा करते समय नोट्स और टिप्‍पणियां लिखें";
+"Label_AddCameraPhoto" = "कैमरे की तस्‍वीर जोड़ें";
+"Label_AddCameraPhotoDescription" = "अपने दस्‍तावेजों में तस्‍वीरें जोड़ें";
+"Label_ProtectYourDocs" = "अपने दस्‍तावेजों को सुरक्षित करें";
+"Label_ProtectYourDocsDescription" = "पासवर्ड-सुरक्षित व्‍यक्तिगत फाइलें, या यहां तक कि पूरे ऑफिस-सुइट के लिए एक पासकोड सेट करें";
+"Label_AdFree" = "विज्ञापन मुक्‍त";
+"Label_AdFreeDescription" = "काम करते समय कोई भटकाव नहीं";
+
+"Label_DoubleUnderline" = "दोहरा अंडरलाइन";
+
+"Label_IncreaseFont" = "फॉण्‍ट बढ़ाएं";
+"Label_DecreaseFont" = "फॉण्‍ट घटाएं";
+
+"Label_HorizontalAlignLeft" = "क्षैतिज संरेखण बाएं";
+"Label_HorizontalAlignRight" = "क्षैतिज संरेखण दाएं";
+"Label_HorizontalAlignCenter" = "क्षैतिज संरेखण मध्‍य में";
+
+"Label_VerticalAlignBottom" = "उर्ध्‍वाधर संरेखण सबसे नीचे";
+"Label_VerticalAlignMiddle" = "उर्ध्‍वाधर संरेखण मध्‍य में";
+"Label_VerticalAlignTop" = "उर्ध्‍वाधर संरेखण सबसे ऊपर";
+
+"Label_SelectTextColor" = "पाठ का रंग चुनें";
+"Label_SelectTextBgColor" = "सेल का रंग चुनें";
+
+/* Up to 8 chars (these two strings are part of the phrase "Buy the Font Pack")  */
+"Label_BuyThe" = "खरीदें";
+"Label_Pack" = "पैक करें";
+
+"Label_OneTimePurchase" = "एक-बार वाली खरीद";
+
+"Label_FontPackMonotypeTitle" = "निम्‍नलिखित 12 मोनोटाइप फॉण्‍ट हैं :";
+"Label_FontPackMonotypeDesc" = "Arial Narrow, Calibri, Cambria, Cambria Math, Comic Sans Ms, Monotype Sorts, Tahoma, Palace Script MT, Webdings, Wingdings, Wingdings 2, Wingdings 3";
+
+
+"Excel_func_ABS" = "किसी संख्या का पूर्ण मान देता है";
+"Excel_func_ACCRINT" = "सुरक्षा के लिए प्राप्त ब्याज देता है जो आवर्ती ब्याज का भुगतान करता है";
+"Excel_func_ACCRINTM" = "सुरक्षा के लिए प्राप्त ब्याज देता है जो मियाद पर ब्याज का भुगतान करता है";
+"Excel_func_ACOS" = "किसी संख्या की चापकोज्या देता है";
+"Excel_func_ACOSH" = "किसी संख्या का प्रतिलोम अतिपरवलयिक कोज्या देता है";
+"Excel_func_ADDRESS" = "वर्कशीट में एकल कक्ष पर किसी संर्दभ को पाठ्य के रूप में देता है";
+"Excel_func_AMORDEGRC" = "मूल्यह्रास गुणक का उपयोग करके प्रत्येक लेखांकन अवधि के लिए मूल्यह्रास देता है";
+"Excel_func_AMORLINC" = "प्रत्येक लेखांकन अवधि के लिए मूल्यह्रास देता है";
+"Excel_func_AND" = "अगर इसके सभी तर्क TRUE होते हैं, तो यह TRUE देता है";
+"Excel_func_AREAS" = "किसी संदर्भ में क्षेत्रों की संख्या देता है";
+"Excel_func_ASC" = "वर्ण स्ट्रिंग के अंतर्गत पूर्ण-चौड़ाई (डबल-बाइट) वाले अंग्रेज़ी अक्षरों या काटाकाना को अर्ध-चौड़े (एकल-बाइट) वर्णों में परिवर्तित करता है";
+"Excel_func_ASIN" = "किसी संख्या की चापज्या देता है";
+"Excel_func_ASINH" = "किसी संख्या की प्रतिलोम अतिपरवलयिक ज्या देता है";
+"Excel_func_ATAN" = "किसी संख्या की चाप स्पर्शज्या देता है";
+"Excel_func_ATAN2" = "x- और y-निर्देशांकों से चाप स्पर्शज्या देता है";
+"Excel_func_ATANH" = "किसी संख्या की प्रतिलोम अतिपरवलयिक स्पर्शज्या देता है";
+"Excel_func_AVEDEV" = "डेटा बिंदु का पूर्ण विचलन का औसत उनके माध्य से देता है";
+"Excel_func_AVERAGE" = "इसके तर्कों का औसत देता है";
+"Excel_func_AVERAGEA" = "इसके तर्कों का औसत देता है जिसमें संख्या, पाठ्य और तार्किक मान शामिल है";
+"Excel_func_AVERAGEIF" = "निश्चित मापदंड को पूरा करने वाली श्रेणी के सभी कक्षों का औसत (योगात्मक माध्य) देता है";
+"Excel_func_AVERAGEIFS" = "एकाधिक मापदंड को पूरा करने वाले कक्षों का औसत (योगात्मक माध्य) देता है।";
+"Excel_func_BAHTTEXT" = "\u003F (baht) मुद्रा फॉर्मेट का उपयोग करके किसी संख्या को पाठ्य में कनवर्ट करता है";
+"Excel_func_BESSELI" = "संशोधित Bessel फ़ंक्शन In(x) देता है";
+"Excel_func_BESSELJ" = "Bessel फ़ंक्शन Jn(x) देता है";
+"Excel_func_BESSELK" = "संशोधित Bessel फ़ंक्शन Kn(x) देता है";
+"Excel_func_BESSELY" = "Bessel फ़ंक्शन Yn(x) देता है";
+"Excel_func_BETADIST" = "बीटा संचयी वितरण फ़ंक्शन देता है";
+"Excel_func_BETAINV" = "निर्दिष्ट बीटा वितरण के लिए संचयी वितरण फ़ंक्शन का व्युत्क्रम देता है";
+"Excel_func_BIN2DEC" = "किसी बाइनरी संख्या को दशमलव में कनवर्ट करता है";
+"Excel_func_BIN2HEX" = "किसी बाइनरी संख्या को हेक्ज़ाडेसिमल में कनवर्ट करता है";
+"Excel_func_BIN2OCT" = "किसी बाइनरी संख्या को ऑक्टल में कनवर्ट करता है";
+"Excel_func_BINOMDIST" = "एकल पद द्विपद बंटन प्रायिकता देता है";
+"Excel_func_CALL" = "किसी डायनेमिक लिंक लायब्रेरी या कोड संसाधन में एक कार्यविधि को कॉल करता है";
+"Excel_func_CEILING" = "किसी संख्‍या को निकटतम पूर्णांक या निकटतम निश्चित गुणांक में बनाता है";
+"Excel_func_CELL" = "फॉर्मेटिंग, स्थान या कक्ष की सामग्रियों के बारे में जानकारी देता है";
+"Excel_func_CHAR" = "कोड संख्या द्वारा निर्दिष्ट अक्षर देता है";
+"Excel_func_CHIDIST" = "चाय-वर्ग बंटन की एक-पुच्छ प्रायिकता देता है";
+"Excel_func_CHIINV" = "चाय-वर्ग बंटन की एक-पुच्छ प्रायिकता का प्रतिलोम देता है";
+"Excel_func_CHITEST" = "स्वतंत्रता के लिए परीक्षण देता है";
+"Excel_func_CHOOSE" = "मानों की सूची में से एक मान चुनता है";
+"Excel_func_CLEAN" = "पाठ से मुद्रित न हो सकने वाले सभी वर्ण निकालता हैं";
+"Excel_func_CODE" = "आपके कंप्यूटर द्वारा प्रयुक्त वर्ण समूह में, किसी पाठ स्ट्रिंग के प्रथम वर्ण के लिए सांख्यिक कोड देता है";
+"Excel_func_COLUMN" = "किसी संदर्भ का स्तंभ क्रमांक देता है";
+"Excel_func_COLUMNS" = "किसी संदर्भ में स्तंभों की संख्या देता है";
+"Excel_func_COMBIN" = "निश्चित वस्तुओं\u0020 की संख्या के लिए अनेक संयोजन देता है";
+"Excel_func_COMPLEX" = "वास्तविक और अधिकल्पित गुणांक किसी सम्मिश्र संख्या में कनवर्ट करता है";
+"Excel_func_CONCATENATE" = "एक पाठ्य मद में कई पाठ्य मदों को जोड़ता है";
+"Excel_func_CONFIDENCE" = "जनसंख्या माध्य के लिए विश्वास का अंतराल देता है";
+"Excel_func_CONVERT" = "किसी संख्या को एक माप प्रणाली से दूसरी में कनवर्ट करता है";
+"Excel_func_CORREL" = "दो डेटा समूहों के बीच सहसंबंध गुणांक देता है";
+"Excel_func_COS" = "किसी संख्या की कोज्या देता है";
+"Excel_func_COSH" = "किसी संख्या का अतिपरवलयिक कोज्या देता है";
+"Excel_func_COUNT" = "तर्कों की सूची में संख्याओं की गणना करता है";
+"Excel_func_COUNTA" = "तर्कों की सूची में मानों की गणना करता है";
+"Excel_func_COUNTBLANK" = "किसी श्रेणी के अंदर रिक्त कक्षों की संख्या की गणना करता है";
+"Excel_func_COUNTIF" = "निश्चित मानदंड को पूरा करने वाली श्रेणी में कक्षों की संख्या की गणना करता है";
+"Excel_func_COUNTIFS" = "एकाधिक मानदंड को पूरा करने वाली श्रेणी में कक्षों की संख्या की गणना करता है";
+"Excel_func_COUPDAYBS" = "कूपन अवधि के आरंभ से निपटान अवधि तक दिनों की संख्या देता है";
+"Excel_func_COUPDAYS" = "निपटान दिनांक वाली कूपन अवधि में दिनों की संख्या देता है";
+"Excel_func_COUPDAYSNC" = "निपटान दिनांक से अगले कूपन दिनांक तक दिनों की संख्या देता है";
+"Excel_func_COUPNCD" = "निपटारा दिनांक के बाद का अगला कूपन दिनांक देता है";
+"Excel_func_COUPNUM" = "निपटारा दिनांक और परिपक्वता दिनांक के बीच भुगतान योग्य कूपनों की संख्या देता है";
+"Excel_func_COUPPCD" = "निपटारा दिनांक से पहले का पिछला कूपन दिनांक देता है";
+"Excel_func_COVAR" = "युग्म विचलनों के उत्पादों का औसत, सहप्रसरण देता है";
+"Excel_func_CRITBINOM" = "सबसे छोटा मान देता है जिसके लिए संचयी द्विपद वितरण मापदंड मान से कम या बराबर है";
+"Excel_func_CUMIPMT" = "दो अवधियों के बीच प्रदत्त संचयी ब्याज देता है";
+"Excel_func_CUMPRINC" = "दो अवधियों के बीच ऋण पर प्रदत्त संचयी मूलधन देता है";
+"Excel_func_DATE" = "किसी विशिष्ट दिनांक का क्रम संख्या देता है";
+"Excel_func_DATEVALUE" = "पाठ के रूप में दिनांक को क्रम संख्या में परिवर्तित करता है";
+"Excel_func_DAVERAGE" = "चयनित डेटाबेस प्रविष्टियों का औसत देता है";
+"Excel_func_DAY" = "क्रम संख्या को महीने के दिन में परिवर्तित करता है";
+"Excel_func_DAYS360" = "360-दिन वर्ष के आधार पर दो दिनांकों के बीच दिनों की संख्या परिकलित करता है";
+"Excel_func_DB" = "किसी निर्दिष्ट अवधि के लिए निर्धारित-ह्रासोन्मुख संतुलन पद्धति के उपयोग द्वारा आस्ति का मूल्यह्रास देता है";
+"Excel_func_DCOUNT" = "कक्षों की गणना करता है जिसमें डेटाबेस में संख्या शामिल हों";
+"Excel_func_DCOUNTA" = "डेटाबेस में उन कक्षों की गणना करता है जो रिक्त नहीं हैं";
+"Excel_func_DDB" = "दोहरी-ह्रासोन्मुख संतुलन पद्धति या आपके द्वारा निर्दिष्ट किसी अन्य पद्धति के उपयोग द्वारा निर्दिष्ट अवधि के लिए आस्ति का मूल्यह्रास देता है";
+"Excel_func_DEC2BIN" = "द्विआधारी को दशमलव संख्या में परिवर्तित करता है";
+"Excel_func_DEC2HEX" = "दशमलव संख्या को षोडश आधारी में परिवर्तित करता है";
+"Excel_func_DEC2OCT" = "दशमलव संख्या को अष्टाधारी में परिवर्तित करता है";
+"Excel_func_DEGREES" = "त्रिज्या-कोण को डिग्री में परिवर्तित करता है";
+"Excel_func_DELTA" = "परीक्षण करता है कि क्या दो मान बराबर हैं";
+"Excel_func_DEVSQ" = "विचलन के वर्गों का योग देता है";
+"Excel_func_DGET" = "डेटाबेस से एक एकल रिकॉर्ड निकालता है जो निर्दिष्ट मापदंड के साथ मेल खाता हो";
+"Excel_func_DISC" = "प्रतिभूति के लिए रियायती दर देता है";
+"Excel_func_DMAX" = "चयनित डेटाबेस प्रविष्टियों से अधिकतम मान देता है";
+"Excel_func_DMIN" = "चयनित डेटाबेस प्रविष्टियों से न्यूनतम मान देता है";
+"Excel_func_DOLLAR" = "$ (डॉलर) मुद्रा प्रारूप के उपयोग द्वारा संख्या को पाठ में परिवर्तित करता है";
+"Excel_func_DOLLARDE" = "भिन्न के रूप में व्यक्त डॉलर मूल्य को, दशमलव संख्या में व्यक्त डॉलर मूल्य में परिवर्तित करता है";
+"Excel_func_DOLLARFR" = "दशमलव के रूप में व्यक्त डॉलर मूल्य को, भिन्न के रूप में व्यक्त डॉलर मूल्य में परिवर्तित करता है";
+"Excel_func_DPRODUCT" = "किसी डेटाबेस के मापदंड से मेल खाने वाले रिकॉर्ड के विशिष्ट फ़ील्ड के मानों को गुणा करता है";
+"Excel_func_DSTDEV" = "चयनित डेटाबेस प्रविष्टियों के नमूने के आधार पर मानक विचलन का अनुमान लगाता है";
+"Excel_func_DSTDEVP" = "चयनित डेटाबेस प्रविष्टियों की संपूर्ण संख्याओं के आधार पर मानक विचलन परिकलित करता है";
+"Excel_func_DSUM" = "मापदंड से मेल खाने वाले डेटाबेस के रिकॉर्डों के फ़ील्ड स्तंभ की संख्याओं को जोड़ता है";
+"Excel_func_DURATION" = "आवधिक ब्याज भुगतानों सहित प्रतिभूति की वार्षिक अवधि देता है";
+"Excel_func_DVAR" = "चयनित डेटाबेस प्रविष्टियों से नमूने पर आधारित भिन्नता का अनुमान लगाता है";
+"Excel_func_DVARP" = "चयनित डेटाबेस प्रविष्टियों की संपूर्ण संख्याओं के आधार पर भिन्नता परिकलित करता है";
+"Excel_func_EDATE" = "दिनांक का क्रम संख्या देता है जो कि प्रारंभ दिनांक से पहले या बाद के महीनों की संख्या को सूचित करता है";
+"Excel_func_EFFECT" = "प्रभावी वार्षिक ब्याज दर को देता है";
+"Excel_func_EOMONTH" = "निर्दिष्ट महीनों की संख्या से पहले या बाद के महीने के अंतिम दिन की क्रम संख्या देता है";
+"Excel_func_ERF" = "त्रुटि फ़ंक्शन देता है";
+"Excel_func_ERFC" = "पूरक त्रुटि फ़ंक्शन देता है";
+"Excel_func_ERROR_TYPE" = "किसी त्रुटि प्रकार के अनुरूप संख्या देता है";
+"Excel_func_EUROCONVERT" = "किसी संख्या को यूरो में बदलता है, यूरो से किसी संख्या को यूरो सदस्य मुद्रा में बदलता है, या एक मध्यस्थ (त्रिभुजन) के रूप में यूरो के उपयोग द्वारा किसी संख्या को एक यूरो सदस्य मुद्रा से दूसरे में रूपांतरित करता है।";
+"Excel_func_EVEN" = "किसी संख्या को सम पूर्णांक संख्या में पूर्णांकित करता है";
+"Excel_func_EXACT" = "यह जाँचता है कि क्या दो पाठ मान एकसमान हैं";
+"Excel_func_EXP" = "निश्चित संख्या का e गुणांक देता है";
+"Excel_func_EXPONDIST" = "घातीय वितरण देता है";
+"Excel_func_FACT" = "संख्या का भाज्य देता है";
+"Excel_func_FACTDOUBLE" = "संख्या का दोहरा भाज्य देता है";
+"Excel_func_FALSE" = "तार्किक मान FALSE देता है";
+"Excel_func_FDIST" = "F प्रायिकता वितरण देता है";
+"Excel_func_FIND" = "एक पाठ मान को दूसरे में पहचानता है (केस-संवेदनशील)";
+"Excel_func_FINV" = "F प्रायिकता वितरण का व्युत्क्रम देता है";
+"Excel_func_FISHER" = "फ़िशर रूपांतरण देता है";
+"Excel_func_FISHERINV" = "Fisher रूपांतरण का व्युत्क्रम देता है";
+"Excel_func_FIXED" = "निश्चित दशमलव संख्या के सात संख्या को पाठ के रूप में फ़ॉर्मेट करता है";
+"Excel_func_FLOOR" = "संख्या को नीचे शून्य की ओर पूर्णांकित करता है";
+"Excel_func_FORECAST" = "एक रेखीय रुझान के साथ मान देता है";
+"Excel_func_FREQUENCY" = "आवृत्ति वितरण को एक अनुलंब सरणी के रूप में देता है";
+"Excel_func_FV" = "निवेश के भावी मान को देता है";
+"Excel_func_FVSCHEDULE" = "कई चक्रवृद्धि ब्याज दरों को लागू करने के बाद प्रारंभिक मूलधन का भावी मान देता है";
+"Excel_func_GAMMADIST" = "गामा वितरण देता है";
+"Excel_func_GAMMAINV" = "गामा संचयी वितरण का व्युत्क्रम देता है";
+"Excel_func_GAMMALN" = "गामा फ़ंक्शन, Г(x) का स्वाभाविक लघुगणक देता है";
+"Excel_func_GCD" = "सबसे बड़ा सामान्य भाजक देता है";
+"Excel_func_GEOMEAN" = "ज्यामितीय माध्य देता है";
+"Excel_func_GESTEP" = "परीक्षण करता है कि क्या संख्या प्रारंभिक मान से बड़ा है";
+"Excel_func_GETPIVOTDATA" = "PivotTable रिपोर्ट में संग्रहीत डेटा देता है";
+"Excel_func_GROWTH" = "घातीय रुझान के साथ मान देता है";
+"Excel_func_HARMEAN" = "हरात्मक माध्य देता है";
+"Excel_func_HEX2BIN" = "षोडश आधारी संख्या को द्विआधारी में परिवर्तित करता है";
+"Excel_func_HEX2DEC" = "षोडश आधारी संख्या को दशमलव में परिवर्तित करता है";
+"Excel_func_HEX2OCT" = "षोडश आधारी संख्या को अष्टाधारी में परिवर्तित करता है";
+"Excel_func_HLOOKUP" = "किसी सरणी की शीर्ष पंक्ति में खोजता है और सूचित कक्ष का मान देता है";
+"Excel_func_HOUR" = "क्रम संख्या को घंटे में परिवर्तित करता है";
+"Excel_func_HYPERLINK" = "कोई शॉर्टकट या जम्प उत्पन्न करता है जो नेटवर्क सर्वर, इंट्रानेट, या इंटरनेट पर संग्रहीत दस्तावेज़ को खोलता है";
+"Excel_func_HYPGEOMDIST" = "अतिज्यामितीय वितरण देता है";
+"Excel_func_IF" = "तार्किक परीक्षण के प्रदर्शन को निर्दिष्ट करता है";
+"Excel_func_IFERROR" = "यदि कोई सूत्र त्रुटि में मूल्यांकित होता है , तो आपके द्वारा निर्दिष्ट मान देता है";
+"Excel_func_IMABS" = "किसी सम्मिश्र संख्या का निरपेक्ष मान (मापांक) देता है";
+"Excel_func_IMAGINARY" = "सम्मिश्र संख्या का काल्पनिक गुणांक देता है";
+"Excel_func_IMARGUMENT" = "कोणांक थीटा देता है, जो त्रिज्या-कोण में व्यक्त कोण है";
+"Excel_func_IMCONJUGATE" = "सम्मिश्र संख्या का सम्मिश्र संयुग्म देता है";
+"Excel_func_IMCOS" = "सम्मिश्र संख्या का कोज्या देता है";
+"Excel_func_IMDIV" = "दो सम्मिश्र संख्याओं का भागफल देता है";
+"Excel_func_IMEXP" = "सम्मिश्र संख्या का घातांक देता है";
+"Excel_func_IMLN" = "सम्मिश्र संख्या का सहज लघुगणक देता है";
+"Excel_func_IMLOG10" = "सम्मिश्र संख्या का आधार-10 लघुगणक देता है";
+"Excel_func_IMLOG2" = "सम्मिश्र संख्या का आधार-2 लघुगणक देता है";
+"Excel_func_IMPOWER" = "सम्मिश्र संख्या का पूर्ण संख्या गुणांक देता है";
+"Excel_func_IMPRODUCT" = "सम्मिश्र संख्याओं का गुणनफल देता है";
+"Excel_func_IMREAL" = "सम्मिश्र संख्या का वास्तविक गुणांक देता है";
+"Excel_func_IMSIN" = "सम्मिश्र संख्या का ज्या देता है";
+"Excel_func_IMSQRT" = "सम्मिश्र संख्या का वर्गमूल देता है";
+"Excel_func_IMSUB" = "दो सम्मिश्र संख्याओं के बीच अंतर देता है";
+"Excel_func_IMSUM" = "सम्मिश्र संख्याओं का योग देता है";
+"Excel_func_INDEX" = "संदर्भ या सरणी से मान का चयन करने के लिए अनुक्रमणिका का उपयोग करता है";
+"Excel_func_INDIRECT" = "पाठ मान द्वारा सूचित संदर्भ देता है";
+"Excel_func_INFO" = "वर्तमान परिचालन परिवेश के बारे में सूचना देता है";
+"Excel_func_INT" = "संख्या को निकटतम पूर्णांक में पूर्णांकित करता है";
+"Excel_func_INTERCEPT" = "रेखीय प्रतीपगमन रेखा का अवरोधन देता है";
+"Excel_func_INTRATE" = "पूर्णतः निविष्ट प्रतिभूति के लिए ब्याज दर देता है";
+"Excel_func_IPMT" = "निश्चित अवधि के लिए किसी निवेश हेतु ब्याज का भुगतान देता है";
+"Excel_func_IRR" = "नकदी प्रवाह श्रृंखलाओँ के लिए ब्याज दर लाभ देता है";
+"Excel_func_ISBLANK" = "यदि मान रिक्त है तो TRUE देता है";
+"Excel_func_ISERR" = "यदि मान #N/A के अलावा कोई त्रुटि मान हो तो TRUE देता है";
+"Excel_func_ISERROR" = "यदि मान कोई त्रुटि मान हो तो TRUE देता है";
+"Excel_func_ISEVEN" = "यदि संख्या सम हो तो TRUE देता है";
+"Excel_func_ISLOGICAL" = "यदि मान तार्किक मान हो तो TRUE देता है";
+"Excel_func_ISNA" = "यदि मान #N/A त्रुटि मान हो तो TRUE देता है";
+"Excel_func_ISNONTEXT" = "यदि मान पाठ न हो तो TRUE देता है";
+"Excel_func_ISNUMBER" = "यदि मान संख्या हो तो TRUE देता है";
+"Excel_func_ISODD" = "यदि संख्या विषम हो तो TRUE देता है";
+"Excel_func_ISREF" = "यदि मान संदर्भ हो तो TRUE देता है";
+"Excel_func_ISTEXT" = "यदि मान पाठ हो तो TRUE देता है";
+"Excel_func_ISPMT" = "किसी निवेश की विशिष्ट अवधि के दौरान प्रदत्त ब्याज परिकलित करता है";
+"Excel_func_JIS" = "वर्ण स्ट्रिंग के अंतर्गत अर्ध-चौड़े (एकल-बाइट) वाले अंग्रेज़ी अक्षरों या काटाकाना को पूर्ण-चौड़ाई (डबल-बाइट) वर्णों में परिवर्तित करता है";
+"Excel_func_KURT" = "डेटा सेट का ककुदता देता है";
+"Excel_func_LARGE" = "डेटा सेट में k-th बड़ा मान देता है";
+"Excel_func_LCM" = "लघुतम सार्वगुणज देता है";
+"Excel_func_LEFT" = "पाठ मान से सबसे बाएँ वर्ण देता है";
+"Excel_func_LEN" = "पाठ स्ट्रिंग में वर्णों की संख्या देता है";
+"Excel_func_LINEST" = "रेखीय रुझान में प्राचल देता है";
+"Excel_func_LN" = "संख्या का सहज लघुगणक देता है";
+"Excel_func_LOG" = "निर्दिष्ट आधार के प्रति संख्या का लघुगणक देता है";
+"Excel_func_LOG10" = "संख्या का आधार-10 लघुगणक देता है";
+"Excel_func_LOGEST" = "घातीय रुझान का प्राचल देता है";
+"Excel_func_LOGINV" = "लॉगसामान्य वितरण का व्युत्क्रम देता है";
+"Excel_func_LOGNORMDIST" = "संचयी लॉगसामान्य वितरण देता है";
+"Excel_func_LOOKUP" = "वेक्टर या सरणी में मान खोजता है";
+"Excel_func_LOWER" = "पाठ को लोअरकेस में परिवर्तित करता है";
+"Excel_func_MATCH" = "संदर्भ या सरणी में मानों को खोजता है";
+"Excel_func_MAX" = "कोणांक सूची में अधिकतम मान देता है";
+"Excel_func_MAXA" = "संख्याओं, पाठ और तार्किक मानों सहित कोणांक सूची में अधिकतम मान देता है";
+"Excel_func_MDETERM" = "किसी सरणी का आव्यूह सारणिक देता है";
+"Excel_func_MDURATION" = "$100 के कल्पित सम मूल्य सहित प्रतिभूति के लिए मॅकाले संशोधित अवधि देता है";
+"Excel_func_MEDIAN" = "निश्चित संख्याओं के लिए माध्य देता है";
+"Excel_func_MID" = "आपके द्वारा निर्दिष्ट स्थिति से प्रारंभ करते हुए पाठ स्ट्रिंग से वर्णों की निर्दिष्ट संख्या देता है";
+"Excel_func_MIN" = "कोणांकों की सूची से न्यूनतम मान देता है";
+"Excel_func_MINA" = "संख्याओं, पाठ और तार्किक मानों सहित कोणांकों की सूची से न्यूनतम मान देता है";
+"Excel_func_MINUTE" = "क्रम संख्या को मिनट में बदलता है";
+"Excel_func_MINVERSE" = "किसी सरणी का आव्यूह व्युत्क्रम देता है";
+"Excel_func_MIRR" = "लाभ का ब्याज दर देता है जहाँ धनात्मक और ऋणात्मक नकदी प्रवाह विभिन्न दरों पर वित्तपोषित हैं";
+"Excel_func_MMULT" = "दो सरणियों के मैट्रिक्स गुणनफल देता है";
+"Excel_func_MOD" = "भाग से शेषफल देता है";
+"Excel_func_MODE" = "डेटा सेट में अत्यधिक सामान्य मान देता है";
+"Excel_func_MONTH" = "क्रम संख्या को महीने में बदलता है";
+"Excel_func_MROUND" = "वांछित गुणज में पूर्णांकित संख्या देता है";
+"Excel_func_MULTINOMIAL" = "संख्याओं के सेट का बहुपदी देता है";
+"Excel_func_N" = "संख्या में परिवर्तित मान देता है";
+"Excel_func_NA" = "त्रुटि मान #N/A देता है";
+"Excel_func_NEGBINOMDIST" = "ऋणात्मक द्विपद वितरण देता है";
+"Excel_func_NETWORKDAYS" = "दो दिनांकों के बीच संपूर्ण कार्य-दिवस देता है";
+"Excel_func_NOMINAL" = "वार्षिक सांकेतिक ब्याज दर देता है";
+"Excel_func_NORMDIST" = "सामान्य संचयी वितरण देता है";
+"Excel_func_NORMINV" = "सामान्य संचयी वितरण का व्युत्क्रम देता है";
+"Excel_func_NORMSDIST" = "मानक सामान्य संचयी वितरण देता है";
+"Excel_func_NORMSINV" = "मानक सामान्य संचयी वितरण का व्युत्क्रम देता है";
+"Excel_func_NOT" = "उसके स्वतंत्र चर तर्क बदलें";
+"Excel_func_NOW" = "वर्तमान दिनांक और समय का क्रम संख्या देता है";
+"Excel_func_NPER" = "किसी निवेश के लिए अवधियों की संख्या देता है";
+"Excel_func_NPV" = "आवधिक नकदी प्रवाह और रियायती दरों की श्रृंखला के आधार पर निवेश का निवल वर्तमान मूल्य देता है";
+"Excel_func_OCT2BIN" = "अष्टाधारी संख्या को द्विधारी में परिवर्तित करता है";
+"Excel_func_OCT2DEC" = "अष्टाधारी संख्या को दशमलव में परिवर्तित करता है";
+"Excel_func_OCT2HEX" = "अष्टाधारी संख्या को षोडश आधारी में परिवर्तित करता है";
+"Excel_func_ODD" = "संख्या को निकटतम विषम पूर्ण संख्या में पूर्णांकित करता है";
+"Excel_func_ODDFPRICE" = "विषम प्रथम अवधि सहित प्रतिभूति के अंकित मूल्य को प्रति $100 क़ीमत देता है";
+"Excel_func_ODDFYIELD" = "विषम प्रथम अवधि सहित प्रतिभूति का प्रतिफल देता है";
+"Excel_func_ODDLPRICE" = "विषम अंतिम अवधि सहित प्रतिभूति के प्रति $100 अंकित मूल्य की क़ीमत देता है";
+"Excel_func_ODDLYIELD" = "विषम अंतिम अवधि सहित प्रतिभूति का प्रतिफल देता है";
+"Excel_func_OFFSET" = "निश्चित संदर्भ से संदर्भ ऑफ़सेट देता है";
+"Excel_func_OR" = "यदि कोई तर्क TRUE है तो TRUE देता है";
+"Excel_func_PEARSON" = "Pearson गुणनफल पल सहसंबंध गुणांक देता है";
+"Excel_func_PERCENTILE" = "किसी श्रेणी के मानों में k-वां शतमक देता है";
+"Excel_func_PERCENTRANK" = "डेटा सेट में मान का प्रतिशत रैंक देता है";
+"Excel_func_PERMUT" = "निश्चित ऑब्जेक्टों के लिए क्रम-परिवर्तनों की संख्या देता है";
+"Excel_func_PHONETIC" = "पाठ स्ट्रिंग से ध्वन्यात्मक (furigana) वर्णों को निष्कर्षित करता है";
+"Excel_func_PI" = "पाई का मान देता है";
+"Excel_func_PMT" = "वार्षिकी के लिए आवधिक भुगतान देता है";
+"Excel_func_POISSON" = "पॉइज़न वितरण देता है";
+"Excel_func_POWER" = "विभिन्न गुणांकों का परिणाम देता है";
+"Excel_func_PPMT" = "निश्चित अवधि के लिए किसी निवेश हेतु मूलधन पर भुगतान देता है";
+"Excel_func_PRICE" = "आवधिक ब्याज अदा करने वाली प्रतिभूति का प्रति $100 अंकित मूल्य क़ीमत देता है";
+"Excel_func_PRICEDISC" = "बट्टागत प्रतिभूति का प्रति $100 अंकित मूल्य क़ीमत देता है";
+"Excel_func_PRICEMAT" = "परिपक्वता पर ब्याज का भुगतान करने वाली प्रतिभूति का प्रति $100 अंकित मूल्य क़ीमत देता है";
+"Excel_func_PROB" = "संभावना व्यक्त करता है कि किसी श्रेणी के मान दो सीमाओं के बीच हैं";
+"Excel_func_PRODUCT" = "अपने तर्कों को कई गुणा बढ़ाता है";
+"Excel_func_PROPER" = "पाठ मान के प्रत्येक शब्द के प्रथम अक्षर को कैपिटल अक्षर में बदलता है";
+"Excel_func_PV" = "किसी निवेश का वर्तमान मूल्य देता है";
+"Excel_func_QUARTILE" = "किसी डेटा सेट का चतुर्थक देता है";
+"Excel_func_QUOTIENT" = "भाग का पूर्णांक अंश देता है";
+"Excel_func_RADIANS" = "डिग्री को त्रिज्या-कोण में परिवर्तित करता है";
+"Excel_func_RAND" = "0 और 1 के बीच यादृच्छिक संख्या देता है";
+"Excel_func_RANDBETWEEN" = "आपके द्वारा निर्दिष्ट संख्याओं के बीच यादृच्छिक संख्या देता है";
+"Excel_func_RANK" = "संख्याओं की सूची में संख्या का दर्जा देता है";
+"Excel_func_RATE" = "किसी वार्षिकी का प्रति अवधि ब्याज दर देता है";
+"Excel_func_RECEIVED" = "संपूर्ण निवेश वाली प्रतिभूति के लिए परिपक्वता पर प्राप्त राशि देता है";
+"Excel_func_REGISTER_ID" = "पहले पंजीकृत किसी निर्दिष्ट डायनमिक लिंक लाइब्रेरी (DLL) या कोड रिसोर्स का रजिस्टर ID देता है";
+"Excel_func_REPLACE" = "पाठ के अंदर वर्णों को प्रतिस्थापित करता है";
+"Excel_func_REPT" = "निश्चित संख्या में पाठ को दोहराता है";
+"Excel_func_RIGHT" = "पाठ मान के लिए बिल्कुल दाईं ओर के वर्णों को देता है";
+"Excel_func_ROMAN" = "अरबी अंकों को रोमन पाठ के रूप में रूपांतरित करता है";
+"Excel_func_ROUND" = "संख्या को निर्दिष्ट अंकों की संख्या में पूर्णांकित करता है";
+"Excel_func_ROUNDDOWN" = "संख्या को नीचे शून्य की ओर पूर्णांकित करता है";
+"Excel_func_ROUNDUP" = "संख्या को ऊपर, शून्य से दूर पूर्णांकित करता है";
+"Excel_func_ROW" = "संदर्भ की पंक्ति संख्या देता है";
+"Excel_func_ROWS" = "संदर्भ में पंक्तियों की संख्या देता है";
+"Excel_func_RSQ" = "Pearson गुणनफल पल सहसंबंध गुणांक का वर्ग देता है";
+"Excel_func_SEARCH" = "एक पाठ मान को दूसरे में खोजता है (केस-संवेदनशील नहीं)";
+"Excel_func_SEARCHB" = "एक पाठ मान को दूसरे में खोजता है (केस-संवेदनशील नहीं)";
+"Excel_func_SECOND" = "क्रम संख्या को सेकंड में परिवर्तित करता है";
+"Excel_func_SERIESSUM" = "सूत्र के आधार पर अपरिमित परिमाण श्रृंखला का योग देता है";
+"Excel_func_SIGN" = "संख्या का संकेत देता है";
+"Excel_func_SIN" = "निश्चित कोण की ज्या देता है";
+"Excel_func_SINH" = "किसी संख्या का अतिपरवलयिक ज्या देता है";
+"Excel_func_SKEW" = "किसी वितरण की विषमता देता है";
+"Excel_func_SLN" = "एक अवधि के लिए किसी आस्ति का सरल-रेखीय मूल्यह्रास देता है";
+"Excel_func_SLOPE" = "रेखीय प्रतीपगमन रेखा की ढलान देता है";
+"Excel_func_SMALL" = "किसी डेटा सेट में k-वां न्यूनतम मान देता है";
+"Excel_func_SQL_REQUEST" = "बाह्य डेटा स्रोत के साथ जुड़ता है और किसी वर्कशीट से प्रश्न चलाता है, फिर बिना मैक्रो प्रोग्रामिंग के परिणाम को एक सरणी के रूप में देता है";
+"Excel_func_SQRT" = "एक धनात्मक वर्गमूल देता है";
+"Excel_func_SQRTPI" = "(संख्या * पाई) का वर्गमूल देता है";
+"Excel_func_STANDARDIZE" = "सामान्यीकृत मान देता है";
+"Excel_func_STDEV" = "नमूने के आधार पर मानक विचलन का अनुमान लगाता है";
+"Excel_func_STDEVA" = "संख्याएँ, पाठ और तार्किक मानों सहित नमूने के आधार पर मानक विचलन का अनुमान लगाता है";
+"Excel_func_STDEVP" = "संपूर्ण संख्याओं के आधार पर मानक विचलन का परिकलन करता है";
+"Excel_func_STDEVPA" = "संख्याएँ, पाठ और तार्किक मानों सहित संपूर्ण संख्याओं के आधार पर मानक विचलन का परिकलन करता है";
+"Excel_func_STEYX" = "प्रतिगमन में\u0020 प्रत्येक x के लिए पूर्वानुमानित y-मान की मानक त्रुटि देता है";
+"Excel_func_SUBSTITUTE" = "पाठ स्ट्रिंग में पुराने पाठ के लिए नए पाठ को प्रतिस्थापित करता है";
+"Excel_func_SUBTOTAL" = "सूची या डेटाबेस में उपकुल देता है";
+"Excel_func_SUM" = "अपने स्वतंत्र चर को जोड़ता है";
+"Excel_func_SUMIF" = "निश्चित मानदंड द्वारा निर्दिष्ट कक्षों को जोड़ता है";
+"Excel_func_SUMIFS" = "एकाधिक मानदंडों को पूरा करने वाले किसी श्रेणी के कक्षों को जोड़ता है";
+"Excel_func_SUMPRODUCT" = "संगत सरणी घटकों के गुणनफलों की राशि देता है";
+"Excel_func_SUMSQ" = "स्वतंत्र चरों के वर्गों का योग देता है";
+"Excel_func_SUMX2MY2" = "दो सरणियों में अनुरूप मानों के वर्गों के अंतर का योग देता है";
+"Excel_func_SUMX2PY2" = "दो सरणियों में अनुरूप मानों के वर्गों के योग का योग देता है";
+"Excel_func_SUMXMY2" = "दो सरणियों में अनुरूप मानों के अंतर के वर्गों का योग देता है";
+"Excel_func_SYD" = "निर्दिष्ट अवधि के लिए आस्ति के मूल्यह्रास वर्षों-के-योग अंक देता है";
+"Excel_func_T" = "कोणांकों को पाठ में परिवर्तित करता है";
+"Excel_func_TAN" = "किसी संख्या की स्पर्शज्या देता है";
+"Excel_func_TANH" = "किसी संख्या की अतिपरवलयिक स्पर्शज्या देता है";
+"Excel_func_TBILLEQ" = "राजकोष बिल के लिए बंध-समरूप प्रतिफल देता है";
+"Excel_func_TBILLPRICE" = "राजकोष बिल के लिए प्रति $100 अंकित मूल्य क़ीमत देता है";
+"Excel_func_TBILLYIELD" = "राजकोष बिल के लिए प्रतिफल देता है";
+"Excel_func_TDIST" = "विद्यार्थियों का t-वितरण देता है";
+"Excel_func_TEXT" = "संख्या को फ़ॉर्मेट करता है और उसे पाठ में रूपांतरित करता है";
+"Excel_func_TIME" = "विशिष्ट समय की क्रम संख्या देता है";
+"Excel_func_TIMEVALUE" = "पाठ के रूप में मौजूद सम को क्रम संख्या में परिवर्तित करता है";
+"Excel_func_TINV" = "विद्यार्थियों के t-वितरण का व्युत्क्रम देता है";
+"Excel_func_TODAY" = "वर्तमान दिनांक का क्रम संख्या देता है";
+"Excel_func_TRANSPOSE" = "किसी सरणी का स्थानांतरण देता है";
+"Excel_func_TREND" = "रेखीय रुझान में मान देता है";
+"Excel_func_TRIM" = "पाठ से स्पेस हटाता है";
+"Excel_func_TRIMMEAN" = "किसी डेटा सेट के अभ्यंतर का माध्य देता है";
+"Excel_func_TRUE" = "तार्किक मान TRUE देता है";
+"Excel_func_TRUNC" = "संख्या को काट-छाँट कर पूर्णांक बनाता है";
+"Excel_func_TTEST" = "विद्यार्थी की t-परीक्षा से जुड़ी संभावना देता है";
+"Excel_func_TYPE" = "मान के डेटा प्रकार को सूचित करते हुए संख्या देता है";
+"Excel_func_UPPER" = "पाठ को अप्परकेस में बदलता है";
+"Excel_func_VALUE" = "पाठ स्वतंत्र चर को संख्या में बदलता है";
+"Excel_func_VAR" = "नमूने के आधार पर अंतर का अनुमान लगाता है";
+"Excel_func_VARA" = "संख्याएँ, पाठ और तार्किक मानों सहित नमूने के आधार पर अंतर का अनुमान लगाता है";
+"Excel_func_VARP" = "संपूर्ण संख्याओं के आधार पर अंतर का परिकलन करता है";
+"Excel_func_VARPA" = "संख्याएँ, पाठ और तार्किक मानों सहित संपूर्ण संख्याओं के आधार पर अंतर का परिकलन करता है";
+"Excel_func_VDB" = "अवनत शेष पद्धति के उपयोग द्वारा निर्दिष्ट या आंशिक अवधि के लिए मूल्यह्रास देता है";
+"Excel_func_VLOOKUP" = "सरणी के प्रथम स्तंभ को देखता है और कक्ष का मान देने के लिए पंक्ति में आगे बढ़ता है";
+"Excel_func_WEEKDAY" = "क्रम संख्या को सप्ताह के दिन में बदलता है";
+"Excel_func_WEEKNUM" = "वर्ष के साथ संख्यानुसार सप्ताह का प्रतिनिधित्व करने वाली\u0020 संख्या को क्रम संख्या में बदलता है";
+"Excel_func_WEIBULL" = "संख्याएँ, पाठ और तार्किक मानों सहित संपूर्ण संख्याओं के आधार पर अंतर का परिकलन करता है";
+"Excel_func_WORKDAY" = "कार्य-दिवसों कि निर्दिष्ट संख्या से पहले या बाद के दिनांक की क्रम संख्या देता है";
+"Excel_func_XIRR" = "आवधिक रूप से अनपेक्षित नकदी प्रवाहों की अनुसूचियों के लिए प्रतिफल का आंतरिक दर देता है";
+"Excel_func_XNPV" = "आवधिक रूप से अनपेक्षित नकदी प्रवाह की अनुसूचियों के लिए निवल वर्तमान मूल्य देता है";
+"Excel_func_YEAR" = "क्रम संख्या को वर्ष में बदलता है";
+"Excel_func_YEARFRAC" = "आरंभ_दिनांक और अंतिम_दिनांक के बीच संपूर्ण दिनों की संख्या का प्रतिनिधित्व करने वाले वर्ष का अंश देता है";
+"Excel_func_YIELD" = "आवधिक ब्याज का भुगतान करने वाली प्रतिभूति पर\u0020 प्रतिफल देता है";
+"Excel_func_YIELDDISC" = "बट्टागत प्रतिभूति के लिए वार्षिक प्रतिफल देता है";
+"Excel_func_YIELDMAT" = "परिपक्वता पर ब्याज अदा करने वाली प्रतिभूति का वार्षिक प्रतिफल देता है";
+"Excel_func_ZTEST" = "z-परीक्षा का एक-पुच्छीय प्रायिकता मान देता है";
+"Excel_func_FTEST" = "द्वि-पुच्छीय प्रायिकता देता है कि सरणी1 और सरणी2 में अंतर विशिष्ट रूप से भिन्न हैं";
+"Excel_func_DATEDIF" = "निर्दिष्ट अंतराल के आधार पर दो दिनांक मानों के बीच अंतर देता है";
+"Excel_func_DBCS" = "वर्ण स्ट्रिंग के अंतर्गत अर्ध-चौडाई (सिंगल-बाइट) वाले अक्षरों को पूर्ण-चौड़ाई वाले (डबल-बाइट) वर्णों में बदलता है";
+"Excel_func_USDOLLAR" = "मुद्रा फ़ॉर्मेट के उपयोग द्वारा संख्या को पाठ में बदलता है, जहाँ निर्दिष्ट जगह दशमलव पूर्णांकित किए जाते हैं";
+"Excel_func_UNICHAR" = "दिए गए संख्‍यात्‍मक मान द्वारा संदर्भित यूनीकोड वर्ण को वापस ला देता है";
+"Excel_func_UNICODE" = "उस संख्‍या (कोड बिंदु) को वापस ला देता है जो पाठ के पहले वर्ण के संगत हो";
+
+/*
+ NEW STRINGS AFTER VER 3.7.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"InfoMsg_TransactionInProgress" = "संव्यवहार को पूरा करने में कई मिनट लग सकते हैं...";
+"InfoTitle_TransactionCompleted" = "संव्यवहार पूरा हो गया";
+"InfoMsg_InAppRestoreDone" = "बहाली सफलतापूर्वक पूर्ण।";
+"Label_FontPackDescription70" = "ऑफ़िससुएट में उपयोग करने के लिए कैलिब्री, तहोमा और विंगडिंग्स जैसे 70 से अधिक फ़ॉन्टों का संकलन।";
+"Label_FontPackDescriptionOFL" = "इसमें गैरामोंड, ओपन सान्स और टाइम्स गॉथिक जैसे 60 ओएफएल फ़ॉन्ट भी शामिल हैं।";
+"Label_OneTimePurchase2" = "एकबारगी ख़रीद";
+
+/* Up to 10 chars */
+"Label_Unlock" = "अनलॉक करें";
+
+/* Up to 14 chars */
+"Label_Features" = "सुविधाएँ";
+
+"Label_InfoMsgAutoSumNotAvailable" = "चयन में पूरी पंक्ति, स्तंभ या तालिका नहीं होनी चाहिए।";
+"Label_MultiSelection" = "एकाधिक चयन";
+"Label_ClearFilterC" = "फ़िल्टर को साफ़ करें";
+"Label_ReapplyFilterC" = "फ़िल्टर को फिर से लागू करें";
+"Label_AboveAverageC" = "औसत से अधिक";
+"Label_BelowAverageC" = "औसत से कम";
+"Label_DeleteCell" = "कक्ष को हटाएँ";
+"Label_Buy" = "ख़रीदें";
+"Label_YourHTTPAddress" = "आपका एचटीटीपी पता";
+"Label_YourUsername" = "आपका उपयोगकर्ता नाम";
+"Label_YourPassword" = "आपका पासवर्ड";
+
+/*
+ NEW STRINGS AFTER VER 4.0
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// File Browser
+"Label_NewFile" = "नई फ़ाइल";
+"Label_FolderUp" = "फ़ोल्डर ऊपर";
+"Label_Sidebar" = "पार्श्व-पट्टी";
+"Label_Ad" = "विज्ञापन";
+"Label_DeselectAll" = "सबको अचयनित करें";
+"Label_Apply" = "लागू करें";
+"ErrMsg_LocalStorageOnly" = "आप फ़ाइलों को केवल स्थानीय भंडारण में सहेज सकते हैं।";
+"Label_Submit" = "जमा करें";
+"Label_Username" = "उपयोगकर्ता नाम";
+"InfoTitle_LoginFailure" = "लॉग-इन विफलता";
+"InfoTitle_ServerIdentity" = "सर्वर पहचान को सत्यापित नहीं कर सके";
+"InfoTitle_LoginRequired" = "इस पृष्ठ को देखने के लिए आपको लॉग-इन करना होगा";
+"InfoMsg_LoginFailureSSOUntrusted" = "लॉग-इन पूरा नहीं कर सके क्योंकि एसएसओ सर्वर विश्वसनीय नहीं है। अधिक जानकारी के लिए अपने प्रशासक से संपर्क करें।";
+"InfoMsg_ServerIdentity" = "बॉक्स \"%@\" की पहचान को सत्यापित नहीं कर सका। क्या आप फिर भी जारी रखना चाहेंगे?";
+"InfoMsg_VerifyUsernameAndPassword" = "लॉग-इन नहीं कर सके। अपने उपयोगकर्ता नाम\\पासवर्ड को जाँचें और उसके बाद दुबारा कोशिश करें।";
+"Label_WordTemplates" = "वर्ड टेंप्लेट";
+"Label_ExcelTemplates" = "स्प्रेडशीट टेंप्लेट";
+"Label_PowerpointTemplates" = "प्रस्तुति टेंप्लेट";
+// PowerPoint
+"Label_PowerPoint97Presentation" = "पावरपोइंट 97-2003 प्रस्तुति";
+"Label_PowerPointMacroPresentation" = "पावरपोइंट मैक्रो-सक्षम प्रस्तुति";
+"Label_PowerPointSlideShow" = "पावरपोइंट स्लाइडशो";
+"Label_PowerPoint97SlideShow" = "पावरपोइंट 97-2003 स्लाइडशो";
+"Label_PowerPointMacroSlideShow" = "पावरपोइंट मैक्रो-सक्षम स्लाइडशो";
+"Label_SlideRange" = "स्लाइड संख्या (1 - %d)";
+"Label_DataLostAfterSave" = "कुछ डेटा सहेजी नहीं जाएगी।";
+"Label_PowerPointTemplate" = "पावरपोइंट टेंप्लेट";
+"Label_Transitions" = "संक्रमण";
+"Label_TransitionEffect" = "संक्रमण प्रभाव";
+"Label_EffectOptions" = "प्रभाव विकल्प";
+"Label_TransitionDuration" = "संक्रमण अवधि";
+"Label_AdvanceSlideAfter" = "स्लाइड को इतने अंतराल के बाद आगे बढ़ाएँ";
+
+/* Up to 18 chars */
+"Label_ChangeSlideAfter" = "फिर स्लाइड बदलें";
+
+"Label_ApplyToAll" = "सब पर लागू करें";
+"Label_ApplyTransition" = "संक्रमण लागू करें";
+
+/* Up to 16 chars */
+"Label_SetDuration" = "अवधि सेट करें";
+
+"Label_Min" = "मिनट";
+"Label_Sec" = "सेकंड";
+
+/* Up to 60 chars */
+"Label_TransitionAppliedToAll" = "संक्रमण सेटिंग सब स्लाइडों पर लागू कर दी गई है।";
+
+"Label_Subtle" = "सूक्ष्म";
+"Label_Exciting" = "रोमांचक";
+"Label_DynamicContent" = "गतिशील सामग्री";
+
+/* Transition names - each one must be 8 chars or less */
+"Label_Fade" = "धीरे-धीरे मिटें";
+"Label_Push" = "धकेलें";
+"Label_Wipe" = "पोंछें";
+"Label_Split" = "विभाजित करें";
+"Label_Reveal" = "प्रकट करें";
+"Label_RandomBars" = "बेतरतीब पट्टियाँ";
+"Label_Uncover" = "उजागर करें";
+"Label_Cover" = "ढँकें";
+"Label_Flash" = "फ्लैश करें";
+"Label_Dissolve" = "घुलाएँ";
+"Label_Checkboard" = "वर्गों का पटल";
+"Label_Blinds" = "पट्टीदार पर्दे";
+"Label_Clock" = "घड़ी";
+"Label_Ripple" = "हिलकोरा";
+"Label_Honeycomb" = "हनीकॉम्ब";
+"Label_Glitter" = "चकाचौंध";
+"Label_Vortex" = "भँवर";
+"Label_Shred" = "कतरें";
+"Label_Switch" = "अदला-बदली";
+"Label_Flip" = "पलटें";
+"Label_Gallery" = "दीर्घा";
+"Label_Cube" = "घन";
+"Label_Doors" = "दरवाज़े";
+"Label_Box" = "बक्सा";
+"Label_Comb" = "कंघी";
+"Label_Wheel" = "पहिया";
+"Label_Newsflash" = "समाचार फ्लैश";
+"Label_Pan" = "पैन करें";
+"Label_FerrisWheel" = "फेरिस पहिया";
+"Label_Conveyor" = "कन्वेयर";
+"Label_Rotate" = "घूर्णन";
+"Label_Window" = "खिड़की";
+"Label_Orbit" = "भ्रमण पथ";
+"Label_FlyThrough" = "आर-पार उड़ें";
+/* End Transition names */
+
+// Transition options
+"Label_ThroughBlack" = "काले में से";
+"Label_Smoothly" = "समान गति से";
+"Label_FromBottom" = "नीचे से";
+"Label_FromLeft" = "बाएँ से";
+"Label_FromRight" = "दाएँ से";
+"Label_FromTop" = "ऊपर से";
+"Label_FromTopRight" = "ऊपर-दाएँ से";
+"Label_FromTopLeft" = "ऊपर-बाएँ से";
+"Label_FromBottomLeft" = "नीचे बाएँ से";
+"Label_FromBottomRight" = "नीचे दाएँ से";
+"Label_Vertical" = "ऊर्ध्व";
+"Label_VerticalOut" = "ऊर्ध्व बाहर की ओर";
+"Label_VerticalIn" = "ऊर्धर अंदर की ओर";
+"Label_Horizontal" = "क्षैतिज";
+"Label_HorizontalOut" = "क्षैतिज बाहर की ओर";
+"Label_HorizontalIn" = "क्षैतिज अंदर की ओर";
+"Label_SmoothlyFromRight" = "दाएँ से समान गति के साथ";
+"Label_SmoothlyFromLeft" = "बाएँ से समान गति के साथ";
+"Label_ThroughBlackFromRight" = "दाएँ से काले में से होकर";
+"Label_ThroughBlackFromLeft" = "बाएँ से काले में से होकर";
+"Label_Circle" = "वृत्त";
+"Label_Diamond" = "हीरा";
+"Label_Plus" = "योजक चिह्न";
+"Label_In" = "अंदर";
+"Label_Out" = "बाहर";
+"Label_Clockwise" = "दक्षिणावर्त";
+"Label_Counterclockwise" = "वामावर्त";
+"Label_Wedge" = "कील";
+"Label_Center" = "मध्य";
+"Label_2SpokesClockwise" = "2 छड़ दक्षिणावर्त";
+"Label_3SpokesClockwise" = "3 छड़ दक्षिणावर्त";
+"Label_4SpokesClockwise" = "4 छड़ दक्षिणावर्त";
+"Label_8SpokesClockwise" = "8 छड़ दक्षिणावर्त";
+"Label_2SpokesCounterclockwise" = "2 छड़ वामावर्त";
+"Label_3SpokesCounterclockwise" = "3 छड़ वामावर्त";
+"Label_4SpokesCounterclockwise" = "4 छड़ वामावर्त";
+"Label_8SpokesCounterclockwise" = "8 छड़ वामावर्त";
+"Label_HexagonsFromLeft" = "षटकोण बाएँ से";
+"Label_HexagonsFromTop" = "षटकोण ऊपर से";
+"Label_HexagonsFromRight" = "षटकोण दाएँ से";
+"Label_HexagonsFromBottom" = "षटकोण नीचे से";
+"Label_DiamondsFromLeft" = "हीरे बाएँ से";
+"Label_DiamondsFromTop" = "हीरे ऊपर से";
+"Label_DiamondsFromRight" = "हीरे दाएँ से";
+"Label_DiamondsFromBottom" = "हीरे नीचे से";
+"Label_StripsIn" = "अंदर की ओर पट्टियाँ";
+"Label_StripsOut" = "बाहर की ओर पट्टियाँ";
+"Label_ParticlesIn" = "अंदर की ओर कण";
+"Label_ParticlesOut" = "बाहर की ओर कण";
+"Label_Left" = "बायाँ";
+"Label_Right" = "दायाँ";
+"Label_InWithBounce" = "उछाल के साथ अंदर";
+"Label_OutWithBounce" = "उछाल के साथ बाहर";
+"Label_ExcelMacroEnabledWorkbook" = "एक्सेल मैक्रे-सक्षम कार्यपुस्तिका";
+"Label_ExcelTemplate" = "एक्सेल टेंप्लेट";
+"Label_Zip" = "ज़िप करें";
+"Label_ZipDocument" = "दस्तावेज़ को ज़िप करें";
+"Label_ZipDocuments" = "दस्तावेज़ों को ज़िप करें";
+// Conditional Formatting
+"Label_ConditionalFormatting" = "सशर्त स्वरूपण";
+
+/* Up to 16 chars */
+"Label_HighlightCellsRules" = "आलोकित कक्ष नियम";
+
+/* Up to 25 chars */
+"Label_Top/Bottom/Avg" = "ऊपर/नीचे/औसत नियम";
+
+"Label_DataBars" = "आँकड़ा पट्टियाँ";
+"Label_ColorScales" = "रंग पैमाना";
+"Label_ClearRulesFromEntireSheet" = "संपूर्ण पत्रक से नियमों को साफ़ करें";
+"Label_RulesManager" = "नियम प्रबंधक";
+"Label_TitleClearCFRulesAlert" = "क्या आप सभी नियमों को साफ़ करना चाहते हैं?";
+"Label_MessageClearCFRulesAlert" = "सशर्त स्वरूपण हटा दिया जाएगा।";
+"Label_FormatCellsRules" = "कक्ष स्वरूपण नियम";
+
+/* Up to 20 chars */
+"Label_TopBottomAverage" = "ऊपर/नीचे/औसत";
+
+"Label_Content" = "सामग्री";
+"Label_Rank" = "क्रम";
+"Label_RuleType" = "नियम प्रकार";
+
+/* Up to 10 chars */
+"Label_Value_1" = "मान 1";
+
+/* Up to 10 chars */
+"Label_Value_2" = "मान 2";
+
+// Conditional format types
+"Excel_CF_CellValue" = "कक्ष का मान";
+"Excel_CF_SpecificText" = "विशिष्ट पाठ";
+"Excel_CF_Blanks" = "रिक्त";
+"Excel_CF_NoBlanks" = "कोई रिक्त नहीं";
+"Excel_CF_Errors" = "त्रुटियाँ";
+"Excel_CF_NoErrors" = "कोई त्रुटियाँ नहीं हैं";
+"Excel_CF_Unique" = "अद्वितीय";
+"Excel_CF_Duplicate" = "डुप्लिकेट";
+"Excel_CF_DatesOccurring" = "घटना की तिथियाँ";
+"Excel_CF_EqualTo" = "इसके बराबर है";
+"Excel_CF_NotEqualTo" = "इसके बराबर नहीं है";
+"Excel_CF_LessThan" = "इससे छोटा है";
+"Excel_CF_LessEqual" = "इससे छटा या इसके बराबर है";
+"Excel_CF_GreaterThan" = "इससे बड़ा है";
+"Excel_CF_GreaterEqual" = "इससे बड़ा या इसके बराबर है";
+"Excel_CF_Between" = "इनके बीच है";
+"Excel_CF_NotBetween" = "इनके बीच नहीं है";
+"Excel_CF_Contains" = "यह शामिल है";
+"Excel_CF_NotContains" = "यह शामिल नहीं है";
+"Excel_CF_BeginsWith" = "इससे शुरू होता है";
+"Excel_CF_EndsWith" = "इस पर समाप्त होता है";
+"Excel_CF_Top" = "ऊपर";
+"Excel_CF_Bottom" = "नीचे";
+"Excel_CF_StdDevAbove" = "मानक विचलन ऊपर";
+"Excel_CF_StdDevBelow" = "मानक विचलन नीचे";
+"Excel_CF_EqualOrAbove" = "बराबर या ऊपर";
+"Excel_CF_EqualOrBelow" = "बराबर या नीचे";
+"Excel_CF_AboveAverage" = "औसत से ऊपर";
+"Excel_CF_BelowAverage" = "औसत से नीचे";
+// Conditional format descriptions
+"Excel_CFDescr_blank" = "कक्ष में रिक्त मान है";
+"Excel_CFDescr_no_blank" = "कक्ष में रिक्त मान नहीं है";
+"Excel_CFDescr_error" = "कक्ष में त्रुटि है";
+"Excel_CFDescr_no_error" = "कक्ष में त्रुटि नहीं है";
+"Excel_CFDescr_cell_value" = "कक्ष मान";
+"Excel_CFDescr_between" = "के बीच";
+"Excel_CFDescr_not_between" = "के बीच नहीं";
+"Excel_CFDescr_and" = "और";
+"Excel_CFDescr_contains" = "में है";
+"Excel_CFDescr_does_not_contain" = "में नहीं है";
+"Excel_CFDescr_begins_with" = "इससे शुरू होता है";
+"Excel_CFDescr_ends_with" = "इसमें समाप्त होता है";
+"Excel_CFDescr_std_dev" = "मानक विचलन";
+"Excel_CFDescr_equal_to_or" = "के बराबर या";
+"Excel_CFDescr_above_average" = "औसत से ऊपर";
+"Excel_CFDescr_below_average" = "औसत से नीचे";
+"Excel_CFDescr_dates_occurring_yesterday" = "कल";
+"Excel_CFDescr_dates_occurring_today" = "आज";
+"Excel_CFDescr_dates_occurring_tomorrow" = "आनेवाला कल";
+"Excel_CFDescr_dates_occurring_last_7_days" = "पिछले 7 दिन";
+"Excel_CFDescr_dates_occurring_last_week" = "पिछले सप्ताह";
+"Excel_CFDescr_dates_occurring_this_week" = "इस सप्ताह";
+"Excel_CFDescr_dates_occurring_next_week" = "अगले सप्ताह";
+"Excel_CFDescr_dates_occurring_last_month" = "पिछले महीने";
+"Excel_CFDescr_dates_occurring_this_month" = "इस महीने";
+"Excel_CFDescr_dates_occurring_next_month" = "अगले महीने";
+"Label_XlsSaveCFRulesNotSupported" = "xls स्वरूप में सशर्त स्वरूपण को सहेजने को समर्थन नहीं है। सशर्त स्वरूपण को सहेजा नहीं जाएगा।";
+// Accessibility labels
+"Label_Inside" = "अंदर";
+"Label_Outside" = "बाहर";
+"Label_Vertical_Inside" = "ऊर्ध्व अंदर";
+"Label_Horizontal_Inside" = "क्षैतिज अंदर";
+"Label_ShowFormattingSymbols" = "स्वरूपण चिह्न दिखाएँ";
+"Label_JustifiedParagraphAlignment" = "समायोजित करें";
+"Label_LeftParagraphAlignment" = "बाएँ संरेखित करें";
+"Label_CenterParagraphAlignment" = "मध्य";
+"Label_RightParagraphAlignment" = "दाएँ संरेखित करें";
+"Label_FontTextColorDropdown" = "पाठ रंग ड्रॉपडाउन";
+"Label_FontHighlightColorDropdown" = "आलोकन रंग ड्रॉपडाउन";
+"Label_NumberingDropdown" = "क्रमांकन ड्रॉपडाउन";
+"Label_BulletsDropdown" = "बुलेट ड्रॉपडाउन";
+"Label_EnterViewMode" = "दृश्य मोड में प्रवेश करें";
+"Label_EnterEditMode" = "संपादन मोड में प्रवेश करें";
+"Label_ChangeTableStyle" = "तालिका शैली बदलें";
+"Label_InsertTableRowAbove" = "ऊपर तालिका पंक्ति डालें";
+"Label_InsertTableRowBelow" = "नीचे तालिका पंक्ति डालें";
+"Label_InsertTableColumnToTheLeft" = "बाएँ तालिका स्तंभ डालें";
+"Label_InsertTableColumnToTheRight" = "दाएँ तालिका स्तंभ डालें";
+"Label_DeleteTableRow" = "तालिका पंक्ति हटाएँ";
+"Label_DeleteTableColumn" = "तालिका स्तंभ हटाएँ";
+"Label_DeleteTableCell" = "तालिका कक्ष हटाएँ";
+"Label_TableSizeGrid" = "तालिका आमाप ग्रिड चयनक";
+"Label_IncreaseValue" = "मान बढ़ाएँ";
+"Label_DecreaseValue" = "मान घटाएँ";
+"Label_Photo" = "फ़ोटो";
+"Label_Graphic" = "ग्राफ़िक";
+"Label_CaptureImage" = "छवि पकड़ें";
+"Label_SwitchCamera" = "कैमरे की अदला-बदली";
+"Label_NewSheet" = "नया पत्रक";
+"Label_SheetOfSheets" = "पत्रक $1, कुल $2";
+"Label_MenuItem" = "मेनू मद";
+"Label_CellContent" = "कक्ष की सामग्री";
+// pdf
+"Label_ViewMode" = "दृश्य मोड";
+"Label_SinglePage" = "एकल पृष्ठ";
+"Label_Ellipse" = "दीर्घवृत्त";
+"Label_Rectangle" = "आयत";
+"Label_Line" = "रेखा";
+"Label_FreeDraw" = "मुक्त चित्रांकन";
+
+// File Browser
+"WarningMsg_ZippingFilesInterrupted" = "पुरालेख में फ़ाइलें नहीं जोड़ सके।";
+"Label_UnsupportedDocumentType" = "असमर्थित दस्तावेज़ प्रकार";
+"Label_UnknownDocumentType" = "अज्ञात दस्तावेज़ प्रकार";
+"Label_Certificate" = "प्रमाणपत्र";
+"Label_PersonalInformationExchange" = "निजी जानकारी विनिमय";
+"ErrTitle_NoPermission" = "अनुमति नहीं है";
+"ErrMsg_CannotDeleteInboxFolder" = "आईक्लाउड बंद होने पर आप इनबॉक्स फ़ोल्डर को हटा नहीं सकते हैं।";
+"Label_OpenODF" = "ODF समर्थन";
+"Label_OpenODFDescription" = "अपने .odt, .ods और .odp फ़ाइलें खोलें";
+// Word
+"WarningMessage_RtfWillLoseFormatting2" = "यदि आप अपनी फ़ाइल को आरटीएफ फ़ाइल के रूप में सहेजें, तो पासवर्ड रक्षण और कुछ स्वरूपण नष्ट हो जाएगा। आगे बढ़ें?";
+"WarningMessage_TxtWillLoseFormatting2" = "पाठ फ़ाइल के रूप में सहेजने पर आपकी फ़ाइल में मौजूद पासवर्ड रक्षण, स्वरूपण, चित्र और वस्तुएँ नष्ट हो जाएँगी। आगे बढ़ें?";
+"WarningMessage_OdtWillLoseFormatting2" = "यदि आप अपनी फ़ाइल को ओडीटी फ़ाइल के रूप में सहेजें, पासवर्ड रक्षण और कुछ स्वरूपण नष्ट हो सकते हैं। आगे बढ़ें?";
+"WarningMessage_ExportToPDFWillLoseProtection" = "निर्यात की गई पीडीएफ फ़ाइल पासवर्ड द्वारा रक्षित नहीं होगी। आगे बढ़ें?";
+// Excel
+"Label_Selection" = "चयन";
+"Label_Worksheet" = "कार्यपत्रक";
+"ErrMsg_NoStyleForCFRule" = "नियम के लिए कोई स्वरूपण सेट नहीं किया गया है।";
+"ErrMsg_InvalidCFRule" = "नियम के लिए कोई मान नहीं सेट किया या है।";
+"Label_XlsSaveSomeItemsNotSupported" = "इस कार्यपुस्तक की कुछ सुविधाओं को एक्सएलएस स्वरूप में सहेजना समर्थित नहीं है।";
+"Label_RandomTransition" = "यादृच्छिक";
+// pdf accessibility
+"Label_PageNumber" = "पृष्ठ %d";
+
+/*
+ NEW STRINGS AFTER VER 4.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Label_ColumnChart" = "कॉलम";
+"Label_BarChart" = "बार";
+"Label_LineChart" = "लाइन";
+"Label_AreaChart" = "क्षेत्र";
+"Label_PieChart" = "पाई";
+"Label_ScatterChart" = "स्‍कैटर";
+"Label_Clustered" = "संकुल";
+"Label_Stacked" = "स्टैक्ड";
+"Label_Stacked100" = "100% स्टैक्ड";
+"Label_ScatterMarkers" = "मार्कर";
+"Label_ScatterLines" = "लाइन";
+"Label_ScatterLinesMarkers" = "लाइन व मार्कर";
+"Label_FeatureIsNotAvaialableForSheet" = "यह विशेषता इस शीट के लिए उपलब्ध नहीं है।";
+"Label_TextToDisplay" = "प्रदर्शित करने के लिए पाठ";
+"Label_Address" = "पता";
+
+//Accessibility strings
+"Accessibility_Label_StrikeThrough" = "काट दें";
+"Accessibility_Label_TextColorOptions" = "पाठ रंग विकल्प";
+"Accessibility_Label_LeftAlignment" = "बाएँ संरेखित करें";
+"Accessibility_Label_CenterAlignment" = "मध्य में संरेखित करें";
+"Accessibility_Label_RightAlignment" = "दाएँ संरेखित करें";
+"Accessibility_Label_JustifyAlignment" = "जस्टिफ़ाइड संरेखित करें";
+"Accessibility_Label_Increase" = "बढ़ाएँ";
+"Accessibility_Label_Decrease" = "घटाएँ";
+"Accessibility_Label_Hours" = "घंटे";
+"Accessibility_Label_Minutes" = "मिनट";
+"Accessibility_Label_Seconds" = "सेकंड";
+"Accessibility_Label_Centiseconds" = "सेंटीसेकंड";
+"Accessibility_Label_Color_Description" = "रेड लाल %d, हरा %d, नीला %d और ट्रांस्पेरेंसी %d";
+
+"Label_ShapeType_AccentBorderCallout1" = "कॉलआउट 1 बॉर्डर और एक्सेंट के साथ";
+"Label_ShapeType_AccentBorderCallout2" = "कॉलआउट 2 बॉर्डर और एक्सेंट के साथ";
+"Label_ShapeType_AccentBorderCallout3" = "कॉलआउट 3 बॉर्डर और एक्सेंट के साथ";
+"Label_ShapeType_AccentCallout1" = "कॉलआउट 1 एक्सेंट के साथ";
+"Label_ShapeType_AccentCallout2" = "कॉलआउट 2 एक्सेंट के साथ";
+"Label_ShapeType_AccentCallout3" = "कॉलआउट 3 एक्सेंट के साथ";
+"Label_ShapeType_ActionButtonBackPrevious" = "वापस या पिछला बटन आकार";
+"Label_ShapeType_ActionButtonBeginning" = "प्रारंभ बटन";
+"Label_ShapeType_ActionButtonBlank" = "रिक्त बटन";
+"Label_ShapeType_ActionButtonDocument" = "दस्तावेज़ बटन";
+"Label_ShapeType_ActionButtonEnd" = "समाप्ति बटन";
+"Label_ShapeType_ActionButtonForwardNext" = "फ़ॉर्वर्ड या अगला बटन आकार";
+"Label_ShapeType_ActionButtonHelp" = "सहायता बटन";
+"Label_ShapeType_ActionButtonHome" = "होम बटन";
+"Label_ShapeType_ActionButtonInformation" = "जानकारी बटन";
+"Label_ShapeType_ActionButtonMovie" = "मूवी बटन";
+"Label_ShapeType_ActionButtonReturn" = "वापसी बटन";
+"Label_ShapeType_ActionButtonSound" = "ध्वनि बटन";
+"Label_ShapeType_Arc" = "घुमावदार चाप";
+"Label_ShapeType_BentArrow" = "मुड़ा तीर";
+"Label_ShapeType_BentConnector2" = "मुड़ा कनेक्टर 2";
+"Label_ShapeType_BentConnector3" = "मुड़ा कनेक्टर 3";
+"Label_ShapeType_BentConnector4" = "मुड़ा कनेक्टर 4";
+"Label_ShapeType_BentConnector5" = "मुड़ा कनेक्टर 5";
+"Label_ShapeType_BentUpArrow" = "मुड़ा हुआ तीर";
+"Label_ShapeType_Bevel" = "बेवल";
+"Label_ShapeType_BlockArc" = "ब्लॉक चाप";
+"Label_ShapeType_BorderCallout1" = "कॉलआउट 1 बॉर्डर के साथ";
+"Label_ShapeType_BorderCallout2" = "कॉलआउट 2 बॉर्डर के साथ";
+"Label_ShapeType_BorderCallout3" = "कॉलआउट 3 बॉर्डर के साथ";
+"Label_ShapeType_BracePair" = "ब्रेस पेयर";
+"Label_ShapeType_BracketPair" = "कोष्टक में पेयर";
+"Label_ShapeType_Callout1" = "कॉलआउट 1";
+"Label_ShapeType_Callout2" = "कॉलआउट 2";
+"Label_ShapeType_Callout3" = "कॉलआउट 3";
+"Label_ShapeType_Can" = "कैन";
+"Label_ShapeType_ChartPlus" = "प्लस चार्ट";
+"Label_ShapeType_ChartStar" = "स्टार चार्ट";
+"Label_ShapeType_ChartX" = "चार्ट X";
+"Label_ShapeType_Chevron" = "शहतीर";
+"Label_ShapeType_Chord" = "कॉर्ड";
+"Label_ShapeType_CircularArrow" = "वृत्ताकार तीर";
+"Label_ShapeType_Cloud" = "क्लाउड";
+"Label_ShapeType_CloudCallout" = "कॉलआउट क्लाउड";
+"Label_ShapeType_Corner" = "कोना";
+"Label_ShapeType_CornerTabs" = "कोने के टैब";
+"Label_ShapeType_Cube" = "घन";
+"Label_ShapeType_CurvedConnector2" = "घुमावदार कनेक्टर 2";
+"Label_ShapeType_CurvedConnector3" = "घुमावदार कनेक्टर 3";
+"Label_ShapeType_CurvedConnector4" = "घुमावदार कनेक्टर 4";
+"Label_ShapeType_CurvedConnector5" = "घुमावदार कनेक्टर 5";
+"Label_ShapeType_CurvedDownArrow" = "घुमावदार निचला तीर";
+"Label_ShapeType_CurvedLeftArrow" = "घुमावदार बायाँ तीर";
+"Label_ShapeType_CurvedRightArrow" = "घुमावदार दायाँ तीर";
+"Label_ShapeType_CurvedUpArrow" = "घुमावदार ऊपरी तीर";
+"Label_ShapeType_Decagon" = "दसभुज";
+"Label_ShapeType_DiagStripe" = "तिरछी स्ट्रिप";
+"Label_ShapeType_Diamond" = "हीरा";
+"Label_ShapeType_Dodecagon" = "बारहकोण";
+"Label_ShapeType_Donut" = "डोनट";
+"Label_ShapeType_DoubleWave" = "दोहरी तरंग";
+"Label_ShapeType_DownArrow" = "निचला तीर";
+"Label_ShapeType_DownArrowCallout" = "कॉलआउट निचला तीर";
+"Label_ShapeType_Ellipse" = "दीर्घवृत्त";
+"Label_ShapeType_EllipseRibbon" = "दीर्घवृत्त रिबन";
+"Label_ShapeType_EllipseRibbon2" = "दीर्घवृत्त रिबन 2";
+"Label_ShapeType_FlowChartAlternateProcess" = "वैकल्पिक प्रक्रिया प्रवाह";
+"Label_ShapeType_FlowChartCollate" = "कोलेट प्रवाह";
+"Label_ShapeType_FlowChartConnector" = "कनेक्टर प्रवाह";
+"Label_ShapeType_FlowChartDecision" = "निर्णय प्रवाह";
+"Label_ShapeType_FlowChartDelay" = "विलंब प्रवाह";
+"Label_ShapeType_FlowChartDisplay" = "प्रदर्शन प्रवाह";
+"Label_ShapeType_FlowChartDocument" = "दस्तावेज़ प्रवाह";
+"Label_ShapeType_FlowChartExtract" = "एक्सट्रैक्ट प्रवाह";
+"Label_ShapeType_FlowChartInputOutput" = "इनपुट आउटपुट प्रवाह";
+"Label_ShapeType_FlowChartInternalStorage" = "आंतरिक संग्रहण प्रवाह";
+"Label_ShapeType_FlowChartMagneticDisk" = "चुंबकीय डिस्क प्रवाह";
+"Label_ShapeType_FlowChartMagneticDrum" = "चुंबकीय ड्रम प्रवाह";
+"Label_ShapeType_FlowChartMagneticTape" = "चुंबकीय टेप प्रवाह";
+"Label_ShapeType_FlowChartManualInput" = "मैनुअल इनपुट प्रवाह";
+"Label_ShapeType_FlowChartManualOperation" = "मैनुअल संचालन प्रवाह";
+"Label_ShapeType_FlowChartMerge" = "मर्ज प्रवाह";
+"Label_ShapeType_FlowChartMultidocument" = "बहु-दस्तावेज़ प्रवाह";
+"Label_ShapeType_FlowChartOfflineStorage" = "ऑफ़लाइन संग्रहण प्रवाह";
+"Label_ShapeType_FlowChartOffpageConnector" = "पृष्ठ कनेक्टर प्रवाह से दूर";
+"Label_ShapeType_FlowChartOnlineStorage" = "ऑनलाइन संग्रहण प्रवाह";
+"Label_ShapeType_FlowChartOr" = "या प्रवाह";
+"Label_ShapeType_FlowChartPredefinedProcess" = "पूर्व-निर्धारित प्रक्रिया प्रवाह";
+"Label_ShapeType_FlowChartPreparation" = "तैयारी प्रवाह";
+"Label_ShapeType_FlowChartProcess" = "प्रक्रिया प्रवाह";
+"Label_ShapeType_FlowChartPunchedCard" = "छिद्रित कार्ड प्रवाह";
+"Label_ShapeType_FlowChartPunchedTape" = "छिद्रित टेप प्रवाह";
+"Label_ShapeType_FlowChartSort" = "क्रमबद्ध करने का प्रवाह";
+"Label_ShapeType_FlowChartSummingJunction" = "समिंग जंक्शन प्रवाह";
+"Label_ShapeType_FlowChartTerminator" = "टर्मिनेटर प्रवाह";
+"Label_ShapeType_FoldedCorner" = "मुड़ा कोना";
+"Label_ShapeType_Frame" = "फ़्रेम";
+"Label_ShapeType_Funnel" = "फ़नेल";
+"Label_ShapeType_Gear6" = "गियर 6";
+"Label_ShapeType_Gear9" = "गियर 9";
+"Label_ShapeType_HalfFrame" = "आधा फ़्रेम";
+"Label_ShapeType_Heart" = "हृदय";
+"Label_ShapeType_Heptagon" = "सप्तकोण";
+"Label_ShapeType_Hexagon" = "षट्भुज";
+"Label_ShapeType_HomePlate" = "होम प्लेट";
+"Label_ShapeType_HorizontalScroll" = "क्षैतिज स्क्रॉल";
+"Label_ShapeType_IrregularSeal1" = "अनियमित सील 1";
+"Label_ShapeType_IrregularSeal2" = "अनियमित सील 2";
+"Label_ShapeType_LeftArrow" = "बायाँ तीर";
+"Label_ShapeType_LeftArrowCallout" = "कॉलआउट बायाँ तीर";
+"Label_ShapeType_LeftBrace" = "बायाँ ब्रास";
+"Label_ShapeType_LeftBracket" = "बायाँ कोष्ठक";
+"Label_ShapeType_LeftCircularArrow" = "बायाँ वृत्ताकार तीर";
+"Label_ShapeType_LeftRightArrow" = "बायाँ दायाँ तीर";
+"Label_ShapeType_LeftRightArrowCallout" = "कॉलआउट बायाँ दायाँ तीर";
+"Label_ShapeType_LeftRightCircularArrow" = "बायाँ दायाँ वृत्ताकार तीर";
+"Label_ShapeType_LeftRightRibbon" = "बायाँ दायाँ रिबन";
+"Label_ShapeType_LeftRightUpArrow" = "बायाँ दायाँ ऊपरी तीर";
+"Label_ShapeType_LeftUpArrow" = "बायाँ ऊपरी तीर";
+"Label_ShapeType_LightningBolt" = "लाइटनिंग बोल्ट";
+"Label_ShapeType_Line" = "लाइन";
+"Label_ShapeType_LineInv" = "लाइन उलटी";
+"Label_ShapeType_MathDivide" = "विभाजन गणित";
+"Label_ShapeType_MathEqual" = "समान गणित";
+"Label_ShapeType_MathMinus" = "घटा गणित";
+"Label_ShapeType_MathMultiply" = "गुणा गणित";
+"Label_ShapeType_MathNotEqual" = "समान नहीं गणित";
+"Label_ShapeType_MathPlus" = "प्लस गणित";
+"Label_ShapeType_Moon" = "चाँद";
+"Label_ShapeType_NonIsoscelesTrapezoid" = "गैर-समद्विबाहु विषम चतुर्भुज";
+"Label_ShapeType_NoSmoking" = "धूम्रपान निषेध";
+"Label_ShapeType_NotchedRightArrow" = "कटाव वाला दायाँ तीर";
+"Label_ShapeType_Octagon" = "अष्टकोण";
+"Label_ShapeType_Parallelogram" = "समांतर चतुर्भुज";
+"Label_ShapeType_Pentagon" = "पंचकोण";
+"Label_ShapeType_Pie" = "पाई";
+"Label_ShapeType_PieWedge" = "पाई वेज";
+"Label_ShapeType_Plaque" = "पट्टिका";
+"Label_ShapeType_PlaqueTabs" = "प्लाक टैब";
+"Label_ShapeType_Plus" = "प्लस";
+"Label_ShapeType_QuadArrow" = "चतुष्कोण-तीर";
+"Label_ShapeType_QuadArrowCallout" = "चतुष्कोण तीर कॉलआउट";
+"Label_ShapeType_Rectangle" = "आयत";
+"Label_ShapeType_Ribbon" = "रिबन";
+"Label_ShapeType_Ribbon2" = "रिबन 2";
+"Label_ShapeType_RightArrow" = "दायाँ तीर";
+"Label_ShapeType_RightArrowCallout" = "कॉलआउट दायाँ तीर";
+"Label_ShapeType_RightBrace" = "दायाँ ब्रास";
+"Label_ShapeType_RightBracket" = "दायाँ कोष्ठक";
+"Label_ShapeType_Round1Rect" = "एक गोल कोने की आयत";
+"Label_ShapeType_Round2DiagRect" = "दो विकर्ण गोल कोने की आयत";
+"Label_ShapeType_Round2SameRect" = "दो समान पक्ष गोल कोने की आयत";
+"Label_ShapeType_RoundRectangle" = "गोल कोने की आयत";
+"Label_ShapeType_RightTriangle" = "दायाँ त्रिभुज";
+"Label_ShapeType_SmileyFace" = "मुस्कुराता चेहरा";
+"Label_ShapeType_Snip1Rect" = "एक कटाव कोने की आयत";
+"Label_ShapeType_Snip2DiagRect" = "दो विकर्ण कटाव कोने की आयत";
+"Label_ShapeType_Snip2SameRect" = "दो समान पक्ष कटाव कोने की आयत";
+"Label_ShapeType_SnipRoundRect" = "एक कटाव एक गोल कोने की आयत";
+"Label_ShapeType_SquareTabs" = "वर्ग टैब";
+"Label_ShapeType_Star10" = "दस पाइंट स्टार";
+"Label_ShapeType_Star12" = "बारह पाइंट स्टार";
+"Label_ShapeType_Star16" = "सोलह पाइंट स्टार";
+"Label_ShapeType_Star24" = "चौबीस पाइंट स्टार";
+"Label_ShapeType_Star32" = "बत्तीस प्वाइंट स्टार";
+"Label_ShapeType_Star4" = "चार पाइंट स्टार";
+"Label_ShapeType_Star" = "पाँच पाइंट स्टार";
+"Label_ShapeType_Star6" = "छह पाइंट स्टार";
+"Label_ShapeType_Star7" = "सात पाइंट स्टार";
+"Label_ShapeType_Star8" = "आठ पाइंट स्टार";
+"Label_ShapeType_StraightConnector1" = "घुमावदार कनेक्टर 1";
+"Label_ShapeType_StripedRightArrow" = "स्ट्रिप्ड दायाँ तीर";
+"Label_ShapeType_Sun" = "रवि";
+"Label_ShapeType_SwooshArrow" = "स्वूश तीर";
+"Label_ShapeType_Teardrop" = "अश्रु";
+"Label_ShapeType_Trapezoid" = "विषम चर्तुभुज";
+"Label_ShapeType_Triangle" = "त्रिभुज";
+"Label_ShapeType_UpArrow" = "ऊपरी तीर";
+"Label_ShapeType_UpArrowCallout" = "ऊपरी तीर कॉलआउट";
+"Label_ShapeType_UpDownArrow" = "ऊपरी निचला तीर";
+"Label_ShapeType_UpDownArrowCallout" = "निचला तीर कॉलआउट";
+"Label_ShapeType_UturnArrow" = "यू मोड़ तीर";
+"Label_ShapeType_VerticalScroll" = "लंबवत विंडो";
+"Label_ShapeType_Wave" = "तरंग";
+"Label_ShapeType_WedgeEllipseCallout" = "वेज दीर्घवृत्त कॉलआउट";
+"Label_ShapeType_WedgeRectCallout" = "वेज आयत कॉलआउट";
+"Label_ShapeType_WedgeRRectCallout" = "वेज गोल आयत कॉलआउट";
+
+"Label_FilledRoundBullets" = "भरी गोल बुलेट";
+"Label_HollowRoundBullets" = "खोखली गोल बुलेट";
+"Label_FilledSquareBullets" = "भरी वर्ग बुलेट";
+"Label_HollowSquareBullets" = "खोखली वर्ग बुलेट";
+"Label_StarBullets" = "स्टार बुलेट";
+"Label_ArrowBullets" = "तीर बुलेट";
+"Label_CheckmarkBullets" = "चेकमार्क बुलेट";
+
+"Label_NumbersInBrackets" = "कोष्ठक में नंबर";
+"Label_LowerLettersInBrackets" = "कोष्ठक में लोअर वर्ण";
+"Label_UpperLettersWithBracket" = "कोष्ठक के साथ अपर वर्ण";
+"Label_UpperLettersInBrackets" = "कोष्ठक में अपर वर्ण";
+"Label_UpperRomanNumbersWithBracket" = "कोष्ठक के साथ अपर रोमन नंबर";
+"Label_UpperRomanNumbersInBrackets" = "कोष्ठक में अपर रोमन नंबर";
+"Label_LowerRomanNumbersWithBracket" = "कोष्ठक के साथ लोअर रोमन नंबर";
+"Label_LowerRomanNumbersInBrackets" = "कोष्ठक में लोअर रोमन नंबर";
+
+"InfoTitle_AddNotes" = "नोट्स जोड़ने के लिए दोहरा टैप करें";
+
+"Label_BubbleChart" = "बुलबुला";
+"Label_BubbleChart3D" = "3D बुलबुला";
+
+/* Up to 30 chars */
+"Label_ClearHyperlink" = "स्पष्ट हाइपरलिंक";
+
+"Label_EnterTitle" = "शीर्षक दर्ज करें";
+"Label_RemoveLink" = "लिंक हटाएँ";
+"Label_NumAccounting" = "लेखांकन";
+"Label_SelectCell" = "सेल चुनें";
+"Label_SelectSheet"= "शीट चुनें";
+"Label_TypeInTheCellRef" = "सेल संदर्भ में टाइप करें";
+"Label_StockChart" = "स्टॉक";
+
+/* Up to 22 chars */
+"Label_StockHLC" = "उच्च-न्यून-बंद";
+
+/* Up to 22 chars */
+"Label_StockOHLC" = "खुला-उच्च-न्यून-बंद";
+
+/* Up to 10 chars */
+"Label_Comment" = "टिप्पणी";
+
+"Label_XlsSaveCommentsNotSupported" = ".XLS फ़ाइलों में टिप्पणी सहेजना समर्थित नहीं है। टिप्पणियाँ सहेजी नहीं जाएँगी।";
+"Label_PrevComment" = "पिछली टिप्पणियाँ...";
+"Label_NextComment" = "अगली टिप्पणी";
+"Label_EditComment" = "टिप्पणी संपादित करें";
+"Label_DeleteComment" = "टिप्पणी हटाएँ";
+"Label_ClearComments" = "टिप्पणियाँ साफ़ करें";
+
+/* Up to 10 chars */
+"Label_XValues" = "X मान";
+"Label_YValues" = "Y मान";
+"Label_ZValues" = "Z मान";
+
+"Label_StockChartInfo" = "स्टॉक चार्ट जानकारी";
+"Label_HighLowClose" = "यह चार्ट सम्मिलित करने के लिए, कृपया अपना डेटा निम्नलिखित क्रम में दें: उच्च मूल्य, न्यून मूल्य, क्लोज़िंग मूल्य। लेबल के रूप में तिथि या स्टॉक नाम का इस्तेमाल करें।";
+"Label_OpenHighLowClose" = "यह चार्ट सम्मिलित करने के लिए, कृपया अपना डेटा निम्नलिखित क्रम में दें: खुला मूल्य, उच्च मूल्य, न्यून मूल्य, क्लोज़िंग मूल्य। लेबल के रूप में तिथि या स्टॉक नाम का इस्तेमाल करें।";
+
+"Label_Other" = "अन्य";
+"Label_NegativeNumbers" = "ऋणात्मक नंबर";
+
+"Label_Opacity" = "अस्पष्टता";
+"Label_Thickness" = "मोटाई";
+"Label_LineEndings" = "लाइन के अंत";
+
+"ErrMsg_RequestTimeOut" = "अनुरोध का समय समाप्त हो गया";
+"Label_ContactSupport" = "समर्थन से संपर्क करें";
+
+/* Up to 28 chars */
+"Label_FillSurvey" = "फ़ीडबैक फ़ॉर्म भरें";
+
+"InfoTitle_TellUsOpinion" = "हमें बताएँ कि आप\nOfficeSuite के बारे में क्या सोचते हैं!";
+"InfoMsg_TellUsOpinion" = "फ़ीडबैक फ़ॉर्म भरें या हमसे\nसीधे संपर्क करें और हमें बताएँ कि आप क्या सोचते हैं।";
+"Label_Feedback" = "फ़ीडबैक भेजें";
+
+/* Up to 20 chars */
+"Label_FeedbackForm" = "फ़ीडबैक फ़ॉर्म";
+
+/* Up to 28 chars */
+"Label_LikeUsOnFacebook" = "हमें Facebook पर पसंद करें";
+
+"Label_ShareWithFriends" = "दोस्तों के साथ साझा करें";
+
+/* Up to 28 chars */
+"Label_JoinOurBetaTestingGroup" = "हमारे बीटा परीक्षण समूह में शामिल हों";
+
+"Label_BetaTesterForm" = "बीटा परीक्षक फ़ॉर्म";
+"Label_More" = "और ज़्यादा";
+
+"Label_RadarChart" = "रडार";
+"Label_RadarChartStandard" = "मानक";
+"Label_RadarChartMarker" = "मार्कर";
+"Label_RadarChartFilled" = "फ़िलर";
+
+"Label_HighLowCloseInfo" = "यह चार्ट सम्मिलित करने के लिए, कृपया अपना डेटा निम्नलिखित क्रम में दें: उच्च मूल्य, न्यून मूल्य, क्लोज़िंग मूल्य। लेबल के रूप में तिथि या स्टॉक नाम का वैकल्पिक रूप से इस्तेमाल करें।";
+
+/* Up to 72 chars */
+"Label_AgitationBarGoPremiumLongMessage" = "मोबाइल के लिए सबसे उन्नत कार्यालय ऐप के साथ और ज़्यादा काम करें";
+
+"Label_AgitationBarGoPremiumShortMessage" = "अधिक सुविधाएँ प्राप्त करें";
+"Label_AgitationBarGoPremiumButtonText" = "ज़्यादा जानें";
+
+"Label_AgitationBarUpdateLongMessage" = "OfficeSuite के लिए अद्यतन उपलब्ध है";
+"Label_AgitationBarUpdateShortMessage" = "अद्यतन उपलब्ध है";
+"Label_AgitationBarUpdateButtonText" = "इसे प्राप्त करें";
+"Label_PasteFormat" = "चिपकाएँ\nफ़ॉरमेट";
+
+"Label_3DPie" = "3D पाई";
+"ErrMsg_SaveInOtherFormat" = "फ़ाइल मौजूदा फ़ॉरमेट में सहेजी नहीं जा सकती। कृपया, साझा करने से पहले फ़ाइल अलग फ़ॉरमेट में सहेजें।";
+
+/*
+ NEW STRINGS AFTER VER 4.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// PDF
+
+"Label_LineEndings_None" = "कोई नहीं";
+"Label_LineEndings_Square" = "वर्ग";
+"Label_LineEndings_Circle" = "वृत्त";
+"Label_LineEndings_Diamond" = "हीरा";
+"Label_LineEndings_OpenArrow" = "खुला तीर";
+"Label_LineEndings_ClosedArrow" = "बंद तीर";
+"Label_NightMode" = "रात्रि मोड";
+
+"Label_ChoiceSelection_Multiple" = "विकल्प चुनें";
+"Label_ChoiceSelection_Single" = "विकल्प चुनें";
+
+"Label_LineThicknessValueFormat" = "%.0f पाइंट"; // %.0f is replaced with the actual number programatically
+
+"Label_Done" = "संपन्न";
+
+"Label_AddComment" = "टिप्पणी जोड़ें";
+"Label_LineStart" = "लाइन प्रारंभ";
+"Label_LineEnd" = "लाइन समाप्त";
+
+// File Browser
+"Label_ShareWithFriends" = "मित्रों के साथ साझा करें";
+"InfoMsg_CannotOpenAppStoreForDownload" = "डाउनलोड पृष्ठ खोला नहीं जा सकता क्योंकि ऐप स्टोर उपलब्ध नहीं है।";
+
+"Label_CameraCantStartMessage" = "कैमरा प्रारंभ नहीं हो सकता। कृपया सेटिंग्स मेनू से सुनिश्चित करें कि OfficeSuite की कैमरा तक पहुँच है।";
+"Label_CameraUnavailableMessage" = "स्प्लिट दृश्य और स्लाइड ओवर दृश्य मोड में कैमरा उपलब्ध नहीं है।";
+"ErrTitle_ConnectionProblem" = "कनेक्शन की समस्या";
+
+/* Up to 45 chars */
+"Label_EditWordDocument" = "नया Word दस्तावेज़ संपादित करना प्रारंभ करें।";
+"Label_EditExcelDocument" = "नई Excel स्प्रैडशीट संपादित करना प्रारंभ करें।";
+"Label_EditPresentationDocument" = "नई PowerPoint प्रस्तुति संपादित करना प्रारंभ करें।";
+
+"Label_CreateNewOnly" = "नया बनाएँ";
+
+"Label_IncreaseFontSize" = "फ़ॉन्ट आकार बढ़ाएँ";
+"Label_DecreaseFontSize" = "फ़ॉन्ट आकार घटाएँ";
+
+// From windows porting
+"ErrMsg_PDFExportFailed" = "PDF में निर्यात करना विफल।";
+"Label_ZoomFitTwoPages" = "दो पृष्ठों फ़िट करें";
+"PRGRSS_PreparingString" = "तैयारी हो रही है...";
+
+/*
+ NEW STRINGS AFTER VER 4.2.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Lable_OpenFilesFrom" = "यहाँ से फ़ाइलें खोलें";
+"Label_Account" = "खाता";
+"Label_Add" = "जोड़ें";
+
+/* Up to 80 chars
+ %@ will be replaced with a brand name, for instance
+ "Add Dropbox account to view and edit remote files".
+ Brand name length does not count towards the 80 characters limit.
+ */
+"Label_AddAccountSpotlightDescription" = "जोड़ें%@दूर फाइल देखने व संपादन हेतु खाता";
+
+"Label_TouchID" = "Touch ID";
+"Label_TouchIDEnable" = "OfficeSuite अनलॉक करने के लिए Touch ID फ़िगरप्रिंट सक्षम करें";
+"Label_TouchProvideBiometrics"="कृपया सेटिंग्स मेनू से कम-से-कम एक फ़िगरप्रिंट जोड़ें।";
+"InfoMsg_WarningNonEmptyPassword"="पासवर्ड रिक्त है। कृपया गैर-रिक्त पासवर्ड दर्ज करें।";
+"InfoMsg_PreviewNotAvailable"="फ़ाइल पूर्वावलोकन उपलब्ध नहीं है।";
+"InfoPlist_shortcutTitleCreateFile" = "फ़ाइल बनाएँ";
+// MobileIron Edition strings
+"Label_MobileIronEdition" = "MobileIron संस्करण";
+
+"Label_OpenInForbidden" = "आपके %@ व्यवस्थापक ने इस ऐप में दस्तावेज़ खोलना रोक दिया है।";
+"Label_AppNotAuthorized" = "ऐप अधिकृत नहीं है";
+// End MobileIron Edition strings
+
+//Excel
+"Label_FractionNumberFormat"        = "भिन्न";
+"Label_SpecialNumberFormat"         = "विशेष";
+"Label_CustomNumberFormat"          = "कस्टम";
+
+/* Up to 28 chars */
+"Label_FractionUpToOneDigit"        = "एक अंक तक (1/4)";
+"Label_FractionUpToTwoDigits"       = "दो अंकों तक (10/25)";
+"Label_FractionUpToThreeDigits"     = "तीन अंकों तक (300/850)";
+
+"Label_FractionUpAsHalves"          = "अर्ध के रूप में (1/2)";
+"Label_FractionUpAsQuarters"        = "चौथाई के रूप में (2/4)";
+"Label_FractionUpAsEights"          = "आठवें भाग के रूप में (4/8)";
+"Label_FractionUpAsSixteenths"      = "सोलहवें भाग के रूप में (8/16)";
+"Label_FractionUpAsTenths"          = "दसवें भाग के रूप में (5/10)";
+"Label_FractionUpAsHundreths"       = "सौवें भाग के रूप में (50/100)";
+
+/* Up to 28 chars */
+"Label_UseCustomDenominator"        = "कस्टम हर (1/%ld) का इस्तेमाल करें";
+
+"Label_FractionCustomdenominator"   = "कस्टम हर";
+"Label_FractionCustomDenominator"   = "कस्टम हर";
+"Label_Denominator"                 = "भिन्न";
+"Label_PostCode"                    = "पोस्टकोड";
+"Label_ZipCode(US)"                 = "ज़िप कोड (US)";
+"Label_ZipCode4(US)"                = "ज़िप कोड + 4 (US)";
+"Label_Postcode(A)"                 = "पोस्टकोड (A)";
+"Label_Postcode(CH)"                = "पोस्टकोड (CH)";
+"Label_Postcode(D)"                 = "पोस्टकोड (D)";
+"Label_Postcode(L)"                 = "पोस्टकोड (L)";
+"Label_Postcode(4digits)"           = "पोस्टकोड (4 अंक)";
+"Label_Postcode(5digits)"           = "पोस्टकोड (5 अंक)";
+"Label_Postcode(6digits)"           = "पोस्टकोड (6 अंक)";
+"Label_PhoneNumber"                 = "फ़ोन नंबर";
+"Label_SocialSecurityNumber"        = "सामाजिक सुरक्षा नंबर";
+"Label_PdfOptions"                  = "PDF विकल्प";
+
+"Label_PrintHeadings"               = "शीर्षक प्रिंट करें";
+
+/* Up to 26 chars */
+"Label_PrintGridlines"              = "ग्रिडलाइनें प्रिंट करें";
+
+"Label_SelectSheets"                = "शीट्स चुनें";
+"Label_ShowHeadings"                = "शीर्षक दिखाएँ";
+"Label_EmptyPage"                   = "रिक्त पृष्ठ";
+
+"Label_NewComment"                  = "टिप्पणी जोड़ें";
+"Label_DefineName"                  = "नाम जोड़ें";
+"Label_CellRange"                   = "सेल रेंज";
+
+"Label_PremiumODF" = ".ODS, .ODT, और .ODP सहित OpenDocument फ़ॉरमेट (ODF) फ़ाइलों तक पहुँच करें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumBinaryFormat" = "अधिकतम संगतता के लिए आनुवंशिक Word और Excel फ़ॉरमेट रूप में सहेजें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumCSV" = "अपनी स्प्रेडशीट .CSV (कॉमा से विभाजित मान) फ़ाइल के रूप में सहेजें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumConditionalFormatting" = "निश्चित मापदंड के आधार पर सेल और सेल रेंज का फ़ॉरमेट बदलें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumHyperlinks" = "वेबसाइट और ईमेल पतों के हाइपरलिंक बनाएँ और संपादित करें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumEditComments" = "Excel फ़ाइलों में टिप्पणियाँ बनाएँ और संपादित करें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumWordToPDF" = "मौजूदा दस्तावेज़ से जल्दी से PDF बनाएँ। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumCameraPhoto" = "अपनी डिवाइस के कैमरे से चित्र सम्मिलित करने के लिए इंगित और शूट करें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumAnnotatePdf" = "PDF टिप्पणियाँ और मार्कअप बनाएँ और संपादित करें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumAppProtectionPass" = "कस्टम पासवर्ड का इस्तेमाल करके OfficeSuite तक पहुँच सीमित करें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumPDFtoWord" = "मौजूदा PDF को पूरी तरह संपादन-योग्य word दस्तावेज़ में बदलें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumPDFtoExcel" = "मौजूदा PDF को पूरी तरह संपादन-योग्य स्प्रेडशीट में बदलें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumPDFtoEPub" = "मौजूदा PDF को ePub फ़ाइल में बदलें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumPdfPasswordChange" = "कस्टम पासवर्ड के साथ फ़ाइल तक पहुँच सीमित करें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumExcelToPDF" = "मौजूदा स्प्रेडशीट से जल्दी से PDF बनाएँ। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumPPTtoPDF" = "मौजूदा प्रस्तुति से जल्दी से PDF बनाएँ। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumFormFill" = "भरें और संपादन-योग्य PDF फ़ॉर्म सहेजें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PremiumNightMode" = "रात में आसानी से देखने के लिए काली पृष्ठभूमि पर PDFs हल्के पाठ के साथ प्रदर्शित करें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PdfOptions"                  = "PDF विकल्प";
+
+//Apple Watch Strings
+"Label_Start" = "आरंभ करें";
+"Label_Playing" = "चल रहा है";
+
+/* Up to 57 chars */
+"Label_ParentAppConnectivityPrompt" = "जारी रखने के लिए iPhone के लिए OfficeSuite में प्रस्तुति खोलें";
+
+"Label_FromSlideNumber" = "स्लाइड %d से";
+"Label_SlideNumberOfSlideCount" = "स्लाइड %d, कुल स्लाइड %d";
+"Label_Restart" = "पुनः आरंभ करें";
+"Label_EndShow" = "शो समाप्त करें";
+
+// PDF
+
+"Label_PDFContainsDigitalSignatures" = "दस्तावेज़ में डिजिटल हस्ताक्षर शामिल हैं।";
+
+// annotation tips
+"Label_ToolTip_Note" = "वहाँ टैप करें जहाँ आप नोट जोड़ना चाहते हैं";
+"Label_ToolTip_FreeText" = "वहाँ टैप करें जहाँ आप पाठ जोड़ना चाहते हैं";
+"Label_ToolTip_Highlight" = "हाइलाइट करने के लिए पाठ पर खींचें";
+"Label_ToolTip_Underline" = "रेखांकित करने के लिए पाठ पर खींचें";
+"Label_ToolTip_Strikethrough" = "स्ट्राइकथ्रू करने के लिए पाठ पर खींचें";
+"Label_ToolTip_FreeDraw" = "ड्रा करने के लिए स्वतंत्र रूप से खींचें";
+"Label_ToolTip_Line" = "लाइन बनाने के लिए टैप करें और खींचें";
+"Label_ToolTip_Rectangle" = "आयत बनाने के लिए टैप करें और खींचें";
+"Label_ToolTip_Ellipse" = "दीर्घवृत्त बनाने के लिए टैप करें और खींचें";
+
+
+"Label_ProtectYourDocumentsTitle" = "अपने दस्तावेज़ों की रक्षा करें";
+"Label_ProtectYourDocumentsInfo" = "Touch ID का इस्तेमाल करके पासवर्ड जोड़ें और OfficeSuite तक पहुँच प्रतिबंधित करें";
+"Label_AnnotatePdfAndFillFormsTitle" = "PDFs में टिप्पणी जोड़ें और फ़ॉर्म भरें";
+"Label_AnnotatePdfAndFillFormsInfo" = "टिप्पणियाँ बनाएँ और संपादित करें, संपादन-योग्य PDF फ़ॉर्म भरें और सहेजें";
+"Label_SaveAsPDFTitle" = "PDF के रूप में सहेजें";
+"Label_SaveAsPDFInfo" = "Word, Excel और PowerPoint से फ़ॉरमेट को कोई नुक़सान पहुँचाए बिना PDFs बनाएँ";
+"Label_EditPDFDocumentsTitle" = "PDF दस्तावेज़ संपादित करें";
+"Label_EditPDFDocumentsInfo" = "किसी भी PDF को पूरी तरह से संपादन-योग्य Word, Excel, या ePub फ़ाइल में बदलें";
+"Label_SaveAsLegacyFormatsTitle" = "विरासत माइक्रोसॉफ्ट प्रारूपों";
+"Label_SaveAsLegacyFormatsInfo" = "अधिकतम संगतता के लिए अपने दस्तावेज़ .DOC और .XLS के रूप में सहेजें";
+"Label_OpenODFDocumentsTitle" = "खुला ODF दस्तावेज़";
+"Label_OpenODFDocumentsInfo" = ".odt, .ods और .odp फ़ाइलें पढ़ें";
+"Label_GetExtraFontsTitle" = "अतिरिक्त फ़ॉन्ट प्राप्त करें";
+"Label_GetExtraFontsInfo" = "70+ अनिवार्य फ़ॉन्ट, जैसे Tahoma, Calibri और Wingdings";
+"Label_RemoveAdsTitle" = "विज्ञापन हटाएँ";
+"Label_RemoveAdsInfo" = "विज्ञापन-मुक्त OfficeSuite का आनंद लें";
+
+
+"Label_PremiumPowerPointEditNotes" = "अपनी स्लाइड्स में प्रस्तुतकर्ता नोट बनाएँ और संपादित करें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+
+/*
+ NEW STRINGS AFTER VER 4.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+/* Up to 14 chars, "free" as "arbitrary", "user-generated"  */
+"Label_FreeText" = "मुफ़्त टेक्स्ट";
+
+"Label_Sign" = "हस्ताक्षर";
+"Label_QuickSign" = "त्वरित हस्ताक्षर";
+"Label_AddDate" = "तिथि जोड़ें";
+"Label_PickDate" = "तिथि चुनें";
+"Label_AddSignature" = "हस्ताक्षर जोड़ें";
+"Label_QuickSignHint" = "अपने हस्ताक्षर या आद्यक्षर करें";
+"Label_QuickSignNoAvailableSignatures" = "कोई हस्ताक्षर नहीं";
+
+"Label_ToolTip_QuickSign" = "वहाँ टैप करें जहाँ आप हस्ताक्षर जोड़ना चाहते हैं";
+"Label_ToolTip_Date" = "वहाँ टैप करें जहाँ आप तिथि जोड़ना चाहते हैं";
+
+"Label_TryAgain" = "पुनः प्रयास करें";
+"Label_YouMustBeOnlineInOrderToUpgrade" = "अपग्रेड करने के लिए आपको ऑनलाइन होना चाहिए";
+"Label_CannotConnectToITunesStore" = "iTunes स्टोर से कनेक्ट नहीं हो सकता";
+
+"ErrClass_FillString" = "भरना विफल। ";
+
+/*
+ NEW STRINGS AFTER VER 4.3.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_UnsupportedDefinedName" = "इस दस्तावेज़ में असमर्थित निर्धारित नाम शामिल हैं। दस्तावेज़ सहेजना विफल हो सकता है";
+
+"Label_SignIn" = "साइन इन करें";
+"Label_SignUp" = "साइन अप करें";
+"Label_SignOut" = "साइन आउट करें";
+"Label_ForgotPassword" = "पासवर्ड भूल गए ?";
+"Label_ResetPassword"  = "पासवर्ड रीसेट करें";
+"Label_Remove" = "निकालें";
+"Label_TakePhoto" = "फ़ोटो लें";
+"Label_ChooseFromCameraRoll" = "कैमरा रोल से चुनें";
+"Err_EnterDifferentPassword" = "पुराना और नया पासवर्ड समान हैं।कृपया नया पासवर्ड दर्ज करें!";
+"Label_SaveAppSettings" = "ऐप सेटिंग्स, हाल की फ़ाइलें तथा और बहुत कुछ सहेजें";
+
+//Common error strings from Android version
+"Err_PleaseFillYourCredentials" = "कृपया अपने क्रेडेंशियल्स भरें।";
+"Err_InvalidEmailAddress"       = "अमान्य ईमेल पता।";
+"Err_AccountDoesNotExist"       = "खाता मौजूद नहीं है। कृपया अपनी ईमेल की जाँच करें और फिर कोशिश करें।";
+"Err_AccountAlreadyExist"       = "यह खाता पहले ही मौजूद है। क्या आप पासवर्ड रीसेट करना चाहते हैं?";
+"Err_PasswordMissmatch"         = "ग़लत उपयोगकर्ता नाम या पासवर्ड।";
+"Wrn_SighOutDecription"         = "क्या आप वाकई साइन आउट करना चाहते हैं?";
+"Msg_PasswordChanged"           = "आपका पासवर्ड बदल गया है।";
+"Err_AccountNotValidated"       = "खाता अभी तक सत्यापित नहीं हुआ है।";
+"Btn_ResendValidation"          = "प्रमाणित करें";
+"Msg_ValidationResendSuccess"   = "सत्यापन लिंक आपकी ईमेल पर भेजा गया है।";
+"Msg_PasswordReset"             = "आपका नया पासवर्ड आपकी ईमेल पर भेजा गया था। कृपया अपनी ईमेल की जाँच करें और साइन इन करें।";
+
+// PDF
+
+"PRGRSS_ExecutingJavaScript" = "Java स्क्रिप्ट क्रियान्वित हो रही है...";
+
+"Label_AddEditComment" = "टिप्पणी जोड़ें/संपादित करें";
+
+// MSConnect / Payments
+
+"Label_TooManyDevices" = "आप बहुत ज़्यादा डिवाइस पर लॉग्ड ऑन हैं।";
+"Label_PleaseUpdatePayment" = "आपने हाल ही में अपनी Android भुगतान जानकारी अद्यतित नहीं की। प्रीमियम हटा दिया गया है जब तक आप इसे अद्यतित नहीं करते।";
+
+//Word - WebView
+
+"Label_WebView" = "वेब दृश्य";
+"Label_PageView" = "पृष्ठ दृश्य";
+
+//Go Premium Screen Strings
+"Label_UpgadeToPremium" = "प्रीमियम में अपग्रेड करें";
+"Label_DescriptionProtectYourDocuments" = "TouchID का इस्तेमाल करके पासवर्ड जोड़ें और OfficeSuite तक पहुँच प्रतिबंधित करें";
+"Label_DescritpionEditPDFs" = "किसी भी PDF को पूरी तरह से संपादन-योग्य Word, Excel, या ePub फ़ाइल में बदलें";
+"Label_TitleSignYourPDFFiles" = "अपनी PDF फाइलों पर हस्ताक्षर करें";
+"Label_DescriptionSignYourPDFFiles" = "डिजिटल हस्ताक्षर जोड़ने के लिए जल्दी हस्ताक्षर का उपयोग";
+"Label_SubscriptionPeriodMonthly" = "महीना";
+"Label_SubscriptionPeriodYearly"  = "साल";
+"Label_SaveForPrice" = "सहेजें"; // save for price e.g "SAVE $15.99"
+"Label_UpgradeText" = "अपग्रेड करें";
+"Label_OfficeSuitePremium" = "OfficeSuite प्रीमियम";
+"Label_OfficeSutiePremiumDesc" = "अपनी मोबाइल उत्पादकता अधिकतम करें";
+"Label_UpgradeNow" = "अभी अद्यतित करें";
+"Label_LoginInfo" = "अपनी सदस्यता का इस्तेमाल सभी प्लेटफ़ॉर्म और डिवाइस में करें";
+"Label_SignInWith" = "इसके साथ साइन इन करें";
+"Label_DontHaveAccount" = "अभी तक खाता नहीं है?";
+"Label_DontHaveAnAccount" = "खाता नहीं है?";
+"Label_SignUpHere" = "यहाँ साइन अप करें";
+"Label_AlreadyHaveAccount" = "पहले ही खाता है?";
+"Label_SignInNow" = "अभी साइन इन करें";
+"Label_ResetPasswordDesc" = "हम पासवर्ड और रीसेट करने के निर्देशों के साथ निम्नलिखित पते पर ईमेल भेजेंगे।";
+"Label_FullName" = "पूरा नाम";
+"Label_ChangePassword" = "पासवर्ड बदलें";
+"Label_UserSettings" = "उपयोगकर्ता सेटिंग्स";
+"Label_EnterOldPassword" = "पुराना पासवर्ड दर्ज करें";
+"Label_EnterNewPassword" = "नया पासवर्ड दर्ज करें";
+"Label_Re-EnterNewPassword" = "नया पासवर्ड फिर से दर्ज करें";
+
+// MSConnect / Payment messages
+
+"Label_PremiumTransferFailed" = "प्रीमियम स्थानांतरण विफल";
+"Label_PremiumLicenseHasAnotherAccount" = "यह प्रीमियम लाइसेंस पहले ही %@ से जुड़ा है";
+"Label_TooManyDevicesMan" = "आप इस प्रीमियम लाइसेंस के साथ जुड़ी डिवाइस की संख्या पार कर चुके हैं।";
+"Label_PremiumLicenseExpired" = "आपके प्रीमियम लाइसेंस की अवधि समाप्त हो गई है।";
+"Label_PremiumExpired" = "प्रीमियम की अवधि समाप्त हो गई है";
+"Label_PremiumPleaseUpdateStatus" = "आपके प्रीमियम लाइसेंस की स्थिति अद्यतित नहीं हुई। लाइसेंस स्थिति अद्यतित करने के लिए अपनी मूल डिवाइस से साइन इन करें।";
+"Label_PremiumNotUpdated" = "प्रीमियम अद्यतित नहीं हुआ";
+
+/*
+ NEW STRINGS AFTER VER 4.4
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_TryToLoginWithAnotherAccount" = "इस खाते के साथ लॉग इन नहीं हो सका। कृपया दूसरा आज़माएँ।";
+"Label_NothingToRestore" = "आपके पास बहाल करने के लिए कोई ख़रीद नहीं है।";
+"Label_ShareWithFriends" = "दोस्तों के साथ साझा करें";
+
+"Label_InactivityUrge1" = "क्या आप जानते हैं कि कि आपके पास अपनी उँगलियों पर पूर्ण मोबाइल ऑफ़िस है?";
+"Label_InactivityUrge2" = "क्या आप जानते हैं कि आप OfficeSuite के साथ किसी भी दस्तावेज़ को पढ़ और संपादित कर सकते हैं?";
+"Label_InactivityUrge3" = "क्या आप जानते हैं कि आप OfficeSuite के साथ PDFs संपादित कर सकते हैं?";
+"Label_CompleteSubscriptionUrge1" = "क्यों प्रतीक्षा करें? अपनी सदस्यता पूरी करें और अपनी उत्पादकता अधिकतम करें!";
+"Label_CompleteSubscriptionUrge2" = "सर्वोत्तम मोबाइल ऑफ़िस ऐप, OfficeSuite Premium प्राप्त करने के लिए अपनी सदस्यता पूरी करें!";
+"Msg_PasswordChangedPassive"      = "आपका पासवर्ड बदल दिया गया है।";
+
+// PowerPoint
+
+"Label_FillColor" = "रंग भरें";
+"Label_NoFill" = "कोई भरण नहीं है";
+"Label_LineColor" = "लाइन का रंग";
+"Label_NoLine" = "कोई लाइन नहीं है";
+"Label_LineWeight" = "लाइन का भार";
+"Label_LineStyle" = "लाइन की शैली";
+
+"Accessibility_Label_DashingType_Solid" = "ठोस";
+"Accessibility_Label_DashingType_SysDash" = "सिस्टम डैश";
+"Accessibility_Label_DashingType_SysDot" = "सिस्टम डॉट";
+"Accessibility_Label_DashingType_SysDashDot" = "सिस्टम डैश डॉट";
+"Accessibility_Label_DashingType_SysDashDotDot" = "सिस्टम डैश डॉट डॉट";
+"Accessibility_Label_DashingType_Dot" = "डॉट";
+"Accessibility_Label_DashingType_Dash" = "डैश";
+"Accessibility_Label_DashingType_LgDash" = "लंबा डैश";
+"Accessibility_Label_DashingType_DashDot" = "डैश डॉट";
+"Accessibility_Label_DashingType_LgDashDot" = "लंबा डैश डॉट";
+"Accessibility_Label_DashingType_LgDashDotDot" = "लंबा डैश डॉट डॉट";
+
+//File browser
+
+"Label_ForgotYourPassword" = "अपना पासवर्ड भूल गए?";
+"Err_EnterLessSimilarPassword" = "पुराने और नए पासवर्ड बहुत ज़्यादा समान हैं। कृपया अन्य पासवर्ड आज़माएँ!";
+"Label_PremiumSubscriptionExpired" = "आपकी प्रीमियम सदस्यता समाप्त हो गई है।";
+"Label_PremiumSubscriptionHasAnotherAccount" = "यह प्रीमियम सदस्यता पहले ही %@ के साथ जुड़ी हुई है।";
+"Label_TooManyDevicesForSubscriptionMan" = "आप इस प्रीमियम सदस्यता के लिए अनुमति की डिवाइस की अधिकतम संख्या पार कर चुके हैं।";
+"Msg_ShareDescription" = "OfficeSuite, एक महान app वर्ड, एक्सेल, और पीडीएफ दस्तावेजों को संपादित करने के लिए!";
+"Label_CPPleaseTryAgain" = "कनेक्शन की समस्या। कृपया बाद में फिर कोशिश करें।";
+"Label_YouMustBeOnlineToSync" = "अपना खाता सिंक्रनाइज़ करने के लिए आपको ऑनलाइन होना ज़रूरी है।";
+"Label_LastSync" = "पिछला सिंक्रनाइज़:";
+"Wrn_WillLosePremiumSubscriptionIfSignOut" = "क्या आप वाकई साइन आउट करना चाहते हैं? अब आप इस डिवाइस पर अपनी प्रीमियम सदस्यता का उपयोग नहीं कर सकेंगे।";
+
+/*
+ NEW STRINGS AFTER VER 4.5
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// Track Changes Strings
+"Label_Review" = "समीक्षा करें";
+"Label_TrackChanges" = "बदलाव ट्रैक करें";
+
+/* Up to 24 chars */
+"Label_TrackChangesMergedView" = "विलय किया गया दृश्य";
+
+"Label_TrackChangesOriginalView" = "मूल दृश्य";
+"Label_TrackChangesFinalView" = "अंतिम दृश्य";
+"Label_ReviewMarkup" = "मार्कअप की समीक्षा करें";
+"Label_PreviousChange" = "पिछला बदलाव";
+"Label_NextChange" = "अगला बदलाव";
+"Label_PreviousComment" = "पिछली टिप्पणी";
+"Label_NextComment" = "अगली टिप्पणी";
+"Label_HiddenTrackChanges" = "ट्रैक किए गए सभी बदलाव फ़िलहाल छिपे हुए हैं।";
+"Label_ShowAllTrackChanges" = "सभी दिखाएँ";
+"Label_NoChangesInDocument" = "दस्तावेज़ में कोई ट्रैक किया गया बदलाव नहीं है।";
+"Label_SearchFromBeginningOfDocument" = "दस्तावेज़ के आरंभ से खोज जारी रखें?";
+"Label_SearchFromEndOfDocument" = "दस्तावेज़ के अंत से खोज जारी रखें?";
+"Label_RevisionsTracking" = "संशोधन ट्रैकिंग";
+"Label_RevisionsTrackingMessage" = "यह क्रिया बदलाव के रूप में चिह्नित नहीं की जाएगी। क्या आप जारी रखना चाहते हैं?";
+"Label_UntrackedOperationMessage" = "यह संचालन बदलाव के रूप में चिह्नित नहीं किया जाएगा क्योंकि यह तालिका को प्रभावित करता है।";
+
+//Months
+"Label_January" = "जनवरी";
+"Label_February" = "फ़रवरी";
+"Label_March" = "मार्च";
+"Label_April" = "अप्रैल";
+"Label_May" = "मई";
+"Label_June" = "जून";
+"Label_July" = "जुलाई";
+"Label_August" = "अगस्त";
+"Label_September" = "सितंबर";
+"Label_October" = "अक्तूबर";
+"Label_November" = "नवंबर";
+"Label_December" = "दिसंबर";
+
+// PDF
+"Label_SwitchOffReflow" = "रीफ़्लो मोड में संपादन अक्षम होता है। क्या आप निरंतर मोड में स्विच करना चाहेंगे?";
+"Label_ProtectedFile" = "रक्षित फ़ाइल";
+"Label_FullAccessPasswordRequired" = "फ़ाइल पासवर्ड द्वारा संरक्षित है।\nपूर्ण पहुँच पासवर्ड दर्ज करें:";
+"Label_Annotations" = "टिप्पणियाँ";
+"Label_NoAnnotations" = "कोई टिप्पणी नहीं है";
+"Label_NoContents" = "कोई सामग्री नहीं है";
+"Label_WillDeleteAllAnnotations" = "क्या आप वाकई इस दस्तावेज़ से सभी टिप्पणियाँ हटाना चाहते हैं?";
+"Label_Reflow" = "रीफ़्लो";
+"Label_DocumentNavigation" = "दस्तावेज़ नेविगेशन";
+"Label_DeletingAnnotations" = "टिप्पणियाँ हटाई जा रही हैं...";
+"Label_WillSwitchToContinuousMode" = "रीफ़्लो मोड में टिप्पणियाँ उपलब्ध नहीं होतीं। क्या आप निरंतर मोड में स्विच करना चाहेंगे?";
+"Label_PdfUserPasswordSameAsOwnerPassword" = "स्वामी और उपयोगकर्ता पासवर्ड समरूप नहीं हो सकते।";
+
+
+"Label_DontAskAgain" = "फिर न पूछें";
+
+//File Browser new design sitrngs
+"Label_TabRecent" = "हाल का";
+"Label_RecentFilesUp" = "हाल की फ़ाइलें";
+"Label_NewBlankDocument" = "नया रिक्त दस्तावेज़";
+"Label_NewBlankSpreadsheet" = "नई रिक्त स्प्रेडशीट";
+"Label_NewBlankPresentation" = "नई रिक्त प्रस्तुति";
+
+/* Up to 28 chars */
+"Label_AddCloudStorage" = "क्लाउड संग्रहण जोड़ें";
+
+"Label_MDM_Clouds_Disabled" = "आपके व्यवस्थापक क्लाउड संग्रहण की पहुँच अक्षम कर दी है। अब आप केवल स्थानीय फ़ाइलें खोल/संपादित/सहेज सकते हैं।";
+"Label_MDM_AirWatchEdition" = "AirWatch संस्करण";
+"Lable_MDM_PermissionChanged" = "अनुमति बदली गई";
+"Label_MDM_PasscodeDisabled" = "आपके व्यवस्थापक ने एप्लिकेशन पासवर्ड सेटिंग अक्षम कर दी है।";
+
+"Label_AboutOfficeSuite" = "OfficeSuite का परिचय";
+"Label_AccountSettings" = "खाता सेटिंग्स";
+"Label_SelectAll" = "सभी चुनें";
+"Label_DeselectAll" = "सभी अचयनित करें";
+"Label_ManagePlaces" = "Manage Places";
+
+//Track changes
+"Label_ReviewMarkupTitleCase" = "मार्कअप की समीक्षा करें";
+"Label_PremiumWordTrackChanges" = "बेहतर सहयोग के लिए बदलाव ट्रैक करना बनाएँ और संपादित करें।";
+"Label_SearchCommentsFromBeginningOfDocument" = "दस्तावेज़ के आरंभ से टिप्पणियाँ खोजी जा रही हैं?";
+"Label_SearchCommentsFromEndOfDocument" = "दस्तावेज़ के अंत से टिप्पणियाँ खोजी जा रही हैं?";
+
+"Label_SearchTabPlaceHolder" = "OfficeSuite खोजें";
+
+/* Up to 22 chars */
+"Label_CloudStorage" = "क्लाउड संग्रहण";
+
+/*
+ NEW STRINGS AFTER VER 4.6
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+/* Up to 13 chars */
+"Label_Unprotect" = "अरक्षित";
+
+/* Up to 28 chars */
+"Label_SelectLockedCells" = "लॉक किए गए सेल चुनें";
+
+/* Up to 30 chars */
+"Label_SelectUnlockedCells" = "अनलॉक किए गए सेल चुनें";
+
+"Label_FormatCells" = "सेल फ़ॉरमेट करें";
+"Label_FormatColumns" = "स्तंभ फ़ॉरमेट करें";
+"Label_FormatRows" = "पंक्तियाँ फ़ॉरमेट करें";
+"Label_InsertColumns" = "कॉलम सम्मिलित करें";
+"Label_InsertRows" = "पंक्तियाँ सम्मिलित करें";
+
+/* Up to 30 chars */
+"Label_InsertHyperlinks" = "हाइपरलिंक्स सम्मिलित करें";
+
+"Label_DeleteColumns" = "कॉलम हटाएँ";
+"Label_DeleteRows" = "पंक्तियाँ हटाएँ";
+"Label_UseAutoFilter" = "ऑटोफ़िल्टर का उपयोग करें";
+
+/* Up to 30 chars */
+"Label_PivotTable" = "PivotTable व PivotChart";
+
+"Label_EditObjects" = "चार्ट संपादित करें";
+"Label_EditScenarios" = "परिदृश्य संपादित करें";
+"Label_ProtectSheet" = "शीट सुरक्षित करें";
+"Label_UnprotectToChange" = "यह शीट सुरक्षित है। परिवर्तन करने के लिए, शीट अरक्षित करें।";
+"Label_PasswordProtectedSheet" = "पासवर्ड रक्षित शीट";
+"Label_UnprotectSheet" = "अरक्षित शीट";
+"Label_ProtectedSheet" = "सुरक्षित शीट";
+"Label_HideLockCellInfo" = "से लॉक करने और फ़ार्मूले छिपाने से केवल सुरक्षित शीट प्रभावित होती हैं।";
+"Label_CellLocked" = "लॉक किया गया";
+"Label_CellHidden" = "छिपा हुआ";
+"Label_CellProtection" = "सेल संरक्षण";
+"Label_Data" = "डेटा";
+"Label_DataValidation" = "डेटा सत्यापन";
+"Label_ErrorAlert" = "त्रुटि चेतावनी";
+"Label_ErrorMessage" = "त्रुटि संदेश";
+"Label_InputMessage" = "इनपुट संदेश";
+"Label_Criteria" = "मापदंड";
+"Label_ValidationCriteria" = "सत्यापन का मापदंड";
+"Label_AnyValue" = "कोई भी मान";
+"Label_WholeNumber" = "पूर्णांक";
+"Label_Decimal" = "दशमलव";
+"Label_List" = "सूची";
+"Label_Time" = "समय";
+"Label_TextLength" = "पाठ की लंबाई";
+"Label_DVBetween" = "बीच में";
+"Label_DVNotBetween" = "बीच में नहीं";
+"Label_DVEqualTo" = "इसके बराबर";
+"Label_DVNotEqualTo" = "इसके बराबर नही";
+"Label_DVGreaterThan" = "इससे अधिक";
+"Label_DVLessThan" = "इससे कम";
+"Label_DVGreaterThanOrEqualTo" = "इससे अधिक या बराबर";
+"Label_DVLessThanOrEqualTo" = "इससे कम या बराबर";
+"Label_IgnoreBlank" = "रिक्त पर ध्यान न दें";
+"Label_InCellDropdown" = "इन-सेल ड्रॉपडाउन";
+"Label_Source" = "स्रोत";
+"Label_Formula" = "फ़ार्मूला";
+"Label_Minimum" = "न्यूनतम";
+"Label_Maximum" = "सर्वाधिक";
+"Label_Length" = "लंबाई";
+"Label_StartDate" = "प्रारंभ तिथि";
+"Label_EndDate" = "समाप्ति तिथि";
+"Label_StartTime" = "प्रारंभ समय";
+"Label_EndTime" = "समाप्ति समय";
+"Label_ShowInputMessage" = "इनपुट संदेश दिखाएँ";
+"Label_Message" = "संदेश";
+"Label_ShowErrorAlert" = "त्रुटि चेतावनी दिखाएँ";
+"Label_Warning" = "चेतावनी";
+"Label_Information" = "जानकारी";
+"Label_CircleInvalidData" = "अमान्य डेटा पर गोला लगाएँ";
+"Label_Retry" = "पुनः प्रयास करें";
+"InfoTitle_Date" = "तिथि";
+"InfoTitle_SlideNumber" = "स्लाइड नंबर";
+"InfoTitle_Footer" = "फ़ुटर";
+"Label_AllowProtectionTypes" = "इस वर्कशीट के सभी उपयोगकर्ताओं को इसकी अनुमति दें:";
+"Label_ProtectChartSheetFor" = "इसके लिए वर्कशीट रक्षित करें:";
+"Label_Objects" = "ऑब्जेक्ट";
+"Label_NoResult" = "कोई परिणाम नहीं";
+"Label_EditObjects2" = "ऑब्जेक्ट संपादित करें";
+"Label_ReplaceAll" = "सभी बदलें";
+"Label_SeparateCoverPage" = "अलग कवर पृष्ठ";
+"Label_ViewModeOptions" = "दृश्य मोड विकल्प";
+
+/* Up to 26 chars */
+"Label_ContinuousTwoPages" = "लगातार दो पृष्ठ";
+
+"Label_PremiumQuickSign" = "अपने PDF दस्तावेज़ में हस्तलिखित हस्ताक्षर जोड़ें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_PrintLowQuality" = "कम गुणवत्ता में प्रिंट करें";
+"Label_PrintHighQuality" = "उच्च गुणवत्ता में प्रिंट करें";
+"Label_FullAccessPasswordRequiredForHighQualityPrinting" = "यह फ़ाइल पासवर्ड द्वारा रक्षित है। उच्च गुणवत्ता में प्रिंट करने के लिए, पूर्ण पहुँच पासवर्ड दर्ज करें।";
+"Label_DeleteSheet" = "शीट हटाएँ";
+"Label_CantDeleteSheet" = "हटाया नहीं जा सकता। अन्य शीट दृश्य बनाएँ (अगर अदृश्य शीट हैं) या इसे हटाएँ के लिए एक नई शीट जोड़ें।";
+
+"Label_PremiumAllBinaryFormats" = "अधिकतम संगतता के लिए आनुवंशिक Word, Excel और PowerPoint फ़ॉरमेट रूप में सहेजें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_SaveAsAllLegacyFormatsInfo" = "अधिकतम संगतता के लिए अपने दस्तावेज़ .DOC, .XLS और .PPT के रूप में सहेजें";
+
+/*
+ NEW STRINGS AFTER VER 4.7
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrMsg_EmptyTextField" = "रिक्त टेक्स्ट फ़ील्ड्स की अनुमति नहीं है";
+"Confirm_EraseDataValidation" = "चयन में सत्यापन के एक से अधिक प्रकार हैं। वर्तमान सत्यापन की जगह कुछ और रखें और जारी रखें?";
+"ErrMsg_DataValidationIsInvalid" = "आपके द्वारा दर्ज किया गया मान अमान्य है।";
+"WarnMsg_DataValidationIsInvalid" = "आपके द्वारा दर्ज किया गया मान मान्य नहीं है। फिर भी सेल संपादित करें?";
+"InfoMsg_DataValidationIsInvalid" = "आपके द्वारा दर्ज किया गया मान अमान्य है।";
+"ErrMsg_InvalidChars" =  "दर्ज किए गए मान में अमान्य वर्ण हैं।";
+
+"Msg_ErrorLockedOutAfterFailedSignIns" = "बहुत ज़्यादा लॉग इन प्रयास। कृपया बाद में पुनः प्रयास करें।";
+"Label_ManageAccount" = "खाता प्रबंधित करें";
+
+//Word
+"Label_Shading" = "शेडिंग";
+
+"Label_WhatsNew" = "नया क्या है";
+"Label_Sheets" = "शीट्स";
+"Label_OpenPDF" = "PDF खोलें";
+"Label_RateUs" = "हमें रेट करें";
+"TextBox_DefaultText" = "टेक्स्ट संपादित करने के लिए दो बार टैप करें";
+"Label_Slides" = "स्लाइड";
+
+/*
+ NEW STRINGS AFTER VER 4.8
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrDoc_Save_Xls_Not_Supported" = "दस्तावेज़ को XLS फ़ॉरमेट में नहीं सहेजा जा सकता है, क्योंकि इसमें केवल चार्ट शीट्स हैं।";
+"InfoMsg_InvalidDVAllTable" = "आप पूरी शीट के लिए डेटा मान्यता नियम निर्धारित नहीं कर सकते।";
+"Label_MarkerLineChart" = "मार्कर के साथ लाइन";
+"Err_PleaseLoginAgain"       = "आपको साइन आउट कर दिया गया है। कृपया पुनः साइन इन करें।";
+"Label_PremiumProtectSheet" = "अपनी स्प्रेडशीट्स में सेल रक्षित करें। OfficeSuite प्रीमियम के भाग के रूप में उपलब्ध है।";
+"Label_NoColor" = "कोई रंग नहीं है";
+"Label_CellShading" = "सेल शेडिंग";
+"Label_EnterPassToUnprotect" = "शीट अरक्षित करने के लिए पासवर्ड दर्ज करें।";
+
+//Excel
+"Label_Cells" = "सेल";
+"Label_ShiftLeft" = "सेल बाएँ स्थानांतरित करें";
+"Label_ShiftUp" = "सेल ऊपर स्थानांतरित करें";
+"Label_EntireRow" = "पूरी पंक्ति";
+"Label_EntireColumn" = "पूरा कॉलम";
+"Label_DeleteOptions" = "विकल्प हटाएँ";
+
+"WarnMsg_Continue" = "\n\nजारी रखें?";
+
+"Err_WillChangeFilteredRange" = "फ़िल्टर की रेंज बदल जाएगी।";
+"ErrClass_DeleteCells" = "सेल हटाने में विफल।";
+
+"Label_Alert" = "चेतावनी";
+"AlertMsg_DeleteRow" = "पूरी पंक्ति हटाएँ?";
+"AlertMsg_WillUnmergeCells" = "इस कमांड से कुछ मर्ज किए गए सेल अलग-अलग हो जाएँगे। क्या आप जारी रखना चाहते हैं?";
+
+//File browser
+"Label_SearchByType" = "प्रकार के आधार पर खोज करें";
+"Label_RecentSearches" = "हाल की खोज";
+
+// Excel
+"Label_BarOfPie" = "पाई की बार";
+"Label_PieOfPie" = "पाई की पाई";
+"Label_3DColumn" = "3D कॉलम";
+
+/*
+ NEW STRINGS AFTER VER 4.9
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// PowerPoint
+"Label_PowerPointMacroTemplate" = "PowerPoint मैक्रो-सक्षम टेम्प्लेट";
+"Label_EnterpriseMode" = "एंटरप्राइज़ मोड";
+"Label_NetForEntrpriseNeeded" = "एंटरप्राइज़ मोड सक्षम करने के लिए इंटरनेट कनेक्शन की ज़रूरत है।";
+"Label_SolidFill" = "सॉलिड फ़िल";
+"Label_PictureFill" = "पिक्चर फ़िल";
+
+// PDF
+"Label_TwoPages" = "दो पृष्ठ";
+"Label_ContinuousScroll" = "निरंतर स्क्रॉल";
+"Label_PdfPageView" = "पृष्ठ दृश्य";
+"Label_ReflowView" = "रीफ़्लो दृश्य";
+
+//FileCommander
+
+"Label_Favorites" = "पिन किया गया";
+"Label_NoFavorites" = "फ़ाइलें पिन करने के लिए संपादन करें दबाएँ।";
+"Label_NoFavoritesInEditMode" = "कोई पिन की गई फ़ाइलें नहीं हैं।";
+"Label_OtherLocations" = "कोई अन्य संग्रहण खोलें";
+"Label_CreateNewFolder" = "नया फ़ोल्डर बनाएँ";
+"Label_CreateNewOfficeDoc" = "नई फ़ाइल बनाएँ";
+"Label_MoveToThisLocation" = "इस स्थान पर स्थानांतरित करें";
+"InfoTitle_iCloudSwitchedOn" = "iCloud सक्षम कर दिया गया है";
+"InfoMsg_iCloudSwitchedOn" = "क्या आप स्थानीय फ़ाइलें iCloud पर स्थानांतरित करना चाहते है?";
+"InfoMsg_iCloudIsDisabled" = "iClould ड्राइव OfficeSuite के लिए अक्षम कर दी गई है। आप सेटिंग्स ऐप, और फिर iCloud से iCloud ड्राइव सक्षम कर सकते हैं।";
+"Label_AddCloud" = "क्लाउड जोड़ें";
+"Label_OpenFrom" = "स्थान से खोलें";
+"InfoMsg_NewItem" = "नया बनाएँ";
+"Label_FromTemplate" = "टेम्प्लेट से";
+"Label_NoResults" = "कोई परिणाम नहीं है";
+"Label_SearchByTypeCapitalized" = "प्रकार से खोज करें";
+"Label_RecentSearchesCapitalized" = "हाल की खोजें";
+"Label_OfficeSutiePremiumDescription" = "अपनी ज़रूरत की सभी सुविधाएँ प्राप्त करें";
+"Label_OfficeForEveryPlatformTitle" = "एक-में-सब मोबाइल ऑफ़िस";
+"Label_OfficeForEveryPlatformDescription" = "लॉगइन करें और एक सदस्यता के साथ परस्पर-प्लेटफ़ॉर्म अनुभव का आनंद लें";
+"Label_NewFromTemplates" = "टेम्पलेट से नया";
+
+// Excel charts
+"Label_Doughnut" = "डोनट";
+
+// Word
+"Label_Header" = "हैडर";
+"Label_Footer" = "फ़ुटर";
+"Label_LinkToPrevious" = "पिछले से लिंक";
+"Label_FirstPage" = "पहला पृष्ठ";
+"Label_OddAndEvenPages" = "विषम और सम पृष्ठ";
+"Label_GoToFooter" = "फ़ुटर पर जाएँ";
+"Label_GoToHeader" = "हैडर पर जाएँ";
+"Label_HeaderOffset" = "हैडर ऑफ़सेट";
+"Label_FooterOffset" = "फ़ुटर ऑफ़सेट";
+"Label_HeaderFooter" = "हैडर/फ़ुटर";
+"Label_HeaderFromTop" = "शीर्ष से हैडर";
+"Label_FooterFromBottom" = "नीचे से फ़ुटर";
+"Label_WordPageNumber" = "पृष्ठ नंबर";
+"Label_PageNumberFormat" = "पृष्ठ नंबर फ़ॉरमेट";
+"Label_PageNumbering" = "पृष्ठ क्रमांकन";
+"Label_NumberFormat" = "नंबर फ़ॉरमेट";
+"Label_Location" = "स्थान";
+"Label_StartingPage" = "आरंभ पृष्ठ";
+"Label_ContinueFromPrevSection" = "पिछले अनुभाग से जारी रखें";
+"Label_DocumentsNewComment" = "नई टिप्पणी";
+"Label_DeleteAllComments" = "सभी हटाएँ";
+"Label_AcceptChange" = "परिवर्तन स्वीकार करें";
+"Label_RejectChange" = "परिवर्तन अस्वीकार करें";
+
+/***************************************************************************************************
+ 
+ TRANSLATION ENDS HERE. STRINGS BELOW MAY BE EDITED.
+ 
+ **************************************************************************************************/
+
+/*
+ NEW STRINGS AFTER VER 5.0
+ 
+ STRINGS MAY BE EDITED.
+ */
+
+"Label_IncorrectPassword" = "Incorrect password.";

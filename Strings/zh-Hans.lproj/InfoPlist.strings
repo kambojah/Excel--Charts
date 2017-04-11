@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+"Create File" = "创建文件";
+kSTRING_NEW_FROM_TEMPLATES = "基于模板新建";

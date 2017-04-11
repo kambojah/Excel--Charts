@@ -1,0 +1,2526 @@
+/* 
+  Localizable.strings
+  Office Suite Pro
+
+  Created by Vladimir Grigorov on 7/26/12.
+  Copyright (c) 2012 Mobile Systems, Inc. All rights reserved.
+*/
+
+/*
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Untitled" = "Naamloos";
+"Label_Error" = "Fout";
+"Label_OK" = "OK";
+"Label_Cancel" = "Annuleren";
+"Label_Confirmation" = "Bevestiging";
+"Label_Enter" = "Invoeren";
+"Label_Password" = "Wachtwoord";
+"Label_DontSave" = "Niet opslaan";
+"Label_Save" = "Opslaan";
+"Label_SaveAs" = "Opslaan als";
+"Label_UndoRedoTitle" = "Ongedaan maken/Opnieuw";
+"Label_Undo" = "Ongedaan maken";
+"Label_Redo" = "Opnieuw";
+"Label_Copy" = "Kopiëren";
+"Label_Paste" = "Plakken";
+"Label_Cut" = "Knippen";
+"Label_Clear" = "Wissen";
+"Label_Insert" = "Invoegen";
+"Label_Delete" = "Verwijderen";
+"Label_Functions" = "Functies";
+"Label_Recalculate" = "Herberekenen";
+"Label_Hide" = "Verbergen";
+"Label_Unhide" = "Weergeven";
+"Label_Autofit" = "Aanpassen";
+"Label_Goto" = "Ga naar...";
+"Label_GoToCell" = "Ga naar cel";
+"Label_ReferenceNotValid" = "Verwijzing is niet geldig.";
+"Label_GoToPage" = "Ga naar pagina";
+"Label_EnterPageNumber" = "Paginanummer (1 - %d)";
+"Label_CellAddress" = "Celcoördinaten invoeren:";
+"Label_Previous" = "Vorige";
+"Label_Next" = "Volgende";
+"Label_Replace" = "Vervangen";
+"Label_Done" = "Gereed";
+"Label_search" = "Zoeken";
+"Label_SearchOptions" = "Zoekopties";
+"Label_replace" = "vervangen";
+
+/* Up to 26 chars */
+"Label_MatchCase" = "Hoofdlettergevoelig";
+
+"Label_MatchWholeWords" = "Hele woorden";
+
+/* Up to 22 chars */
+"Label_MatchEntireCell" = "Identieke celinhoud";
+
+"Label_Values" = "Waarden";
+"Label_Formulas" = "Formules";
+"Label_Options" = "Opties";
+"Label_LookIn" = "Zoeken in";
+"Label_Rows" = "Rijen";
+"Label_Columns" = "Kolommen";
+"Label_Back" = "Vorige";
+"Label_Menu" = "Menu";
+"Label_Fx" = "Fx";
+"Label_Zoom" = "Zoom";
+"Label_ZoomPercentage" = "Zoom: $1";
+"Label_ZoomFit" = "Aan breedte aanpassen";
+"Label_Search" = "Zoeken";
+"Label_Help" = "Help";
+"Label_About" = "Info";
+"Label_Keyboard" = "Toetsenbord";
+"Label_Settings" = "Instellingen";
+"Label_SettingAutoCorrect" = "Autocorrectie";
+
+"Button_Font" = "Lettertype";
+"Button_Cell" = "Cel";
+"Button_Number" = "Getal";
+"Button_Paragraph" = "Alinea";
+"Label_Horizontal" = "Horizontaal";
+"Label_Vertical" = "Verticaal";
+"Label_Indent" = "Inspringen";
+"Label_Style" = "Opmaak";
+"Label_Color" = "Kleur";
+"Label_BorderThin" = "Dun";
+"Label_BorderMedium" = "Normaal";
+"Label_BorderThick" = "Dik";
+"Label_NumGeneral" = "Algemeen";
+"Label_NumNumber" = "Getal";
+"Label_NumCurrency" = "Valuta";
+"Label_NumDate" = "Datum";
+"Label_NumTime" = "Tijd";
+"Label_NumPercentage" = "Percentage";
+"Label_NumScientific" = "Wetensch";
+"Label_NumText" = "Tekst";
+
+/* Up to 16 chars */
+"Label_NumDecimalPlaces" = "Aantal decimalen";
+
+/* Up to 28 chars */
+"Label_NumThousandSeparator" = "Gebruik 1000 Separator";
+
+"Label_CurrencyNone" = "Geen";
+"Label_Font" = "Lettertype";
+"Label_Fonts" = "Lettertypes";
+"Label_FontFamilies" = "Lettertypefamilies";
+"Label_FontFamily" = "Naam lettertype:";
+"Label_FontSize" = "Tekengrootte";
+"Label_FontTextColor" = "Tekstkleur"; 
+"Label_FontBgColor" = "Celkleur";
+"Label_FontHighlightColor" = "Markeringskleur";
+"Label_FontBold" = "Vet";
+"Label_FontItalic" = "Cursief";
+"Label_Fill" = "Opvullen";
+"Label_Highlight" = "Markeren";
+
+/* Up to 16 chars */
+"Label_LineSpacing" = "Regelafstand";
+
+"Label_TextAlignmentLeft" = "Links";
+"Label_TextAlignmentCenter" = "Gecentreerd";
+"Label_TextAlignmentRight" = "Rechts";
+"Label_TextAlignmentJustified" = "Uitvullen";
+"Label_Lists" = "Lijsten";
+"Label_ListTypeNone" = "Geen";
+"Label_ListTypeBullet" = "Bullets";
+"Label_ListTypeNumbered" = "Genummerd";
+
+"Label_Top" = "Boven";
+"Label_Bottom" = "Onder";
+
+"Label_PasswordProtectedDocument" = "Met wachtwoord beveiligd document";
+"Label_EnterPassword" = "Wachtwoord invoeren";
+
+"Err_UnsupportedFile" = "Ongeldige of niet-ondersteunde bestandsindeling.";
+"Err_IO_Error" = "I/O-fout";
+"Err_OutOfMemory" = "Onvoldoende geheugen";
+
+"Label_Edition" = "Professional Edition";
+"Label_Version" = "Versie";
+"Label_Website" = "Website";
+"Label_Facebook" = "Facebook";
+"Label_AppStore" = "Waardering in App Store";
+"Label_LibsUsed" = "Gebruikte bibliotheken";
+
+"PRGRSS_LoadingString" = "Bezig met laden...";
+"PRGRSS_SavingString" = "Bezig met opslaan...";
+"PRGRSS_SearchingString" = "Bezig met zoeken...";
+
+/* 
+   All ErrClass strings are used together with other strings,
+   that's why the space at the end is important
+ 
+   THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrClass_NewFileString" = "Kan bestand niet maken. ";
+"ErrClass_LoadFileString" = "Kan $1 niet laden. ";
+"ErrClass_RestoreFileString" = "Kan document niet herstellen. ";
+"ErrClass_SaveFileString" = "Kan bestand niet opslaan. ";
+"ErrClass_CellTextString" = "Kan celtekst niet wijzigen. ";
+"ErrClass_PasteString" = "Plakken niet gelukt. ";
+"ErrClass_ClearString" = "Wissen niet gelukt. ";
+"ErrClass_CopyString" = "Kopiëren niet gelukt. ";
+"ErrClass_CutString" = "Kan selectie niet knippen. ";
+"ErrClass_SetSheetString" = "Kan ander blad niet actief maken. ";
+"ErrClass_UndoString" = "Kan niet ongedaan maken. ";
+"ErrClass_RedoString" = "Kan niet opnieuw uitvoeren. ";
+"ErrClass_FormatString" = "Kan opmaak niet toepassen. ";
+"ErrClass_InsertRowString" = "Kan rij(en) niet invoegen. ";
+"ErrClass_InsertColString" = "Kan kolom(men) niet invoegen. ";
+"ErrClass_FormulaString" = "Fout in formule. ";
+"ErrClass_GotoString" = "Ga naar fout. ";
+"ErrClass_HideUnhideString" = "Verbergen/Weergeven niet gelukt. ";
+"ErrClass_ResizeString" = "Formaat wijzigen niet gelukt. ";
+"ErrClass_DeleteRowsString" = "Kan rij(en) niet verwijderen. ";
+"ErrClass_DeleteColsString" = "Kan kolom(men) niet verwijderen. ";
+"ErrClass_ZoomString" = "Zoom niet gelukt. ";
+"ErrClass_AddSheetString" = "Kan blad niet invoegen. ";
+"ErrClass_RenameSheetString" = "Kan naam blad niet wijzigen. ";
+"ErrClass_DeleteSheetString" = "Kan blad niet verwijderen. ";
+"ErrClass_FindString" = "Geen resultaat voor zoekopdracht. ";
+"ErrClass_ReplaceString" = "Vervangen niet gelukt. ";
+
+
+"Err_UnknownString" = "Er is een onbekende fout opgetreden.";
+"Err_InternalString" = "Interne fout.";
+"Err_NoMemDynString" = "Onvoldoende dynamisch geheugen.";
+"Err_NoMemStgString" = "Onvoldoende opslaggeheugen.";
+"ErrDoc_BadPasswordString" = "Ongeldig wachtwoord."; // also used in PDF
+"ErrDoc_Load_UnsupportedString" = "Niet-ondersteunde bestandsversie.";
+"ErrDoc_Load_FailedToOpenGeneralTitle" = "Kan bestand niet openen.";
+"ErrDoc_Load_ReturningToFileManagerString" = "We moeten naar het bestandsbeheer teruggaan.";
+"ErrDoc_Load_Bad_FileString" = "Bestand is beschadigd.";
+"ErrDoc_Load_EncryptionString" = "Niet-ondersteund coderingstype. Ondersteunde coderingsmethode is \"office 97/2000-compatibel\".";
+"ErrDoc_Load_EncryptionNotImplemented" = "Met wachtwoord beveiligde bestanden worden nog niet ondersteund.";
+"ErrDoc_Load_InvalidXlsString" = "Ongeldige XLS-indeling.";
+"ErrDoc_Save_Bad_Destination" = "Doelmap is vol of niet toegankelijk. Probeer het bestand ergens anders op te slaan.";
+"Confirm_Find_Start_OverString" = "U hebt het einde van het document bereikt. Doorgaan vanaf het begin?";
+"ErrPaste_Area_Not_SameString" = "Gekopieerd gebied en plakgebied zijn niet hetzelfde.";
+"ErrSheet_ExistsString" = "Er bestaat reeds een blad met deze naam.";
+"ErrSheet_LockedString" = "De opdracht kan niet worden uitgevoerd omdat het blad is beveiligd.";
+"Confirm_DeleteSheetString" = "Weet u zeker dat u het geselecteerde blad wilt verwijderen?";
+"ErrFile_Illegal_NameString" = "De opgegeven naam is ongeldig.";
+"InfFind_No_MatchesString" = "Geen resultaten gevonden."; // also used in PPT & PDF
+"InfFind_No_More_MatchesString" = "Geen verdere resultaten gevonden."; // also used in PPT & PDF
+"ErrCateg_MinimumOneString" = "U kunt niet alle bladen verwijderen.";
+"Err_CellsNotEmptyString" = "Laatste cellen niet leeg.";
+"ErrFormula_ErrorString" = "Onbekende fout in formule.";
+"ErrFormula_NotAFormulaString" = "Ongeldige formule.";
+"ErrFormula_MissingOperandString" = "Operand ontbreekt.";
+"ErrFormula_MissingOperatorString" = "Operator ontbreekt.";
+"ErrFormula_IllegalTokenString" = "Ongeldige token.";
+"ErrFormula_MissingQuoteString" = "Aanhalingsteken ( \" ) ontbreekt.";
+"ErrFormula_MissingArrayCloseString" = "Accolade sluiten ' } ' ontbreekt.";
+"ErrFormula_IllegalIdentifierString" = "Ongeldige id.";
+"ErrFormula_IconsistentArrayString" = "Inconsistente matrix.";
+"ErrFormula_MissingArrayEltString" = "Matrixelement ontbreekt.";
+"ErrFormula_IllegalArrayEltString" = "Ongeldig matrixelement.";
+"ErrFormula_MissingFuncCloseString" = "Rond haakje sluiten ' ) ' ontbreekt.";
+"ErrFormula_DeepFuncNestingString" = "Functies te diep genest.";
+"ErrFormula_UnknownFunctionString" = "Onbekende functie.";
+"ErrFormula_MissingSingleQuoteString" = "Enkel aanhalingsteken ( ' ) ontbreekt.";
+"ErrFormula_CircularReferenceString" = "Kringverwijzing.";
+"ErrFormula_UnknownEvalErrorString" = "Onbekende evaluatiefout.";
+"ErrFormula_NotEnoughArgumentsString" = "Onvoldoend aantal argumenten.";
+"ErrFormula_TooMuchArgumentsString" = "Te groot aantal argumenten.";
+"ErrFormula_InitDependencesFailedString" = "Fout in instellen formule. De formules worden niet berekend.";
+"Confirm_SelectionTypeString" = "Selecteer welk type items moeten worden verwerkt.";
+
+
+"FUNCCAT_CommonString" = "Algemeen";
+"FUNCCAT_AllString" = "Alle";
+"FUNCCAT_DatabaseString" = "Database";
+"FUNCCAT_InformationString" = "Informatie";
+"FUNCCAT_LogicalString" = "Logisch";
+"FUNCCAT_MathString" = "Wiskundig";
+"FUNCCAT_DateTimeString" = "Datum en tijd";
+"FUNCCAT_StatisticalString" = "Statistisch";
+"FUNCCAT_FinancialString" = "Financieel";
+"FUNCCAT_LookRefString" = "Zoeken en verw";
+"FUNCCAT_TextString" = "Tekst";
+
+
+"CONFIRM_DeleteSheet" = "$1 wordt verwijderd. Wilt u doorgaan?";
+"CONFIRM_SaveFile" = "Wijzigingen opslaan in $1?";
+"CONFIRM_CsvDataLoss" = "Werkmappen met meerdere bladen, formules, opmaak, objecten en andere functies worden in deze indeling niet ondersteund. Alleen het actieve blad wordt opgeslagen. Wilt u doorgaan?";
+
+"Label_ExcelWorkbook" = "Excel-werkmap";
+"Label_Excel97Workbook" = "Excel 97-2003-werkmap";
+"Label_CommaDelimited" = "Kommascheiding";
+"Label_CsvDataLoss" = "Werkmappen met meerdere bladen, formules, opmaak, objecten en andere functies worden in deze indeling niet ondersteund. Alleen het actieve blad wordt opgeslagen.";
+"Label_ChartsheetsUnsupported" = "Dit is een grafiekblad. Grafieken worden nog niet ondersteund.";
+
+"Label_ChooseCSVDelims" = "CSV-scheidingsteken kiezen";
+"Label_Column_Delim" = "Kolommenscheidingsteken";
+"Label_Decimal_Delim" = "Decimaal teken:";
+"Label_Decimal_Dot" = "Punt(.)";
+"Label_Decimal_Comma" = "Komma(,)";
+"Lable_CSV_Delim_Warning" = "Kies een kolommenscheidingsteken.";
+
+"Label_BorderStyle" = "Randstijl";
+"Label_Borders" = "Randen";
+
+/* Up to 20 chars */
+"Label_Slideshow" = "Diavoorstelling";
+
+"Label_AdvanceSlides" = "Naar volgende dia";
+"Label_Manually" = "Handmatig";
+"Label_Automatically" = "Automatisch";
+"Label_SlideshowDelayFormat" = "%d sec";
+"Label_StartSlideshow" = "Diavoorstelling starten";
+"Label_Delay" = "Tempo";
+"Label_Notes" = "Notities";
+"Label_TableOfContents" = "Inhoudsopgave";
+
+
+"Label_Home" = "Start";
+"Label_Documents" = "Documenten";
+"Label_Cloud" = "Cloud";
+"Label_Prev" = "Vorige";
+"Label_Storage" = "Opslag";
+"Label_OfficeSuite" = "OfficeSuite";
+"Label_Create" = "Maken";
+"Label_CreateNew" = "Nieuw...";
+"Label_NewFolder" = "Nieuwe map";
+
+/* Up to 10 chars */
+"Label_Rename" = "Hernoemen";
+
+"Label_Close" = "Sluiten";
+"Label_Properties" = "Eigenschappen";
+
+/* Up to 22 chars */
+"Label_RemoteAccounts" = "Externe accounts";
+"Label_RemoteAccountsCap" = "EXTERNE ACCOUNTS";
+
+"Label_OpenIn" = "Openen in...";
+"Label_Extract" = "Uitpakken";
+"Label_ExtractTo" = "Uitpakken in";
+"Label_Edit" = "Bewerken";
+"Label_Play" = "Afspelen";
+"Label_Stop" = "Stoppen";
+"Label_Unknown" = "Onbekend";
+"Label_TypeWordDocument" = "Word-document";
+"Label_TypeExcelSpreadsheet" = "Excel-werkblad";
+"Label_TypePowerPointPresentation" = "PowerPoint-presentatie";
+"Label_TypePDFFile" = "PDF-bestand";
+"Label_TypeZipArchive" = "ZIP-archief";
+"Label_TypeImage" = "Afbeelding";
+"Label_TypeVideo" = "Video";
+"Label_TypeAudio" = "Audio";
+"Label_TypeFolder" = "Map";
+"Label_SearchResults" = "Zoekresultaten";
+
+/* Voor dialoogvenster Bestandseigenschappen */
+"Label_Type" = "Type";
+"Label_Size" = "Grootte";
+"Label_Date" = "Datum";
+"Label_Path" = "Pad";
+
+/*
+    THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Label_Share" = "Delen";
+"Label_Recover" = "Herstellen";
+"Label_Relink" = "Opnieuw verbinden";
+"Label_Later" = "Later";
+"Label_UseICloud" = "iCloud gebruiken";
+"Label_ContinueUsingICloud" = "iCloud blijven gebruiken";
+"Label_KeepLocalCopy" = "Lokale kopie behouden";
+"Label_KeepOnICloudOnly" = "Alleen op iCloud behouden";
+
+"ErrTitle_CopyError" = "Fout bij kopiëren";
+"ErrTitle_PasteError" = "Fout bij plakken";
+"ErrTitle_DownloadError" = "Fout bij downloaden";
+"ErrTitle_DeleteError" = "Fout bij verwijderen";
+"ErrTitle_RenameFailed" = "Naam wijzigen niet gelukt";
+"ErrTitle_UploadFailed" = "Uploaden niet gelukt";
+"ErrTitle_FileExists" = "%@ bestaat";
+"ErrTitle_NoItemsSelected" = "Geen items geselecteerd";
+"ErrTitle_Error" = "Fout";
+"ErrTitle_CreateFolder" = "Map maken niet gelukt";
+"ErrTitle_CannotPlayFile" = "Kan bestand niet afspelen";
+"ErrTitle_SessionEnded" = "Sessie is beëindigd";
+"ErrTitle_NoInternet" = "Geen Internet-verbinding";
+"ErrTitle_FileNameEmpty" = "Bestandsnaam is leeg";
+
+"WarningTitle_Warning" = "Waarschuwing";
+"WarningTitle_CloseDocument" = "Sluit het huidige document";
+"WarningTitle_ConfirmDeletion" = "Bevestig de verwijdering";
+
+"InfoTitle_NotUsingICloud" = "iCloud is uitgeschakeld";
+"InfoTitle_iCloudAvailable" = "iCloud is beschikbaar";
+"InfoTitle_UnsupportedFile" = "Niet-ondersteund bestand";
+"InfoTitle_CannotSendMail" = "Kan geen e-mail verzenden";
+"InfoTitle_iCloudOn" = "iCloud staat aan";
+"InfoTitle_iCloudOff" = "iCloud staat uit";
+"InfoTitle_DocumentRecovery" = "Documenten herstellen";
+"InfoTitle_DisplayFile" = "Kan bestand niet weergeven";
+"InfoTitle_Info" = "Informatie";
+
+"ErrMsg_SameFolderCopy" = "Map %@ wordt niet gekopieerd, want is een submap van de doelmap.";
+"ErrMsg_FileExists" = "Een %@ met naam %@ bestaat reeds. Vervangen?";
+"ErrMsg_FileRename" = "Een %@ met naam %@ bestaat reeds. Kies een andere naam.";
+"ErrMsg_PasteError" = "Fout bij het plakken van %@. Fout: %@";
+"ErrMsg_ReadFile" = "Kan bestand %@ niet lezen.";
+"ErrMsg_DeleteFile" = "Kan bestand %@ niet verwijderen.";
+"ErrMsg_UploadFailed" = "Uploaden bestand niet gelukt. Probeer het bestand ergens anders op te slaan.";
+"ErrMsg_SelectItems" = "Selecteer enkele items.";
+"ErrMsg_DocumentLoad" = "Kan document %@ niet laden.";
+"ErrMsg_FileNotFound" = "Bestand %@ niet gevonden.";
+"ErrMsg_InternetOffline" = "Geen Internet-verbinding.";
+"ErrMsg_UnknownError" = "Er iseen onbekende fout opgetreden";
+"ErrMsg_CannotOpenFile" = "Kan bestand %@ niet openen. Fout: %@";
+"ErrMsg_PlayingAudio" = "Fout bij het afspelen van audiobestand.";
+"ErrMsg_SuggestRelink" = "Wilt u opnieuw verbinding maken?";
+"ErrMsg_NeedsRelink" = "U dient opnieuw verbinding te maken om uw account verder te gebruiken.";
+"ErrMsg_UnrecognizedPath" = "Pad niet herkend.";
+"ErrMsg_CannotCopyFolder" = "Kan map %@ niet kopiëren.";
+"ErrMsg_CannotUploadFile" = "Kan bestand niet uploaden met volledig bestandspad %@";
+"ErrMsg_PasteInSameFolder" = "U probeert in de bronmap te plakken.";
+"ErrMsg_InvalidFileName" = "De bestandsnaam mag niet beginnen met '.'.";
+"ErrMsg_TryAgainWhenHavingInternet" = "Probeer het opnieuw zodra er Internet-verbinding is.";
+"ErrMsg_FileNameEmpty" = "De bestandsnaam mag niet leeg zijn.";
+
+"InfoMsg_DocsStoredInICloud" = "Uw documenten werden van dit apparaat verwijderd maar blijven op iCloud behouden.";
+"InfoMsg_UseICloud" = "Sla uw documenten automatisch in de cloud op – zo blijft alles up-to-date en beschikbaar voor al uw apparaten via het web.";
+"InfoMsg_UnsupportedFile" = "Niet-ondersteunde bestandsindeling.";
+"InfoMsg_CheckMainConf" = "Controleer uw e-mailconfiguratie.";
+"InfoMsg_NotUsingICloud" = "Wat wilt u doen met de documenten die nu op dit apparaat zijn opgeslagen?";
+"InfoMsg_iCloudOn" = "iCloud staat nu aan. Kies een locatie en een naam om het bestand op iCloud op te slaan.";
+"InfoMsg_iCloudOff" = "iCloud staat nu uit. Kies een locatie en een naam om het bestand op dit apparaat op te slaan.";
+"InfoMsg_DocumentRecovery" = "Er is een probleem opgetreden met het laatst geopende document. Wilt u het document herstellen?";
+"InfoMsg_ProcessingICloudFiles" = "Bezig met verwerking iCloud-bestanden...";
+"InfoMsg_CannotSendFolders" = "U kunt geen mappen verzenden. Gebruik daarvoor de optie Zippen en verzenden.";
+"InfoMsg_SwitchOnICloudFromSettings" = "iCloud documentenback-up is momenteel niet ingeschakeld op uw apparaat. Ga naar Instellingen -> iCloud om de functie in te schakelen.";
+
+"WarningMsg_CloseDocument" = "Er is een document open. Wilt u het sluiten?";
+"WarningMsg_DeleteItem" = "Weet u zeker dat u dit item wilt verwijderen?";
+"WarningMsg_DeleteItems" = "Weet u zeker dat u deze items wilt verwijderen?";
+"WarningMsg_UploadInterrupted" = "Uploaden bestand niet gelukt. Sla het bestand opnieuw op.";
+"WarningMsg_PasteInterrupted" = "Plakken niet gelukt.";
+"WarningMsg_DeleteInterrupted" = "Verwijderen niet gelukt.";
+"WarningMsg_RenameInterrupted" = "Naam wijzigen niet gelukt.";
+"WarningMsg_LoadFileListInterrupted" = "Laden mapinhoud niet gelukt.";
+
+"DetailString_file" = "bestand";
+"DetailString_folder" = "map";
+"DetailString_File" = "Bestand";
+"DetailString_Folder" = "Map";
+
+
+"PRGRSS_CopyICloudToLocal" = "Bezig met kopiëren bestanden van iCloud naar apparaat...";
+"PRGRSS_CreateFolder" = "Bezig met maken map";
+"PRGRSS_CopyFile" = "Bezig met kopiëren bestand %@...";
+"PRGRSS_Moving" = "Bezig met verplaatsen";
+"PRGRSS_Copying" = "Bezig met kopiëren";
+"PRGRSS_PreparePaste" = "Voorbereiding plakken";
+"PRGRSS_Fetching" = "Bezig met ophalen";
+"PRGRSS_CreatingFolder" = "Bezig met maken map";
+"PRGRSS_UploadingFile" = "Bezig met uploaden bestand";
+"PRGRSS_Deleting" = "Bezig met verwijderen";
+"PRGRSS_LoadingAccountInfo" = "Bezig met laden accountgegevens...";
+"PRGRSS_LoadingFileList" = "Bezig met laden bestandslijst...";
+"PRGRSS_LoadingFile" = "Bezig met laden bestand...";
+"PRGRSS_RenamingFile" = "Bezig met wijzigen naam bestand";
+"PRGRSS_LoadingProperties" = "Bezig met laden eigenschappen";
+"PRGRSS_Extracting" = "Bezig met uitpakken";
+"PRGRSS_PleaseWait" = "Een ogenblik geduld";
+"PRGRSS_ForBigICloudFolders" = "voor grote iCloud-mappen";
+
+	/*
+		Default names for new file and folder
+	 */
+
+"Name_NewFile" = "Naamloos";
+"Name_NewFolder" = "Naamloze map";
+
+/* 
+    NEW STRINGS AFTER VER 2.3 
+ 
+    THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Print" = "Afdrukken";
+"Label_WebSearch" = "Zoeken op het web";
+"Label_Dictionary" = "Woordenboek";
+"Label_Open" = "Openen";
+"Label_LinkURL" = "Koppeling";
+"Label_LinkName" = "Weergave";
+"Label_Bookmark" = "Bladwijzer";
+"Label_Section" = "Sectie";
+"Label_NumberOfColumns" = "Aantal kolommen";
+"Label_AddSectionBreak" = "Sectie-einde toevoegen";
+"Label_Tools" = "Opties";
+"Label_PrintAndShare" = "Afdrukken en delen";
+"Label_OpenInAnotherApp" = "Openen in een andere app";
+"Label_Accounts"= "Accounts";
+"Label_EmailDocument" = "Document e-mailen";
+"Label_EmailDocuments" = "Documenten e-mailen";
+
+/* Up to 30 chars */
+"Label_ZipAndEmailDocument" = "Document zippen en e-mailen";
+
+/* Up to 30 chars */
+"Label_ZipAndEmailDocuments" = "Documenten zippen en e-mailen";
+
+/* Up to 14 chars */
+"Label_TextSize" = "Tekstgrootte";
+
+"Label_RecentFilesCap" = "RECENTE BESTANDEN";
+"Label_Document" = "Document";
+"Label_Spreadsheet" = "Spreadsheet";
+"Label_Presentation" = "Presentatie";
+"Label_PDF" = "PDF";
+"ErrTitle_CannotSaveFile" = "Bestand kan niet worden opgeslagen";
+"InfoTitle_AttachFile" = "Bestand bijvoegen?";
+"InfoTitle_SendCrashReport" = "Foutrapport versturen?";
+"InfoTitle_CrashReportMailSubject" = "Foutrapport en logbestanden";
+"InfoTitle_NoAvailableApps" = "Geen beschikbare apps";
+"InfoTitle_SelectOnlyOneFile" = "Selecteer een bestand";
+"ErrMsg_NoPermissionToCreate" = "Geen toestemming om %@ %@ te maken";
+"ErrMsg_NoPermissionToSaveFile" = "Geen toestemming om bestand op te slaan. Probeer een andere locatie.";
+"ErrMsg_InvalidCharInFileName" = "Ongeldige tekens in naam.";
+"ErrMsg_GeneralFileNameError" = "Ongeldige bestandsnaam.";
+"InfoMsg_AttachFile" = "%@ bijvoegen bij uw rapport? Uw bestand kan ons helpen de oorzaak van de fout vast te stellen.";
+"InfoMsg_SendCrashReport" = "Help OfficeSuite te verbeteren door een gegenereerd foutrapport te versturen.";
+"InfoMsg_CrashReportMailMessage" = "OfficeSuite is gecrasht de laatste keer dat ik het gebruikte!";
+"InfoMsg_NoAvailableApps" = "Er zijn geen geÔnstalleerde apps die deze bestandsindeling kunnen openen.";
+"InfoMsg_SelectOnlyOneFile" = "Selecteer slechts ÈÈn bestand om te openen in een andere app.";
+
+"InfoMsg_SelectRightEncoding" = "Selecteer de codering waarmee de tekst kan worden gelezen:";
+"Label_Encoding" = "Codering";
+"Label_Preview" = "Voorbeeld";
+"Encoding_EasternEuropean" = "Oost-Europees";
+"Encoding_WesternEuropean" = "West-Europees";
+"Encoding_NorthEuropean" = "Noord-Europees";
+"Encoding_SouthEuropean" = "Zuid-Europees";
+"Encoding_Cyrillic" = "Cyrillisch";
+"Encoding_Greek" = "Grieks";
+"Encoding_Turkish" = "Turks";
+"Encoding_Baltic" = "Baltisch";
+"Encoding_Latin9" = "Latin-9";
+"Encoding_Russian" = "Russisch";
+"Encoding_Arabic" = "Arabisch";
+"Encoding_Vietnamese" = "Vietnamees";
+"Encoding_Japanese" = "Japans";
+"Encoding_Korean" = "Koreaans";
+"Encoding_ChineseSimplified" = "Vereenvoudigd Chinees";
+"Encoding_ChineseTraditional" = "Traditioneel Chinees";
+"Encoding_ChineseTraditionalHK" = "Traditioneel Chinees met Hong Kong-uitbreidingen";
+"Encoding_Thai" = "Thai";
+"Encoding_Hebrew" = "Hebreeuws";
+"Encoding_Indic" = "Indische schriftsystemen";
+"Encoding_Unicode" = "Unicode";
+"Encoding_UnicodeBE" = "Unicode Big Endian";
+"Encoding_UnicodeLE" = "Unicode Little Endian";
+
+"Label_Email" = "E-mail";
+"Label_ZipAndEmail" = "Zippen en e-mailen";
+
+
+/*
+ NEW STRINGS AFTER VER 3.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_PasswordProtectionLoss" = "Wachtwoordbeveiliging gaat verloren als het bestand wordt opgeslagen in een andere indeling.";
+"Label_Freeze" = "Blokkeren";
+"Label_Unfreeze" = "Blokkering opheffen";
+"Label_SortMenu" = "Sorteren...";
+"Label_Sort" = "Sorteren";
+
+/* Up to 26 chars */
+"Label_CaseSensitive" = "Hoofdlettergevoelig";
+
+"Label_RowNo" = "Rij %d";
+"Label_ColumnNo" = "Kolom %S";
+"Label_SortBy" = "Sorteren op";
+"Label_ThenSortBy" = "Vervolgens op";
+"Label_Ascending" = "Oplopende volgorde";
+"Button_Columns" = "Kolommen";
+"Button_Rows" = "Rijen";
+
+"Label_RemoveAds" = "Advertenties verwijderen";
+
+"ErrorTitle_CannotZipFile" = "Zippen mislukt";
+"ErrorMsg_CannotZipFile" = "Bestand kon niet worden gecomprimeerd.";
+
+"Label_On" = "Aan";
+"Label_Off" = "Uit";
+
+/* Up to 20 chars */
+"Label_SettingSpellCheck" = "Spellingcontrole";
+
+"Label_Language" = "Taal";
+"Label_LearnedWords" = "Geleerde woorden";
+"Label_LearnWord" = "Geleerd woord";
+"Label_UnLearnWord" = "Woord vergeten";
+"Label_NoReplacementsFound" = "Geen vervanging gevonden";
+
+"Label_WordCount" = "Aantal woorden";
+"Label_Words" = "Woorden";
+"Label_Paragraphs" = "Alinea's";
+"Label_Pages" = "Pagina's";
+"Label_CharactersNoSpaces" = "Tekens (geen spaties)";
+"Label_CharactersWithSpaces" = "Tekens (inclusief spaties)";
+
+"Label_WebDAV_FailedLogIn_Malformed" = "HTTP-adres is ongeldig!";
+"Label_WebDAV_FailedLogIn_Prefix" = "HTTP-adres moet beginnen met 'http://' of 'https://'!";
+"Label_WebDAV_FailedLogIn_EmptyField" = "Alle velden moeten worden ingevuld!";
+"Label_WebDAV_FailedLogIn_IncorrectData" = "Onjuiste authenticatiegegevens!\nProbeer het nogmaals met een ander HTTP-adres, gebruikersnaam of wachtwoord.";
+"Label_WebDAV_FailedLogIn_BadRequest_400" = "WebDAV-server: Ongeldig verzoek.\nDe server kon de syntax niet begrijpen.";
+"Label_WebDAV_FailedLogIn_NotImplemented_501" = "WebDAV-server: Niet geÔmplementeerd.\nMogelijk ondersteunt het account geen toegang via WebDAV-clients. Controleer de accountconfiguratie om WebDAV-ondersteuning in te schakelen.";
+"ErrMsg_WebDAV_Conflict_409" = "WebDAV-server: Conflict. Mogelijk is er onvoldoende ruimte op de server.";
+"ErrMsg_WebDAV_NotAllowedOperation" = "De WebDAV-server staat deze handeling niet toe.";
+"ErrMsg_WebDAV_ReservedName" = "De opgegeven naam kan niet worden gebruikt op deze server. Kies een andere naam.";
+"ErrMsg_WebDAV_WriteError" = "Doelbestand ontbreekt of is beschadigd. Controleer uw accountmachtigingen en vrije ruimte en probeer het nogmaals.";
+
+/* Up to 32 chars */
+"Label_Timing" = "Tijdsinstellingen diavoorstelling";
+
+"InfoTitle_NotAvailableICloud" = "iCloud is niet beschikbaar";
+"InfoMsg_SwitchOnICloudFromSettingsDetailed" = "Zorg om iCloud te gebruiken om een back-up te maken van uw lokale bestanden dat u aangemeld bent op uw iCloud-account en dat Instellingen -> iCloud -> Documenten en gegevens op AAN staat.";
+"Label_UnsupportedWorksheet" = "Dit is geen normaal werkblad en wordt nog niet ondersteund.";
+"ErrDoc_Save_Csv_Not_Supported" = "Het actieve blad kan niet worden opgeslagen in csv-indeling.";
+
+"Label_Professional" = "( Professional )";
+"Label_ProfessionalFeature" = "$1 is beschikbaar als onderdeel van OfficeSuite Professional. Wilt u dit nu installeren?";
+
+"InfoTitle_BoxAppFailedToLaunch" = "Box-app kon niet worden geopend";
+"InfoMsg_BoxAppFailedToLaunch" = "De Box-app kon niet worden geopend.";
+
+"Label_Continue" = "Verder";
+
+/* Up to 16 chars */
+"Label_Upgrade" = "Premium kopen";
+
+"Label_UpgradeText1" = "Welkom bij OfficeSuite FREE!";
+"Label_UpgradeText2" = "Dit is een volledig functionele versie voor het bekijken en bewerken van Office-documenten!";
+"Label_UpgradeText3" = "Upgrade naar OfficeSuite Professional voor:";
+"Label_UpgradeText4" = "- Bewerken van documenten zonder advertenties\n- Spellingcontrole voor tekstdocumenten";
+
+/*
+ NEW STRINGS AFTER VER 3.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_SortHasHeaders" = "Mijn gegevens hebben koppen";
+"Label_Yes" = "Ja";
+"Label_No" = "Nee";
+"Label_CreatePassword" = "Wachtwoord instellen";
+
+/* Up to 22 chars */
+"Label_DontUsePassword" = "Geen wachtwoord";
+
+"Label_ConfirmPassword" = "Wachtwoord bevestigen";
+"Label_RequirePassword" = "Wachtwoord vragen";
+"Label_Enable" = "Inschakelen";
+"Label_Confirm" = "Bevestigen";
+"Label_Required" = "Vereist";
+"Label_CreatePasswordWarning" = "Het wachtwoord wordt gevraagd bij het openen van de app. Merk op dat er geen manier is om verloren wachtwoorden te herstellen.";
+"Label_Immediately" = "Direct";
+"Label_Minute" = "minuut";
+"Label_Minutes" = "minuten";
+"Label_Hour" = "uur";
+"Label_Hours" = "uur";
+"Label_RequirePasswordTime" = "Na %d %@";
+
+"Label_EmptyFolder" = "Deze map is leeg.";
+"Label_Name" = "Naam";
+
+/* Up to 26 chars */
+"InfoTitle_PasswordProtection" = "Wachtwoordbeveiliging";
+
+"InfoMsg_EnablePasswordProtection" = "Wilt u een wachtwoord instellen om toegang tot OfficeSuite te beperken? U kunt de wachtwoordbeveiligingsopties configureren door \"Wachtwoordbeveiliging\" te selecteren in het Opties-menu.";
+"InfoMsg_EnterCurrentPassword" = "Voer het huidige wachtwoord in om verder te gaan:";
+"InfoMsg_WrongPassword" = "Ongeldig wachtwoord. Probeer het nogmaals.";
+"InfoMsg_PasswordMismatch" = "Wachtwoorden komen niet overeen. Voer identieke wachtwoorden in.";
+
+"InfoMsg_DocumentPasswordSaved" = "Het wachtwoord voor dit document is ingesteld.";
+"InfoMsg_DocumentPasswordRemoved" = "Het document is niet langer beveiligd met een wachtwoord.";
+"InfoMsg_RemoveDocumentPassword" = "Documentwachtwoord verwijderen.";
+"InfoMsg_AddDocumentPassword" = "Documentwachtwoord toevoegen.";
+
+"Label_CurrentPassword" = "Huidig wachtwoord";
+"Label_ExportToPDF" = "Exporteren naar PDF";
+
+"Label_Labels" = "Labels";
+"Label_ChartTitle" = "Diagramtitel";
+"Label_DataRange" = "Gegevensbereik";
+"Label_LegendEntries" = "Legendavermeldingen";
+"Label_Title" = "Titel";
+"Label_HorizontalLabels" = "Horizontale labels";
+"Label_Range" = "Bereik:";
+"Label_SeriesIn" = "Reeks in";
+"Label_Series" = "Reeks";
+"Label_Format" = "Opmaak";
+"Label_Chart" = "Diagram";
+"Label_Image" = "Afbeelding";
+
+
+"Label_TextBox" = "Tekstvak";
+"Label_Picture" = "Afbeelding";
+"Label_Duplicate" = "KopiÎren";
+"Label_MoveUp" = "Omhoog verplaatsen";
+"Label_MoveDown" = "Omlaag verplaatsen";
+"Label_MoveLeft" = "Naar links verplaatsen";
+"Label_MoveRight" = "Naar rechts verplaatsen";
+"Label_ChooseLayout" = "Selecteer een indeling";
+
+/* Up to 26 chars */
+"InfoTitle_AddTitle" = "Dubbeltik om een titel toe te voegen";
+
+"InfoTitle_AddSubtitle" = "Dubbeltik om een ondertitel toe te voegen";
+"InfoTitle_AddText" = "Dubbeltik om tekst toe te voegen";
+"InfoTitle_PicturePlaceholder" = "Tijdelijke aanduiding voor afbeelding";
+
+"ErrMsg_UndoCmdCouldNotBeSaved" = "Opdracht kon niet worden opgeslagen in de rij voor ongedaan maken";
+"ErrMsg_RedoFailed" = "Opnieuw uitvoeren mislukt omdat de configuratie niet naar de schijf kon worden geschreven";
+"ErrMsg_UndoFailed" = "Ongedaan maken mislukt omdat de configuratie niet naar de schijf kon worden geschreven";
+
+
+"Label_SeriesInfo" = "Reeksgegevens";
+"Label_EditSeries" = "Reeks bewerken";
+"Confirm_DeleteUnsupportedDrawObject" = "Verwijderen van dit object kan niet ongedaan worden gemaakt. Doorgaan?";
+"Label_InvalidRange" = "Voer een geldig celbereik in.";
+"Label_InvalidRangeAndList" = "De waarde moet een geldig celbereik zijn of een door puntkomma's gescheiden lijst.";
+"Label_InvalidSeriesValues" = "De waarde moet een geldig celbereik zijn of een lijst van waarden.";
+"Label_GoToCellNotAvailable" = "De functie 'Ga naar cel' is niet beschikbaar voor dit blad.";
+"Label_FreezeNotAvailable" = "De functie 'Blokkeren' is niet beschikbaar voor dit blad.";
+"Label_SortNotAvailable" = "De functie 'Sorteren' is niet beschikbaar voor dit blad.";
+"Label_ComplexRange" = "Samengesteld bereik";
+"Label_ClearOptions" = "Opties wissen";
+"Label_ClearAll" = "Alles wissen";
+"Label_ClearFormats" = "Opmaak wissen";
+"Label_ClearContents" = "Inhoud wissen";
+"Label_RangePlaceholder" = "Bereik";
+"Label_XlsSaveDrawingsNotSupported" = "Opslaan van diagrammen en afbeeldingen in xls-indeling wordt niet ondersteund. Deze objecten worden niet opgeslagen.";
+"Label_LabelsIPhone" = "Labels:";
+"Label_InvalidLinearRange" = "Voer een rij/kolom-bereik in of een gescheiden lijst van waarden.";
+"Label_InvalidTitleRange" = "De titel moet een cel/rij/kolom-bereik zijn of een tekst.";
+"Label_InvalidSeriesNameRange" = "De naam moet een cel/rij/kolom-bereik zijn of een tekst.";
+"Label_InvalidSeriesValuesRange" = "Waarden moeten een cel/rij/kolom-bereik zijn of een gescheiden lijst van getallen.";
+
+/*
+ NEW STRINGS AFTER VER 3.5
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Names" = "Namen";
+"Label_FunctionCategories" = "FunctiecategorieÎn";
+"Label_DefinedNames" = "Gedefinieerde namen";
+"Label_NamesInfo" = "Naamgegevens";
+"Label_Range" = "Bereik";
+"Label_EditNames" = "Namen bewerken";
+"Label_Scope" = "Bereik";
+"Label_Workbook" = "Werkmap";
+"Label_NoDefinedNames" = "Geen gedefinieerde namen";
+"Label_InvalidName" = "Deze naam bevat ongeldige tekens.";
+"Label_DuplicateName" = "De ingevoerde naam bestaat reeds. Voer een unieke naam in.";
+"ErrClass_Edit_Name" = "Bewerken van naam mislukt.";
+"Label_DuplicateNameWarning" = "Naam bestaat reeds";
+"Label_InvalidNameWarning" = "Ongeldige tekens";
+"Label_Move" = "Verplaatsen";
+"InfoMsg_MoveSheetDescription" = "Tik op en houd de bladtab vast om een blad te verplaatsen.";
+
+"ErrMsg_CannotBeReplacedBySelfContents" = "Map %@ kan niet worden vervangen door een item in die map.";
+"Confirm_DeleteRecentFiles" = "Weet u zeker dat u recente bestanden wilt wissen?";
+
+
+/*
+ NEW STRINGS AFTER VER 3.5.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Table" = "Tabel";
+"Label_TableProperties" = "Tabeleigenschappen";
+"Label_InsertRowAfter" = "Rij onder invoegen";
+"Label_InsertRowBefore" = "Rij boven invoegen";
+"Label_DeleteRow" = "Rij verwijderen";
+"Label_DeleteTable" = "Tabel verwijderen";
+
+"Label_Export" = "Exporteren";
+"Label_ExportTo" = "Exporteren na";
+
+
+"Label_Filter" = "Filter";
+"Label_ClearFilter" = "Filter wissen";
+"Label_ReapplyFilter" = "Filter opnieuw toepassen";
+"Label_ComparisonFilter" = "Vergelijkingsfilter";
+"Label_Multichoice" = "Meerkeuze";
+"Label_AboveAverage" = "Bovengemiddeld";
+"Label_BelowAverage" = "Minder dan gemiddeld";
+"Label_Top10" = "Top 10";
+
+"Label_Equal" = "Gelijk aan";
+"Label_LessThan" = "Kleiner dan";
+"Label_LessThanOrEqual" = "Kleiner dan of gelijk aan";
+"Label_NotEqual" = "Niet gelijk aan";
+"Label_GreaterThanEqual" = "Groter dan of gelijk aan";
+"Label_GreaterThan" = "Groter dan";
+"Label_Between" = "Tussen";
+
+"Label_Items" = "Items";
+"Label_Percent" = "Procent";
+"Label_Count" = "Aantal";
+"Label_Value" = "Waarde";
+"Label_And" = "En";
+"Label_Or" = "Of";
+"Label_None" = "Geen";
+"Label_Blanks" = "(Lege waarden)";
+"Label_ShowAll" = "(Alles weergeven)";
+"Label_InvalidFilter" = "Ongeldig filter.";
+
+"Label_XlsSaveFiltersNotSupported" = "Opslaan van filters in xls-indeling wordt niet ondersteund. De filtergegevens worden niet opgeslagen.";
+"Confirm_ClearUnsupportedFilters" = "Blad bevat filters die niet worden ondersteund. Wilt u deze filters verwijderen en verder gaan met het bewerken van filters? Deze handeling kan niet ongedaan worden gemaakt.";
+"ErrClass_Execute_Command" = "Opdracht kan niet worden uitgevoerd. ";
+"ErrExecute_EmptyRange" = "Het geselecteerde bereik is leeg.";
+"ErrExecute_RangeWithinFilters" = "Het geselecteerde bereik bevat filters.";
+
+"Label_NewSlide" = "Nieuwe dia";
+"Label_TitleSubtitle" = "Indeling met tijdelijke aanduidingen voor gecentreerde titel en ondertitel";
+"Label_TitleText" = "Titel en tekst";
+"Label_TitleTextText" = "Titel, tekst links, tekst rechts";
+"Label_TitleTable" = "Titel en tabel";
+"Label_TitleTextChart" = "Titel, tekst links en diagram rechts";
+"Label_TitleChartText" = "Titel, diagram links en tekst rechts";
+"Label_TitleDiagram" = "Titel en diagram";
+"Label_TitleChart" = "Titel en tekst";
+"Label_TitleTextClipArt" = "Titel, tekst links, illustraties rechts";
+"Label_TitleClipArtText" = "Titel, illustraties links, tekst rechts";
+"Label_TitleOnly" = "Alleen titel";
+"Label_Blank" = "Leeg";
+"Label_TitleTextObject" = "Titel, tekst links, object rechts";
+"Label_TitleObjectText" = "Titel, object links, tekst rechts";
+"Label_ObjectOnly" = "Alleen object";
+"Label_TitleObject" = "Titel en object";
+"Label_TitleTextMedia" = "Titel, tekst links, media rechts";
+"Label_TitleMediaText" = "Titel, media links, tekst rechts";
+"Label_TitleTopObjectBottomText" = "Titel, object boven, tekst onder";
+"Label_TitleTopTextBottomObject" = "Titel, tekst boven, object onder";
+"Label_TitleText2Objects" = "Titel, tekst links, twee objecten rechts";
+"Label_Title2ObjectsText" = "Titel, twee objecten links, tekst rechts";
+"Label_TitleTop2ObjectsBottomText" = "Titel, twee objecten boven, tekst onder";
+"Label_Title4Objects" = "Titel en vier objecten";
+"Label_TitleVerticalText" ="Titel en verticale hoofdtekst";
+"Label_TitleClipArtVerticalText" = "Titel, illustraties links, verticale tekst rechts";
+"Label_VerticalTitleVerticalText" = "Verticale titel rechts, verticale tekst links";
+"Label_VerticalTitleVerticalTextChart" = "Verticale titel rechts, verticale tekst boven, diagram onder";
+"Label_TitleObjectObject" = "Titel, object links, object rechts";
+"Label_TitleObject2Objects" = "Titel, ÈÈn object links, twee objecten rechts";
+"Label_Title2ObjectsObject" = "Titel, twee objecten links, ÈÈn object rechts";
+"Label_CustomLayout" = "Aangepaste indeling gedefinieerd door de gebruiker";
+"Label_SectionHeaderTitleSubtitle" = "Sectiekoptekst en ondertiteltekst";
+"Label_Title2Objects" = "Titel en twee objecten met tekst";
+"Label_TitleObjectCaptionText" = "Titel, object en bijschrifttekst";
+"Label_TitlePictureCaptionText" = "Titel, afbeelding en bijschrifttekst";
+"Label_SlideNumberNotes" = "Notities bij dia %d";
+
+"Label_OpenHyperlink" = "Hyperlink openen";
+"Label_CopyHyperlink" = "Hyperlink kopiÎren";
+"Label_Hyperlink" = "Hyperlink";
+"Label_RemoveHyperlink" = "Hyperlink verwijderen";
+"Label_EnterURL" = "Voer URL-adres in";
+"Label_EnterEmail" = "Voer e-mailadres in";
+"Label_EnterSubject" = "Voer onderwerp in";
+"Label_URL" = "URL";
+"Label_Slide" = "Dia";
+"Label_SetHyperlinkAction" = "Stel Hyperlink-actie bij tikken in";
+"Label_SlideNumber" = "Dia %d";
+"Label_NextSlide" = "Volgende dia";
+"Label_PreviousSlide" = "Vorige dia";
+"Label_FirstSlide" = "Eerste dia";
+"Label_LastSlide" = "Laatste dia";
+
+/* Up to 32 chars */
+"Label_EndSlideshow" = "Diavoorstelling stoppen";
+
+"Label_NoAction" = "Geen actie";
+"Label_Unsupported" = "Niet ondersteund";
+
+
+"Label_Shape" = "Vorm";
+"Label_Shapes" = "Vormen";
+"Label_Lines" = "Lijnen";
+"Label_Rectangles" = "Rechthoeken";
+"Label_BasicShapes" = "Basisvormen";
+"Label_BlockArrows" = "Blokpijlen";
+"Label_EquationShapes" = "Vergelijkingsvormen";
+"Label_FlowchartShapes" = "Vormen voor stroomdiagrammen";
+"Label_StarsAndBanners" = "Sterren en vaandels";
+"Label_Callouts" = "Toelichtingen";
+"Label_ActionButtons" = "Actieknoppen";
+"Label_Others" = "Overige";
+"Label_BringToFront" = "Naar voorgrond";
+"Label_SendToBack" = "Naar achtergrond";
+"Label_BringForward" = "Naar voren";
+"Label_SendBackward" = "Naar achteren";
+
+
+"Label_GoPremiumDetails" = "Haal het meeste uit OfficeSuite met OfficeSuite Premium";
+"Label_HideGoPremium" = "Premium kopen verbergen";
+"Label_ShowGoPremium" = "Premium kopen weergeven";
+"Label_RestorePurchases" = "Aankopen herstellen";
+
+"Label_BuyMonthly" = "Maandelijks %@/maand";
+"Label_BuyYearly" = "Jaarlijks %@/jaar (%@/maand)";
+
+"Label_Feature1" = "Word-documenten maken en bewerken";
+"Label_Feature2" = "Excel-documenten maken en bewerken";
+"Label_Feature3" = "PowerPoint-documenten maken en bewerken";
+"Label_Feature4" = "PDF-bestanden bekijken";
+"Label_Feature5" = "Ondersteuning voor cloud en delen van documenten";
+"Label_Feature6" = "Afdrukken";
+"Label_Feature7" = "Wachtwoordbeveiliging";
+"Label_Feature8" = "Tekstbestanden exporteren naar PDF";
+"Label_Feature9" = "PDF-bestanden exporteren naar Word, Excel en ePub";
+"Label_Feature10" = "Spellingcontrole";
+"Label_Feature11" = "Behoud de oorspronkelijke indeling, opmaak, tabellen en afbeeldingen na PDF-export";
+"Label_Feature12" = "Filters toevoegen in Excel";
+"Label_Feature13" = "Zonder advertenties";
+
+"Label_GoPremFeature" = "Eigenschap";
+"Label_GoPremFree" = "Free";
+"Label_GoPremPro" = "Pro";
+"Label_GoPremPremium" = "Premium kopen";
+"Label_Premium" = "Premium kopen";
+"Label_GoPremiumBenefits" = "Voordelen van het Premium-pakket";
+
+"InfoTitle_PremiumFeature" = "Premium-functie";
+"InfoMsg_PremiumFeature" = "Deze functie is alleen beschikbaar in de Premium-versie.";
+
+"Label_FreeEdition" = "Gratis versie";
+"Label_PremiumEdition" = "Premium-versie";
+
+"Label_TopN" = "Top N";
+"Label_ShowRowsWhere" = "Rijen weergeven die de waarde bevatten:";
+"Label_TopNAutoFilter" = "Top N AutoFilter";
+"Label_ShowTop10" = "Weergeven:";
+"Label_FilterOn" = "Filters inschakelen";
+"Label_FilterOff" = "Filters uitschakelen";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_CopyTo" = "KopiÎren naar...";
+"Label_MoveTo" = "Verplaatsen naar...";
+"InfoMsg_SelectOnlyOneFileForDocPicker" = "Selecteer slechts ÈÈn bestand.";
+
+"Label_WebDAV_FailedLogIn_ErrorCode" = "Aanmelden mislukt!\nHTTP-foutcode: %d.\nProbeer het nogmaals met een ander HTTP-adres, gebruikersnaam of wachtwoord.";
+
+"Label_SheetOrientation" = "Afdrukstand:";
+"Label_Landscape" = "Liggend";
+"Label_Portrait" = "Staand";
+"Label_SheetsToPrint" = "Af te drukken bladen:";
+"Label_ActiveSheet" = "Actief blad";
+"Label_MultipleSheets" = "Meerdere bladen";
+"Label_AllSheets" = "Gehele werkmap";
+"Label_Proceed" = "Doorgaan";
+
+"Label_FiltersNotAvailable" = "De filterfunctie is niet beschikbaar voor dit blad.";
+"ErrMsg_InsertImageError" = "Ongeldige of niet ondersteunde afbeelding";
+"FUNCCAT_Compatibility" = "Compatibiliteit";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"InfoTitle_WouldYouRecommend" = "Help een betere\nOfficeSuite te maken!";
+"InfoMsg_WouldYouRecommend" = "Zeg het voort met een snelle\nApp Store-beoordeling of neem rechtstreeks contact met ons op om ons te laten weten wat je denkt.";
+"Label_RateDialogRate" = "OfficeSuite beoordelen";
+"Label_RateDialogSendFeedback" = "Feedback versturen";
+"Label_RateDialogDismiss" = "Misschien later";
+"InfoTitle_FeedbackMailSubject" = "Feedback van OfficeSuite-gebruikers voor versie %@";
+"InfoTitle_CannotOpenAppStore" = "App Store niet beschikbaar";
+"InfoMsg_CannotOpenAppStoreForRate" = "De beoordelingenpagina kon niet worden geopend omdat de App Store niet beschikbaar is";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Files" = "Bestanden";
+"Label_File" = "Bestand";
+"Label_View" = "Weergeven";
+"Label_Go_To" = "Ga naar";
+"Label_WrapText" = "Tekstterugloop";
+"Label_MergeAndCenter" = "Samenvoegen en centreren";
+"Label_AutoSum" = "AutoSom";
+
+"Label_New" = "Nieuw";
+"Label_Templates" = "Sjablonen";
+"Label_OpenRecent" = "Recent bestand openen";
+"Label_Send" = "Verzenden";
+"Label_Protect" = "Beveiligen";
+"Label_PageSetup" = "Pagina-instelling";
+
+"Label_CameraPicture" = "Camera-afbeelding";
+"Label_RowAbove" = "Rij boven";
+"Label_ColumnLeft" = "Kolom links";
+"Label_ChartInANewSheet" = "Diagram op een nieuw blad";
+
+"Label_NumberFormatting" = "Getalnotatie";
+"Label_AlignmentInCell" = "Uitlijning in cel";
+"Label_CellFont" = "Cellettertype";
+"Label_CellBorder" = "Celrand";
+"Label_HideRows" = "Rijen verbergen";
+"Label_UnhideRows" = "Rijen weergeven";
+"Label_HideColumns" = "Kolommen verbergen";
+"Label_UnhideColumns" = "Kolommen weergeven";
+"Label_AutoFitColumns" = "Kolommen automatisch passend maken";
+"Label_RenameSheet" = "Naam van blad wijzigen";
+"Label_EditHyperlink" = "Hyperlink bewerken";
+
+"Label_InsertFunction" = "Functie invoegen";
+"Label_NameManager" = "Namenbeheerder";
+"Label_Reference" = "Verwijzing";
+
+"Label_CellContent" = "Celinhoud";
+"Label_ShowGridlines" = "Rasterlijnen weergeven";
+"Label_StartSelection" = "Begin selectie";
+"Label_SelectAll" = "Alles selecteren";
+"Label_FindReplace" = "Zoeken en vervangen";
+
+"Label_PageBreak" = "Pagina-einde";
+"Label_Paragraph" = "Alinea";
+"Label_SelectAll" = "Alles selecteren";
+"Label_FormattingSymbols" = "Opmaaksymbolen";
+"Label_Bullets" = "Opsommingstekens";
+"Label_Numbering" = "Nummering";
+
+/* Up to 20 chars */
+"Label_MultilevelList" = "Multilevel lijst";
+
+"Label_IncreaseIndent" = "Inspringing vergroten";
+"Label_DecreaseIndent" = "Inspringing verkleinen";
+"Label_Margins" = "Marges";
+"Label_Orientation" = "Afdrukstand";
+"Label_SectionBreaks" = "Sectie-eindes";
+"Label_PageBreaks" = "Pagina-eindes";
+"Label_GoToTop" = "Ga naar begin";
+"Label_GoToBottom" = "Ga naar einde";
+"Label_GoToBookmark" = "Ga naar bladwijzer";
+"Label_DeleteBookmark" = "Bladwijzer verwijderen";
+"Label_FullScreen" = "Volledig scherm";
+"Label_PasteStyle" = "Stijl\nplakken";
+"Label_FormatPainter" = "Opmaak\nkopiÎren/plakken";
+"Label_ChangeStyle" = "Stijl wijzigen";
+"Label_InsertAbove" = "Boven invoegen";
+"Label_InsertBelow" = "Onder invoegen";
+"Label_InsertToTheLeft" = "Links invoegen";
+"Label_InsertToTheRight" = "Rechts invoegen";
+"Label_DeleteColumn" = "Kolom verwijderen";
+"Label_DeleteCells" = "Cellen verwijderen";
+
+"ErrClass_SortString" = "Sorteren mislukt. ";
+"Err_CellsHasMergesString" = "Deel van een samengevoegde cel kan niet worden gewijzigd.";
+
+
+"Label_RedeemActivationCode" = "Activeringscode inwisselen";
+"Label_EnterRedeemActivationCode" = "Voer activeringscode in";
+
+"InfoTitle_RedeemActivationSuccess" = "Inwisselen van activeringscode gelukt";
+"ErrTitle_RedeemActivationFailed" = "Inwisselen van activeringscode mislukt";
+"ErrMsg_RedeemActivationInvalidKey" = "Ongeldige activeringscode!";
+"ErrMsg_RedeemActivationNoInternet" = "Geen internetverbinding!";
+"ErrMsg_RedeemActivationSystemError" = "Systeemfout!";
+
+"InfoMsg_RedeemActivationStatusRedeemed" = "Code succesvol ingewisseld!";
+"ErrMsg_RedeemActivationStatusKeyNotFound" = "Code niet gevonden!";
+"ErrMsg_RedeemActivationStatusHashNotFound" = "Apparaat niet gevonden voor de opgegeven code!";
+"ErrMsg_RedeemActivationStatusServerError" = "Serverfout!";
+"ErrMsg_RedeemActivationStatusNotSpecial" = "Apparaat niet geaccepteerd voor deze code!";
+"ErrMsg_RedeemActivationStatusKeyExpired" = "Code verlopen!";
+"ErrMsg_RedeemActivationStatusLimitReached" = "Codelimiet bereikt!";
+
+"Label_BuyOneTime" = "Volledige licentie %@";
+"ErrMsg_PaymentFailed" = "Helaas, uw betaling is mislukt.";
+
+/* Up to 22 chars */
+"Label_RecentFiles" = "Recente bestanden";
+"WarningMsg_DeleteRecentItem" = "Weet u zeker dat u dit item wilt verwijderen uit de recente bestanden?";
+"WarningMsg_DeleteRecentItems" = "Weet u zeker dat u deze items wilt verwijderen uit de recente bestanden?";
+"Label_ExternalLocation" = "Externe locatie";
+"Label_OpenContainingFolder" = "Bijbehorende map openen";
+"Label_NoRecentFiles" = "Geen recente bestanden";
+"Label_Network" = "Netwerk";
+
+/* Up to 20 chars */
+"Label_AddAccount" = "Account toevoegen";
+
+"Label_iCloudDrive" = "iCloud Drive";
+"Label_CopyFromICloudDrive" = "KopiÎren van iCloud Drive";
+"Label_CopyToICloudDrive" = "KopiÎren naar iCloud Drive";
+"Label_MoveToICloudDrive" = "Verplaatsen naar iCloud Drive";
+"Label_iCloud" = "iCloud is niet beschikbaar";
+"Label_LocalStorage" = "Lokale opslag";
+
+"Label_FitPage" = "Pagina passend maken";
+"Label_100PercentZoom" = "100% zoom";
+"Label_GoToSlide" = "Ga naar dia";
+"Label_DuplicateSlide" = "Dia kopiÎren";
+"Label_ReorderSlides" = "Dia's opnieuw rangschikken";
+"Label_DeleteSlide" = "Dia verwijderen";
+"Label_StartSlideShow" = "Diavoorstelling starten";
+"Label_StartFromCurrent" = "Starten vanaf huidige";
+"Label_AutomaticAdvance" = "Automatisch doorgaan";
+"Label_Find" = "Vinden";
+
+"Label_ExportToWord" = "Converteren naar Word";
+"Label_ExportToExcel" = "Converteren naar Excel";
+"Label_ExportToEPub" = "Converteren naar ePub";
+
+"Label_ZoomFitPage" = "Passend maken";
+"Label_Zoom25" = "25 %";
+
+"Label_Note" = "Opmerking";
+"Label_Underline" = "Onderstrepen";
+"Label_Strikethrough" = "Doorhalen";
+"Label_Text" = "Tekst";
+
+"Label_Content" = "Inhoud";
+
+"Err_ReloadFailed" = "Opnieuw laden van document mislukt na opslaan.";
+"Label_SaveChangesBeforeExport" = "Niet opgeslagen wijzigingen worden niet geÎxporteerd. Wilt u nu opslaan?";
+"Err_PdfConversion_ServerError" = "Externe server kon niet exporteren.";
+"Err_PdfPasswordChangeNotPermitted" = "U heeft geen machtigingen om het gebruikerswachtwoord te wijzigen voor dit document.";
+"Err_PdfSecuritySettingsChangeFailed" = "Wijzigen van de beveiligingsinstellingen mislukt.";
+"Err_PdfConversion_PasswordProtectedFilesNotSupported" = "Dit bestand kan niet worden geÎxporteerd, omdat het is beveiligd met een wachtwoord. Verwijder de wachtwoordbeveiliging als u door wilt gaan.";
+
+"Label_Exporting" = "Exporteren...";
+"Label_PdfConversionSuccessful" = "Het bestand is succesvol geÎxporteerd.";
+"Label_PdfPasswordChangeRequiresSaving" = "Om het wachtwoord te wijzigen, moet het bestand worden opgeslagen. Nadat het is opgeslagen, kunt u de voor het opslaan gemaakte wijzigen niet ongedaan maken of opnieuw uitvoeren.";
+
+/* Up to 10 chars */
+"Label_Review" = "Controle";
+
+"Label_Annotation" = "Aantekening";
+
+"Label_Photos" = "Foto's";
+"Label_ClearStyle" = "Stijl wissen";
+"Label_Normal" = "Normaal";
+"Label_Wide" = "Breed";
+"Label_Narrow" = "Smal";
+"Label_Moderate" = "Gemiddeld";
+
+"Label_a3" = "A3";
+"Label_a4" = "A4";
+"Label_a5" = "A5";
+"Label_b4" = "B4";
+"Label_b5" = "B5";
+"Label_letter" = "Letter";
+"Label_tabloid" = "Tabloid";
+"Label_ledger" = "Grootboek";
+"Label_legal" = "Legal";
+"Label_statement" = "Quarto";
+"Label_executive" = "Executive";
+"Label_folio" = "Folio";
+"Label_quarto" = "Quarto";
+
+"Label_Page" = "Pagina";
+"Label_Continuous" = "Doorlopend";
+"Label_EvenPage" = "Even pagina";
+"Label_OddPage" = "Oneven pagina";
+"Label_Column" = "Kolom";
+"Label_TextWrapping" = "Tekstterugloop";
+
+"Label_Zoom200" = "200 %";
+"Label_Zoom150" = "150 %";
+"Label_Zoom100" = "100 %";
+"Label_Zoom75" = "75 %";
+"Label_Zoom50" = "50 %";
+
+"Label_NoItems" = "Geen items";
+"Label_NoBookmarks" = "Geen bladwijzers";
+"Label_EnterBookmarkName" = "Voer bladwijzernaam in";
+"Label_InsertBookmark" = "Bladwijzer invoegen";
+"Label_SelectBookmark" = "Selecteer bladwijzer";
+"Label_FormatFont" = "Lettertype opmaken";
+
+/* Up to 26 chars */
+"Label_FormatParagraph" = "Alinea opmaken";
+
+"Label_NONE" = "GEEN";
+"Label_CircleBullets" = "Cirkelvormige opsommingstekens";
+"Label_SquareBullets" = "Vierkante opsommingstekens";
+
+"Label_NumbersWithDot" = "Nummers met punt";
+"Label_NumbersWithBracket" = "Nummers met haakje";
+"Label_LowerLettersWithDot" = "Kleine letters met punt";
+"Label_LowerLettersWithBracket" = "Kleine letters met haakje";
+"Label_LowerRomanNumbersWithDot" = "Romeinse cijfers in kleine letters met punt";
+"Label_UpperLettersWithDot" = "Hoofdletters met punt";
+"Label_UpperRomanNumbersWithDot" = "Romeinse cijfers in hoofdletters met punt";
+"Label_MultilevelListWithNumbers" = "Lijst met meerdere niveaus met nummers";
+"Label_MultilevelListWithNumbersAndLetters" = "Lijst met meerdere niveaus met nummers en letters";
+
+"Label_1_0" = "1.0";
+"Label_1_15" = "1.15";
+"Label_1_5" = "1.5";
+"Label_2_0" = "2.0";
+"Label_2_5" = "2.5";
+"Label_3_0" = "3.0";
+
+"Label_RevealFormating" = "Opmaak weergeven";
+"Label_DenyMessagePhotos" = "Deze app heeft geen toegang tot uw foto's en video's.";
+"Label_DenyMessageInstructions" = "U kunt de toegang inschakelen in Privacyinstellingen.";
+"Label_DenyNoAlbumPhotos" = "Geen foto's of video's";
+"Label_DenyNoAlbumPhotosMessage" = "U kunt foto's en video's maken met de camera, of foto's en video's synchroniseren met iTunes.";
+
+"Button_Paper" = "Papier";
+"Button_Margins" = "Marges";
+"Label_Custom" = "Aangepast";
+"Label_Width" = "Breedte";
+"Label_Height" = "Hoogte";
+"Label_Left" = "Links";
+"Label_Right" = "Rechts";
+"Label_Insert" = "Invoegen";
+"Label_Layout" = "Indeling";
+"Label_Styles" = "Stijlen";
+"Label_PageMargins" = "Paginamarges";
+"Label_PageOrientation" = "Afdrukstand";
+"Label_PageSize" = "Paginaformaat";
+"Label_Bookmarks" = "Bladwijzers";
+"Label_Subrscript" = "Subscript";
+"Label_Superrscript" = "Superscript";
+"Label_DocumentIndex" = "Inhoudsopgave";
+"Label_Alignment" = "Uitlijning";
+"Label_Indents" = "Inspringing";
+"Label_Spacing" = "Tekenafstand";
+"Label_Before" = "Voor";
+"Label_After" = "Na";
+"Label_FirstLine" = "Eerste regel";
+"Label_Units" = "Eenheden";
+"Label_Millimeters" = "Millimeter";
+"Label_Centimeters" = "Centimeter";
+"Label_Inches" = "Inch";
+"Label_Points" = "Punten";
+"Label_InchesTextFormat" = "%@\"";
+"Label_CentimetersTextFormat" = "%@ cm";
+"Label_MillimetersTextFormat" = "%@ mm";
+"Label_PointsTextFormat" = "%@ pt";
+"Button_TableStyleStylesTab" = "Tabelstijlen";
+"Button_TableStyleSettingsTab" = "Instellingen";
+"Label_TableStyleCustomStyles" = "Aangepaste stijlen";
+"Label_TableStyleBuiltInStyles" = "Ingebouwde stijlen";
+"Label_TableStyleHeaderRow" = "Koprij";
+"Label_TableStyleTotalRow" = "Totaalrij";
+"Label_TableStyleFirstColumn" = "Eerste kolom";
+"Label_TableStyleLastColumn" = "Laatste kolom";
+"Label_TableStyleBandedRows" = "Stroken op oneven rijen";
+"Label_TableStyleBandedColumns" = "Stroken op oneven kolommen";
+"Label_Tab" = "Tab";
+"Label_LineBreak" = "Regeleinde";
+
+"Label_MSCaptureCameraUsePhoto" = "Foto gebruiken";
+"Label_MSCaptureCameraRetake" = "Opnieuw";
+
+"Label_Moments" = "Momenten";
+
+"Label_CameraDenyAccessTitle" = "Geen toegang tot camera";
+"Label_CameraDenyAccessMessage" = "Ga voor toegang tot de camera naar Instellingen > Privacy > Camera en zet OfficeSuite op AAN.";
+
+/* Up to 24 chars */
+"Label_SlideShowSettings" = "Instellingen voor diavoorstelling";
+
+"Label_NewName" = "Nieuwe naam:";
+"ErrMsg_LongName" = "Naam is te lang.";
+"ErrMsg_SheetNameEmpty" = "De bladnaam mag niet leeg zijn.";
+"WarningMessage_RtfWillLoseFormatting" = "Als u uw bestand opslaat als RTF, kan sommige opmaak verloren gaan. Doorgaan?";
+"WarningMessage_TxtWillLoseFormatting" = "Door opslaan als tekstbestand gaan alle opmaak, afbeeldingen en objecten in uw bestand verloren. Doorgaan?";
+
+/* Up to 16 chars */
+"Label_BuyMoreFonts" = "Meer lettertypen";
+"Label_InstalledFonts" = "GeÔnstalleerde lettertypen";
+
+"Label_Breaks" = "Eindemarkeringen";
+
+"Label_GoPremium" = "Premium kopen";
+"Label_FontPackDescription1" = "Een verzameling van de populairste lettertypen voor gebruik in OfficeSuite. Bekijk uw documenten zoals ze bedoeld waren om te worden bekeken.";
+"Label_FontPackDescription2" = "Bevat 12 Monotype-lettertypen zoals Calibri, Tahoma en Wingdings.";
+"Label_FontPackDescription3" = "Bevat ook 60 OFL-lettertypen zoals Garamond, Modern, Open Sans en Times Gothic.";
+
+"Label_FontPack" = "Lettertypenpakket";
+"Label_FontPackDescription" = "Een verzameling van meer dan 50 lettertypen zoals Calibri, Tahoma en Wingdings voor gebruik in OfficeSuite.";
+"Label_EditPdf" = "PDF-documenten bewerken";
+"Label_EditPdfDescription" = "Converteer PDFs naar volledig bewerkbare Word-/Excel-bestanden";
+"Label_SaveAsPdf" = "Opslaan als PDF";
+"Label_SaveAsPdfDescription" = "Sla documenten op als PDFs zonder verlies van opmaak";
+"Label_AnnotatePdf" = "Maak aantekeningen in PDFs";
+"Label_AnnotatePdfDescription" = "Maak notities en opmerkingen bij het lezen van documenten";
+"Label_AddCameraPhoto" = "Camera-afbeeldingen toevoegen";
+"Label_AddCameraPhotoDescription" = "Voeg foto's toe aan documenten";
+"Label_ProtectYourDocs" = "Beveilig documenten";
+"Label_ProtectYourDocsDescription" = "Beveilig afzonderlijke bestanden met een wachtwoord of stel een wachtwoord in voor de hele OfficeSuite";
+"Label_AdFree" = "Zonder advertenties";
+"Label_AdFreeDescription" = "Geen afleidingen tijdens het werk";
+
+"Label_DoubleUnderline" = "Dubbel onderstrepen";
+
+"Label_IncreaseFont" = "Tekengrootte vergroten";
+"Label_DecreaseFont" = "Tekengrootte verkleinen";
+
+"Label_HorizontalAlignLeft" = "Horizontaal links uitlijnen";
+"Label_HorizontalAlignRight" = "Horizontaal rechts uitlijnen";
+"Label_HorizontalAlignCenter" = "Horizontaal centreren";
+
+"Label_VerticalAlignBottom" = "Verticaal onder uitlijnen";
+"Label_VerticalAlignMiddle" = "Verticaal midden uitlijnen";
+"Label_VerticalAlignTop" = "Verticaal boven uitlijnen";
+
+"Label_SelectTextColor" = "Tekstkleur selecteren";
+"Label_SelectTextBgColor" = "Celkleur selecteren";
+
+/* Up to 8 chars (these two strings are part of the phrase "Buy the Font Pack")  */
+"Label_BuyThe" = "Koop het";
+"Label_Pack" = "Pakket";
+
+"Label_OneTimePurchase" = "Eenmalige aankoop";
+
+"Label_FontPackMonotypeTitle" = "Bevat de volgende 12 Monotype-lettertypen:";
+"Label_FontPackMonotypeDesc" = "Arial Narrow, Calibri, Cambria, Cambria Math, Comic Sans Ms, Monotype Sorts, Tahoma, Palace Script MT, Webdings, Wingdings, Wingdings 2, Wingdings 3";
+
+
+"Excel_func_ABS" = "Retourneert de absolute waarde van een getal";
+"Excel_func_ACCRINT" = "Berekent de samengestelde rente voor een waardepapier waarvan de rente periodiek wordt uitgekeerd";
+"Excel_func_ACCRINTM" = "Berekent de samengestelde rente voor een waardepapier waarvan de rente op de vervaldatum wordt uitgekeerd";
+"Excel_func_ACOS" = "Geeft als resultaat de boogcosinus van een getal";
+"Excel_func_ACOSH" = "Berekent de inverse cosinus hyperbolicus van een getal";
+"Excel_func_ADDRESS" = "Geeft als resultaat een verwijzing, in de vorm van tekst, naar één bepaalde cel in een werkblad";
+"Excel_func_AMORDEGRC" = "Geeft als resultaat de afschrijving voor elke boekingsperiode door een afschrijvingscoëfficiënt toe te passen";
+"Excel_func_AMORLINC" = "Berekent de afschrijving voor elke boekingsperiode";
+"Excel_func_AND" = "Resulteert in WAAR als alle argumenten WAAR zijn";
+"Excel_func_AREAS" = "Geeft als resultaat het aantal bereiken in een verwijzing";
+"Excel_func_ASC" = "Wijzigt Nederlandse letters of katakanatekens over de volle breedte (dubbel-bytetekens) binnen een tekenreeks in tekens over de halve breedte (enkel-bytetekens)";
+"Excel_func_ASIN" = "Berekent de boogsinus van een getal";
+"Excel_func_ASINH" = "Berekent de inverse sinus hyperbolicus van een getal";
+"Excel_func_ATAN" = "Berekent de boogtangens van een getal";
+"Excel_func_ATAN2" = "Berekent de boogtangens van de x- en y-coördinaten";
+"Excel_func_ATANH" = "Berekent de inverse tangens hyperbolicus van een getal";
+"Excel_func_AVEDEV" = "Berekent het gemiddelde van de absolute deviaties van gegevenspunten ten opzichte van hun gemiddelde waarde";
+"Excel_func_AVERAGE" = "Berekent het gemiddelde van de argumenten";
+"Excel_func_AVERAGEA" = "Berekent het gemiddelde van de argumenten, waaronder getallen, tekst en logische waarden";
+"Excel_func_AVERAGEIF" = "Berekent het (rekenkundig) gemiddelde van de cellen in een bereik die voldoen aan een opgegeven criterium";
+"Excel_func_AVERAGEIFS" = "Berekent het (rekenkundig) gemiddelde van de cellen in een bereik die voldoen aan meerdere criteria";
+"Excel_func_BAHTTEXT" = "Converteert een getal naar tekst met de valutanotatie ß (baht)";
+"Excel_func_BESSELI" = "Berekent de gemodificeerde i-functie van Bessel In(x)";
+"Excel_func_BESSELJ" = "Berekent de gemodificeerde j-functie van Bessel Jn(x)";
+"Excel_func_BESSELK" = "Berekent de gemodificeerde k-functie van Bessel Kn(x)";
+"Excel_func_BESSELY" = "Berekent de gemodificeerde y-functie van Bessel Yn(x)";
+"Excel_func_BETADIST" = "Berekent de cumulatieve bèta-verdelingsfunctie";
+"Excel_func_BETAINV" = "Berekent de inverse van de cumulatieve verdelingsfunctie van een opgegeven bèta-verdeling";
+"Excel_func_BIN2DEC" = "Converteert een binair getal naar een decimaal getal";
+"Excel_func_BIN2HEX" = "Converteert een binair getal naar een hexadecimaal getal";
+"Excel_func_BIN2OCT" = "Converteert een binair getal naar een octaal getal";
+"Excel_func_BINOMDIST" = "Geeft als resultaat de binomiale verdeling";
+"Excel_func_CALL" = "Roept een procedure op in een DLL-bestand of een codebron";
+"Excel_func_CEILING" = "Rondt een getal af op het dichtstbijzijnde gehele getal of het dichtstbijzijnde significante veelvoud";
+"Excel_func_CELL" = "Geeft als resultaat informatie over de opmaak, locatie of inhoud van een cel";
+"Excel_func_CHAR" = "Geeft als resultaat het teken dat hoort bij de opgegeven code";
+"Excel_func_CHIDIST" = "Berekent de eenzijdige kans van de chi-kwadraatverdeling";
+"Excel_func_CHIINV" = "Berekent de inverse van de eenzijdige kans van de chi-kwadraatverdeling";
+"Excel_func_CHITEST" = "Geeft het resultaat van de onafhankelijkheidstoets";
+"Excel_func_CHOOSE" = "Kiest een waarde uit een lijst met waarden";
+"Excel_func_CLEAN" = "Verwijdert alle niet-afdrukbare tekens uit een tekst";
+"Excel_func_CODE" = "Geeft als resultaat de numerieke code voor het eerste teken in een tekenreeks";
+"Excel_func_COLUMN" = "Geeft als resultaat het kolomnummer van een verwijzing";
+"Excel_func_COLUMNS" = "Geeft als resultaat het aantal kolommen in een verwijzing";
+"Excel_func_COMBIN" = "Geeft als resultaat het aantal combinaties voor een gegeven aantal objecten";
+"Excel_func_COMPLEX" = "Converteert reële en imaginaire coëfficiënten naar complexe getallen";
+"Excel_func_CONCATENATE" = "Voegt verschillende tekstitems samen tot één tekstitem";
+"Excel_func_CONFIDENCE" = "Berekent de betrouwbaarheidsinterval van een gemiddelde waarde voor de elementen van een populatie";
+"Excel_func_CONVERT" = "Converteert een getal in de ene maateenheid naar een getal in een andere maateenheid";
+"Excel_func_CORREL" = "Berekent de correlatiecoëfficiënt van twee gegevensverzamelingen";
+"Excel_func_COS" = "Geeft als resultaat de cosinus van een getal";
+"Excel_func_COSH" = "Berekent de cosinus hyperbolicus van een getal";
+"Excel_func_COUNT" = "Telt het aantal getallen in de argumentenlijst";
+"Excel_func_COUNTA" = "Telt het aantal waarden in de argumentenlijst";
+"Excel_func_COUNTBLANK" = "Telt het aantal lege cellen binnen een bereik";
+"Excel_func_COUNTIF" = "Telt het aantal niet-lege cellen in een bereik die voldoen aan het opgegeven criterium";
+"Excel_func_COUNTIFS" = "Telt het aantal niet-lege cellen in een bereik die voldoen aan meerdere criteria";
+"Excel_func_COUPDAYBS" = "Berekent het aantal dagen vanaf het begin van de couponperiode tot de stortingsdatum";
+"Excel_func_COUPDAYS" = "Bepaalt het aantal dagen in de couponperiode waarin de stortingsdatum valt";
+"Excel_func_COUPDAYSNC" = "Berekent het aantal dagen vanaf de stortingsdatum tot de volgende coupondatum";
+"Excel_func_COUPNCD" = "Bepaalt de volgende coupondatum na de stortingsdatum";
+"Excel_func_COUPNUM" = "Berekent het aantal coupons dat uitbetaald moet worden tussen de stortingsdatum en de vervaldatum";
+"Excel_func_COUPPCD" = "Berekent de laatste coupondatum voor de stortingsdatum";
+"Excel_func_COVAR" = "Berekent de covariantie, het gemiddelde van de producten van deviaties voor gegevensparen";
+"Excel_func_CRITBINOM" = "Berekent de kleinste waarde waarvoor de cumulatieve binomiale verdeling kleiner is dan of gelijk aan een criteriumwaarde";
+"Excel_func_CUMIPMT" = "Berekent de cumulatieve rente over een bepaalde periode";
+"Excel_func_CUMPRINC" = "Berekent de cumulatieve terugbetaalde hoofdsom voor een lening over een bepaalde periode";
+"Excel_func_DATE" = "Geeft het seriële getal van een bepaalde datum";
+"Excel_func_DATEVALUE" = "Zet een datum in de vorm van tekst om in een serieel getal";
+"Excel_func_DAVERAGE" = "Berekent het gemiddelde van geselecteerde databasegegevens";
+"Excel_func_DAY" = "Zet een serieel getal om in een dag van de maand";
+"Excel_func_DAYS360" = "Berekent het aantal dagen tussen twee datums op basis van een jaar met 360 dagen";
+"Excel_func_DB" = "Berekent de afschrijving van activa over een opgegeven termijn, met behulp van de \'fixed declining balance\'-methode";
+"Excel_func_DCOUNT" = "Telt de cellen in een database die getallen bevatten";
+"Excel_func_DCOUNTA" = "Telt het aantal niet-lege cellen in een database";
+"Excel_func_DDB" = "Berekent de afschrijving van activa over een opgegeven termijn met de \'double declining balance\'-methode of met een methode die u zelf bepaalt";
+"Excel_func_DEC2BIN" = "Converteert een decimaal getal naar een binair getal";
+"Excel_func_DEC2HEX" = "Converteert een decimaal getal naar een hexadecimaal getal";
+"Excel_func_DEC2OCT" = "Converteert een decimaal getal naar een octaal getal";
+"Excel_func_DEGREES" = "Converteert radialen naar graden";
+"Excel_func_DELTA" = "Toetst of twee waarden gelijk zijn";
+"Excel_func_DEVSQ" = "Berekent de som van de kwadraten van de deviaties";
+"Excel_func_DGET" = "Haalt één record op uit een database dat voldoet aan de gespecificeerde criteria";
+"Excel_func_DISC" = "Berekent het discontopercentage voor waardepapier";
+"Excel_func_DMAX" = "Geeft als resultaat de maximumwaarde van geselecteerde databasegegevens";
+"Excel_func_DMIN" = "Geeft als resultaat de minimumwaarde van geselecteerde databasegegevens";
+"Excel_func_DOLLAR" = "Converteert een getal naar tekst op basis van de valutanotatie € (euro)";
+"Excel_func_DOLLARDE" = "Converteert een prijs in euro\'s, uitgedrukt in een breuk, naar een prijs in euro\'s, uitgedrukt in een decimaal getal";
+"Excel_func_DOLLARFR" = "Converteert een prijs in euro\'s, uitgedrukt in een decimaal getal, naar een prijs in euro\'s, uitgedrukt in een breuk";
+"Excel_func_DPRODUCT" = "Vermenigvuldigt de waarden in het veld met records in een database die voldoen aan de criteria";
+"Excel_func_DSTDEV" = "Maakt een schatting van de standaarddeviatie die is gebaseerd op een steekproef onder geselecteerde databasegegevens";
+"Excel_func_DSTDEVP" = "Berekent de standaarddeviatie die is gebaseerd op de hele populatie van geselecteerde databasegegevens";
+"Excel_func_DSUM" = "Telt de getallen op in het veld (kolom) met records in de database die voldoen aan de criteria";
+"Excel_func_DURATION" = "Berekent de Macauley-duur van een waardepapier met periodieke rentebetalingen";
+"Excel_func_DVAR" = "Maakt een schatting van de variantie die is gebaseerd op een steekproef onder geselecteerde databasegegevens";
+"Excel_func_DVARP" = "Berekent de variantie die is gebaseerd op de hele populatie van geselecteerde databasegegevens";
+"Excel_func_EDATE" = "Zet de datum die het opgegeven aantal maanden voor of na de begindatum ligt, om in een serieel getal";
+"Excel_func_EFFECT" = "Berekent het jaarlijkse effectieve rentepercentage";
+"Excel_func_EOMONTH" = "Zet de laatste dag van de maand die een opgegeven aantal maanden voor of na de begindatum ligt, om in een serieel getal";
+"Excel_func_ERF" = "Geeft de foutfunctie weer";
+"Excel_func_ERFC" = "Geeft de bijbehorende foutfunctie";
+"Excel_func_ERROR_TYPE" = "Geeft als resultaat een nummer dat overeenkomt met een foutwaarde";
+"Excel_func_EUROCONVERT" = "Rekent een waarde om naar euro\'s, rekent euro\'s om naar valuta\'s van andere eurolidstaten of rekent een valuta van een eurolidstaat om naar een valuta van een andere eurolidstaat, waarbij de euro als tussenvaluta wordt gebruikt (driehoeksconversie).";
+"Excel_func_EVEN" = "Rondt de absolute waarde van het getal naar boven af op het dichtstbijzijnde gehele oneven getal";
+"Excel_func_EXACT" = "Controleer of twee tekstwaarden identiek zijn";
+"Excel_func_EXP" = "Verheft e tot de macht van het gegeven getal";
+"Excel_func_EXPONDIST" = "Geeft als resultaat de exponentiële verdeling";
+"Excel_func_FACT" = "Berekent de faculteit van een getal";
+"Excel_func_FACTDOUBLE" = "Berekent de dubbele faculteit van een getal";
+"Excel_func_FALSE" = "Geeft als resultaat de logische waarde ONWAAR";
+"Excel_func_FDIST" = "Geeft als resultaat de F-kansverdeling";
+"Excel_func_FIND" = "Zoekt een tekstwaarde binnen een andere tekstwaarde (hoofdlettergevoelig)";
+"Excel_func_FINV" = "Berekent de inverse van de F-kansverdeling";
+"Excel_func_FISHER" = "Berekent de Fisher-transformatie";
+"Excel_func_FISHERINV" = "Berekent de inverse van de Fisher-transformatie";
+"Excel_func_FIXED" = "Maakt een getal op als tekst met een vast aantal decimalen";
+"Excel_func_FLOOR" = "Rondt de absolute waarde van een getal naar beneden af";
+"Excel_func_FORECAST" = "Geeft als resultaat een waarde voor een lineaire trend";
+"Excel_func_FREQUENCY" = "Geeft als resultaat een frequentieverdeling als een verticale matrix";
+"Excel_func_FV" = "Berekent de toekomstige waarde van een investering";
+"Excel_func_FVSCHEDULE" = "Berekent de toekomstige waarde van een aanvangshoofdsom nadat de samengestelde rente eraan is toegevoegd";
+"Excel_func_GAMMADIST" = "Geeft als resultaat de gamma-verdeling";
+"Excel_func_GAMMAINV" = "Geeft als resultaat de inverse van de cumulatieve gamma-verdeling";
+"Excel_func_GAMMALN" = "Berekent de natuurlijke logaritme van de gamma-functie, Г(x)";
+"Excel_func_GCD" = "Geeft als resultaat de grootste algemene deler";
+"Excel_func_GEOMEAN" = "Berekent het meetkundige gemiddelde";
+"Excel_func_GESTEP" = "Toetst of een getal groter is dan de drempelwaarde";
+"Excel_func_GETPIVOTDATA" = "Haalt gegevens op die zijn opgeslagen in een draaitabelrapport";
+"Excel_func_GROWTH" = "Berekent waarden volgens een exponentiële trend";
+"Excel_func_HARMEAN" = "Berekent het harmonische gemiddelde";
+"Excel_func_HEX2BIN" = "Converteert een hexadecimaal getal naar een binair getal";
+"Excel_func_HEX2DEC" = "Converteert een hexadecimaal getal naar een decimaal getal";
+"Excel_func_HEX2OCT" = "Converteert een hexadecimaal getal naar een octaal getal";
+"Excel_func_HLOOKUP" = "Zoekt in de bovenste rij van een matrix met waarden naar waarden en geeft als resultaat de waarde in de opgegeven cel";
+"Excel_func_HOUR" = "Converteert een serieel getal naar een uur";
+"Excel_func_HYPERLINK" = "Maakt een snelkoppeling of sprong die een document opent dat is opgeslagen op een netwerkserver, een intranet of op internet";
+"Excel_func_HYPGEOMDIST" = "Geeft als resultaat de hypergeometrische verdeling";
+"Excel_func_IF" = "Geeft een logische test aan";
+"Excel_func_IFERROR" = "Geeft als resultaat een opgegeven waarde als een formule een fout retourneert";
+"Excel_func_IMABS" = "Geeft de absolute waarde van een complex getal";
+"Excel_func_IMAGINARY" = "Berekent de imaginaire coëfficiënt van een complex getal";
+"Excel_func_IMARGUMENT" = "Berekent het argument theta, een hoek uitgedrukt in radialen";
+"Excel_func_IMCONJUGATE" = "Berekent de complex toegevoegde van een complex getal";
+"Excel_func_IMCOS" = "Berekent de cosinus van een complex getal";
+"Excel_func_IMDIV" = "Berekent het quotiënt van twee complexe getallen";
+"Excel_func_IMEXP" = "Berekent de exponentiële waarde van een complex getal";
+"Excel_func_IMLN" = "Berekent de natuurlijke logaritme van een complex getal";
+"Excel_func_IMLOG10" = "Berekent de logaritme met grondtal 10 van een complex getal";
+"Excel_func_IMLOG2" = "Berekent de logaritme met grondtal 2 van een complex getal";
+"Excel_func_IMPOWER" = "Verheft een complex getal tot een hele macht";
+"Excel_func_IMPRODUCT" = "Berekent het product van complexe getallen";
+"Excel_func_IMREAL" = "Bepaalt de reële coëfficiënt van een complex getal";
+"Excel_func_IMSIN" = "Berekent de sinus van een complex getal";
+"Excel_func_IMSQRT" = "Berekent de vierkantswortel van een complex getal";
+"Excel_func_IMSUB" = "Berekent het verschil tussen twee complexe getallen";
+"Excel_func_IMSUM" = "Geeft als resultaat de som van complexe getallen";
+"Excel_func_INDEX" = "Kiest met een index een waarde uit een verwijzing of een matrix";
+"Excel_func_INDIRECT" = "Geeft als resultaat een verwijzing aangegeven door een tekstwaarde";
+"Excel_func_INFO" = "Geeft als resultaat informatie over de huidige besturingsomgeving";
+"Excel_func_INT" = "Rondt een getal naar beneden af op het dichtstbijzijnde gehele getal";
+"Excel_func_INTERCEPT" = "Berekent het snijpunt van een lineaire regressielijn";
+"Excel_func_INTRATE" = "Berekent het rentepercentage voor een volgestort waardepapier";
+"Excel_func_IPMT" = "Berekent de te betalen rente voor een investering over een bepaalde termijn";
+"Excel_func_IRR" = "Berekent de interne rentabiliteit voor een reeks cashflows";
+"Excel_func_ISBLANK" = "Geeft als resultaat WAAR als de waarde leeg is";
+"Excel_func_ISERR" = "Geeft als resultaat WAAR als de waarde een foutwaarde is, met uitzondering van #N/B";
+"Excel_func_ISERROR" = "Geeft als resultaat WAAR als de waarde een foutwaarde is";
+"Excel_func_ISEVEN" = "Geeft als resultaat WAAR als het getal even is";
+"Excel_func_ISLOGICAL" = "Geeft als resultaat WAAR als de waarde een logische waarde is";
+"Excel_func_ISNA" = "Geeft als resultaat WAAR als de waarde de foutwaarde #N/B is";
+"Excel_func_ISNONTEXT" = "Geeft als resultaat WAAR als de waarde geen tekst is";
+"Excel_func_ISNUMBER" = "Geeft als resultaat WAAR als de waarde een getal is";
+"Excel_func_ISODD" = "Geeft als resultaat WAAR als het getal even is";
+"Excel_func_ISREF" = "Geeft als resultaat WAAR als de waarde een verwijzing is";
+"Excel_func_ISTEXT" = "Geeft als resultaat WAAR als de waarde tekst is";
+"Excel_func_ISPMT" = "Berekent de betaalde rente voor een bepaalde termijn van een investering";
+"Excel_func_JIS" = "Wijzigt Nederlandse letters of katakanatekens over de halve breedte (enkel-bytetekens) binnen een tekenreeks in tekens over de volle breedte (dubbel-bytetekens)";
+"Excel_func_KURT" = "Berekent de kurtosis van een gegevensverzameling";
+"Excel_func_LARGE" = "Berekent de op k-1 na grootste waarde in een gegevensbereik";
+"Excel_func_LCM" = "Berekent het kleinste gemene veelvoud";
+"Excel_func_LEFT" = "Retourneert de meest linkse tekens in een tekenreeks";
+"Excel_func_LEN" = "Retourneert het aantal tekens in een tekenreeks";
+"Excel_func_LINEST" = "Retourneert de parameters van een lineaire trend";
+"Excel_func_LN" = "Berekent de natuurlijke logaritme van een getal";
+"Excel_func_LOG" = "Berekent de logaritme van een getal met het opgegeven grondtal";
+"Excel_func_LOG10" = "Berekent de logaritme met grondtal 10 van een getal";
+"Excel_func_LOGEST" = "Retourneert de parameters van een exponentiële trend";
+"Excel_func_LOGINV" = "Berekent de inverse van de logaritmische normale verdeling";
+"Excel_func_LOGNORMDIST" = "Geeft als resultaat de logaritmische normale verdeling";
+"Excel_func_LOOKUP" = "Zoekt naar bepaalde waarden in een vector of een matrix";
+"Excel_func_LOWER" = "Zet tekst om in kleine letters";
+"Excel_func_MATCH" = "Zoekt naar bepaalde waarden in een verwijzing of een matrix";
+"Excel_func_MAX" = "Geeft als resultaat de maximumwaarde in een lijst met argumenten";
+"Excel_func_MAXA" = "Geeft als resultaat de maximumwaarde in een lijst met argumenten, inclusief getallen, tekst en logische waarden";
+"Excel_func_MDETERM" = "Geeft als resultaat de determinant van een matrix";
+"Excel_func_MDURATION" = "Geeft als resultaat de aangepaste Macauley-looptijd voor een waardepapier, aangenomen dat de nominale waarde € 100 bedraagt";
+"Excel_func_MEDIAN" = "Geeft als resultaat de mediaan van de opgegeven getallen";
+"Excel_func_MID" = "Geeft als resultaat een bepaald aantal tekens van een tekenreeks vanaf de positie die u opgeeft";
+"Excel_func_MIN" = "Geeft als resultaat de minimumwaarde in een lijst met argumenten";
+"Excel_func_MINA" = "Geeft als resultaat de minimumwaarde in een lijst met argumenten, inclusief getallen, tekst en logische waarden";
+"Excel_func_MINUTE" = "Converteert een serieel getal een minuut";
+"Excel_func_MINVERSE" = "Geeft als resultaat de inverse van een matrix";
+"Excel_func_MIRR" = "Geeft als resultaat de interne rentabiliteit voor een serie cashflows, waarbij voor betalingen een ander rentepercentage geldt dan voor inkomsten";
+"Excel_func_MMULT" = "Geeft als resultaat het product van twee matrices";
+"Excel_func_MOD" = "Geeft als resultaat het restgetal van een deling";
+"Excel_func_MODE" = "Geeft als resultaat de meest voorkomende waarde in een gegevensverzameling";
+"Excel_func_MONTH" = "Converteert een serieel getal naar een maand";
+"Excel_func_MROUND" = "Geeft als resultaat een getal afgerond op het gewenste veelvoud";
+"Excel_func_MULTINOMIAL" = "Geeft als resultaat de multinomiaalcoëfficiënt van een reeks getallen";
+"Excel_func_N" = "Geeft als resultaat een waarde die is geconverteerd naar een getal";
+"Excel_func_NA" = "Geeft als resultaat de foutwaarde #N/B";
+"Excel_func_NEGBINOMDIST" = "Geeft als resultaat de negatieve binomiaalverdeling";
+"Excel_func_NETWORKDAYS" = "Geeft als resultaat het aantal hele werkdagen tussen twee datums";
+"Excel_func_NOMINAL" = "Geeft als resultaat het nominale jaarlijkse rentepercentage";
+"Excel_func_NORMDIST" = "Geeft als resultaat de cumulatieve normale verdeling";
+"Excel_func_NORMINV" = "Geeft als resultaat de inverse van de cumulatieve normale verdeling";
+"Excel_func_NORMSDIST" = "Geeft als resultaat de cumulatieve standaardnormale verdeling";
+"Excel_func_NORMSINV" = "Geeft als resultaat de inverse van de cumulatieve normale verdeling";
+"Excel_func_NOT" = "Keert de logische waarde van het argument om";
+"Excel_func_NOW" = "Geeft als resultaat het seriële getal van de huidige datum en tijd";
+"Excel_func_NPER" = "Geeft als resultaat het aantal termijnen van een investering";
+"Excel_func_NPV" = "Geeft als resultaat de netto huidige waarde van een investering op basis van een reeks periodieke cashflows en een discontopercentage";
+"Excel_func_OCT2BIN" = "Converteert een octaal getal naar een decimaal getal";
+"Excel_func_OCT2DEC" = "Converteert een octaal getal naar een decimaal getal";
+"Excel_func_OCT2HEX" = "Converteert een octaal getal naar een hexadecimaal getal";
+"Excel_func_ODD" = "Rondt een getal naar boven af op het dichtstbijzijnde gehele oneven getal";
+"Excel_func_ODDFPRICE" = "Geeft als resultaat de prijs per € 100 nominale waarde voor een waardepapier met een afwijkende eerste termijn";
+"Excel_func_ODDFYIELD" = "Geeft als resultaat het rendement voor een waardepapier met een afwijkende eerste termijn";
+"Excel_func_ODDLPRICE" = "Geeft als resultaat de prijs per € 100 nominale waarde voor een waardepapier met een afwijkende laatste termijn";
+"Excel_func_ODDLYIELD" = "Geeft als resultaat het rendement voor een waardepapier met een afwijkende laatste termijn";
+"Excel_func_OFFSET" = "Geeft als resultaat een nieuwe verwijzing die is verschoven ten opzichte van een bepaalde verwijzing";
+"Excel_func_OR" = "Geeft als resultaat WAAR als minimaal een van de argumenten WAAR is";
+"Excel_func_PEARSON" = "Geeft als resultaat de correlatiecoëfficiënt van Pearson";
+"Excel_func_PERCENTILE" = "Geeft als resultaat het k-de percentiel van waarden in een bereik";
+"Excel_func_PERCENTRANK" = "Geeft als resultaat de positie, in procenten uitgedrukt, van een waarde in de rangorde van een gegevensverzameling";
+"Excel_func_PERMUT" = "Geeft als resultaat het aantal permutaties voor een gegeven aantal objecten";
+"Excel_func_PHONETIC" = "Haalt de fonetische tekens (furigana) uit een tekenreeks op";
+"Excel_func_PI" = "Geeft als resultaat de waarde van pi";
+"Excel_func_PMT" = "Geeft als resultaat de periodieke betaling voor een annuïteit";
+"Excel_func_POISSON" = "Geeft als resultaat de Poisson-verdeling";
+"Excel_func_POWER" = "Verheft een getal tot een macht";
+"Excel_func_PPMT" = "Geeft als resultaat de afbetaling op de hoofdsom voor een bepaalde termijn";
+"Excel_func_PRICE" = "Geeft als resultaat de prijs per € 100 nominale waarde voor een waardepapier waarvan de rente periodiek wordt uitgekeerd";
+"Excel_func_PRICEDISC" = "Geeft als resultaat de prijs per € 100 nominale waarde voor een verdisconteerd waardepapier";
+"Excel_func_PRICEMAT" = "Geeft als resultaat de prijs per € 100 nominale waarde voor een waardepapier waarvan de rente wordt uitgekeerd op de vervaldatum";
+"Excel_func_PROB" = "Geeft als resultaat de kans dat waarden zich tussen twee grenzen bevinden";
+"Excel_func_PRODUCT" = "Vermenigvuldigt de argumenten met elkaar";
+"Excel_func_PROPER" = "Zet de eerste letter van elk woord in een tekst om in een hoofdletter";
+"Excel_func_PV" = "Geeft als resultaat de huidige waarde van een investering";
+"Excel_func_QUARTILE" = "Geeft als resultaat het kwartiel van een gegevensverzameling";
+"Excel_func_QUOTIENT" = "Geeft als resultaat de uitkomst van een deling als geheel getal";
+"Excel_func_RADIANS" = "Converteert graden naar radialen";
+"Excel_func_RAND" = "Geeft als resultaat een willekeurig getal tussen 0 en 1";
+"Excel_func_RANDBETWEEN" = "Geeft een willekeurig getal tussen de getallen die je hebt opgegeven";
+"Excel_func_RANK" = "Geeft als resultaat het rangnummer van een getal in een lijst getallen";
+"Excel_func_RATE" = "Geeft als resultaat het periodieke rentepercentage voor een annuïteit";
+"Excel_func_RECEIVED" = "Geeft als resultaat het bedrag dat op de vervaldatum wordt uitgekeerd voor een volgestort waardepapier";
+"Excel_func_REGISTER_ID" = "Bepaalt de registratie-id van de opgegeven DLL (Dynamic Link Library) of de codebron die eerder is geregistreerd";
+"Excel_func_REPLACE" = "Vervangt tekens binnen een tekst";
+"Excel_func_REPT" = "Herhaalt een tekst een bepaald aantal malen";
+"Excel_func_RIGHT" = "Geeft als resultaat de meest rechtse tekens in een tekenreeks";
+"Excel_func_ROMAN" = "Converteert een Arabisch getal naar een Romeins getal en geeft het resultaat weer in de vorm van tekst";
+"Excel_func_ROUND" = "Rondt een getal af op het opgegeven aantal decimalen";
+"Excel_func_ROUNDDOWN" = "Rondt de absolute waarde van een getal naar beneden af";
+"Excel_func_ROUNDUP" = "Rondt de absolute waarde van een getal naar boven af";
+"Excel_func_ROW" = "Geeft als resultaat het rijnummer van een verwijzing";
+"Excel_func_ROWS" = "Geeft als resultaat het aantal rijen in een verwijzing";
+"Excel_func_RSQ" = "Geeft als resultaat het kwadraat van de Pearson-correlatiecoëfficiënt";
+"Excel_func_SEARCH" = "Zoekt een bepaalde tekenreeks in een tekst (niet hoofdlettergevoelig)";
+"Excel_func_SEARCHB" = "Zoekt een bepaalde tekenreeks in een tekst (niet hoofdlettergevoelig)";
+"Excel_func_SECOND" = "Converteert een serieel getal naar seconden";
+"Excel_func_SERIESSUM" = "Geeft als resultaat de som van een machtreeks die is gebaseerd op de formule";
+"Excel_func_SIGN" = "Geeft als resultaat het teken van een getal";
+"Excel_func_SIN" = "Geeft als resultaat de sinus van de opgegeven hoek";
+"Excel_func_SINH" = "Geeft als resultaat de sinus hyperbolicus van een getal";
+"Excel_func_SKEW" = "Geeft als resultaat de mate van asymmetrie van een verdeling";
+"Excel_func_SLN" = "Geeft als resultaat de lineaire afschrijving van activa over één termijn";
+"Excel_func_SLOPE" = "Geeft als resultaat de richtingscoëfficiënt van een lineaire regressielijn";
+"Excel_func_SMALL" = "Geeft als resultaat de op k-1 na kleinste waarde in een gegevensverzameling";
+"Excel_func_SQL_REQUEST" = "Maakt een verbinding met een externe gegevensbron, voert een query uit vanuit een werkblad en geeft vervolgens het resultaat als een matrix zonder dat u een macro hoeft te programmeren";
+"Excel_func_SQRT" = "Geeft als resultaat de positieve wortel";
+"Excel_func_SQRTPI" = "Geeft als resultaat de vierkantswortel van (getal * pi)";
+"Excel_func_STANDARDIZE" = "Geeft als resultaat een genormaliseerde waarde";
+"Excel_func_STDEV" = "Maakt een schatting van de standaarddeviatie op basis van een steekproef";
+"Excel_func_STDEVA" = "Maakt een schatting van de standaarddeviatie op basis van een steekproef, inclusief getallen, tekst en logische waarden";
+"Excel_func_STDEVP" = "Berekent de standaarddeviatie op basis van de volledige populatie";
+"Excel_func_STDEVPA" = "Berekent de standaarddeviatie op basis van de volledige populatie, inclusief getallen, tekst en logische waarden";
+"Excel_func_STEYX" = "Geeft als resultaat de standaardfout in de voorspelde y-waarde voor elke x in een regressie";
+"Excel_func_SUBSTITUTE" = "Vervangt oude tekst door nieuwe tekst in een tekenreeks";
+"Excel_func_SUBTOTAL" = "Geeft als resultaat een subtotaal voor een lijst of database";
+"Excel_func_SUM" = "Telt de argumenten op";
+"Excel_func_SUMIF" = "Telt de getallen bij elkaar op die voldoen aan een bepaald criterium";
+"Excel_func_SUMIFS" = "Telt de cellen in een bereik op die aan meerdere criteria voldoen";
+"Excel_func_SUMPRODUCT" = "Geeft als resultaat de som van de producten van de corresponderende matrixelementen";
+"Excel_func_SUMSQ" = "Geeft als resultaat de som van de kwadraten van de argumenten";
+"Excel_func_SUMX2MY2" = "Geeft als resultaat de som van het verschil tussen de kwadraten van corresponderende waarden in twee matrices";
+"Excel_func_SUMX2PY2" = "Geeft als resultaat de som van de kwadratensom van corresponderende waarden in twee matrices";
+"Excel_func_SUMXMY2" = "Geeft als resultaat de som van de kwadraten van de verschillen tussen de corresponderende waarden in twee matrices";
+"Excel_func_SYD" = "Geeft als resultaat de afschrijving van activa over een bepaalde termijn met behulp van de \'Sum-Of-Years-Digits\'-methode";
+"Excel_func_T" = "Converteert de argumenten naar tekst";
+"Excel_func_TAN" = "Geeft als resultaat de tangens van een getal";
+"Excel_func_TANH" = "Geeft als resultaat de tangens hyperbolicus van een getal";
+"Excel_func_TBILLEQ" = "Geeft als resultaat het rendement op schatkistpapier, dat op dezelfde manier wordt berekend als het rendement op obligaties";
+"Excel_func_TBILLPRICE" = "Bepaalt de prijs per € 100 nominale waarde voor schatkistpapier";
+"Excel_func_TBILLYIELD" = "Berekent het rendement voor schatkistpapier";
+"Excel_func_TDIST" = "Geeft als resultaat de Student T-verdeling";
+"Excel_func_TEXT" = "Maakt een getal op en converteert het getal naar tekst";
+"Excel_func_TIME" = "Geeft als resultaat het seriële getal van een bepaald tijdstip";
+"Excel_func_TIMEVALUE" = "Converteert de tijd in de vorm van tekst naar een serieel getal";
+"Excel_func_TINV" = "Geeft als resultaat de inverse van de Student T-verdeling";
+"Excel_func_TODAY" = "Geeft als resultaat het seriële getal van de huidige datum";
+"Excel_func_TRANSPOSE" = "Geeft als resultaat de getransponeerde van een matrix";
+"Excel_func_TREND" = "Geeft als resultaat de waarden voor een lineaire trend";
+"Excel_func_TRIM" = "Verwijdert de spaties uit een tekst";
+"Excel_func_TRIMMEAN" = "Geeft als resultaat het gemiddelde van waarden in een gegevensverzameling";
+"Excel_func_TRUE" = "Geeft als resultaat de logische waarde WAAR";
+"Excel_func_TRUNC" = "Kapt een getal af tot een geheel getal";
+"Excel_func_TTEST" = "Geeft als resultaat de kans met behulp van de Student T-toets";
+"Excel_func_TYPE" = "Geeft als resultaat een getal dat het gegevenstype van een waarde aangeeft";
+"Excel_func_UPPER" = "Zet tekst om in hoofdletters";
+"Excel_func_VALUE" = "Converteert tekst naar een getal";
+"Excel_func_VAR" = "Maakt een schatting van de variantie op basis van een steekproef";
+"Excel_func_VARA" = "Maakt een schatting van de variantie op basis van een steekproef, inclusief getallen, tekst en logische waarden";
+"Excel_func_VARP" = "Berekent de variantie op basis van de volledige populatie";
+"Excel_func_VARPA" = "Berekent de standaarddeviatie op basis van de volledige populatie, inclusief getallen, tekst en logische waarden";
+"Excel_func_VDB" = "Geeft als resultaat de afschrijving van activa over een gehele of gedeeltelijke termijn met behulp van de \'declining balance\'-methode";
+"Excel_func_VLOOKUP" = "Zoekt in de meest linkse kolom van een matrix naar een bepaalde waarde en geeft als resultaat de waarde in de opgegeven cel";
+"Excel_func_WEEKDAY" = "Converteert een serieel getal naar een weekdag";
+"Excel_func_WEEKNUM" = "Converteert een serieel getal naar een weeknummer";
+"Excel_func_WEIBULL" = "Berekent de standaarddeviatie op basis van de volledige populatie, inclusief getallen, tekst en logische waarden";
+"Excel_func_WORKDAY" = "Geeft als resultaat het seriële getal van de datum voor of na een bepaald aantal werkdagen";
+"Excel_func_XIRR" = "Berekent de interne rentabiliteit voor een betalingsschema van cashflows";
+"Excel_func_XNPV" = "Berekent de huidige nettowaarde voor een betalingsschema van cashflows";
+"Excel_func_YEAR" = "Converteert een serieel getal naar een jaar";
+"Excel_func_YEARFRAC" = "Geeft als resultaat het gedeelte van het jaar, uitgedrukt in het aantal hele dagen tussen begindatum en einddatum";
+"Excel_func_YIELD" = "Geeft als resultaat het rendement voor een waardepapier waarvan de rente periodiek wordt uitgekeerd";
+"Excel_func_YIELDDISC" = "Geeft als resultaat het jaarlijkse rendement voor een verdisconteerd waardepapier";
+"Excel_func_YIELDMAT" = "Geeft als resultaat het jaarlijkse rendement voor een waardepapier waarvan de rente wordt uitgekeerd op de vervaldatum";
+"Excel_func_ZTEST" = "Geeft als resultaat de eenzijdige kanswaarde van een Z-toets";
+"Excel_func_FTEST" = "Berekent de tweezijdige kans dat de varianties van matrix1 en matrix2 niet significant verschillen";
+"Excel_func_DATEDIF" = "Geeft als resultaat het verschil tussen twee datums op basis van het opgegeven interval";
+"Excel_func_DBCS" = "Wijzigt letters over de halve breedte (enkel-bytetekens) binnen een tekenreeks in tekens over de volle breedte (dubbel-bytetekens)";
+"Excel_func_USDOLLAR" = "Converteert een getal naar tekst met een valutanotatie, waarbij de waarde wordt afgerond op het opgegeven aantal decimalen";
+"Excel_func_UNICHAR" = "Geeft het Unicode-teken waarnaar wordt verwezen door de gegeven numerieke waarde";
+"Excel_func_UNICODE" = "Geeft het nummer (codepunt) dat overeenkomt met het eerste teken van de tekst";
+
+/*
+ NEW STRINGS AFTER VER 3.7.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"InfoMsg_TransactionInProgress" = "Transactie kan enkele minuten duren...";
+"InfoTitle_TransactionCompleted" = "Transactie voltooid";
+"InfoMsg_InAppRestoreDone" = "Terugzetten voltooid.";
+"Label_FontPackDescription70" = "Een verzameling met meer dan 70 lettertypen, zoals Calibri, Tahoma en Wingdings, die kunnen worden gebruikt in OfficeSuite.";
+"Label_FontPackDescriptionOFL" = "Bevat ook 60 OFL-lettertypen, zoals Garamond, Open Sans en Times Gothic.";
+"Label_OneTimePurchase2" = "Eenmalige aankoop";
+
+/* Up to 10 chars */
+"Label_Unlock" = "Ontgrendel";
+
+/* Up to 14 chars */
+"Label_Features" = "Functies";
+
+"Label_InfoMsgAutoSumNotAvailable" = "De selectie mag geen volledige rij, kolom of tabel bevatten.";
+"Label_MultiSelection" = "Meervoudige selectie";
+"Label_ClearFilterC" = "Wis filter";
+"Label_ReapplyFilterC" = "Pas filter opnieuw toe";
+"Label_AboveAverageC" = "Boven gemiddelde";
+"Label_BelowAverageC" = "Onder gemiddelde";
+"Label_DeleteCell" = "Verwijder cel";
+"Label_Buy" = "Koop";
+"Label_YourHTTPAddress" = "Uw HTTP-adres";
+"Label_YourUsername" = "Uw gebruikersnaam";
+"Label_YourPassword" = "Uw wachtwoord";
+
+/*
+ NEW STRINGS AFTER VER 4.0
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// File Browser
+"Label_NewFile" = "Nieuw bestand";
+"Label_FolderUp" = "Map omhoog";
+"Label_Sidebar" = "Navigatiekolom";
+"Label_Ad" = "Advertentie";
+"Label_DeselectAll" = "Deselecteer alles";
+"Label_Apply" = "Pas toe";
+"ErrMsg_LocalStorageOnly" = "U kunt bestanden alleen lokaal bewaren.";
+"Label_Submit" = "Stuur";
+"Label_Username" = "Gebruikersnaam";
+"InfoTitle_LoginFailure" = "Inlogfout";
+"InfoTitle_ServerIdentity" = "Kan serveridentiteit niet verifiëren";
+"InfoTitle_LoginRequired" = "Voor deze pagina moet u ingelogd zijn";
+"InfoMsg_LoginFailureSSOUntrusted" = "Kan inloggen niet voltooien omdat de SSO-server niet wordt vertrouwd. Neem contact op met uw beheerder voor meer informatie.";
+"InfoMsg_ServerIdentity" = "Box kan de identiteit niet verifiëren van %@. Wilt u toch doorgaan?";
+"InfoMsg_VerifyUsernameAndPassword" = "Kan niet inloggen. Controleer uw gebruikersnaam/wachtwoord en probeer het opnieuw.";
+"Label_WordTemplates" = "Word-sjablonen";
+"Label_ExcelTemplates" = "Spreadsheetsjablonen";
+"Label_PowerpointTemplates" = "Presentatiesjablonen";
+// PowerPoint
+"Label_PowerPoint97Presentation" = "Presentatie in PowerPoint 97-2003";
+"Label_PowerPointMacroPresentation" = "PowerPoint-presentatie met macro's";
+"Label_PowerPointSlideShow" = "Diavoorstelling in PowerPoint";
+"Label_PowerPoint97SlideShow" = "Diavoorstelling in PowerPoint 97-2003";
+"Label_PowerPointMacroSlideShow" = "PowerPoint-diavoorstelling met macro's";
+"Label_SlideRange" = "Dianummer (1 - %d)";
+"Label_DataLostAfterSave" = "Sommige gegevens worden mogelijk niet bewaard.";
+"Label_PowerPointTemplate" = "PowerPoint-sjabloon";
+"Label_Transitions" = "Overgangen";
+"Label_TransitionEffect" = "Overgangseffect";
+"Label_EffectOptions" = "Effectopties";
+"Label_TransitionDuration" = "Duur van overgang";
+"Label_AdvanceSlideAfter" = "Nieuwe dia na";
+
+/* Up to 22 chars */
+"Label_ChangeSlideAfter" = "Wijzig dia na";
+
+"Label_ApplyToAll" = "Pas toe op alles";
+"Label_ApplyTransition" = "Pas overgang toe";
+
+/* Up to 16 chars */
+"Label_SetDuration" = "Stel duur in";
+
+"Label_Min" = "Min.";
+"Label_Sec" = "Sec.";
+
+/* Up to 60 chars */
+"Label_TransitionAppliedToAll" = "De overgangsinstellingen zijn toegepast op alle dia's.";
+
+"Label_Subtle" = "Subtiel";
+"Label_Exciting" = "Opvallend";
+"Label_DynamicContent" = "Dynamische inhoud";
+
+/* Transition names - each one must be 12 chars or less */
+"Label_Fade" = "Vervaag";
+"Label_Push" = "Duw";
+"Label_Wipe" = "Wis";
+"Label_Split" = "Splits";
+"Label_Reveal" = "Openbaar";
+"Label_RandomBars" = "Willekeurig";
+"Label_Uncover" = "Onthul";
+"Label_Cover" = "Bedek";
+"Label_Flash" = "Flits";
+"Label_Dissolve" = "Los op";
+"Label_Checkboard" = "Dambord";
+"Label_Blinds" = "Blindering";
+"Label_Clock" = "Klok";
+"Label_Ripple" = "Rimpeling";
+"Label_Honeycomb" = "Honingraat";
+"Label_Glitter" = "Glitter";
+"Label_Vortex" = "Wervel";
+"Label_Shred" = "Versnipper";
+"Label_Switch" = "Schakel over";
+"Label_Flip" = "Spiegel";
+"Label_Gallery" = "Galerie";
+"Label_Cube" = "Kubus";
+"Label_Doors" = "Deuren";
+"Label_Box" = "Vak";
+"Label_Comb" = "Kam";
+"Label_Wheel" = "Wiel";
+"Label_Newsflash" = "Nieuwsflits";
+"Label_Pan" = "Pan";
+"Label_FerrisWheel" = "Reuzenrad";
+"Label_Conveyor" = "Loopband";
+"Label_Rotate" = "Draai";
+"Label_Window" = "Venster";
+"Label_Orbit" = "Cirkel";
+"Label_FlyThrough" = "Vlieg binnen";
+/* End Transition names */
+
+// Transition options
+"Label_ThroughBlack" = "Via zwart";
+"Label_Smoothly" = "Vloeiend";
+"Label_FromBottom" = "Van onderkant";
+"Label_FromLeft" = "Van links";
+"Label_FromRight" = "Van rechts";
+"Label_FromTop" = "Van bovenkant";
+"Label_FromTopRight" = "Van rechtsboven";
+"Label_FromTopLeft" = "Van linksboven";
+"Label_FromBottomLeft" = "Van linksonder";
+"Label_FromBottomRight" = "Van rechtsonder";
+"Label_Vertical" = "Verticaal";
+"Label_VerticalOut" = "Verticaal uit";
+"Label_VerticalIn" = "Verticaal in";
+"Label_Horizontal" = "Horizontaal";
+"Label_HorizontalOut" = "Horizontaal uit";
+"Label_HorizontalIn" = "Horizontaal in";
+"Label_SmoothlyFromRight" = "Vloeiend vanaf rechts";
+"Label_SmoothlyFromLeft" = "Vloeiend vanaf links";
+"Label_ThroughBlackFromRight" = "Via zwart van rechts";
+"Label_ThroughBlackFromLeft" = "Via zwart van links";
+"Label_Circle" = "Cirkel";
+"Label_Diamond" = "Ruit";
+"Label_Plus" = "Plus";
+"Label_In" = "In";
+"Label_Out" = "Uit";
+"Label_Clockwise" = "Rechtsom";
+"Label_Counterclockwise" = "Linksom";
+"Label_Wedge" = "Wigvorm";
+"Label_Center" = "Centreer";
+"Label_2SpokesClockwise" = "2 spaken rechtsom";
+"Label_3SpokesClockwise" = "3 spaken rechtsom";
+"Label_4SpokesClockwise" = "4 spaken rechtsom";
+"Label_8SpokesClockwise" = "8 spaken rechtsom";
+"Label_2SpokesCounterclockwise" = "2 spaken linksom";
+"Label_3SpokesCounterclockwise" = "3 spaken linksom";
+"Label_4SpokesCounterclockwise" = "4 spaken linksom";
+"Label_8SpokesCounterclockwise" = "8 spaken linksom";
+"Label_HexagonsFromLeft" = "Zeshoeken vanaf links";
+"Label_HexagonsFromTop" = "Zeshoeken vanaf boven";
+"Label_HexagonsFromRight" = "Zeshoeken vanaf rechts";
+"Label_HexagonsFromBottom" = "Zeshoeken vanaf onder";
+"Label_DiamondsFromLeft" = "Ruiten vanaf links";
+"Label_DiamondsFromTop" = "Ruiten vanaf boven";
+"Label_DiamondsFromRight" = "Ruiten vanaf rechts";
+"Label_DiamondsFromBottom" = "Ruiten vanaf onder";
+"Label_StripsIn" = "Stroken in";
+"Label_StripsOut" = "Stroken uit";
+"Label_ParticlesIn" = "Deeltjes in";
+"Label_ParticlesOut" = "Deeltjes uit";
+"Label_Left" = "Links";
+"Label_Right" = "Rechts";
+"Label_InWithBounce" = "In met stuiteren";
+"Label_OutWithBounce" = "Uit met stuiteren";
+"Label_ExcelMacroEnabledWorkbook" = "Excel-werkboek met macro's";
+"Label_ExcelTemplate" = "Excel-sjabloon";
+"Label_Zip" = "Verpak";
+"Label_ZipDocument" = "Verpak document";
+"Label_ZipDocuments" = "Verpak documenten";
+// Conditional Formatting
+"Label_ConditionalFormatting" = "Voorwaardelijke opmaak";
+
+/* Up to 22 chars */
+"Label_HighlightCellsRules" = "Regels celmarkering";
+
+/* Up to 25 chars */
+"Label_Top/Bottom/Avg" = "Regels boven/onder/gemiddeld";
+
+"Label_DataBars" = "Gegevensbalken";
+"Label_ColorScales" = "Kleurschalen";
+"Label_ClearRulesFromEntireSheet" = "Wis regels van gehele werkblad";
+"Label_RulesManager" = "Regelbeheer";
+"Label_TitleClearCFRulesAlert" = "Wilt u alle regels wissen?";
+"Label_MessageClearCFRulesAlert" = "Voorwaardelijke opmaak zal worden verwijderd.";
+"Label_FormatCellsRules" = "Opmaakregels cellen";
+
+/* Up to 20 chars */
+"Label_TopBottomAverage" = "Boven/onder/gemiddeld";
+
+"Label_Content" = "Inhoud";
+"Label_Rank" = "Rang";
+"Label_RuleType" = "Regeltype";
+
+/* Up to 10 chars */
+"Label_Value_1" = "Waarde 1";
+
+/* Up to 10 chars */
+"Label_Value_2" = "Waarde 2";
+
+// Conditional format types
+"Excel_CF_CellValue" = "Celwaarde";
+"Excel_CF_SpecificText" = "Specifieke tekst";
+"Excel_CF_Blanks" = "Lege cellen";
+"Excel_CF_NoBlanks" = "Geen lege cellen";
+"Excel_CF_Errors" = "Fouten";
+"Excel_CF_NoErrors" = "Geen fouten";
+"Excel_CF_Unique" = "Uniek";
+"Excel_CF_Duplicate" = "Dubbele cel";
+"Excel_CF_DatesOccurring" = "Datums op of in";
+"Excel_CF_EqualTo" = "gelijk aan";
+"Excel_CF_NotEqualTo" = "niet gelijk aan";
+"Excel_CF_LessThan" = "minder dan";
+"Excel_CF_LessEqual" = "minder dan of gelijk aan";
+"Excel_CF_GreaterThan" = "meer dan";
+"Excel_CF_GreaterEqual" = "meer dan of gelijk aan";
+"Excel_CF_Between" = "tussen";
+"Excel_CF_NotBetween" = "niet tussen";
+"Excel_CF_Contains" = "bevat";
+"Excel_CF_NotContains" = "bevat niet";
+"Excel_CF_BeginsWith" = "begint met";
+"Excel_CF_EndsWith" = "eindigt op";
+"Excel_CF_Top" = "Boven";
+"Excel_CF_Bottom" = "Onder";
+"Excel_CF_StdDevAbove" = "std. dev. boven";
+"Excel_CF_StdDevBelow" = "std. dev. onder";
+"Excel_CF_EqualOrAbove" = "Gelijk of boven";
+"Excel_CF_EqualOrBelow" = "Gelijk of onder";
+"Excel_CF_AboveAverage" = "Boven gemiddelde";
+"Excel_CF_BelowAverage" = "Onder gemiddelde";
+// Conditional format descriptions
+"Excel_CFDescr_blank" = "Cel bevat een lege waarde";
+"Excel_CFDescr_no_blank" = "Cel bevat geen lege waarde";
+"Excel_CFDescr_error" = "Cel bevat een fout";
+"Excel_CFDescr_no_error" = "Cel bevat geen fout";
+"Excel_CFDescr_cell_value" = "Celwaarde";
+"Excel_CFDescr_between" = "Tussen";
+"Excel_CFDescr_not_between" = "Niet tussen";
+"Excel_CFDescr_and" = "en";
+"Excel_CFDescr_contains" = "Bevat";
+"Excel_CFDescr_does_not_contain" = "Bevat niet";
+"Excel_CFDescr_begins_with" = "Begint met";
+"Excel_CFDescr_ends_with" = "Eindigt op";
+"Excel_CFDescr_std_dev" = "std. dev.";
+"Excel_CFDescr_equal_to_or" = "Gelijk aan of";
+"Excel_CFDescr_above_average" = "Boven gemiddelde";
+"Excel_CFDescr_below_average" = "Onder gemiddelde";
+"Excel_CFDescr_dates_occurring_yesterday" = "Gisteren";
+"Excel_CFDescr_dates_occurring_today" = "Vandaag";
+"Excel_CFDescr_dates_occurring_tomorrow" = "Morgen";
+"Excel_CFDescr_dates_occurring_last_7_days" = "Laatste 7 dagen";
+"Excel_CFDescr_dates_occurring_last_week" = "Vorige week";
+"Excel_CFDescr_dates_occurring_this_week" = "Deze week";
+"Excel_CFDescr_dates_occurring_next_week" = "Volgende week";
+"Excel_CFDescr_dates_occurring_last_month" = "Vorige maand";
+"Excel_CFDescr_dates_occurring_this_month" = "Deze maand";
+"Excel_CFDescr_dates_occurring_next_month" = "Volgende maand";
+"Label_XlsSaveCFRulesNotSupported" = "Het bewaren van voorwaardelijke opmaak in de .xls-indeling wordt niet ondersteund. De voorwaardelijke opmaak wordt niet bewaard.";
+// Accessibility labels
+"Label_Inside" = "Binnen";
+"Label_Outside" = "Buiten";
+"Label_Vertical_Inside" = "Verticaal binnen";
+"Label_Horizontal_Inside" = "Horizontaal binnen";
+"Label_ShowFormattingSymbols" = "Toon opmaaksymbolen";
+"Label_JustifiedParagraphAlignment" = "Vul uit";
+"Label_LeftParagraphAlignment" = "Lijn links uit";
+"Label_CenterParagraphAlignment" = "Centreer";
+"Label_RightParagraphAlignment" = "Lijn rechts uit";
+"Label_FontTextColorDropdown" = "Tekstkleur vervolgmenu";
+"Label_FontHighlightColorDropdown" = "Markeerkleur vervolgmenu";
+"Label_NumberingDropdown" = "Nummering vervolgmenu";
+"Label_BulletsDropdown" = "Opsommingstekens vervolgmenu";
+"Label_EnterViewMode" = "Open weergavemodus";
+"Label_EnterEditMode" = "Open bewerkmodus";
+"Label_ChangeTableStyle" = "Wijzig tabelstijl";
+"Label_InsertTableRowAbove" = "Voeg tabelrij boven in";
+"Label_InsertTableRowBelow" = "Voeg tabelrij onder in";
+"Label_InsertTableColumnToTheLeft" = "Voeg tabelkolom links in";
+"Label_InsertTableColumnToTheRight" = "Voeg tabelkolom rechts in";
+"Label_DeleteTableRow" = "Verwijder tabelrij";
+"Label_DeleteTableColumn" = "Verwijder tabelkolom";
+"Label_DeleteTableCell" = "Verwijder tabelcel";
+"Label_TableSizeGrid" = "Rasterselectie tabelgrootte";
+"Label_IncreaseValue" = "Vergroot waarde";
+"Label_DecreaseValue" = "Verklein waarde";
+"Label_Photo" = "Foto";
+"Label_Graphic" = "Afbeelding";
+"Label_CaptureImage" = "Leg afbeelding vast";
+"Label_SwitchCamera" = "Andere camera";
+"Label_NewSheet" = "Nieuw werkblad";
+"Label_SheetOfSheets" = "Werkblad $1 van $2";
+"Label_MenuItem" = "Menu-item";
+"Label_CellContent" = "Celinhoud";
+// pdf
+"Label_ViewMode" = "Weergavemodus";
+"Label_SinglePage" = "Enkele pagina";
+"Label_Ellipse" = "Ellips";
+"Label_Rectangle" = "Rechthoek";
+"Label_Line" = "Lijn";
+"Label_FreeDraw" = "Onbeperkt tekenen";
+
+// File Browser
+"WarningMsg_ZippingFilesInterrupted" = "Toevoegen van bestanden aan archief mislukt.";
+"Label_UnsupportedDocumentType" = "Niet-ondersteund documenttype";
+"Label_UnknownDocumentType" = "Onbekend documenttype";
+"Label_Certificate" = "Certificaat";
+"Label_PersonalInformationExchange" = "Uitwisselen van persoonlijke gegevens";
+"ErrTitle_NoPermission" = "Geen toestemming";
+"ErrMsg_CannotDeleteInboxFolder" = "U kunt de map van het postvak IN niet verwijderen als iCloud is uitgeschakeld.";
+"Label_OpenODF" = "ODF-ondersteuning";
+"Label_OpenODFDescription" = "Open je .odt, .ods en .odp bestanden";
+// Word
+"WarningMessage_RtfWillLoseFormatting2" = "Als u uw bestand als RTF-bestand opslaat, kunnen wachtwoordbeveiliging en een deel van de opmaak verloren gaan. Doorgaan?";
+"WarningMessage_TxtWillLoseFormatting2" = "Als u dit opslaat als tekstbestand, gaan wachtwoordbeveiliging, opmaak, afbeeldingen en objecten in uw bestand verloren. Doorgaan?";
+"WarningMessage_OdtWillLoseFormatting2" = "Als u uw bestand opslaat als ODT-bestand, gaan wachtwoordbeveiliging en een deel van de opmaak verloren. Doorgaan?";
+"WarningMessage_ExportToPDFWillLoseProtection" = "Het geëxporteerde bestand wordt niet met een wachtwoord beveiligd. Doorgaan?";
+// Excel
+"Label_Selection" = "Selectie";
+"Label_Worksheet" = "Werkblad";
+"ErrMsg_NoStyleForCFRule" = "Voor de regel is geen opmaak ingesteld.";
+"ErrMsg_InvalidCFRule" = "Voor de regel zijn geen waarden ingesteld.";
+"Label_XlsSaveSomeItemsNotSupported" = "Het opslaan van functies uit dit werkboek in XLS-indeling wordt niet ondersteund.";
+"Label_RandomTransition" = "Willekeurig";
+// pdf accessibility
+"Label_PageNumber" = "Pagina %d";
+
+/*
+ NEW STRINGS AFTER VER 4.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Label_ColumnChart" = "Kolom";
+"Label_BarChart" = "Balk";
+"Label_LineChart" = "Lijn";
+"Label_AreaChart" = "Vlak";
+"Label_PieChart" = "Taart";
+"Label_ScatterChart" = "Spreiding";
+"Label_Clustered" = "Gegroepeerd";
+"Label_Stacked" = "Gestapeld";
+"Label_Stacked100" = "100% gestapeld";
+"Label_ScatterMarkers" = "Markering";
+"Label_ScatterLines" = "Lijn";
+"Label_ScatterLinesMarkers" = "Lijn en markering";
+"Label_FeatureIsNotAvaialableForSheet" = "Dit kenmerk is niet beschikbaar voor dit blad.";
+"Label_TextToDisplay" = "Tekst voor weergave";
+"Label_Address" = "Adres";
+
+//Accessibility strings
+"Accessibility_Label_StrikeThrough" = "Doorstrepen";
+"Accessibility_Label_TextColorOptions" = "Opties tekstkleur";
+"Accessibility_Label_LeftAlignment" = "Links uitlijnen";
+"Accessibility_Label_CenterAlignment" = "Centreren";
+"Accessibility_Label_RightAlignment" = "Rechts uitlijnen";
+"Accessibility_Label_JustifyAlignment" = "Uitvullen";
+"Accessibility_Label_Increase" = "Hoger";
+"Accessibility_Label_Decrease" = "Lager";
+"Accessibility_Label_Hours" = "Uur";
+"Accessibility_Label_Minutes" = "Minuten";
+"Accessibility_Label_Seconds" = "Seconden";
+"Accessibility_Label_Centiseconds" = "Honderdsten van seconden";
+"Accessibility_Label_Color_Description" = "Kleur rood %d, groen %d, blauw %d en transparant %d";
+
+"Label_ShapeType_AccentBorderCallout1" = "Toelichting 1 met rand en accent";
+"Label_ShapeType_AccentBorderCallout2" = "Toelichting 2 met rand en accent";
+"Label_ShapeType_AccentBorderCallout3" = "Toelichting 3 met rand en accent";
+"Label_ShapeType_AccentCallout1" = "Toelichting 1 met accent";
+"Label_ShapeType_AccentCallout2" = "Toelichting 2 met accent";
+"Label_ShapeType_AccentCallout3" = "Toelichting 3 met accent";
+"Label_ShapeType_ActionButtonBackPrevious" = "Terug of vorige knopvorm";
+"Label_ShapeType_ActionButtonBeginning" = "Startknop";
+"Label_ShapeType_ActionButtonBlank" = "Lege knop";
+"Label_ShapeType_ActionButtonDocument" = "Documentknop";
+"Label_ShapeType_ActionButtonEnd" = "Eindeknop";
+"Label_ShapeType_ActionButtonForwardNext" = "Vooruit- of Volgende-knopvorm";
+"Label_ShapeType_ActionButtonHelp" = "Helpknop";
+"Label_ShapeType_ActionButtonHome" = "Beginknop";
+"Label_ShapeType_ActionButtonInformation" = "Informatieknop";
+"Label_ShapeType_ActionButtonMovie" = "Filmknop";
+"Label_ShapeType_ActionButtonReturn" = "Terugknop";
+"Label_ShapeType_ActionButtonSound" = "Geluidsknop";
+"Label_ShapeType_Arc" = "Gekromde boog";
+"Label_ShapeType_BentArrow" = "Gebogen pijl";
+"Label_ShapeType_BentConnector2" = "Gebogen verbindingslijn 2";
+"Label_ShapeType_BentConnector3" = "Gebogen verbindingslijn 3";
+"Label_ShapeType_BentConnector4" = "Gebogen verbindingslijn 4";
+"Label_ShapeType_BentConnector5" = "Gebogen verbindingslijn 5";
+"Label_ShapeType_BentUpArrow" = "Gebogen pijl omhoog";
+"Label_ShapeType_Bevel" = "Schuine rand";
+"Label_ShapeType_BlockArc" = "Blokboog";
+"Label_ShapeType_BorderCallout1" = "Toelichting 1 met rand";
+"Label_ShapeType_BorderCallout2" = "Toelichting 2 met band";
+"Label_ShapeType_BorderCallout3" = "Toelichting 3 met rand";
+"Label_ShapeType_BracePair" = "Paar accolades";
+"Label_ShapeType_BracketPair" = "Paar vierkante haken";
+"Label_ShapeType_Callout1" = "Toelichting 1";
+"Label_ShapeType_Callout2" = "Toelichting 2";
+"Label_ShapeType_Callout3" = "Toelichting 3";
+"Label_ShapeType_Can" = "Cilinder";
+"Label_ShapeType_ChartPlus" = "Plusdiagram";
+"Label_ShapeType_ChartStar" = "Sterdiagram";
+"Label_ShapeType_ChartX" = "Diagram X";
+"Label_ShapeType_Chevron" = "Chevron";
+"Label_ShapeType_Chord" = "Koord";
+"Label_ShapeType_CircularArrow" = "Draaiende pijl";
+"Label_ShapeType_Cloud" = "Wolk";
+"Label_ShapeType_CloudCallout" = "Toelichting wolk";
+"Label_ShapeType_Corner" = "Hoekstuk";
+"Label_ShapeType_CornerTabs" = "Hoekstuktabbladen";
+"Label_ShapeType_Cube" = "Kubus";
+"Label_ShapeType_CurvedConnector2" = "Gebogen verbindingslijn 2";
+"Label_ShapeType_CurvedConnector3" = "Gebogen verbindingslijn 3";
+"Label_ShapeType_CurvedConnector4" = "Gebogen verbindingslijn 4";
+"Label_ShapeType_CurvedConnector5" = "Gebogen verbindingslijn 5";
+"Label_ShapeType_CurvedDownArrow" = "Gebogen pijl omlaag";
+"Label_ShapeType_CurvedLeftArrow" = "Gebogen pijl links";
+"Label_ShapeType_CurvedRightArrow" = "Gebogen pijl rechts";
+"Label_ShapeType_CurvedUpArrow" = "Gebogen pijl omhoog";
+"Label_ShapeType_Decagon" = "Tienhoek";
+"Label_ShapeType_DiagStripe" = "Diagonale streep";
+"Label_ShapeType_Diamond" = "Ruit";
+"Label_ShapeType_Dodecagon" = "Twaalfhoek";
+"Label_ShapeType_Donut" = "Donut";
+"Label_ShapeType_DoubleWave" = "Dubbele golf";
+"Label_ShapeType_DownArrow" = "Pijl omlaag";
+"Label_ShapeType_DownArrowCallout" = "Toelichting pijl omlaag";
+"Label_ShapeType_Ellipse" = "Ovaal";
+"Label_ShapeType_EllipseRibbon" = "Ovaallint";
+"Label_ShapeType_EllipseRibbon2" = "Ovaallint 2";
+"Label_ShapeType_FlowChartAlternateProcess" = "Stroom alternatief proces";
+"Label_ShapeType_FlowChartCollate" = "Stroom sortering";
+"Label_ShapeType_FlowChartConnector" = "Stroom verbinding";
+"Label_ShapeType_FlowChartDecision" = "Stroom beslissing";
+"Label_ShapeType_FlowChartDelay" = "Stroom vertraging";
+"Label_ShapeType_FlowChartDisplay" = "Stroom weergave";
+"Label_ShapeType_FlowChartDocument" = "Stroom document";
+"Label_ShapeType_FlowChartExtract" = "Stroom uitpakken";
+"Label_ShapeType_FlowChartInputOutput" = "Stroom invoer/uitvoer";
+"Label_ShapeType_FlowChartInternalStorage" = "Stroom interne opslag";
+"Label_ShapeType_FlowChartMagneticDisk" = "Stroom magnetische schijf";
+"Label_ShapeType_FlowChartMagneticDrum" = "Stroom magnetisch vat";
+"Label_ShapeType_FlowChartMagneticTape" = "Stroom magnetische tape";
+"Label_ShapeType_FlowChartManualInput" = "Stroom handmatige invoer";
+"Label_ShapeType_FlowChartManualOperation" = "Stroom handmatige bediening";
+"Label_ShapeType_FlowChartMerge" = "Stroom samenvoeging";
+"Label_ShapeType_FlowChartMultidocument" = "Stroom multi-document";
+"Label_ShapeType_FlowChartOfflineStorage" = "Stroom offline opslag";
+"Label_ShapeType_FlowChartOffpageConnector" = "Stroom verbindingslijn naar andere pagina";
+"Label_ShapeType_FlowChartOnlineStorage" = "Stroom online opslag";
+"Label_ShapeType_FlowChartOr" = "Of stroom";
+"Label_ShapeType_FlowChartPredefinedProcess" = "Stroom vooraf gedefinieerd proces";
+"Label_ShapeType_FlowChartPreparation" = "Stroom voorbereiding";
+"Label_ShapeType_FlowChartProcess" = "Stroom proces";
+"Label_ShapeType_FlowChartPunchedCard" = "Stroom ponskaart";
+"Label_ShapeType_FlowChartPunchedTape" = "Stroom ponstape";
+"Label_ShapeType_FlowChartSort" = "Stroom sortering";
+"Label_ShapeType_FlowChartSummingJunction" = "Stroom samenvoeging";
+"Label_ShapeType_FlowChartTerminator" = "Stroom afsluiter";
+"Label_ShapeType_FoldedCorner" = "Ezelsoor";
+"Label_ShapeType_Frame" = "Kader";
+"Label_ShapeType_Funnel" = "Trechter";
+"Label_ShapeType_Gear6" = "Versnelling 6";
+"Label_ShapeType_Gear9" = "Versnelling 9";
+"Label_ShapeType_HalfFrame" = "Half kader";
+"Label_ShapeType_Heart" = "Hart";
+"Label_ShapeType_Heptagon" = "Zevenhoek";
+"Label_ShapeType_Hexagon" = "Zeshoek";
+"Label_ShapeType_HomePlate" = "Beginplaat";
+"Label_ShapeType_HorizontalScroll" = "Horizontaal scrollen";
+"Label_ShapeType_IrregularSeal1" = "Onregelmatige afdichting 1";
+"Label_ShapeType_IrregularSeal2" = "Onregelmatige afdichting 2";
+"Label_ShapeType_LeftArrow" = "Pijl links";
+"Label_ShapeType_LeftArrowCallout" = "Toelichting pijl links";
+"Label_ShapeType_LeftBrace" = "Linkeraccolade";
+"Label_ShapeType_LeftBracket" = "Vierkante haak links";
+"Label_ShapeType_LeftCircularArrow" = "Draaiende pijl links";
+"Label_ShapeType_LeftRightArrow" = "Pijl links/rechts";
+"Label_ShapeType_LeftRightArrowCallout" = "Toelichting pijl links/rechts";
+"Label_ShapeType_LeftRightCircularArrow" = "Draaiende pijl links/rechts";
+"Label_ShapeType_LeftRightRibbon" = "Lint links/rechts";
+"Label_ShapeType_LeftRightUpArrow" = "Pijl omhoog links/rechts";
+"Label_ShapeType_LeftUpArrow" = "Pijl omhoog links";
+"Label_ShapeType_LightningBolt" = "Bliksemflits";
+"Label_ShapeType_Line" = "Lijn";
+"Label_ShapeType_LineInv" = "Lijnomkering";
+"Label_ShapeType_MathDivide" = "Delen";
+"Label_ShapeType_MathEqual" = "Is gelijk aan";
+"Label_ShapeType_MathMinus" = "Min";
+"Label_ShapeType_MathMultiply" = "Vermenigvuldigen";
+"Label_ShapeType_MathNotEqual" = "Is niet gelijk aan";
+"Label_ShapeType_MathPlus" = "Plus";
+"Label_ShapeType_Moon" = "Maan";
+"Label_ShapeType_NonIsoscelesTrapezoid" = "Niet-gelijkbenig trapezium";
+"Label_ShapeType_NoSmoking" = "Niet roken";
+"Label_ShapeType_NotchedRightArrow" = "Ingekeepte pijl rechts";
+"Label_ShapeType_Octagon" = "Achthoek";
+"Label_ShapeType_Parallelogram" = "Parallelogram";
+"Label_ShapeType_Pentagon" = "Vijfhoek";
+"Label_ShapeType_Pie" = "Taart";
+"Label_ShapeType_PieWedge" = "Taartpunt";
+"Label_ShapeType_Plaque" = "Broche";
+"Label_ShapeType_PlaqueTabs" = "Brochetabblad";
+"Label_ShapeType_Plus" = "Plus";
+"Label_ShapeType_QuadArrow" = "Vierkante pijl";
+"Label_ShapeType_QuadArrowCallout" = "Toelichting vierkante pijl";
+"Label_ShapeType_Rectangle" = "Rechthoek";
+"Label_ShapeType_Ribbon" = "Lint";
+"Label_ShapeType_Ribbon2" = "Lint 2";
+"Label_ShapeType_RightArrow" = "Pijl rechts";
+"Label_ShapeType_RightArrowCallout" = "Toelichting pijl rechts";
+"Label_ShapeType_RightBrace" = "Accolade rechts";
+"Label_ShapeType_RightBracket" = "Vierkante haak rechts";
+"Label_ShapeType_Round1Rect" = "Rechthoek met één ronde hoek";
+"Label_ShapeType_Round2DiagRect" = "Rechthoek met diagonaal twee ronde hoeken";
+"Label_ShapeType_Round2SameRect" = "Rechthoek met twee ronde hoeken aan dezelfde kant";
+"Label_ShapeType_RoundRectangle" = "Rechthoek met ronde hoeken";
+"Label_ShapeType_RightTriangle" = "Rechthoekige driehoek";
+"Label_ShapeType_SmileyFace" = "Smiley";
+"Label_ShapeType_Snip1Rect" = "Rechthoek met één hoek met knipsel";
+"Label_ShapeType_Snip2DiagRect" = "Rechthoek met diagonaal twee hoeken met knipsel";
+"Label_ShapeType_Snip2SameRect" = "Rechthoek met twee hoeken met knipsel aan dezelfde kant";
+"Label_ShapeType_SnipRoundRect" = "Rechthoek met één ronde hoek met één knipsel";
+"Label_ShapeType_SquareTabs" = "Vierkante tabbladen";
+"Label_ShapeType_Star10" = "Tienpuntige ster";
+"Label_ShapeType_Star12" = "Twaalfpuntige ster";
+"Label_ShapeType_Star16" = "Zestienpuntige ster";
+"Label_ShapeType_Star24" = "Vierentwintigpuntige ster";
+"Label_ShapeType_Star32" = "Tweeëndertigpuntige ster";
+"Label_ShapeType_Star4" = "Vierpuntige ster";
+"Label_ShapeType_Star" = "Vijfpuntige ster";
+"Label_ShapeType_Star6" = "Zespuntige ster";
+"Label_ShapeType_Star7" = "Zevenpuntige ster";
+"Label_ShapeType_Star8" = "Achtpuntige ster";
+"Label_ShapeType_StraightConnector1" = "Rechte verbindingslijn 1";
+"Label_ShapeType_StripedRightArrow" = "Gestreepte pijl rechts";
+"Label_ShapeType_Sun" = "Zon";
+"Label_ShapeType_SwooshArrow" = "Woesj-pijl";
+"Label_ShapeType_Teardrop" = "Traan";
+"Label_ShapeType_Trapezoid" = "Trapezium";
+"Label_ShapeType_Triangle" = "Driehoek";
+"Label_ShapeType_UpArrow" = "Pijl omhoog";
+"Label_ShapeType_UpArrowCallout" = "Toelichting pijl omhoog";
+"Label_ShapeType_UpDownArrow" = "Pijl omhoog/omlaag";
+"Label_ShapeType_UpDownArrowCallout" = "Toelichting pijl omhoog/omlaag";
+"Label_ShapeType_UturnArrow" = "Pijl met U-bocht";
+"Label_ShapeType_VerticalScroll" = "Verticaal bladeren";
+"Label_ShapeType_Wave" = "Golf";
+"Label_ShapeType_WedgeEllipseCallout" = "Toelichting ovaalvormige taartpunt";
+"Label_ShapeType_WedgeRectCallout" = "Toelichting rechthoekige taartpunt";
+"Label_ShapeType_WedgeRRectCallout" = "Toelichting afgeronde rechthoekige taartpunt";
+
+"Label_FilledRoundBullets" = "Gevulde ronde opsommingstekens";
+"Label_HollowRoundBullets" = "Lege ronde opsommingstekens";
+"Label_FilledSquareBullets" = "Gevulde vierkante opsommingstekens";
+"Label_HollowSquareBullets" = "Lege vierkante opsommingstekens";
+"Label_StarBullets" = "Stervormige opsommingstekens";
+"Label_ArrowBullets" = "Pijlvormige opsommingstekens";
+"Label_CheckmarkBullets" = "Opsommingstekens met vinkjes";
+
+"Label_NumbersInBrackets" = "Getallen tussen haken";
+"Label_LowerLettersInBrackets" = "Kleine letters tussen haken";
+"Label_UpperLettersWithBracket" = "Hoofdletters met haak";
+"Label_UpperLettersInBrackets" = "Hoofdletters tussen haken";
+"Label_UpperRomanNumbersWithBracket" = "Romeinse hoofdletters met haak";
+"Label_UpperRomanNumbersInBrackets" = "Romeinse hoofdletters tussen haken";
+"Label_LowerRomanNumbersWithBracket" = "Romeinse kleine letters met haak";
+"Label_LowerRomanNumbersInBrackets" = "Romeinse kleine letters tussen haken";
+
+"InfoTitle_AddNotes" = "Dubbeltikken om notities toe te voegen";
+
+"Label_BubbleChart" = "Bubbel";
+"Label_BubbleChart3D" = "3D-bubbel";
+
+/* Up to 30 chars */
+"Label_ClearHyperlink" = "Hyperlinks wissen";
+
+"Label_EnterTitle" = "Titel invoeren";
+"Label_RemoveLink" = "Koppeling verwijderen";
+"Label_NumAccounting" = "Financieel";
+"Label_SelectCell" = "Cel selecteren";
+"Label_SelectSheet"= "Blad selecteren";
+"Label_TypeInTheCellRef" = "Celverwijzing invoeren";
+"Label_StockChart" = "Hoog/laag/slot";
+
+/* Up to 22 chars */
+"Label_StockHLC" = "Hoog-laag-slot";
+
+/* Up to 22 chars */
+"Label_StockOHLC" = "Open-hoog-laag-slot";
+
+/* Up to 10 chars */
+"Label_Comment" = "Opmerking";
+
+"Label_XlsSaveCommentsNotSupported" = "Opmerkingen opslaan in .xls-bestanden wordt niet ondersteund. Opmerkingen worden niet opgeslagen.";
+"Label_PrevComment" = "Vorige opmerking";
+"Label_NextComment" = "Volgende opmerking";
+"Label_EditComment" = "Opmerking bewerken";
+"Label_DeleteComment" = "Opmerking verwijderen";
+"Label_ClearComments" = "Opmerkingen wissen";
+
+/* Up to 10 chars */
+"Label_XValues" = "X-waarden";
+"Label_YValues" = "Y-waarden";
+"Label_ZValues" = "Z-waarden";
+
+"Label_StockChartInfo" = "Gegevens hoog/laag/slot-diagram";
+"Label_HighLowClose" = "Om dit diagram in te voegen, moet u de gegevens op het blad ordenen in deze volgorde: hoogste koers, laagste koers, slotkoers. Gebruik datums of namen van aandelen als labels.";
+"Label_OpenHighLowClose" = "Om dit diagram in te voegen, moet u de gegevens op het blad ordenen in deze volgorde: beginkoers, hoogste koers, laagste koers, slotkoers. Gebruik datums of namen van aandelen als labels.";
+
+"Label_Other" = "Overige";
+"Label_NegativeNumbers" = "Negatieve getallen";
+
+"Label_Opacity" = "Ondoorzichtigheid";
+"Label_Thickness" = "Dikte";
+"Label_LineEndings" = "Regeleinden";
+
+"ErrMsg_RequestTimeOut" = "Verzoek timed-out";
+"Label_ContactSupport" = "Contact opnemen";
+
+/* Up to 28 chars */
+"Label_FillSurvey" = "Feedbackformulier invullen";
+
+"InfoTitle_TellUsOpinion" = "Vertel ons wat u vindt van\nOfficeSuite!";
+"InfoMsg_TellUsOpinion" = "Vul ons feedbackformulier in of neem rechtstreeks contact op\nen vertel ons wat u vindt.";
+"Label_Feedback" = "Feedback versturen";
+
+/* Up to 20 chars */
+"Label_FeedbackForm" = "Feedbackformulier";
+
+/* Up to 28 chars */
+"Label_LikeUsOnFacebook" = "Like ons op Facebook";
+
+"Label_ShareWithFriends" = "Delen met vrienden";
+
+/* Up to 28 chars */
+"Label_JoinOurBetaTestingGroup" = "Kom bij onze bètatesting-groep";
+
+"Label_BetaTesterForm" = "Bètatest-formulier";
+"Label_More" = "Meer";
+
+"Label_RadarChart" = "Radar";
+"Label_RadarChartStandard" = "Standaard";
+"Label_RadarChartMarker" = "Markeringen";
+"Label_RadarChartFilled" = "Vuller";
+
+"Label_HighLowCloseInfo" = "Om dit diagram in te voeren, moet u de gegevens ordenen in deze volgorde: hoogste koers, laagste koers, slotkoers. Gebruik optioneel datums of namen van aandelen als labels.";
+
+/* Up to 72 chars */
+"Label_AgitationBarGoPremiumLongMessage" = "Doe nog meer met de meest geavanceerde Office-app voor mobiel";
+
+"Label_AgitationBarGoPremiumShortMessage" = "Meer kenmerken";
+"Label_AgitationBarGoPremiumButtonText" = "MEER INFO";
+
+"Label_AgitationBarUpdateLongMessage" = "Er is een update beschikbaar voor OfficeSuite";
+"Label_AgitationBarUpdateShortMessage" = "Update beschikbaar";
+"Label_AgitationBarUpdateButtonText" = "DOWNLOADEN";
+"Label_PasteFormat" = "Indeling\nplakken";
+
+"Label_3DPie" = "3D-taart";
+"ErrMsg_SaveInOtherFormat" = "Het bestand kan niet in de huidige indeling worden opgeslagen. Sla het bestand voor het delen op in een andere indeling.";
+
+/*
+ NEW STRINGS AFTER VER 4.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// PDF
+
+"Label_LineEndings_None" = "Geen";
+"Label_LineEndings_Square" = "Vierkant";
+"Label_LineEndings_Circle" = "Cirkel";
+"Label_LineEndings_Diamond" = "Ruit";
+"Label_LineEndings_OpenArrow" = "Open pijl";
+"Label_LineEndings_ClosedArrow" = "Gesloten pijl";
+"Label_NightMode" = "Nachtstand";
+
+"Label_ChoiceSelection_Multiple" = "Opties selecteren";
+"Label_ChoiceSelection_Single" = "Optie selecteren";
+
+"Label_LineThicknessValueFormat" = "%.0f pt"; // %.0f is replaced with the actual number programatically
+
+"Label_Done" = "Klaar";
+
+"Label_AddComment" = "Opmerking toevoegen";
+"Label_LineStart" = "Regelstart";
+"Label_LineEnd" = "Regeleinde";
+
+// File Browser
+"Label_ShareWithFriends" = "Delen met vrienden";
+"InfoMsg_CannotOpenAppStoreForDownload" = "Downloadpagina kon niet worden geopend omdat de App Store niet beschikbaar is.";
+
+"Label_CameraCantStartMessage" = "Kan de camera niet starten. Zorg ervoor dat OfficeSuite toegang heeft tot de camera vanuit het instellingenmenu.";
+"Label_CameraUnavailableMessage" = "Camera niet beschikbaar in gesplitste weergave en diamodus.";
+"ErrTitle_ConnectionProblem" = "Verbindingsprobleem";
+
+/* Up to 45 chars */
+"Label_EditWordDocument" = "Bewerk een nieuw Word-document.";
+"Label_EditExcelDocument" = "Bewerk een nieuw Excel-spreadsheet.";
+"Label_EditPresentationDocument" = "Bewerk een nieuwe PowerPoint-presentatie.";
+
+"Label_CreateNewOnly" = "Nieuw maken";
+
+"Label_IncreaseFontSize" = "Groter lettertype";
+"Label_DecreaseFontSize" = "Kleiner lettertype";
+
+// From windows porting
+"ErrMsg_PDFExportFailed" = "Exporteren naar PDF mislukt.";
+"Label_ZoomFitTwoPages" = "Passend op twee pagina's";
+"PRGRSS_PreparingString" = "Voorbereiden...";
+
+/*
+ NEW STRINGS AFTER VER 4.2.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Lable_OpenFilesFrom" = "Bestanden openen van";
+"Label_Account" = "Account";
+"Label_Add" = "Voeg";
+
+/* Up to 80 chars
+ %@ will be replaced with a brand name, for instance
+ "Add Dropbox account to view and edit remote files".
+ Brand name length does not count towards the 80 characters limit.
+ */
+"Label_AddAccountSpotlightDescription" = "%@-account: bestanden weergeven en bewerken";
+
+"Label_TouchID" = "Touch ID";
+"Label_TouchIDEnable" = "Touch ID-vingerafdruk inschakelen om OfficeSuite te ontgrendelen";
+"Label_TouchProvideBiometrics"="Voeg ten minste één vingerafdruk toe vanuit het instellingenmenu.";
+"InfoMsg_WarningNonEmptyPassword"="Wachtwoord is leeg. Voer een niet-leeg wachtwoord in.";
+"InfoMsg_PreviewNotAvailable"="Bestandsvoorbeeld is niet beschikbaar.";
+"InfoPlist_shortcutTitleCreateFile" = "Bestand maken";
+// MobileIron Edition strings
+"Label_MobileIronEdition" = "MobileIron-editie";
+
+"Label_OpenInForbidden" = "Uw %@-beheerder heeft voorkomen dat documenten worden geopend in deze app.";
+"Label_AppNotAuthorized" = "App is niet geautoriseerd";
+// End MobileIron Edition strings
+
+//Excel
+"Label_FractionNumberFormat"        = "Breuk";
+"Label_SpecialNumberFormat"         = "Speciaal";
+"Label_CustomNumberFormat"          = "Aangepast";
+
+/* Up to 28 chars */
+"Label_FractionUpToOneDigit"        = "Max. één cijfer (1/4)";
+"Label_FractionUpToTwoDigits"       = "Max. twee cijfers (10/25)";
+"Label_FractionUpToThreeDigits"     = "Max. drie cijfers (300/850)";
+
+"Label_FractionUpAsHalves"          = "Als helften (1/2)";
+"Label_FractionUpAsQuarters"        = "Als kwarten (2/4)";
+"Label_FractionUpAsEights"          = "Als achtsten (4/8)";
+"Label_FractionUpAsSixteenths"      = "Als zestienden (8/16)";
+"Label_FractionUpAsTenths"          = "Als tienden (5/10)";
+"Label_FractionUpAsHundreths"       = "Als honderdsten (50/10)";
+
+/* Up to 28 chars */
+"Label_UseCustomDenominator"        = "Aangepaste noemer (1/%ld)";
+
+"Label_FractionCustomdenominator"   = "Aangepaste noemer";
+"Label_FractionCustomDenominator"   = "Aangepaste noemer";
+"Label_Denominator"                 = "Noemer";
+"Label_PostCode"                    = "Postcode";
+"Label_ZipCode(US)"                 = "Postcode (VS)";
+"Label_ZipCode4(US)"                = "Postcode + 4 (VS)";
+"Label_Postcode(A)"                 = "Postcode (A)";
+"Label_Postcode(CH)"                = "Postcode (CH)";
+"Label_Postcode(D)"                 = "Postcode (D)";
+"Label_Postcode(L)"                 = "Postcode (L)";
+"Label_Postcode(4digits)"           = "Postcode (4 cijfers)";
+"Label_Postcode(5digits)"           = "Postcode (5 cijfers)";
+"Label_Postcode(6digits)"           = "Postcode (6 cijfers)";
+"Label_PhoneNumber"                 = "Telefoonnummer";
+"Label_SocialSecurityNumber"        = "Burgerservicenummer";
+"Label_PdfOptions"                  = "PDF-opties";
+
+"Label_PrintHeadings"               = "Afdrukkoppen";
+
+/* Up to 26 chars */
+"Label_PrintGridlines"              = "Afdrukrasterlijnen";
+
+"Label_SelectSheets"                = "Bladen selecteren";
+"Label_ShowHeadings"                = "Koppen tonen";
+"Label_EmptyPage"                   = "Lege pagina";
+
+"Label_NewComment"                  = "Opmerking toevoegen";
+"Label_DefineName"                  = "Naam toevoegen";
+"Label_CellRange"                   = "Celbereik";
+
+"Label_PremiumODF" = "Toegang tot OpenDocument Format (ODF)-bestanden, waaronder .ODS, .ODT, and .ODP. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumBinaryFormat" = "Opslaan in oude Word- en Excel-indelingen voor maximale compatibiliteit. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumCSV" = "Sla uw spreadsheet op als .CSV (Comma Separated Values). Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumConditionalFormatting" = "Wijzig de indeling van cellen en cellenreeksen gebaseerd op bepaalde criteria. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumHyperlinks" = "Maak en bewerk hyperlinks naar websites en e-mailadressen. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumEditComments" = "Maak en bewerk opmerkingen in Excel-bestanden. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumWordToPDF" = "Maak snel een PDF van het huidige document. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumCameraPhoto" = "Richt en klik om snel een foto te maken via de camera van uw apparaten. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumAnnotatePdf" = "Maak en bewerk PDF-aantekeningen en markeringen. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumAppProtectionPass" = "Beperk de toegang tot OfficeSuite met een aangepast wachtwoord. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumPDFtoWord" = "Converteer de huidige PDF naar een volledig bewerkbaar Word-document. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumPDFtoExcel" = "Converteer de huidige PDF naar een volledig bewerkbare spreadsheet. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumPDFtoEPub" = "Converteer de huidige PDF naar een ePub-bestand. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumPdfPasswordChange" = "Beperk de toegang tot het bestand met een aangepast wachtwoord. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumExcelToPDF" = "Maak snel een PDF van de huidige spreadsheet. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumPPTtoPDF" = "Maak snel een PDF van de huidige presentatie. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumFormFill" = "Vul bewerkbare formulieren in en sla ze op. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PremiumNightMode" = "Geef PDF's weer met lichte tekst op een donkere achtergrond om eenvoudiger 's avonds te kunnen bekijken. Beschikbaar als deel van OfficeSuite Premium.";
+"Label_PdfOptions"                  = "PDF-opties";
+
+//Apple Watch Strings
+"Label_Start" = "Start";
+"Label_Playing" = "Afspelen";
+
+/* Up to 57 chars */
+"Label_ParentAppConnectivityPrompt" = "Open presentatie in OfficeSuite voor iPhone";
+
+"Label_FromSlideNumber" = "Van dia %d";
+"Label_SlideNumberOfSlideCount" = "Dia %d van %d";
+"Label_Restart" = "Opnieuw";
+"Label_EndShow" = "Show beëindigen";
+
+// PDF
+
+"Label_PDFContainsDigitalSignatures" = "Het document bevat digitale handtekeningen.";
+
+// annotation tips
+"Label_ToolTip_Note" = "Tik waar u een opmerking toe wilt voegen";
+"Label_ToolTip_FreeText" = "Tik waar u tekst wilt toevoegen";
+"Label_ToolTip_Highlight" = "Sleep over tekst om te markeren";
+"Label_ToolTip_Underline" = "Sleep over tekst om te onderstrepen";
+"Label_ToolTip_Strikethrough" = "Sleep over tekst om door te halen";
+"Label_ToolTip_FreeDraw" = "Sleep vrij om te tekenen";
+"Label_ToolTip_Line" = "Tik en sleep om een lijn te trekken";
+"Label_ToolTip_Rectangle" = "Tik en sleep om een rechthoek te maken";
+"Label_ToolTip_Ellipse" = "Tik en sleep om een ellips te maken";
+
+
+"Label_ProtectYourDocumentsTitle" = "Bescherm uw documenten";
+"Label_ProtectYourDocumentsInfo" = "Voeg wachtwoorden toe en beperk de toegang tot OfficeSuite met Touch ID";
+"Label_AnnotatePdfAndFillFormsTitle" = "Maak aantekeningen in PDF's en vul formulieren in";
+"Label_AnnotatePdfAndFillFormsInfo" = "Maak en bewerk aantekeningen, en vul bewerkbare PDF-formulieren in en sla ze op";
+"Label_SaveAsPDFTitle" = "Sla op als PDF";
+"Label_SaveAsPDFInfo" = "Maak PDF's van Word-, Excel- en PowerPoint-bestanden zonder de indeling kwijt te raken";
+"Label_EditPDFDocumentsTitle" = "Bewerk PDF-documenten";
+"Label_EditPDFDocumentsInfo" = "Converteer een willekeurige PDF tot een volledig bewerkbaar Word-, Excel- of ePub-bestand";
+"Label_SaveAsLegacyFormatsTitle" = "Sla op in oudere Microsoft-indelingen";
+"Label_SaveAsLegacyFormatsInfo" = "Sla uw documenten op als .DOC en .XLS voor maximale compatibiliteit";
+"Label_OpenODFDocumentsTitle" = "Open ODF-bestanden";
+"Label_OpenODFDocumentsInfo" = "Lees .odt-, .ods- en .odp-bestanden";
+"Label_GetExtraFontsTitle" = "Haal extra lettertypen";
+"Label_GetExtraFontsInfo" = "70+ onmisbare lettertypen, zoals Tahoma, Calibri en Wingdings";
+"Label_RemoveAdsTitle" = "Advertenties verwijderen";
+"Label_RemoveAdsInfo" = "Geniet van OfficeSuite zonder advertenties";
+
+
+"Label_PremiumPowerPointEditNotes" = "Maak en bewerk presentatieopmerkingen in uw dia's. Beschikbaar als deel van OfficeSuite Premium";
+
+/***************************************************************************************************
+ 
+ TRANSLATION ENDS HERE. STRINGS BELOW MAY BE EDITED.
+ 
+ **************************************************************************************************/
+
+/*
+ NEW STRINGS AFTER VER 4.3
+ 
+ STRINGS MAY BE EDITED.
+ */
+
+/* Up to 14 chars, "free" as "arbitrary", "user-generated"  */
+"Label_FreeText" = "Tekst";

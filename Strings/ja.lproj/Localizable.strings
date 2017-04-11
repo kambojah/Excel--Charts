@@ -1,0 +1,3020 @@
+/* 
+  Localizable.strings
+  Office Suite Pro
+
+  Created by Vladimir Grigorov on 7/26/12.
+  Copyright (c) 2012 Mobile Systems, Inc. All rights reserved.
+*/
+
+/*
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Untitled" = "名称未設定";
+"Label_Error" = "エラー";
+"Label_OK" = "OK";
+"Label_Cancel" = "キャンセル";
+"Label_Confirmation" = "確認";
+"Label_Enter" = "入力";
+"Label_Password" = "パスワード";
+"Label_DontSave" = "保存しない";
+"Label_Save" = "保存";
+"Label_SaveAs" = "別名で保存";
+"Label_UndoRedoTitle" = "取り消し/やり直し";
+"Label_Undo" = "取り消し";
+"Label_Redo" = "やり直し";
+"Label_Copy" = "コピー";
+"Label_Paste" = "貼り付け";
+"Label_Cut" = "切り取り";
+"Label_Clear" = "クリア";
+"Label_Insert" = "挿入";
+"Label_Delete" = "削除";
+"Label_Functions" = "機能";
+"Label_Recalculate" = "再計算";
+"Label_Hide" = "非表示";
+"Label_Unhide" = "表示";
+"Label_Autofit" = "調整";
+"Label_Goto" = "移動する...";
+"Label_GoToCell" = "セルへ移動";
+"Label_ReferenceNotValid" = "参照が無効です。";
+"Label_GoToPage" = "ページに移動";
+"Label_EnterPageNumber" = "ページ番号 (1 - %d)";
+"Label_CellAddress" = "セルの座標を入力:";
+"Label_Previous" = "前へ";
+"Label_Next" = "次へ";
+"Label_Replace" = "置換";
+"Label_Done" = "完了";
+"Label_search" = "検索";
+"Label_SearchOptions" = "検索オプション";
+"Label_replace" = "置換";
+
+/* Up to 26 chars */
+"Label_MatchCase" = "大文字と小文字を区別する";
+
+"Label_MatchWholeWords" = "完全一致する単語を検索する";
+
+/* Up to 14 chars */
+"Label_MatchEntireCell" = "セル全体にマッチ";
+
+"Label_Values" = "値";
+"Label_Formulas" = "式";
+"Label_Options" = "オプション";
+"Label_LookIn" = "検索対象";
+"Label_Rows" = "行";
+"Label_Columns" = "列";
+"Label_Back" = "戻る";
+"Label_Menu" = "メニュー";
+"Label_Fx" = "Fx";
+"Label_Zoom" = "ズーム";
+"Label_ZoomPercentage" = "ズーム: $1";
+"Label_ZoomFit" = "幅を合わせる";
+"Label_Search" = "検索";
+"Label_Help" = "ヘルプ";
+"Label_About" = "この製品について";
+"Label_Keyboard" = "キーボード";
+"Label_Settings" = "設定";
+"Label_SettingAutoCorrect" = "自動接続";
+
+"Button_Font" = "フォント";
+"Button_Cell" = "セル";
+"Button_Number" = "数値";
+"Button_Paragraph" = "段落";
+"Label_Horizontal" = "水平";
+"Label_Vertical" = "垂直";
+"Label_Indent" = "インデント";
+"Label_Style" = "スタイル";
+"Label_Color" = "色";
+"Label_BorderThin" = "薄い";
+"Label_BorderMedium" = "中程度";
+"Label_BorderThick" = "厚い";
+"Label_NumGeneral" = "標準";
+"Label_NumNumber" = "数値";
+"Label_NumCurrency" = "通貨";
+"Label_NumDate" = "日付";
+"Label_NumTime" = "時刻";
+"Label_NumPercentage" = "パーセンテージ";
+"Label_NumScientific" = "科学";
+"Label_NumText" = "文字列";
+
+/* Up to 16 chars */
+"Label_NumDecimalPlaces" = "小数点以下の桁数";
+
+/* Up to 28 chars */
+"Label_NumThousandSeparator" = "1000桁区切りを使用";
+
+"Label_CurrencyNone" = "なし";
+"Label_Font" = "フォント";
+"Label_Fonts" = "フォント";
+"Label_FontFamilies" = "フォントファミリー";
+"Label_FontFamily" = "フォント名:";
+"Label_FontSize" = "フォントサイズ";
+"Label_FontTextColor" = "文字列の色"; 
+"Label_FontBgColor" = "セルの色";
+"Label_FontHighlightColor" = "ハイライト色";
+"Label_FontBold" = "太字";
+"Label_FontItalic" = "斜体";
+"Label_Fill" = "塗りつぶし";
+"Label_Highlight" = "ハイライト";
+
+/* Up to 16 chars */
+"Label_LineSpacing" = "行間";
+
+"Label_TextAlignmentLeft" = "左";
+"Label_TextAlignmentCenter" = "中央";
+"Label_TextAlignmentRight" = "右";
+"Label_TextAlignmentJustified" = "両端揃え";
+"Label_Lists" = "リスト";
+"Label_ListTypeNone" = "なし";
+"Label_ListTypeBullet" = "箇条書き";
+"Label_ListTypeNumbered" = "段落番号";
+
+"Label_Top" = "上";
+"Label_Bottom" = "下";
+
+"Label_PasswordProtectedDocument" = "パスワード保護文書";
+"Label_EnterPassword" = "パスワードの入力";
+
+"Err_UnsupportedFile" = "無効または未対応のファイル形式です。";
+"Err_IO_Error" = "入出力エラー";
+"Err_OutOfMemory" = "メモリ不足";
+
+"Label_Edition" = "プロフェッショナルエディション";
+"Label_Version" = "バージョン";
+"Label_Website" = "ウェブサイト";
+"Label_Facebook" = "Facebook";
+"Label_AppStore" = "App Storeで評価する";
+"Label_LibsUsed" = "使用済みライブラリー";
+
+"PRGRSS_LoadingString" = "ロード中...";
+"PRGRSS_SavingString" = "保存中...";
+"PRGRSS_SearchingString" = "検索中...";
+
+/* 
+   All ErrClass strings are used together with other strings,
+   that's why the space at the end is important
+ 
+   THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrClass_NewFileString" = "ファイルの作成に失敗しました。 ";
+"ErrClass_LoadFileString" = "$1のロードに失敗しました。 ";
+"ErrClass_RestoreFileString" = "文書の回復に失敗しました。 ";
+"ErrClass_SaveFileString" = "ファイルの保存に失敗しました。 ";
+"ErrClass_CellTextString" = "セル文字列の変更に失敗しました。 ";
+"ErrClass_PasteString" = "ペーストに失敗しました。 ";
+"ErrClass_ClearString" = "消去に失敗しました。 ";
+"ErrClass_CopyString" = "コピーに失敗しました。 ";
+"ErrClass_CutString" = "選択箇所の切り取りに失敗しました。 ";
+"ErrClass_SetSheetString" = "選択したシートの変更に失敗しました。 ";
+"ErrClass_UndoString" = "取り消しができません。 ";
+"ErrClass_RedoString" = "やり直しができません。 ";
+"ErrClass_FormatString" = "フォーマットの適用に失敗しました。 ";
+"ErrClass_InsertRowString" = "行の挿入に失敗しました。 ";
+"ErrClass_InsertColString" = "列の挿入に失敗しました。 ";
+"ErrClass_FormulaString" = "式のエラーです。 ";
+"ErrClass_GotoString" = "移動が失敗しました。 ";
+"ErrClass_HideUnhideString" = "非表示/再表示が失敗しました。 ";
+"ErrClass_ResizeString" = "サイズ変更が失敗しました。 ";
+"ErrClass_DeleteRowsString" = "行の削除に失敗しました。 ";
+"ErrClass_DeleteColsString" = "列の削除に失敗しました。 ";
+"ErrClass_ZoomString" = "ズームに失敗しました。 ";
+"ErrClass_AddSheetString" = "シートの挿入に失敗しました。 ";
+"ErrClass_RenameSheetString" = "シートの名前変更に失敗しました。 ";
+"ErrClass_DeleteSheetString" = "シートの削除に失敗しました。 ";
+"ErrClass_FindString" = "一致するものが検索できませんでした。 ";
+"ErrClass_ReplaceString" = "置換操作に失敗しました。 ";
+
+
+"Err_UnknownString" = "不明なエラーが発生しました。";
+"Err_InternalString" = "内部エラーです。";
+"Err_NoMemDynString" = "ダイナミックメモリが不足しています。";
+"Err_NoMemStgString" = "ストレージのメモリが不足しています。";
+"ErrDoc_BadPasswordString" = "無効なパスワードです。"; // also used in PDF
+"ErrDoc_Load_UnsupportedString" = "未対応のファイルバージョンです。";
+"ErrDoc_Load_FailedToOpenGeneralTitle" = "ファイルを開けませんでした。";
+"ErrDoc_Load_ReturningToFileManagerString" = "ファイルマネージャに戻る必要があります。";
+"ErrDoc_Load_Bad_FileString" = "ファイルが破損しています。";
+"ErrDoc_Load_EncryptionString" = "未対応の暗号化タイプです。 サポートする暗号化は \"Office 97/2000 互換\" 方式です。";
+"ErrDoc_Load_EncryptionNotImplemented" = "パスワード保護ファイルは未対応です。";
+"ErrDoc_Load_InvalidXlsString" = "無効なXLS形式です。";
+"ErrDoc_Save_Bad_Destination" = "保存先のフォルダがいっぱいかまたはアクセスできません。 他の場所に保存してください。";
+"Confirm_Find_Start_OverString" = "文書の末尾に達しました。 最初からやり直しますか?";
+"ErrPaste_Area_Not_SameString" = "コピー/ペースト領域が異なります。";
+"ErrSheet_ExistsString" = "同名のシートが既に存在しています。";
+"ErrSheet_LockedString" = "シートが保護されているためコマンドが実行できません。";
+"Confirm_DeleteSheetString" = "本当に選択したシートを削除しますか?";
+"ErrFile_Illegal_NameString" = "入力した名前が無効です。";
+"InfFind_No_MatchesString" = "検索条件に合うものが見つかりませんでした。"; // also used in PPT & PDF
+"InfFind_No_More_MatchesString" = "これ以上検索条件に合うものが見つかりませんでした。"; // also used in PPT & PDF
+"ErrCateg_MinimumOneString" = "全シートを削除することはできません。";
+"Err_CellsNotEmptyString" = "最後のセルは空にできません。";
+"ErrFormula_ErrorString" = "不明な式のエラーです。";
+"ErrFormula_NotAFormulaString" = "無効な式です。";
+"ErrFormula_MissingOperandString" = "オペランドがありません。";
+"ErrFormula_MissingOperatorString" = "演算子がありません。";
+"ErrFormula_IllegalTokenString" = "無効なトークンです。";
+"ErrFormula_MissingQuoteString" = "引用符( \" )がありません。";
+"ErrFormula_MissingArrayCloseString" = "配列のとじかっこ「}」がありません。";
+"ErrFormula_IllegalIdentifierString" = "無効な識別子です。";
+"ErrFormula_IconsistentArrayString" = "不整合な配列です。";
+"ErrFormula_MissingArrayEltString" = "配列の要素がありません。";
+"ErrFormula_IllegalArrayEltString" = "無効な配列の要素です。";
+"ErrFormula_MissingFuncCloseString" = "関数のとじかっこ「)」がありません。";
+"ErrFormula_DeepFuncNestingString" = "関数のネストが深すぎます。";
+"ErrFormula_UnknownFunctionString" = "不明な関数です。";
+"ErrFormula_MissingSingleQuoteString" = "シングルクォート( ' )がありません。";
+"ErrFormula_CircularReferenceString" = "循環参照です。";
+"ErrFormula_UnknownEvalErrorString" = "不明な評価のエラーです。";
+"ErrFormula_NotEnoughArgumentsString" = "引数が不十分です。";
+"ErrFormula_TooMuchArgumentsString" = "引数が多すぎます。";
+"ErrFormula_InitDependencesFailedString" = "式の設定エラーです。 式が計算できません。";
+"Confirm_SelectionTypeString" = "処理項目の種類を選択してください。";
+
+
+"FUNCCAT_CommonString" = "通常";
+"FUNCCAT_AllString" = "すべて";
+"FUNCCAT_DatabaseString" = "データベース";
+"FUNCCAT_InformationString" = "情報";
+"FUNCCAT_LogicalString" = "論理";
+"FUNCCAT_MathString" = "数式";
+"FUNCCAT_DateTimeString" = "日付と時間";
+"FUNCCAT_StatisticalString" = "統計";
+"FUNCCAT_FinancialString" = "財務";
+"FUNCCAT_LookRefString" = "ルックアップと参照";
+"FUNCCAT_TextString" = "文字列";
+
+
+"CONFIRM_DeleteSheet" = "$1 は削除されます。 続行しますか?";
+"CONFIRM_SaveFile" = "$1に変更を保存しますか?";
+"CONFIRM_CsvDataLoss" = "この形式は複数のシート、式、フォーマット、オブジェクト、およびその他の機能に対応していません。 選択したシートのみが保存されます。 続行しますか?";
+
+"Label_ExcelWorkbook" = "Excelのワークブック";
+"Label_Excel97Workbook" = "Excel 97-2003のワークブック";
+"Label_CommaDelimited" = "コンマ区切り";
+"Label_CsvDataLoss" = "この形式は複数のシート、式、フォーマット、オブジェクト、およびその他の機能に対応していません。 選択したシートのみが保存されます。";
+"Label_ChartsheetsUnsupported" = "これはグラフのシートです。 グラフは未対応です。";
+
+"Label_ChooseCSVDelims" = "CSV区切り記号を選択してください。";
+"Label_Column_Delim" = "列区切り記号:";
+"Label_Decimal_Delim" = "小数点区切り記号:";
+"Label_Decimal_Dot" = "ドット(.)";
+"Label_Decimal_Comma" = "コンマ(,)";
+"Lable_CSV_Delim_Warning" = "列区切り記号を選択してください。";
+
+"Label_BorderStyle" = "境界のスタイル";
+"Label_Borders" = "境界";
+
+/* Up to 20 chars */
+"Label_Slideshow" = "スライドショー";
+
+"Label_AdvanceSlides" = "画面切り替えのタイミング";
+"Label_Manually" = "手動";
+"Label_Automatically" = "自動";
+"Label_SlideshowDelayFormat" = "%d秒";
+"Label_StartSlideshow" = "スライドショーの開始";
+"Label_Delay" = "ディレイ";
+"Label_Notes" = "注意";
+"Label_TableOfContents" = "目次";
+
+
+"Label_Home" = "ホーム";
+"Label_Documents" = "文書";
+"Label_Cloud" = "クラウド";
+"Label_Prev" = "前へ";
+"Label_Storage" = "ストレージ";
+"Label_OfficeSuite" = "OfficeSuite";
+"Label_Create" = "作成";
+"Label_CreateNew" = "新規作成...";
+"Label_NewFolder" = "新規フォルダ";
+
+/* Up to 10 chars */
+"Label_Rename" = "名前変更";
+
+"Label_Close" = "閉じる";
+"Label_Properties" = "プロパティ";
+
+/* Up to 22 chars */
+"Label_RemoteAccounts" = "リモートアカウント";
+"Label_RemoteAccountsCap" = "リモートアカウント";
+
+"Label_OpenIn" = "次の方法で開く...";
+"Label_Extract" = "抽出";
+"Label_ExtractTo" = "抽出先";
+"Label_Edit" = "編集";
+"Label_Play" = "再生";
+"Label_Stop" = "停止";
+"Label_Unknown" = "不明";
+"Label_TypeWordDocument" = "文書";
+"Label_TypeExcelSpreadsheet" = "スプレッドシート";
+"Label_TypePowerPointPresentation" = "プレゼンテーション";
+"Label_TypePDFFile" = "PDFファイル";
+"Label_TypeZipArchive" = "ZIPアーカイブ";
+"Label_TypeImage" = "画像";
+"Label_TypeVideo" = "ビデオ";
+"Label_TypeAudio" = "音声";
+"Label_TypeFolder" = "フォルダ";
+"Label_SearchResults" = "検索結果";
+
+/* [ファイルのプロパティ]ダイアログへ */
+"Label_Type" = "種類";
+"Label_Size" = "サイズ";
+"Label_Date" = "日付";
+"Label_Path" = "パス";
+
+/*
+    THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Label_Share" = "共有";
+"Label_Recover" = "修復";
+"Label_Relink" = "再接続";
+"Label_Later" = "後で";
+"Label_UseICloud" = "iCloudを使用する";
+"Label_ContinueUsingICloud" = "続けてiCloudを使用する";
+"Label_KeepLocalCopy" = "ローカルコピーを保持する";
+"Label_KeepOnICloudOnly" = "iCloudのみに保持する";
+
+"ErrTitle_CopyError" = "コピーエラー";
+"ErrTitle_PasteError" = "ペーストエラー";
+"ErrTitle_DownloadError" = "ダウンロードエラー";
+"ErrTitle_DeleteError" = "削除エラー";
+"ErrTitle_RenameFailed" = "名前変更に失敗しました";
+"ErrTitle_UploadFailed" = "アップロードに失敗しました";
+"ErrTitle_FileExists" = "%@が存在しています";
+"ErrTitle_NoItemsSelected" = "項目が未選択です";
+"ErrTitle_Error" = "エラー";
+"ErrTitle_CreateFolder" = "フォルダの作成に失敗しました";
+"ErrTitle_CannotPlayFile" = "ファイルを再生できません";
+"ErrTitle_SessionEnded" = "セッションが終了しました";
+"ErrTitle_NoInternet" = "インターネット接続がありません";
+"ErrTitle_FileNameEmpty" = "ファイル名が空です";
+
+"WarningTitle_Warning" = "警告";
+"WarningTitle_CloseDocument" = "現在の文書を閉じる";
+"WarningTitle_ConfirmDeletion" = "削除を確認する";
+
+"InfoTitle_NotUsingICloud" = "iCloudがオフになりました";
+"InfoTitle_iCloudAvailable" = "iCloudが利用可能です";
+"InfoTitle_UnsupportedFile" = "未対応のファイルです";
+"InfoTitle_CannotSendMail" = "Eメールを送信できません";
+"InfoTitle_iCloudOn" = "iCloudはオンです";
+"InfoTitle_iCloudOff" = "iCloudはオフです";
+"InfoTitle_DocumentRecovery" = "文書の修復";
+"InfoTitle_DisplayFile" = "ファイルを表示できません";
+"InfoTitle_Info" = "情報";
+
+"ErrMsg_SameFolderCopy" = "フォルダ%@はコピーされません。 コピー先フォルダの下位フォルダです。";
+"ErrMsg_FileExists" = "%@という名前の%@が既に存在しています。 置換してもよろしいですか？";
+"ErrMsg_FileRename" = "%@という名前の%@が既に存在しています。 異なる名前を選択してください。";
+"ErrMsg_PasteError" = "%@をペーストする際エラーが発生しました。 エラー: %@";
+"ErrMsg_ReadFile" = "ファイル%@を読み取れませんでした。";
+"ErrMsg_DeleteFile" = "ファイル%@の削除に失敗しました。";
+"ErrMsg_UploadFailed" = "ファイルのアップロードに失敗しました。 他の場所に保存してください。";
+"ErrMsg_SelectItems" = "いくつか項目を選択してください。";
+"ErrMsg_DocumentLoad" = "文書%@をロードできませんでした。";
+"ErrMsg_FileNotFound" = "ファイル%@が見つかりませんでした。";
+"ErrMsg_InternetOffline" = "インターネット接続がありません。";
+"ErrMsg_UnknownError" = "不明なエラーが発生しました";
+"ErrMsg_CannotOpenFile" = "ファイル%@を開けません。 エラー: %@";
+"ErrMsg_PlayingAudio" = "音声ファイルの再生中にエラーが発生しました。";
+"ErrMsg_SuggestRelink" = "再接続しますか？";
+"ErrMsg_NeedsRelink" = "引き続きアカウントを使用する前に再接続する必要があります。";
+"ErrMsg_UnrecognizedPath" = "未認識のパスです。";
+"ErrMsg_CannotCopyFolder" = "フォルダ%@がコピーできませんでした。";
+"ErrMsg_CannotUploadFile" = "ファイルのフルパス%@でファイルをアップロードできません";
+"ErrMsg_PasteInSameFolder" = "コピー元のフォルダにペーストしようとしています。";
+"ErrMsg_InvalidFileName" = "ファイル名を「.」で始めることはできません。";
+"ErrMsg_TryAgainWhenHavingInternet" = "インターネットが接続できたら再試行してください。";
+"ErrMsg_FileNameEmpty" = "ファイル名は空にできません。";
+
+"InfoMsg_DocsStoredInICloud" = "文書は本機から削除されましたが、iCloudにはまだ保存されています。";
+"InfoMsg_UseICloud" = "文書をクラウドに自動的に保存すると、すべてのデバイスとウェブ全体で最新の状態にしておくことができます。";
+"InfoMsg_UnsupportedFile" = "未対応のファイル形式です。";
+"InfoMsg_CheckMainConf" = "Eメール設定をチェックしてください。";
+"InfoMsg_NotUsingICloud" = "現在本機にある文書をどのようにしますか?";
+"InfoMsg_iCloudOn" = "iCloudは現在オンになっています。 iCloudに保存するファイルの場所とファイル名を選択してください。";
+"InfoMsg_iCloudOff" = "iCloudは現在オフになっています。 デバイスに保存するファイルの場所とファイル名を選択してください。";
+"InfoMsg_DocumentRecovery" = "最後に開いた文書に問題がありました。 修復してもよろしいですか?";
+"InfoMsg_ProcessingICloudFiles" = "iCloudファイルを処理中...";
+"InfoMsg_CannotSendFolders" = "フォルダは送信できません。 代わりに[Zipして送信]オプションを使用してください。";
+"InfoMsg_SwitchOnICloudFromSettings" = "iCloud文書のバックアップは、現在お使いのデバイスでは無効です。 [設定]->[iCloud]に移動して有効にしてください。";
+
+"WarningMsg_CloseDocument" = "開いている文書があります。 閉じてもよろしいですか？";
+"WarningMsg_DeleteItem" = "本当にこの項目を削除しますか?";
+"WarningMsg_DeleteItems" = "本当にこれらの項目を削除しますか?";
+"WarningMsg_UploadInterrupted" = "ファイルのアップロードに失敗しました。 再度ファイルを保存してください。";
+"WarningMsg_PasteInterrupted" = "ペースト操作に失敗しました。";
+"WarningMsg_DeleteInterrupted" = "削除操作に失敗しました。";
+"WarningMsg_RenameInterrupted" = "名前変更操作に失敗しました。";
+"WarningMsg_LoadFileListInterrupted" = "フォルダ内容のロードに失敗しました。";
+
+"DetailString_file" = "ファイル";
+"DetailString_folder" = "フォルダ";
+"DetailString_File" = "ファイル";
+"DetailString_Folder" = "フォルダ";
+
+
+"PRGRSS_CopyICloudToLocal" = "ファイルをiCloudからデバイスにコピーしています...";
+"PRGRSS_CreateFolder" = "フォルダを作成中";
+"PRGRSS_CopyFile" = "ファイル%@をコピー中...";
+"PRGRSS_Moving" = "移動中";
+"PRGRSS_Copying" = "コピー中";
+"PRGRSS_PreparePaste" = "ペーストの準備中";
+"PRGRSS_Fetching" = "取得中";
+"PRGRSS_CreatingFolder" = "フォルダを作成中";
+"PRGRSS_UploadingFile" = "ファイルをアップロード中";
+"PRGRSS_Deleting" = "削除中";
+"PRGRSS_LoadingAccountInfo" = "アカウント情報のロード中...";
+"PRGRSS_LoadingFileList" = "ファイルリストのロード中...";
+"PRGRSS_LoadingFile" = "ファイルをロード中...";
+"PRGRSS_RenamingFile" = "ファイル名を変更中";
+"PRGRSS_LoadingProperties" = "プロパティをロード中";
+"PRGRSS_Extracting" = "抽出中";
+"PRGRSS_PleaseWait" = "お待ちください";
+"PRGRSS_ForBigICloudFolders" = "大型のiCloudフォルダへ";
+
+	/*
+		Default names for new file and folder
+	 */
+
+"Name_NewFile" = "名称未設定";
+"Name_NewFolder" = "名称未設定フォルダ";
+
+/* 
+    NEW STRINGS AFTER VER 2.3 
+ 
+    THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Print" = "印刷";
+"Label_WebSearch" = "Web検索";
+"Label_Dictionary" = "辞書";
+"Label_Open" = "開く";
+"Label_LinkURL" = "リンク";
+"Label_LinkName" = "表示";
+"Label_Bookmark" = "ブックマーク";
+"Label_Section" = "セクション";
+"Label_NumberOfColumns" = "列の数";
+"Label_AddSectionBreak" = "セクション区切りを追加";
+"Label_Tools" = "ツール";
+"Label_PrintAndShare" = "印刷および共有";
+"Label_OpenInAnotherApp" = "別のアプリケーションで開く";
+"Label_Accounts"= "アカウント一覧";
+"Label_EmailDocument" = "ドキュメントをメールで送信";
+"Label_EmailDocuments" = "これらのドキュメントをメールで送信";
+
+/* Up to 30 chars */
+"Label_ZipAndEmailDocument" = "アーカイブ＆メール文書";
+
+/* Up to 30 chars */
+"Label_ZipAndEmailDocuments" = "アーカイブ＆メール文書";
+
+/* Up to 14 chars */
+"Label_TextSize" = "テキストサイズ";
+
+"Label_RecentFilesCap" = "最近使用したファイル";
+"Label_Document" = "ドキュメント";
+"Label_Spreadsheet" = "スプレッドシート";
+"Label_Presentation" = "プレゼンテーション";
+"Label_PDF" = "PDF";
+"ErrTitle_CannotSaveFile" = "ファイルを保存できません";
+"InfoTitle_AttachFile" = "ファイルを添付しますか?";
+"InfoTitle_SendCrashReport" = "クラッシュレポート送信しますか?";
+"InfoTitle_CrashReportMailSubject" = "クラッシュレポートおよびログファイル";
+"InfoTitle_NoAvailableApps" = "使用可能なアプリケーションはありません";
+"InfoTitle_SelectOnlyOneFile" = "ファイルを選択";
+"ErrMsg_NoPermissionToCreate" = "%@ %@を作成する権限がありません";
+"ErrMsg_NoPermissionToSaveFile" = "ファイルを保存する権限がありません。別の場所をお試しください。";
+"ErrMsg_InvalidCharInFileName" = "不正な文字が名前に使用されています。";
+"ErrMsg_GeneralFileNameError" = "ファイル名が不正です。";
+"InfoMsg_AttachFile" = "レポートに %@ を添付しますか?ファイルをご送付いただきますと、エラーの原因を特定するのに役立ちます。";
+"InfoMsg_SendCrashReport" = "生成されたクラッシュレポートをご送付いただき、OfficeSuiteの改善にご協力ください。";
+"InfoMsg_CrashReportMailMessage" = "OfficeSuiteは最後に私が使っている最中にクラッシュしました!";
+"InfoMsg_NoAvailableApps" = "このファイル形式を開くことができるアプリケーションがインストールされていません。";
+"InfoMsg_SelectOnlyOneFile" = "別のアプリケーションで開くファイルは1つだけ選択してください。";
+
+"InfoMsg_SelectRightEncoding" = "テキストを識別可能なエンコーディングを選択してください。";
+"Label_Encoding" = "エンコード";
+"Label_Preview" = "プレビュー";
+"Encoding_EasternEuropean" = "東ヨーロッパ";
+"Encoding_WesternEuropean" = "西ヨーロッパ";
+"Encoding_NorthEuropean" = "北ヨーロッパ";
+"Encoding_SouthEuropean" = "南ヨーロッパ";
+"Encoding_Cyrillic" = "キリル文字";
+"Encoding_Greek" = "ギリシャ語";
+"Encoding_Turkish" = "トルコ語";
+"Encoding_Baltic" = "バルト語";
+"Encoding_Latin9" = "ラテン語 9";
+"Encoding_Russian" = "ロシア語";
+"Encoding_Arabic" = "アラビア語";
+"Encoding_Vietnamese" = "ベトナム語";
+"Encoding_Japanese" = "日本語";
+"Encoding_Korean" = "韓国語";
+"Encoding_ChineseSimplified" = "簡体字中国語";
+"Encoding_ChineseTraditional" = "繁体字中国語";
+"Encoding_ChineseTraditionalHK" = "香港拡張付き繁体字中国語";
+"Encoding_Thai" = "タイ語";
+"Encoding_Hebrew" = "ヘブライ語";
+"Encoding_Indic" = "インド系文字";
+"Encoding_Unicode" = "Unicode";
+"Encoding_UnicodeBE" = "Unicode ビッグ・エンディアン";
+"Encoding_UnicodeLE" = "Unicode リトル・エンディアン";
+
+"Label_Email" = "メールアドレス";
+"Label_ZipAndEmail" = "Zip圧縮してメール送信";
+
+
+/*
+ NEW STRINGS AFTER VER 3.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_PasswordProtectionLoss" = "ファイルを別の形式で保存すると、パスワード保護は無効化されます。";
+"Label_Freeze" = "固定";
+"Label_Unfreeze" = "固定解除";
+"Label_SortMenu" = "並べ替え...";
+"Label_Sort" = "並べ替え";
+
+/* Up to 26 chars */
+"Label_CaseSensitive" = "大文字と小文字を区別";
+
+"Label_RowNo" = "行 %d";
+"Label_ColumnNo" = "列 %s";
+"Label_SortBy" = "次で並べ替え";
+"Label_ThenSortBy" = "さらに並べ替え";
+"Label_Ascending" = "昇順";
+"Button_Columns" = "列";
+"Button_Rows" = "行";
+
+"Label_RemoveAds" = "広告を削除";
+
+"ErrorTitle_CannotZipFile" = "ZIPに失敗";
+"ErrorMsg_CannotZipFile" = "ファイルを圧縮することができません。";
+
+"Label_On" = "オン";
+"Label_Off" = "オフ";
+
+/* Up to 20 chars */
+"Label_SettingSpellCheck" = "スペルチェック";
+
+"Label_Language" = "言語";
+"Label_LearnedWords" = "覚えた単語";
+"Label_LearnWord" = "単語を覚える";
+"Label_UnLearnWord" = "単語を忘れる";
+"Label_NoReplacementsFound" = "置換対象は見つかりませんでした";
+
+"Label_WordCount" = "単語数";
+"Label_Words" = "単語";
+"Label_Paragraphs" = "段落";
+"Label_Pages" = "ページ";
+"Label_CharactersNoSpaces" = "文字 (スペースなし)";
+"Label_CharactersWithSpaces" = "文字 (スペースあり)";
+
+"Label_WebDAV_FailedLogIn_Malformed" = "HTTPアドレスが不正です!";
+"Label_WebDAV_FailedLogIn_Prefix" = "HTTPアドレスは 'http://' または 'https://'で始まる必要があります!";
+"Label_WebDAV_FailedLogIn_EmptyField" = "すべてのフィールドに入力する必要があります。";
+"Label_WebDAV_FailedLogIn_IncorrectData" = "不正な認証データです!\n別のHTTPアドレス、ユーザー名、またはパスワードでもう一度お試しください。";
+"Label_WebDAV_FailedLogIn_BadRequest_400" = "WebDAVサーバ:要求が正しくありません。\nサーバは、この構文を理解できませんでした。";
+"Label_WebDAV_FailedLogIn_NotImplemented_501" = "WebDAVサーバ:実装されていません。\nアカウントがWebDAVクライアントでのアクセスをサポートしていない可能性があります。WebDAVのサポートを有効にするには、アカウントの設定をご確認ください。";
+"ErrMsg_WebDAV_Conflict_409" = "WebDAVサーバ:競合しています。サーバに十分なスペースがない可能性があります。";
+"ErrMsg_WebDAV_NotAllowedOperation" = "WebDAVサーバにより、この操作は許可されていません。";
+"ErrMsg_WebDAV_ReservedName" = "指定された名前は、このサーバでは使用することはできません。別の名前を選択してください。";
+"ErrMsg_WebDAV_WriteError" = "目的のファイルが見つからないか、破損しています。アカウントの権限と空き容量を確認してから、もう一度実行してください。";
+
+/* Up to 32 chars */
+"Label_Timing" = "スライドショーのタイミング";
+
+"InfoTitle_NotAvailableICloud" = "iCloudは利用できません";
+"InfoMsg_SwitchOnICloudFromSettingsDetailed" = "iCloudを使ってローカルファイルをバックアップするには、iCloudアカウントにログインして、[設定] -> [iCloud]-> [書類およびデータ] がオンに設定されていることを確認してください。";
+"Label_UnsupportedWorksheet" = "これは通常のワークシートではなく、まだサポートされていません。";
+"ErrDoc_Save_Csv_Not_Supported" = "作業中のシートはCSV形式で保存することはできません。";
+
+"Label_Professional" = "( Professional )";
+"Label_ProfessionalFeature" = "$1 は OfficeSuite Professionalの一部として使用できます。今すぐインストールしますか?";
+
+"InfoTitle_BoxAppFailedToLaunch" = "Boxアプリケーションの起動に失敗しました";
+"InfoMsg_BoxAppFailedToLaunch" = "Boxアプリケーションを起動できませんでした。";
+
+"Label_Continue" = "続行";
+
+/* Up to 16 chars */
+"Label_Upgrade" = "Premiumへ移行";
+
+"Label_UpgradeText1" = "OfficeSuite Free へようこそ!";
+"Label_UpgradeText2" = "Office文書の閲覧および編集用のフル機能版です!";
+"Label_UpgradeText3" = "OfficeSuite Professionalにアップグレードすると:";
+"Label_UpgradeText4" = "- 広告なしの文書編集\n-テキスト文書のスペルチェックをご利用いただけます";
+
+/*
+ NEW STRINGS AFTER VER 3.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_SortHasHeaders" = "データはヘッダーが含まれています";
+"Label_Yes" = "はい";
+"Label_No" = "いいえ";
+"Label_CreatePassword" = "パスワードの生成";
+
+/* Up to 22 chars */
+"Label_DontUsePassword" = "パスワードを使用しません";
+
+"Label_ConfirmPassword" = "パスワードの確認";
+"Label_RequirePassword" = "パスワードを要求";
+"Label_Enable" = "有効化";
+"Label_Confirm" = "確認";
+"Label_Required" = "必須";
+"Label_CreatePasswordWarning" = "アプリケーションの起動時にパスワードが必要です。忘れてしまったパスワードを復旧する方法はありません。";
+"Label_Immediately" = "すぐに";
+"Label_Minute" = "分";
+"Label_Minutes" = "分";
+"Label_Hour" = "時間";
+"Label_Hours" = "時間";
+"Label_RequirePasswordTime" = "%d %@ 後";
+
+"Label_EmptyFolder" = "このフォルダは空です。";
+"Label_Name" = "名前";
+
+/* Up to 26 chars */
+"InfoTitle_PasswordProtection" = "パスワード保護";
+
+"InfoMsg_EnablePasswordProtection" = "OfficeSuiteへのアクセスを制限するため、パスワードを作成しますか?[ツール]メニューから\"パスワード保護\"を選択して、パスワード保護オプションを編集することができるようになります。";
+"InfoMsg_EnterCurrentPassword" = "現在のパスワードを入力して続行:";
+"InfoMsg_WrongPassword" = "パスワードが間違っています。もう一度やり直してください。";
+"InfoMsg_PasswordMismatch" = "パスワードが一致しません。同じパスワードを入力してください。";
+
+"InfoMsg_DocumentPasswordSaved" = "このドキュメントにパスワードが設定されました。";
+"InfoMsg_DocumentPasswordRemoved" = "ドキュメントはもうパスワードで保護されていません。";
+"InfoMsg_RemoveDocumentPassword" = "ドキュメントのパスワードを削除します。";
+"InfoMsg_AddDocumentPassword" = "ドキュメントにパスワードを設定します。";
+
+"Label_CurrentPassword" = "現在のパスワード";
+"Label_ExportToPDF" = "PDFへエクスポート";
+
+"Label_Labels" = "ラベル";
+"Label_ChartTitle" = "グラフのタイトル";
+"Label_DataRange" = "データ範囲";
+"Label_LegendEntries" = "凡例項目";
+"Label_Title" = "タイトル";
+"Label_HorizontalLabels" = "水平ラベル";
+"Label_Range" = "範囲:";
+"Label_SeriesIn" = "連続する";
+"Label_Series" = "系列";
+"Label_Format" = "書式";
+"Label_Chart" = "グラフ";
+"Label_Image" = "イメージ";
+
+
+"Label_TextBox" = "テキストボックス";
+"Label_Picture" = "画像";
+"Label_Duplicate" = "複製";
+"Label_MoveUp" = "上に移動";
+"Label_MoveDown" = "下に移動";
+"Label_MoveLeft" = "左に移動";
+"Label_MoveRight" = "右に移動";
+"Label_ChooseLayout" = "レイアウトを選択";
+
+/* Up to 26 chars */
+"InfoTitle_AddTitle" = "ダブルタップしてタイトルを追加";
+
+"InfoTitle_AddSubtitle" = "ダブルタップしてサブタイトルを追加";
+"InfoTitle_AddText" = "ダブルタップしてテキストを追加";
+"InfoTitle_PicturePlaceholder" = "画像プレースホルダー";
+
+"ErrMsg_UndoCmdCouldNotBeSaved" = "コマンドをアンドゥスタックに保存できませんでした";
+"ErrMsg_RedoFailed" = "設定をディスクに書き込むことができなかったため、やり直しできませんでした";
+"ErrMsg_UndoFailed" = "設定をディスクに書き込むことができなかったため、元に戻すことができませんでした";
+
+
+"Label_SeriesInfo" = "連続データの情報";
+"Label_EditSeries" = "連続データを編集";
+"Confirm_DeleteUnsupportedDrawObject" = "このオブジェクトの削除を取り消すことはできません。続行しますか?";
+"Label_InvalidRange" = "有効なセルの範囲を入力してください。";
+"Label_InvalidRangeAndList" = "値は、有効なセル範囲またはセミコロンで区切られたリストである必要があります。";
+"Label_InvalidSeriesValues" = "値は、有効なセル範囲または値のリストである必要があります。";
+"Label_GoToCellNotAvailable" = "'セルへ移動'機能はこのシートでは使用できません。";
+"Label_FreezeNotAvailable" = "'固定'機能はこのシートでは使用できません。";
+"Label_SortNotAvailable" = "'並べ替え'機能はこのシートでは使用できません。";
+"Label_ComplexRange" = "複雑な範囲";
+"Label_ClearOptions" = "オプションをクリア";
+"Label_ClearAll" = "すべてクリア";
+"Label_ClearFormats" = "書式をクリア";
+"Label_ClearContents" = "コンテンツをクリア";
+"Label_RangePlaceholder" = "範囲";
+"Label_XlsSaveDrawingsNotSupported" = "xls形式でのグラフと画像の保存はサポートされていません。これらのオブジェクトは保存されません。";
+"Label_LabelsIPhone" = "ラベル:";
+"Label_InvalidLinearRange" = "行/列の範囲または区切られた値のリストを入力してください。";
+"Label_InvalidTitleRange" = "タイトルには、セル/行/列の範囲、または文字列を指定する必要があります。";
+"Label_InvalidSeriesNameRange" = "タイトルには、セル/行/列の範囲、または文字列を指定する必要があります。";
+"Label_InvalidSeriesValuesRange" = "セル/行/列の範囲または区切られた数字のリスト指定する必要があります。";
+
+/*
+ NEW STRINGS AFTER VER 3.5
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Names" = "名前";
+"Label_FunctionCategories" = "関数のカテゴリ";
+"Label_DefinedNames" = "定義名";
+"Label_NamesInfo" = "名前の情報";
+"Label_Range" = "範囲";
+"Label_EditNames" = "名前の編集";
+"Label_Scope" = "場所";
+"Label_Workbook" = "ブック";
+"Label_NoDefinedNames" = "定義済みの名前はありません";
+"Label_InvalidName" = "この名前には不正な記号が含まれています。";
+"Label_DuplicateName" = "入力した名前は既に存在しています。ユーザー名を入力してください。";
+"ErrClass_Edit_Name" = "名前の編集に失敗しました。";
+"Label_DuplicateNameWarning" = "名前は既に存在します";
+"Label_InvalidNameWarning" = "不正な記号";
+"Label_Move" = "移動";
+"InfoMsg_MoveSheetDescription" = "シートを移動するには、シートのタブをタップして押し続けます。";
+
+"ErrMsg_CannotBeReplacedBySelfContents" = "フォルダ %@ 内の項目で自身を置き換えることはできません。";
+"Confirm_DeleteRecentFiles" = "最近使ったファイルを削除しますか?";
+
+
+/*
+ NEW STRINGS AFTER VER 3.5.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Table" = "表";
+"Label_TableProperties" = "表のプロパティ";
+"Label_InsertRowAfter" = "下に行を挿入";
+"Label_InsertRowBefore" = "上に行を挿入";
+"Label_DeleteRow" = "行の削除";
+"Label_DeleteTable" = "表の削除";
+
+"Label_Export" = "エクスポート";
+"Label_ExportTo" = "次の形式へエクスポート";
+
+
+"Label_Filter" = "フィルター";
+"Label_ClearFilter" = "フィルターの解除";
+"Label_ReapplyFilter" = "フィルターを再適用";
+"Label_ComparisonFilter" = "比較フィルター";
+"Label_Multichoice" = "複数選択";
+"Label_AboveAverage" = "平均より上";
+"Label_BelowAverage" = "平均より下";
+"Label_Top10" = "トップテン";
+
+"Label_Equal" = "指定の値に等しい";
+"Label_LessThan" = "指定の値より小さい";
+"Label_LessThanOrEqual" = "指定の値以下";
+"Label_NotEqual" = "指定の値に等しくない";
+"Label_GreaterThanEqual" = "指定の値以上";
+"Label_GreaterThan" = "指定の値より大きい";
+"Label_Between" = "指定の範囲内";
+
+"Label_Items" = "項目";
+"Label_Percent" = "パーセント";
+"Label_Count" = "カウント";
+"Label_Value" = "値";
+"Label_And" = "かつ";
+"Label_Or" = "または";
+"Label_None" = "なし";
+"Label_Blanks" = "(空白)";
+"Label_ShowAll" = "(すべて表示)";
+"Label_InvalidFilter" = "無効なフィルター。";
+
+"Label_XlsSaveFiltersNotSupported" = "xls形式でのフィルターの保存はサポートされていません。フィルターの情報は保存されません。";
+"Confirm_ClearUnsupportedFilters" = "サポートされていないフィルターがシートに含まれています。これらのフィルターを削除してフィルター編集作業を続行しますか?この操作を取り消すことはできません。";
+"ErrClass_Execute_Command" = "コマンドを実行できません。 ";
+"ErrExecute_EmptyRange" = "選択した範囲が空です。";
+"ErrExecute_RangeWithinFilters" = "選択した範囲にはフィルターが含まれています。";
+
+"Label_NewSlide" = "新しいスライド";
+"Label_TitleSubtitle" = "中央にタイトルとサブタイトルのプレースホルダーを配置したレイアウト";
+"Label_TitleText" = "タイトルとテキスト";
+"Label_TitleTextText" = "タイトル、左にテキスト、右にテキスト";
+"Label_TitleTable" = "タイトルと表";
+"Label_TitleTextChart" = "タイトル、左にテキスト、右にグラフ";
+"Label_TitleChartText" = "タイトル、左にグラフ、右にテキスト";
+"Label_TitleDiagram" = "タイトルとダイアグラム";
+"Label_TitleChart" = "タイトルとグラフ";
+"Label_TitleTextClipArt" = "タイトル、左にテキスト、右にクリップアート";
+"Label_TitleClipArtText" = "タイトル、左にクリップアート、右にテキスト";
+"Label_TitleOnly" = "タイトルのみ";
+"Label_Blank" = "空白";
+"Label_TitleTextObject" = "タイトル、左にテキスト、右にオブジェクト";
+"Label_TitleObjectText" = "タイトル、左にオブジェクト、右にテキスト";
+"Label_ObjectOnly" = "オブジェクトのみ";
+"Label_TitleObject" = "タイトルとオブジェクト";
+"Label_TitleTextMedia" = "タイトル、左にテキスト、右にメディア";
+"Label_TitleMediaText" = "タイトル、左にメディア、右にテキスト";
+"Label_TitleTopObjectBottomText" = "タイトル、上にオブジェクト、下にテキスト";
+"Label_TitleTopTextBottomObject" = "タイトル、上にテキスト、下にオブジェクト";
+"Label_TitleText2Objects" = "タイトル、左にテキスト、右にオブジェクト2つ";
+"Label_Title2ObjectsText" = "タイトル、左にオブジェクト2つ、右にテキスト";
+"Label_TitleTop2ObjectsBottomText" = "タイトル、上にオブジェクト2つ、下にテキスト";
+"Label_Title4Objects" = "タイトルとオブジェクト4つ";
+"Label_TitleVerticalText" ="タイトルと縦書きテキスト";
+"Label_TitleClipArtVerticalText" = "タイトル、左にクリップアート、右に縦書きテキスト";
+"Label_VerticalTitleVerticalText" = "右に縦書きテキスト、左に縦書きテキスト";
+"Label_VerticalTitleVerticalTextChart" = "右に縦書きテキスト、上に縦書きテキスト、下にグラフ";
+"Label_TitleObjectObject" = "タイトル、左にオブジェクト、右にオブジェクト";
+"Label_TitleObject2Objects" = "タイトル、左にオブジェクト1つ、右にオブジェクト2つ";
+"Label_Title2ObjectsObject" = "タイトル、左にオブジェクト2つ、右にオブジェクト1つ";
+"Label_CustomLayout" = "ユーザー定義のカスタムレイアウト";
+"Label_SectionHeaderTitleSubtitle" = "セクションヘッダータイトルとサブタイトルのテキスト";
+"Label_Title2Objects" = "タイトルとテキスト付きオブジェクト2つ";
+"Label_TitleObjectCaptionText" = "タイトル、オブジェクト、およびキャプション テキスト";
+"Label_TitlePictureCaptionText" = "タイトル、画像、およびキャプション テキスト";
+"Label_SlideNumberNotes" = "スライド %d ノート";
+
+"Label_OpenHyperlink" = "ハイパーリンクを開く";
+"Label_CopyHyperlink" = "ハイパーリンクをコピー";
+"Label_Hyperlink" = "ハイパーリンク";
+"Label_RemoveHyperlink" = "ハイパーリンクを削除";
+"Label_EnterURL" = "URLを入力";
+"Label_EnterEmail" = "メールアドレスを入力";
+"Label_EnterSubject" = "件名を入力";
+"Label_URL" = "URL";
+"Label_Slide" = "スライド";
+"Label_SetHyperlinkAction" = "タップ時のハイパーリンクのアクションを設定";
+"Label_SlideNumber" = "スライド %d";
+"Label_NextSlide" = "次のスライド";
+"Label_PreviousSlide" = "前のスライド";
+"Label_FirstSlide" = "最初のスライド";
+"Label_LastSlide" = "最後のスライド";
+
+/* Up to 32 chars */
+"Label_EndSlideshow" = "スライドショーを終了";
+
+"Label_NoAction" = "アクションはありません";
+"Label_Unsupported" = "サポートされていません";
+
+
+"Label_Shape" = "シェイプ";
+"Label_Shapes" = "シェイプ";
+"Label_Lines" = "線";
+"Label_Rectangles" = "四角形";
+"Label_BasicShapes" = "基本図形";
+"Label_BlockArrows" = "ブロック矢印";
+"Label_EquationShapes" = "数式図形";
+"Label_FlowchartShapes" = "フローチャート";
+"Label_StarsAndBanners" = "星とリボン";
+"Label_Callouts" = "吹き出し";
+"Label_ActionButtons" = "動作設定ボタン";
+"Label_Others" = "その他";
+"Label_BringToFront" = "最前面へ移動";
+"Label_SendToBack" = "最背面へ移動";
+"Label_BringForward" = "前面へ移動";
+"Label_SendBackward" = "背面へ移動";
+
+
+"Label_GoPremiumDetails" = "OfficeSuite プレミアムでOfficeSuiteを最大限に活用";
+"Label_HideGoPremium" = "プレミアムへ移行を非表示";
+"Label_ShowGoPremium" = "プレミアムへ移行を表示";
+"Label_RestorePurchases" = "購入の復元";
+
+"Label_BuyMonthly" = "月額払い %@/月";
+"Label_BuyYearly" = "年額払い %@/年 (%@/月)";
+
+"Label_Feature1" = "Word文書の編集および作成";
+"Label_Feature2" = "Excel文書の編集および作成";
+"Label_Feature3" = "PowerPoint文書の編集および作成";
+"Label_Feature4" = "PDFファイルを表示";
+"Label_Feature5" = "クラウドのサポートおよび文書の共有";
+"Label_Feature6" = "印刷";
+"Label_Feature7" = "パスワード保護";
+"Label_Feature8" = "テキスト文書をPDFファイルへエクスポート";
+"Label_Feature9" = "PDFファイルをWord、Excel、epubファイルへエクスポート";
+"Label_Feature10" = "スペルチェック";
+"Label_Feature11" = "PDFエクスポート後も、元の文書のレイアウト、書式設定、テーブルおよび画像をを保持";
+"Label_Feature12" = "Excelにフィルターを挿入";
+"Label_Feature13" = "広告なし";
+
+"Label_GoPremFeature" = "機能";
+"Label_GoPremFree" = "フリー";
+"Label_GoPremPro" = "プロ";
+"Label_GoPremPremium" = "プレミアム";
+"Label_Premium" = "プレミアム";
+"Label_GoPremiumBenefits" = "プレミアムパッケージの利点";
+
+"InfoTitle_PremiumFeature" = "プレミアムの機能";
+"InfoMsg_PremiumFeature" = "この機能は、プレミアムバージョンでのみ使用できます。";
+
+"Label_FreeEdition" = "フリー版";
+"Label_PremiumEdition" = "プレミアム版";
+
+"Label_TopN" = "トップ N 件";
+"Label_ShowRowsWhere" = "次の値を持つ行を表示します:";
+"Label_TopNAutoFilter" = "上位 N 件オートフィルター";
+"Label_ShowTop10" = "表示:";
+"Label_FilterOn" = "フィルターをオン";
+"Label_FilterOff" = "フィルターをオフ";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_CopyTo" = "コピーする...";
+"Label_MoveTo" = "移動する...";
+"InfoMsg_SelectOnlyOneFileForDocPicker" = "ファイルは1つだけ選択してください。";
+
+"Label_WebDAV_FailedLogIn_ErrorCode" = "ログインに失敗しました!\nHTTPエラーコード:%d。\n別のHTTPアドレス、ユーザー名、またはパスワードでもう一度お試しください。";
+
+"Label_SheetOrientation" = "シートの向き:";
+"Label_Landscape" = "横";
+"Label_Portrait" = "縦";
+"Label_SheetsToPrint" = "印刷するシート:";
+"Label_ActiveSheet" = "作業中のシート";
+"Label_MultipleSheets" = "複数のシート";
+"Label_AllSheets" = "ブック全体";
+"Label_Proceed" = "続行";
+
+"Label_FiltersNotAvailable" = "フィルター機能はこのシートでは使用できません。";
+"ErrMsg_InsertImageError" = "不正またはサポートされていない画像";
+"FUNCCAT_Compatibility" = "互換性";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"InfoTitle_WouldYouRecommend" = "OfficeSuite の改善に\nご協力ください!";
+"InfoMsg_WouldYouRecommend" = "App Storeで手早くご評価いただき評判を広めていただくか\nまたは弊社へ直接ご連絡いただき、ご意見をお聞かせください。";
+"Label_RateDialogRate" = "OfficeSuiteを評価";
+"Label_RateDialogSendFeedback" = "意見を送る";
+"Label_RateDialogDismiss" = "また後で";
+"InfoTitle_FeedbackMailSubject" = "バージョン %@ に対するOfficeSuiteユーザーからのご意見";
+"InfoTitle_CannotOpenAppStore" = "App Storeを利用できません";
+"InfoMsg_CannotOpenAppStoreForRate" = "App Storeが利用可能ではないため、評価ページを開くことができませんでした";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Files" = "ファイル";
+"Label_File" = "ファイル";
+"Label_View" = "表示";
+"Label_Go_To" = "移動";
+"Label_WrapText" = "テキストを折り返す";
+"Label_MergeAndCenter" = "結合して中央揃え";
+"Label_AutoSum" = "オート SUM";
+
+"Label_New" = "新規";
+"Label_Templates" = "テンプレート";
+"Label_OpenRecent" = "最近使用したファイルを開く";
+"Label_Send" = "送信";
+"Label_Protect" = "保護";
+"Label_PageSetup" = "ページ設定";
+
+"Label_CameraPicture" = "カメラの画像";
+"Label_RowAbove" = "行を上へ";
+"Label_ColumnLeft" = "列を左へ";
+"Label_ChartInANewSheet" = "新しいシートのグラフ";
+
+"Label_NumberFormatting" = "数値の書式設定";
+"Label_AlignmentInCell" = "セル内の位置合わせ";
+"Label_CellFont" = "セルのフォント";
+"Label_CellBorder" = "セルの枠線";
+"Label_HideRows" = "行を非表示";
+"Label_UnhideRows" = "行を再表示";
+"Label_HideColumns" = "列の非表示";
+"Label_UnhideColumns" = "列の再表示";
+"Label_AutoFitColumns" = "列の幅の自動調整";
+"Label_RenameSheet" = "シート名の変更";
+"Label_EditHyperlink" = "ハイパーリンクの編集";
+
+"Label_InsertFunction" = "関数の挿入";
+"Label_NameManager" = "名前の管理";
+"Label_Reference" = "参照";
+
+"Label_CellContent" = "セルのコンテンツ";
+"Label_ShowGridlines" = "グリッド線を表示";
+"Label_StartSelection" = "選択を開始";
+"Label_SelectAll" = "すべて選択";
+"Label_FindReplace" = "検索と置換";
+
+"Label_PageBreak" = "改ページ";
+"Label_Paragraph" = "段落";
+"Label_SelectAll" = "すべて選択";
+"Label_FormattingSymbols" = "編集記号";
+"Label_Bullets" = "箇条書き";
+"Label_Numbering" = "段落番号";
+
+/* Up to 20 chars */
+"Label_MultilevelList" = "アウトライン";
+
+"Label_IncreaseIndent" = "インデントを増やす";
+"Label_DecreaseIndent" = "インデントを減らす";
+"Label_Margins" = "余白";
+"Label_Orientation" = "印刷の向き";
+"Label_SectionBreaks" = "セクション区切り";
+"Label_PageBreaks" = "改ページ";
+"Label_GoToTop" = "上に移動";
+"Label_GoToBottom" = "下に移動";
+"Label_GoToBookmark" = "ブックマークに移動";
+"Label_DeleteBookmark" = "ブックマークの削除";
+"Label_FullScreen" = "全画面表示";
+"Label_PasteStyle" = "スタイルを\n貼り付け";
+"Label_FormatPainter" = "書式の\nコピー/貼り付け";
+"Label_ChangeStyle" = "スタイルの変更";
+"Label_InsertAbove" = "上に挿入";
+"Label_InsertBelow" = "下に挿入";
+"Label_InsertToTheLeft" = "左に挿入";
+"Label_InsertToTheRight" = "右に挿入";
+"Label_DeleteColumn" = "列の削除";
+"Label_DeleteCells" = "セルの削除";
+
+"ErrClass_SortString" = "並べ替えできませんでした。";
+"Err_CellsHasMergesString" = "結合されたセルの一部を変更することはできません。";
+
+
+"Label_RedeemActivationCode" = "アクティベーションコードの登録";
+"Label_EnterRedeemActivationCode" = "アクティベーションコードを入力";
+
+"InfoTitle_RedeemActivationSuccess" = "アクティベーションコードの登録成功";
+"ErrTitle_RedeemActivationFailed" = "アクティベーションコードの登録失敗";
+"ErrMsg_RedeemActivationInvalidKey" = "アクティベーションキーが無効です!";
+"ErrMsg_RedeemActivationNoInternet" = "インターネット接続がありません!";
+"ErrMsg_RedeemActivationSystemError" = "システムエラーが発生しました!";
+
+"InfoMsg_RedeemActivationStatusRedeemed" = "正常にキーを登録しました!";
+"ErrMsg_RedeemActivationStatusKeyNotFound" = "キーが見つかりません!";
+"ErrMsg_RedeemActivationStatusHashNotFound" = "指定されたキー用のデバイスが見つかりませんでした!";
+"ErrMsg_RedeemActivationStatusServerError" = "サーバー エラーが発生しました!";
+"ErrMsg_RedeemActivationStatusNotSpecial" = "デバイスはこのキーを承認しませんでした!";
+"ErrMsg_RedeemActivationStatusKeyExpired" = "キーの有効期限が切れました!";
+"ErrMsg_RedeemActivationStatusLimitReached" = "キーの上限に達しました!";
+
+"Label_BuyOneTime" = "フル・ライセンス %@";
+"ErrMsg_PaymentFailed" = "残念ながら、お支払い操作は失敗しました。";
+
+/* Up to 22 chars */
+"Label_RecentFiles" = "最近使用したファイル";
+"WarningMsg_DeleteRecentItem" = "この項目を最近使ったファイルから削除しますか?";
+"WarningMsg_DeleteRecentItems" = "これらの項目を最近使ったファイルから削除しますか?";
+"Label_ExternalLocation" = "外部の保管場所";
+"Label_OpenContainingFolder" = "ファイルを含むフォルダを開く";
+"Label_NoRecentFiles" = "最近使用したファイルはありません";
+"Label_Network" = "ネットワーク";
+
+/* Up to 20 chars */
+"Label_AddAccount" = "アカウントの追加";
+
+"Label_iCloudDrive" = "iCloudドライブ";
+"Label_CopyFromICloudDrive" = "iCloudドライブからコピー";
+"Label_CopyToICloudDrive" = "iCloudドライブへコピー";
+"Label_MoveToICloudDrive" = "iCloudドライブへ移動";
+"Label_iCloud" = "iCloud";
+"Label_LocalStorage" = "ローカル記憶域";
+
+"Label_FitPage" = "ページに合わせる";
+"Label_100PercentZoom" = "100%ズーム";
+"Label_GoToSlide" = "スライドに移動";
+"Label_DuplicateSlide" = "スライドを複製";
+"Label_ReorderSlides" = "スライドを並べ替え";
+"Label_DeleteSlide" = "スライドの削除";
+"Label_StartSlideShow" = "スライドショーの開始";
+"Label_StartFromCurrent" = "現在のスライドから開始";
+"Label_AutomaticAdvance" = "自動送り";
+"Label_Find" = "検索";
+
+"Label_ExportToWord" = "Wordに変換";
+"Label_ExportToExcel" = "Excelへ変換";
+"Label_ExportToEPub" = "ePub形式に変換";
+
+"Label_ZoomFitPage" = "フィット";
+"Label_Zoom25" = "25 %";
+
+"Label_Note" = "メモ";
+"Label_Underline" = "下線";
+"Label_Strikethrough" = "取り消し線";
+"Label_Text" = "テキスト";
+
+"Label_Content" = "コンテンツ";
+
+"Err_ReloadFailed" = "文書を保存後、再読み込みに失敗しました。";
+"Label_SaveChangesBeforeExport" = "保存されていない変更内容はエクスポートされません。今すぐ保存しますか?";
+"Err_PdfConversion_ServerError" = "リモートサーバがエクスポートに失敗しました。";
+"Err_PdfPasswordChangeNotPermitted" = "このドキュメントのユーザーパスワードを変更する権限がありません。";
+"Err_PdfSecuritySettingsChangeFailed" = "セキュリティ設定の変更に失敗しました。";
+"Err_PdfConversion_PasswordProtectedFilesNotSupported" = "このファイルはパスワードで保護されているため、エクスポートできません。続行するには、パスワード保護を解除してください。";
+
+"Label_Exporting" = "エクスポート中...";
+"Label_PdfConversionSuccessful" = "ファイルが正常にエクスポートされました。";
+"Label_PdfPasswordChangeRequiresSaving" = "パスワードを変更するには、ファイルを保存する必要があります。保存した後は、保存前の変更内容を元に戻したり、やり直すことはできなくなります。";
+
+/* Up to 10 chars */
+"Label_Review" = "校閲";
+
+"Label_Annotation" = "注釈";
+
+"Label_Photos" = "写真";
+"Label_ClearStyle" = "スタイルの解除";
+"Label_Normal" = "標準";
+"Label_Wide" = "広く";
+"Label_Narrow" = "狭く";
+"Label_Moderate" = "中程度";
+
+"Label_a3" = "A3";
+"Label_a4" = "A4";
+"Label_a5" = "A5";
+"Label_b4" = "B4";
+"Label_b5" = "B5";
+"Label_letter" = "Letter";
+"Label_tabloid" = "Tabloid";
+"Label_ledger" = "Ledger";
+"Label_legal" = "Legal";
+"Label_statement" = "Statement";
+"Label_executive" = "Executive";
+"Label_folio" = "Folio";
+"Label_quarto" = "Quarto";
+
+"Label_Page" = "ページ";
+"Label_Continuous" = "連続";
+"Label_EvenPage" = "偶数ページ";
+"Label_OddPage" = "奇数ページ";
+"Label_Column" = "列";
+"Label_TextWrapping" = "テキストの折り返し";
+
+"Label_Zoom200" = "200 %";
+"Label_Zoom150" = "150 %";
+"Label_Zoom100" = "100 %";
+"Label_Zoom75" = "75 %";
+"Label_Zoom50" = "50 %";
+
+"Label_NoItems" = "項目はありません";
+"Label_NoBookmarks" = "ブックマークはありません";
+"Label_EnterBookmarkName" = "ブックマーク名を入力してください";
+"Label_InsertBookmark" = "ブックマークの挿入";
+"Label_SelectBookmark" = "ブックマークを選択";
+"Label_FormatFont" = "フォントの書式設定";
+
+/* Up to 26 chars */
+"Label_FormatParagraph" = "段落の書式設定";
+
+"Label_NONE" = "なし";
+"Label_CircleBullets" = "円記号";
+"Label_SquareBullets" = "四角記号";
+
+"Label_NumbersWithDot" = "ドット付き番号";
+"Label_NumbersWithBracket" = "括弧付き番号";
+"Label_LowerLettersWithDot" = "ドット付き小文字";
+"Label_LowerLettersWithBracket" = "括弧付き小文字";
+"Label_LowerRomanNumbersWithDot" = "ドット付きローマ数字(小文字)";
+"Label_UpperLettersWithDot" = "ドット付き大文字";
+"Label_UpperRomanNumbersWithDot" = "ドット付きローマ数字(大文字)";
+"Label_MultilevelListWithNumbers" = "複数番号を持つアウトライン";
+"Label_MultilevelListWithNumbersAndLetters" = "複数番号と文字を持つアウトライン";
+
+"Label_1_0" = "1.0";
+"Label_1_15" = "1.15";
+"Label_1_5" = "1.5";
+"Label_2_0" = "2.0";
+"Label_2_5" = "2.5";
+"Label_3_0" = "3.0";
+
+"Label_RevealFormating" = "書式の詳細";
+"Label_DenyMessagePhotos" = "このアプリは写真やビデオへのアクセス権限がありません。";
+"Label_DenyMessageInstructions" = "プライバシー設定でアクセスを有効にすることができます。";
+"Label_DenyNoAlbumPhotos" = "写真やビデオはありません";
+"Label_DenyNoAlbumPhotosMessage" = "カメラを使用して写真やビデオを撮影するか、iTunesを使用して写真やビデオを同期することができます。";
+
+"Button_Paper" = "用紙";
+"Button_Margins" = "余白";
+"Label_Custom" = "カスタム";
+"Label_Width" = "幅";
+"Label_Height" = "高さ";
+"Label_Left" = "左";
+"Label_Right" = "右";
+"Label_Insert" = "挿入";
+"Label_Layout" = "レイアウト";
+"Label_Styles" = "スタイル";
+"Label_PageMargins" = "ページの余白";
+"Label_PageOrientation" = "ページの向き";
+"Label_PageSize" = "ページのサイズ";
+"Label_Bookmarks" = "ブックマーク";
+"Label_Subrscript" = "下付き文字";
+"Label_Superrscript" = "上付き文字";
+"Label_DocumentIndex" = "文書の見出し";
+"Label_Alignment" = "位置合わせ";
+"Label_Indents" = "インデント";
+"Label_Spacing" = "間隔";
+"Label_Before" = "前";
+"Label_After" = "後";
+"Label_FirstLine" = "最初の行";
+"Label_Units" = "単位";
+"Label_Millimeters" = "ミリメートル";
+"Label_Centimeters" = "センチメートル";
+"Label_Inches" = "インチ";
+"Label_Points" = "ポイント";
+"Label_InchesTextFormat" = "%@\"";
+"Label_CentimetersTextFormat" = "%@ cm";
+"Label_MillimetersTextFormat" = "%@ mm";
+"Label_PointsTextFormat" = "%@ pt";
+"Button_TableStyleStylesTab" = "表のスタイル";
+"Button_TableStyleSettingsTab" = "設定";
+"Label_TableStyleCustomStyles" = "カスタムスタイル";
+"Label_TableStyleBuiltInStyles" = "組み込みのスタイル";
+"Label_TableStyleHeaderRow" = "ヘッダー行";
+"Label_TableStyleTotalRow" = "集計行";
+"Label_TableStyleFirstColumn" = "最初の列";
+"Label_TableStyleLastColumn" = "最後の列";
+"Label_TableStyleBandedRows" = "縞模様 (行)";
+"Label_TableStyleBandedColumns" = "縞模様 (列)";
+"Label_Tab" = "タブ";
+"Label_LineBreak" = "改行";
+
+"Label_MSCaptureCameraUsePhoto" = "写真を使用";
+"Label_MSCaptureCameraRetake" = "撮り直し";
+
+"Label_Moments" = "モーメント";
+
+"Label_CameraDenyAccessTitle" = "カメラにアクセスできません";
+"Label_CameraDenyAccessMessage" = "カメラにアクセスするには、[設定]>[プライバシー]>[カメラ] に移動し、OfficeSuiteのスイッチをオンに設定します。";
+
+/* Up to 24 chars */
+"Label_SlideShowSettings" = "スライドショーの設定";
+
+"Label_NewName" = "新しい名前:";
+"ErrMsg_LongName" = "名前が長すぎます。";
+"ErrMsg_SheetNameEmpty" = "シート名を空にすることはできません。";
+"WarningMessage_RtfWillLoseFormatting" = "あなたのファイルをRTF形式で保存した場合、一部の書式設定が失われる可能性があります。続行しますか?";
+"WarningMessage_TxtWillLoseFormatting" = "テキストファイルとして保存すると、ファイル内のすべての書式、画像、およびオブジェクトが失われます。続行しますか?";
+
+/* Up to 9 chars */
+"Label_BuyMoreFonts" = "フォントを買って";
+"Label_InstalledFonts" = "インストールされているフォント";
+
+"Label_Breaks" = "中断";
+
+"Label_GoPremium" = "Premiumへ移行";
+"Label_FontPackDescription1" = "OfficeSuite内で使用できる、最も一般的なフォントのコレクション。意図したとおりに作成したドキュメントを閲覧することができます。";
+"Label_FontPackDescription2" = "Calibri、Tahoma およびwingdingsなど12種類のMonotypeフォントが含まれています。";
+"Label_FontPackDescription3" = "また、Garamond、Modern、Open SansおよびTimes Gothicなどの60種類のOFLフォントが含まれています。";
+
+"Label_FontPack" = "フォントパック";
+"Label_FontPackDescription" = "OfficeSuite内で使用できる、Calibri、Tahoma およびWingdingsなどの50種類以上のフォントコレクション。";
+"Label_EditPdf" = "PDFドキュメントの編集";
+"Label_EditPdfDescription" = "PDFファイルを完全に編集可能なWord/Excelファイルに変換";
+"Label_SaveAsPdf" = "PDFとして保存";
+"Label_SaveAsPdfDescription" = "ドキュメント書式を保持したままPDFとして保存";
+"Label_AnnotatePdf" = "PDFに注釈を追加";
+"Label_AnnotatePdfDescription" = "ドキュメントをレビューしながらメモやコメントを追加";
+"Label_AddCameraPhoto" = "カメラの写真を追加";
+"Label_AddCameraPhotoDescription" = "文書内に画像を含める";
+"Label_ProtectYourDocs" = "ドキュメントの保護";
+"Label_ProtectYourDocsDescription" = "個別ファイルのパスワード保護、またはOfficeSuite全体に対してパスコードを設定することも可能";
+"Label_AdFree" = "広告なし";
+"Label_AdFreeDescription" = "作業中に気が散ることはありません";
+
+"Label_DoubleUnderline" = "二重下線";
+
+"Label_IncreaseFont" = "フォントを拡大";
+"Label_DecreaseFont" = "フォントを縮小";
+
+"Label_HorizontalAlignLeft" = "左揃え";
+"Label_HorizontalAlignRight" = "右揃え";
+"Label_HorizontalAlignCenter" = "中央揃え";
+
+"Label_VerticalAlignBottom" = "下揃え";
+"Label_VerticalAlignMiddle" = "縦中央揃え";
+"Label_VerticalAlignTop" = "上揃え";
+
+"Label_SelectTextColor" = "テキストの色を選択";
+"Label_SelectTextBgColor" = "セルの色を選択";
+
+/* Up to 8 chars (these two strings are part of the phrase "Buy the Font Pack")  */
+"Label_BuyThe" = "購入";
+"Label_Pack" = "パック";
+
+"Label_OneTimePurchase" = "スポット購入";
+
+"Label_FontPackMonotypeTitle" = "次の12種類のMonotypeフォントが含まれています。";
+"Label_FontPackMonotypeDesc" = "Arial Narrow, Calibri, Cambria, Cambria Math, Comic Sans Ms, Monotype Sorts, Tahoma, Palace Script MT, Webdings, Wingdings, Wingdings 2, Wingdings 3";
+
+
+"Excel_func_ABS" = "絶対値の数値を返します";
+"Excel_func_ACCRINT" = "期間金利を支払う証券の累積金利を返します";
+"Excel_func_ACCRINTM" = "満期時金利を支払う証券の累積金利を返します";
+"Excel_func_ACOS" = "数値の逆余弦を返します";
+"Excel_func_ACOSH" = "数値の逆双曲線余弦を返します";
+"Excel_func_ADDRESS" = "ワークシートの 1 つのセルにテキストとして参照を返します";
+"Excel_func_AMORDEGRC" = "減価償却係数を使用して各会計期間について減価償却費を返します";
+"Excel_func_AMORLINC" = "各会計期間について減価償却費を返します";
+"Excel_func_AND" = "すべての引数がTRUEの場合に、TRUEを返します";
+"Excel_func_AREAS" = "参照の領域の数を返します";
+"Excel_func_ASC" = "文字列の全角(2バイト)の英語文字またはカタカナを半角(1バイト)文字に変更します";
+"Excel_func_ASIN" = "数値の逆正弦を返します";
+"Excel_func_ASINH" = "数値の逆双曲線正弦を返します";
+"Excel_func_ATAN" = "数値の逆正接を返します";
+"Excel_func_ATAN2" = "x座標とy座標から逆正接を返します";
+"Excel_func_ATANH" = "数値の逆双曲線正接を返します";
+"Excel_func_AVEDEV" = "平均値からのデータ点の絶対偏差の平均を返します";
+"Excel_func_AVERAGE" = "この引数の平均を返します";
+"Excel_func_AVERAGEA" = "数値、テキスト、論理値を含むその引数の平均を返します";
+"Excel_func_AVERAGEIF" = "指定された条件を満たす範囲のすべてのセルの平均値（算術平均値）を返します";
+"Excel_func_AVERAGEIFS" = "複数の条件を満たすすべてのセルの平均値（算術平均値）を返します";
+"Excel_func_BAHTTEXT" = "数値をテキストに ? (baht) 通貨形式を使用して変換します";
+"Excel_func_BESSELI" = "変更されたベッセル関数In(x)を返します";
+"Excel_func_BESSELJ" = "ベッセル関数Jn(x)を返します";
+"Excel_func_BESSELK" = "変更されたベッセル関数Kn(x)を返します";
+"Excel_func_BESSELY" = "ベッセル関数Yn(x)を返します";
+"Excel_func_BETADIST" = "ベータ累積分散関数を返します";
+"Excel_func_BETAINV" = "指定されたベータ分散のための累積分散関数の逆数を返します";
+"Excel_func_BIN2DEC" = "2進値を10進値に変換します";
+"Excel_func_BIN2HEX" = "2進値を16進値に変換します";
+"Excel_func_BIN2OCT" = "2進値を8進値に変換します";
+"Excel_func_BINOMDIST" = "二項分布の確率を返します";
+"Excel_func_CALL" = "ダイナミックリンクライブラリまたはコードリソースのプロシージャを呼び出します";
+"Excel_func_CEILING" = "最も近い整数または最も近い有効係数倍数に四捨五入します";
+"Excel_func_CELL" = "セルの形式、場所、または内容に関する情報を返します";
+"Excel_func_CHAR" = "コード番号により指定される文字を返します";
+"Excel_func_CHIDIST" = "カイ2乗分布の片側確率を返します";
+"Excel_func_CHIINV" = "カイ2乗分布の片側確率の逆数を返します";
+"Excel_func_CHITEST" = "独立性の検定を返します";
+"Excel_func_CHOOSE" = "値のリストから値を選択します";
+"Excel_func_CLEAN" = "テキストからすべての非印刷文字を削除します";
+"Excel_func_CODE" = "テキスト文字列の最初の文字の数値コードを返します";
+"Excel_func_COLUMN" = "参照の列数を返します";
+"Excel_func_COLUMNS" = "参照の列数を返します";
+"Excel_func_COMBIN" = "指定された数のオブジェクトの組み合わせの数を返します";
+"Excel_func_COMPLEX" = "実係数と虚係数を複素数に変換します";
+"Excel_func_CONCATENATE" = "複数のテキスト項目を1つのテキスト項目に結合します";
+"Excel_func_CONFIDENCE" = "母平均の信頼間隔を返します";
+"Excel_func_CONVERT" = "1つの測定システムから別の測定システムに数値を変換します";
+"Excel_func_CORREL" = "2つのデータセットの間の相関係数を返します";
+"Excel_func_COS" = "数値の余弦を返します";
+"Excel_func_COSH" = "数値の双曲線余弦を返します";
+"Excel_func_COUNT" = "引数リストの数値の数をカウントします";
+"Excel_func_COUNTA" = "引数リストの値の数をカウントします";
+"Excel_func_COUNTBLANK" = "範囲内の空白セルの数をカウントします";
+"Excel_func_COUNTIF" = "指定された条件を満たす範囲内のセルの数をカウントします";
+"Excel_func_COUNTIFS" = "複数条件を満たす範囲内のセルの数をカウントします";
+"Excel_func_COUPDAYBS" = "クーポン期間の開始から決済日までの日数を返します";
+"Excel_func_COUPDAYS" = "決済日を含むクーポン期間の日数を返します";
+"Excel_func_COUPDAYSNC" = "決済日から次のクーポン日までの日数を返します";
+"Excel_func_COUPNCD" = "決済日の後の次のクーポン日を返します";
+"Excel_func_COUPNUM" = "決済日と満期日の間に支払い対象となるクーポン数を返します";
+"Excel_func_COUPPCD" = "決済日の前に前のクーポン日を返します";
+"Excel_func_COVAR" = "共分散、対偏差の積の平均を返します";
+"Excel_func_CRITBINOM" = "累積二項分布が基準値以下である最小値を返します";
+"Excel_func_CUMIPMT" = "2つの期間の間に支払われた累積金利を返します";
+"Excel_func_CUMPRINC" = "2つの期間の間にローンに対して支払われた元本を返します";
+"Excel_func_DATE" = "特定の日付のシリアル番号を返します";
+"Excel_func_DATEVALUE" = "テキスト形式の日付をシリアル番号に変換します";
+"Excel_func_DAVERAGE" = "選択したデータベース エントリの平均値を返します";
+"Excel_func_DAY" = "シリアル番号を日付に変換します";
+"Excel_func_DAYS360" = "年間360日に基づいて2つの日付の間の日数を計算します";
+"Excel_func_DB" = "残高固定償却方法を使用して、指定期間の資産の減価償却費用を返します";
+"Excel_func_DCOUNT" = "データベースに数値を含むセルをカウントします";
+"Excel_func_DCOUNTA" = "データベースの空白でないセルをカウントします";
+"Excel_func_DDB" = "倍率残高逓減償却法またはその他の指定した方法を使用して、指定期間の資産の減価償却費用を返します";
+"Excel_func_DEC2BIN" = "10進値を2進値に変換します";
+"Excel_func_DEC2HEX" = "10進値を16進値に変換します";
+"Excel_func_DEC2OCT" = "10進値を8進値に変換します";
+"Excel_func_DEGREES" = "ラジアンを角度に変換します";
+"Excel_func_DELTA" = "2つの値が等しいかどうかを検査します";
+"Excel_func_DEVSQ" = "偏差の2乗の合計を返します";
+"Excel_func_DGET" = "指定した条件に一致する1つのレコードをデータベースから抽出します";
+"Excel_func_DISC" = "証券のための割引率を返します";
+"Excel_func_DMAX" = "選択したデータベースエントリの最大値を返します";
+"Excel_func_DMIN" = "選択したデータベースエントリの最小値を返します";
+"Excel_func_DOLLAR" = "数値をテキストに $ (ドル) 通貨形式を使用して変換します";
+"Excel_func_DOLLARDE" = "分数としてあらわされたドル価格を10進数で表されたドル価格に変換します";
+"Excel_func_DOLLARFR" = "10進数で表されたドル価格を分数で表わされたドル価格に変換します";
+"Excel_func_DPRODUCT" = "データベースの条件に一致する特定のフィールドのレコードの値を乗じます";
+"Excel_func_DSTDEV" = "選択したデータベース エントリのサンプルに基づいた標準偏差を予測します";
+"Excel_func_DSTDEVP" = "選択されたデータベースエントリの母集団全体に基づいた標準偏差を計算します";
+"Excel_func_DSUM" = "条件に一致するデータベースのレコードのフィールド列に数値を追加します";
+"Excel_func_DURATION" = "毎年、定期的な金利支払いのある証券期間を返します";
+"Excel_func_DVAR" = "選択したデータベースエントリのサンプルに基づいた変動を予測します";
+"Excel_func_DVARP" = "選択されたデータベースエントリの母集団全体に基づいた変動を計算します";
+"Excel_func_EDATE" = "開始日の前または後の月数を示す日付のシリアル番号を返します";
+"Excel_func_EFFECT" = "有効な年間金利の利率を返します";
+"Excel_func_EOMONTH" = "指定した月数の前または後の月末日のシリアル番号を返します";
+"Excel_func_ERF" = "エラー関数を返します";
+"Excel_func_ERFC" = "補足エラー関数を返します";
+"Excel_func_ERROR_TYPE" = "エラータイプに対応する数値を返します";
+"Excel_func_EUROCONVERT" = "数値をユーロで返し、ユーロの数値をユーロメンバー通貨に変換するか、ユーロを媒介として1つのユーロメンバー通貨の数値を別の通貨の数値に変換します（三角法）。";
+"Excel_func_EVEN" = "数値を最も近い偶数に切り上げます";
+"Excel_func_EXACT" = "2つのテキスト値が同一であるかを確認します";
+"Excel_func_EXP" = "eを指定した数値の累乗にして返します";
+"Excel_func_EXPONDIST" = "指数分布を返します";
+"Excel_func_FACT" = "数値の階乗を返します";
+"Excel_func_FACTDOUBLE" = "数値の二重階乗を返します";
+"Excel_func_FALSE" = "論理値FALSEを返します";
+"Excel_func_FDIST" = "F確率分布を返します";
+"Excel_func_FIND" = "別のテキストの中で1つのテキストを検索します\u0028大文字小文字を区別\u0029";
+"Excel_func_FINV" = "F確率分布の逆数を返します";
+"Excel_func_FISHER" = "フィッシャー変換を返します";
+"Excel_func_FISHERINV" = "フィッシャー変換の逆数を返します";
+"Excel_func_FIXED" = "固定された数の10進値をもつテキストとして数値をフォーマットします";
+"Excel_func_FLOOR" = "数値をゼロに向かって切り捨てます";
+"Excel_func_FORECAST" = "線形傾向に沿って値を返します";
+"Excel_func_FREQUENCY" = "垂直アレイとして頻度分布を返します";
+"Excel_func_FV" = "投資の将来価値を返します";
+"Excel_func_FVSCHEDULE" = "連続する複利の金利を適用した後で、初期元本の将来価値を返します";
+"Excel_func_GAMMADIST" = "ガンマ分布を返します";
+"Excel_func_GAMMAINV" = "ガンマ累積分布の逆数を返します";
+"Excel_func_GAMMALN" = "ガンマ関数の自然対数 Г(x) を返します";
+"Excel_func_GCD" = "最大公約数を返します";
+"Excel_func_GEOMEAN" = "幾何平均を返します";
+"Excel_func_GESTEP" = "数値がしきい値よりも大きいかどうか検査します";
+"Excel_func_GETPIVOTDATA" = "PivotTableレポートに保管されたデータを返します";
+"Excel_func_GROWTH" = "指数傾向に沿った値を返します";
+"Excel_func_HARMEAN" = "調和平均を返します";
+"Excel_func_HEX2BIN" = "16進値を2進値に変換します";
+"Excel_func_HEX2DEC" = "16進値を10進値に変換します";
+"Excel_func_HEX2OCT" = "16進値を8進値に変換します";
+"Excel_func_HLOOKUP" = "アレイの最初の行を調べ、示されたセルの値を返します";
+"Excel_func_HOUR" = "シリアル番号を時間に変換します";
+"Excel_func_HYPERLINK" = "ネットワークサーバー、イントラネット、またはインターネットに保管されたドキュメントを開くショートカットまたはジャンプを作成します";
+"Excel_func_HYPGEOMDIST" = "超幾何分布を返します";
+"Excel_func_IF" = "実行する論理検査を指定します";
+"Excel_func_IFERROR" = "式がエラーを評価する場合に指定する値を返します";
+"Excel_func_IMABS" = "複素数値の絶対値（係数）を返します";
+"Excel_func_IMAGINARY" = "複素数の仮係数を返します";
+"Excel_func_IMARGUMENT" = "ラジアンで表された角度である引数テータを返します";
+"Excel_func_IMCONJUGATE" = "複素数の共役複素数を返します";
+"Excel_func_IMCOS" = "複素数の余弦を返します";
+"Excel_func_IMDIV" = "2 個の複素数の商を返します";
+"Excel_func_IMEXP" = "複素数の指数を返します";
+"Excel_func_IMLN" = "複素数の自然対数を返します";
+"Excel_func_IMLOG10" = "複素数の基数10対数を返します";
+"Excel_func_IMLOG2" = "複素数の基数2対数を返します";
+"Excel_func_IMPOWER" = "整数で累乗した複素数を返します";
+"Excel_func_IMPRODUCT" = "複素数の積を返します";
+"Excel_func_IMREAL" = "複素数の実係数を返します";
+"Excel_func_IMSIN" = "複素数の正弦を返します";
+"Excel_func_IMSQRT" = "複素数の平方根を返します";
+"Excel_func_IMSUB" = "2個の複素数の差を返します";
+"Excel_func_IMSUM" = "複素数の合計を返します";
+"Excel_func_INDEX" = "参照またはアレイから値を選択するためのインデックスを使用します";
+"Excel_func_INDIRECT" = "テキスト値により示された参照を返します";
+"Excel_func_INFO" = "現在の操作環境に関する情報を返します";
+"Excel_func_INT" = "最も近い整数に切り捨てます";
+"Excel_func_INTERCEPT" = "線形回帰線の高度差を返します";
+"Excel_func_INTRATE" = "完全投資型証券の金利を返します";
+"Excel_func_IPMT" = "指定された機関の投資の金利支払いを返します";
+"Excel_func_IRR" = "一連のキャッシュフローに対するリターンの内部レートを返します";
+"Excel_func_ISBLANK" = "値が空白の場合はTRUEを返します";
+"Excel_func_ISERR" = "値が#N/A以外のエラー値の場合にTRUEを返します";
+"Excel_func_ISERROR" = "値がエラー値である場合にTRUEを返します";
+"Excel_func_ISEVEN" = "数値が偶数の場合にTRUEを返します";
+"Excel_func_ISLOGICAL" = "値が論理値の場合にTRUEを返します";
+"Excel_func_ISNA" = "値が#N/Aエラー値の場合にTRUEを返します";
+"Excel_func_ISNONTEXT" = "値がテキストでない場合TRUEを返します";
+"Excel_func_ISNUMBER" = "値が数値の場合TRUEを返します";
+"Excel_func_ISODD" = "数値が奇数の場合TRUEを返します";
+"Excel_func_ISREF" = "値が参照の場合TRUEを返します";
+"Excel_func_ISTEXT" = "値がテキストの場合TRUEを返します";
+"Excel_func_ISPMT" = "特定の期間の投資中に支払った金利を計算します";
+"Excel_func_JIS" = "半角（1バイト)の英語またはカタカナの文字列を全角(2バイト)文字に変更します";
+"Excel_func_KURT" = "データセットの尖度を返します";
+"Excel_func_LARGE" = "データセットのｋ番目に大きな値を返します";
+"Excel_func_LCM" = "最小公倍数を返します";
+"Excel_func_LEFT" = "テキスト値の最左端の文字を返します";
+"Excel_func_LEN" = "テキスト文字列の文字数を返します";
+"Excel_func_LINEST" = "線形傾向のパラメータを返します";
+"Excel_func_LN" = "数値の自然対数を返します";
+"Excel_func_LOG" = "指定された基数に数値の対数を返します。";
+"Excel_func_LOG10" = "数値の基数-10対数を返します";
+"Excel_func_LOGEST" = "指数傾向のパラメータを返します";
+"Excel_func_LOGINV" = "対数正規分布の逆数を返します";
+"Excel_func_LOGNORMDIST" = "累積対数正規分布を返します";
+"Excel_func_LOOKUP" = "ベクトルまたはアレイの値を検索します";
+"Excel_func_LOWER" = "テキストを小文字に変換します";
+"Excel_func_MATCH" = "参照またはアレイの値を検索します";
+"Excel_func_MAX" = "引数のリストの最大値を返します";
+"Excel_func_MAXA" = "数値、テキスト、論理値を含む引数のリストの最大値を返します";
+"Excel_func_MDETERM" = "アレイの行列式を返します";
+"Excel_func_MDURATION" = "想定額面価格が100ドルの証券のマコーリーモディファイド・デュレーションを返します";
+"Excel_func_MEDIAN" = "指定した数値の中央値を返します";
+"Excel_func_MID" = "指定したポジションで開始するテキスト文字列から指定の文字数を返します";
+"Excel_func_MIN" = "引数のリストの最小値を返します";
+"Excel_func_MINA" = "数値、テキスト、および論理値を含む引数のリストの最小値を返します";
+"Excel_func_MINUTE" = "シリアル番号を分に変更します";
+"Excel_func_MINVERSE" = "アレイの逆行列を返します";
+"Excel_func_MIRR" = "正負のキャッシュフローが異なる金利で貸し付けられるリターンの内部金利を返します";
+"Excel_func_MMULT" = "2つのアレイの行列の積を返します";
+"Excel_func_MOD" = "除算の剰余を返します";
+"Excel_func_MODE" = "データセットで最も頻繁に出現する値を返します";
+"Excel_func_MONTH" = "シリアル番号を月に変換します";
+"Excel_func_MROUND" = "希望の倍数に四捨五入された数値を返します";
+"Excel_func_MULTINOMIAL" = "多項式の数値のセットを返します";
+"Excel_func_N" = "数値に変換された値を返します";
+"Excel_func_NA" = "エラー値#N/Aを返します";
+"Excel_func_NEGBINOMDIST" = "負の二項分布を返します";
+"Excel_func_NETWORKDAYS" = "2つの日付の間の営業日数を返します";
+"Excel_func_NOMINAL" = "年間実質金利を返します";
+"Excel_func_NORMDIST" = "正規累積分布を返します";
+"Excel_func_NORMINV" = "正規累積分布の逆数を返します";
+"Excel_func_NORMSDIST" = "標準正規累積分布を返します";
+"Excel_func_NORMSINV" = "標準正規累積分布の逆数を返します";
+"Excel_func_NOT" = "引数の論理を逆転させます";
+"Excel_func_NOW" = "現在の日時のシリアル番号を返します";
+"Excel_func_NPER" = "投資の期間数を返します";
+"Excel_func_NPV" = "一連の期間的なキャッシュ フローと割引率に基づいて投資の正味現在価値を返します";
+"Excel_func_OCT2BIN" = "8進値を2進値に変換します";
+"Excel_func_OCT2DEC" = "8進値を10進値に変換します";
+"Excel_func_OCT2HEX" = "8進値を16進値に変換します";
+"Excel_func_ODD" = "数値を最も近い奇数に切り上げます";
+"Excel_func_ODDFPRICE" = "奇数の最初の期間の100ドルの額面価値ごとの価格を返します";
+"Excel_func_ODDFYIELD" = "奇数の最初の期間の証券の利回りを返します";
+"Excel_func_ODDLPRICE" = "奇数の最後の期間の100ドルの額面価値ごとの価格を返します";
+"Excel_func_ODDLYIELD" = "奇数の最後の期間の証券の利回りを返します";
+"Excel_func_OFFSET" = "指定された参照からの参照オフセットを返します";
+"Excel_func_OR" = "引数がTRUEの場合にTRUEを返します";
+"Excel_func_PEARSON" = "ピアソンの積率相関係数を返します";
+"Excel_func_PERCENTILE" = "範囲内の kTh の百分位数を返します";
+"Excel_func_PERCENTRANK" = "データセットの値のパーセンテージ ランクを返します";
+"Excel_func_PERMUT" = "指定されたオブジェクトの順列の数を返します";
+"Excel_func_PHONETIC" = "テキスト文字列の音声 (ふりがな) 文字を抽出します";
+"Excel_func_PI" = "piの値を返します";
+"Excel_func_PMT" = "年間の期間支払いを返します";
+"Excel_func_POISSON" = "ポアソン分布を返します";
+"Excel_func_POWER" = "累乗した数値の結果を返します";
+"Excel_func_PPMT" = "指定した期間の投資に対する元本の支払いを返します";
+"Excel_func_PRICE" = "期間金利を支払う証券の100ドル額面価値ごとの価格を返します";
+"Excel_func_PRICEDISC" = "割り引いた証券の100ドルの額面価値ごとの価格を返します";
+"Excel_func_PRICEMAT" = "満期時に金利を支払う証券の100ドルの額面値ごとの価格を返します";
+"Excel_func_PROB" = "範囲内の値が2つの制限値の間にある確率を返します";
+"Excel_func_PRODUCT" = "引数を乗じます";
+"Excel_func_PROPER" = "テキスト値の各単語の頭文字を大文字にします";
+"Excel_func_PV" = "投資の現在価値を返します";
+"Excel_func_QUARTILE" = "データセットの四分位値を返します";
+"Excel_func_QUOTIENT" = "除算の整数部分を返します";
+"Excel_func_RADIANS" = "角度をラジアンに変換します";
+"Excel_func_RAND" = "0と1の間の乱数を返します";
+"Excel_func_RANDBETWEEN" = "指定した数の間の乱数を返します";
+"Excel_func_RANK" = "数値のリストの数値のランクを返します";
+"Excel_func_RATE" = "年賦金の期間あたりの金利を返します";
+"Excel_func_RECEIVED" = "完全投資型証券の満期受取金額を返します";
+"Excel_func_REGISTER_ID" = "指定されたダイナミックリンクライブラリ（DLL）または前に登録されているコードリソースの登録IDを返します";
+"Excel_func_REPLACE" = "テキストないの文字を置換します";
+"Excel_func_REPT" = "テキストを指定された回数繰り返します";
+"Excel_func_RIGHT" = "テキスト値から右端の文字を返します";
+"Excel_func_ROMAN" = "アラビア数字をローマ数字にテキストとして変換します";
+"Excel_func_ROUND" = "数値を指定された桁数に四捨五入します";
+"Excel_func_ROUNDDOWN" = "数値をゼロに向けて切り捨てます";
+"Excel_func_ROUNDUP" = "数値をゼロから上に切り上げます";
+"Excel_func_ROW" = "参照の行番号を返します";
+"Excel_func_ROWS" = "参照の行数を返します";
+"Excel_func_RSQ" = "ピアソンの積率相関係数の2乗を返します";
+"Excel_func_SEARCH" = "別のテキスト値内のテキスト値を見つけます (大文字小文字を区別しない)";
+"Excel_func_SEARCHB" = "別のテキスト値内のテキスト値を見つけます (大文字小文字を区別しない)";
+"Excel_func_SECOND" = "シリアル番号を秒に変換します";
+"Excel_func_SERIESSUM" = "式に基づいて累乗の合計を返します";
+"Excel_func_SIGN" = "数値の符号を返します";
+"Excel_func_SIN" = "指定された角度の正弦を返します";
+"Excel_func_SINH" = "数値の双曲線正弦を返します";
+"Excel_func_SKEW" = "分布の歪みを返します";
+"Excel_func_SLN" = "1つの期間の資産の直線減価償却を返します";
+"Excel_func_SLOPE" = "線形回帰線の傾斜を返します";
+"Excel_func_SMALL" = "データセットの k 番目に小さい値を返します";
+"Excel_func_SQL_REQUEST" = "外部データソースに接続し、ワークシートからクエリを実行し、マクロプログラミングを必要とせずにアレイの結果を返します";
+"Excel_func_SQRT" = "正の平方根を返します";
+"Excel_func_SQRTPI" = "(数値 * pi) の平方根を返します";
+"Excel_func_STANDARDIZE" = "正規化された値を返します";
+"Excel_func_STDEV" = "サンプルに基づいた標準偏差を予測します";
+"Excel_func_STDEVA" = "数値、テキスト、論理値を含むサンプルに基づいた標準偏差を予測します";
+"Excel_func_STDEVP" = "母集団全体に基づいて標準偏差を計算します";
+"Excel_func_STDEVPA" = "数値、テキスト、論理値を含む母集団全体に基づいた標準偏差を計算します";
+"Excel_func_STEYX" = "回帰の各 x に対して予測された y 値の標準エラーを返します";
+"Excel_func_SUBSTITUTE" = "テキスト文字列の古いテキストに対して新しいテキストで置き換えます";
+"Excel_func_SUBTOTAL" = "リストまたはデータベースの小計を返します";
+"Excel_func_SUM" = "引数を追加します";
+"Excel_func_SUMIF" = "指定された条件により指定されたセルを追加します";
+"Excel_func_SUMIFS" = "複数条件を満たす範囲内にセルを追加します";
+"Excel_func_SUMPRODUCT" = "対応するアレイコンポーネントの積の合計を返します";
+"Excel_func_SUMSQ" = "引数の平方の合計を返します";
+"Excel_func_SUMX2MY2" = "2つのアレイの対応値の平方の差の合計を返します";
+"Excel_func_SUMX2PY2" = "2つのアレイの対応値の平方の合計の合計を返します";
+"Excel_func_SUMXMY2" = "2つのアレイの対応値の差の平方の合計を返します";
+"Excel_func_SYD" = "指定された期間の資産の年間合計減価償却を返します";
+"Excel_func_T" = "引数をテキストに変換します";
+"Excel_func_TAN" = "数値の正接を返します";
+"Excel_func_TANH" = "数値の双曲線正接を返します";
+"Excel_func_TBILLEQ" = "短期国債の債券換算利回りを返します";
+"Excel_func_TBILLPRICE" = "短期国債の100ドル額面価値当たりの価格を返します";
+"Excel_func_TBILLYIELD" = "短期国債の利回りを返します";
+"Excel_func_TDIST" = "学生のT分布を返します";
+"Excel_func_TEXT" = "数値をフォーマットし、テキストに変換します";
+"Excel_func_TIME" = "特定の時間のシリアル番号を返します";
+"Excel_func_TIMEVALUE" = "テキストの形式の時刻をシリアル番号に変換します";
+"Excel_func_TINV" = "学生のＴ分布の逆数を返します";
+"Excel_func_TODAY" = "本日の日付のシリアル番号を返します";
+"Excel_func_TRANSPOSE" = "アレイの入れ替えを返します";
+"Excel_func_TREND" = "線形傾向に沿った値を返します";
+"Excel_func_TRIM" = "テキストからスペースを除きます";
+"Excel_func_TRIMMEAN" = "データセットの内部の平均値を返します";
+"Excel_func_TRUE" = "論理値TRUEを返します";
+"Excel_func_TRUNC" = "数値を整数に切り捨てます";
+"Excel_func_TTEST" = "学生のＴ検定に関連する確率を返します";
+"Excel_func_TYPE" = "値のデータ型を示す数値を返します";
+"Excel_func_UPPER" = "テキストを大文字に変換します";
+"Excel_func_VALUE" = "テキスト引数を数値に変換します";
+"Excel_func_VAR" = "サンプルに基づいた変動を予測します";
+"Excel_func_VARA" = "数値、テキスト、論理値を含むサンプルに基づいた変動を予測します";
+"Excel_func_VARP" = "母集団全体に基づいた変動を計算します";
+"Excel_func_VARPA" = "数値、テキスト、論理値を含む母集団全体に基づいた変動を計算します";
+"Excel_func_VDB" = "残高低減方式を使用して、指定された期間または部分的な期間に対する資産の減価償却費を返します";
+"Excel_func_VLOOKUP" = "アレイの最初の列を検索し、行全体を移動して、セルの値を返します";
+"Excel_func_WEEKDAY" = "シリアル番号を曜日に変換します";
+"Excel_func_WEEKNUM" = "その週が年で数字的にどこに位置するかを示すシリアル番号を数値に変換します";
+"Excel_func_WEIBULL" = "数値、テキスト、論理値を含む母集団全体に基づいた変動を計算します";
+"Excel_func_WORKDAY" = "指定された営業日数の前後の日付のシリアル番号を返します";
+"Excel_func_XIRR" = "必ずしも定期的ではないキャッシュフローのスケジュールに対してリターンの内部金利を返します";
+"Excel_func_XNPV" = "必ずしも定期的ではないキャッシュフローのスケジュールに対して正味の現在価値を返します";
+"Excel_func_YEAR" = "シリアル番号を年に変換します";
+"Excel_func_YEARFRAC" = "開始日と終了日の間の日数を表す年の端数を返します";
+"Excel_func_YIELD" = "定期的な金利を支払う証券の利回りを返します";
+"Excel_func_YIELDDISC" = "割り引かれた証券の年間利回りを返します";
+"Excel_func_YIELDMAT" = "満期時の金利を支払う証券の年間利回りを返します";
+"Excel_func_ZTEST" = "z検定の片側確率値を返します";
+"Excel_func_FTEST" = "array1とarray2の変動が大幅に異ならない両側確率検定を返します";
+"Excel_func_DATEDIF" = "指定された間隔の2つの日付値の間の差を返します";
+"Excel_func_DBCS" = "文字列の半角\u00281バイト\u0029文字を全角\u00282バイト\u0029文字に変換します";
+"Excel_func_USDOLLAR" = "指定された小数点以下桁数に四捨五入した10進値で、通貨形式を使用して数値をテキストに変換します。";
+"Excel_func_UNICHAR" = "指定された数値が参照しているUnicode文字を返します";
+"Excel_func_UNICODE" = "テキストの最初の文字に対応する番号(コードポイント)を返します";
+
+/*
+ NEW STRINGS AFTER VER 3.7.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"InfoMsg_TransactionInProgress" = "トランザクションに数分かかる場合があります...";
+"InfoTitle_TransactionCompleted" = "トランザクションが完了しました";
+"InfoMsg_InAppRestoreDone" = "復元が正常に完了しました。";
+"Label_FontPackDescription70" = "OfficeSuite 内で使用するための Calibri、Tahoma、Wingdings など 70 種類以上のフォントのコレクション。";
+"Label_FontPackDescriptionOFL" = "Garamond、Open Sans、Times Gothic などの 60 種類の OFL フォント。";
+"Label_OneTimePurchase2" = "1 回のご購入";
+
+/* Up to 10 chars */
+"Label_Unlock" = "ロックを解除";
+
+/* Up to 14 chars */
+"Label_Features" = "特徴";
+
+"Label_InfoMsgAutoSumNotAvailable" = "選択に行、列または表全体を含むことはできません。";
+"Label_MultiSelection" = "複数選択";
+"Label_ClearFilterC" = "フィルターをクリア";
+"Label_ReapplyFilterC" = "フィルターを再適用";
+"Label_AboveAverageC" = "平均以上";
+"Label_BelowAverageC" = "平均以下";
+"Label_DeleteCell" = "セルを削除";
+"Label_Buy" = "購入";
+"Label_YourHTTPAddress" = "HTTP アドレス";
+"Label_YourUsername" = "ユーザー名";
+"Label_YourPassword" = "パスワード";
+
+/*
+ NEW STRINGS AFTER VER 4.0
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// File Browser
+"Label_NewFile" = "新しいファイル";
+"Label_FolderUp" = "上位フォルダ";
+"Label_Sidebar" = "サイドバー";
+"Label_Ad" = "広告";
+"Label_DeselectAll" = "すべての選択を解除";
+"Label_Apply" = "適用";
+"ErrMsg_LocalStorageOnly" = "ローカル ストレージのみにファイルを保存できます。";
+"Label_Submit" = "送信";
+"Label_Username" = "ユーザー名";
+"InfoTitle_LoginFailure" = "ログインに失敗";
+"InfoTitle_ServerIdentity" = "サーバーの ID を確認できません";
+"InfoTitle_LoginRequired" = "このページにログインする必要があります";
+"InfoMsg_LoginFailureSSOUntrusted" = "SSO サーバーが信頼されていないために、ログインを完了できませんでした。詳細については管理者に問い合わせてください。";
+"InfoMsg_ServerIdentity" = "Box は ”%@\" の ID を検証できません。それでも続行しますか?";
+"InfoMsg_VerifyUsernameAndPassword" = "ログインできません。ユーザー名\\パスワードを確認して、もう一度試してください。";
+"Label_WordTemplates" = "文書 テンプレート";
+"Label_ExcelTemplates" = "スプレッドシート テンプレート";
+"Label_PowerpointTemplates" = "プレゼンテーション テンプレート";
+// PowerPoint
+"Label_PowerPoint97Presentation" = "PowerPoint 97-2003 プレゼンテーション";
+"Label_PowerPointMacroPresentation" = "PowerPoint マクロ有効プレゼンテーション";
+"Label_PowerPointSlideShow" = "PowerPoint スライドショー";
+"Label_PowerPoint97SlideShow" = "PowerPoint 97-2003 スライドショー";
+"Label_PowerPointMacroSlideShow" = "PowerPoint マクロ有効スライドショー";
+"Label_SlideRange" = "スライド番号 (1 - %d)";
+"Label_DataLostAfterSave" = "いくつかのデータを保存できない可能性があります。";
+"Label_PowerPointTemplate" = "プレゼンテーション テンプレート";
+"Label_Transitions" = "切り替え";
+"Label_TransitionEffect" = "切り替え効果";
+"Label_EffectOptions" = "効果のオプション";
+"Label_TransitionDuration" = "効果の持続時間";
+"Label_AdvanceSlideAfter" = "画面切り替えのタイミング";
+
+/* Up to 12 chars */
+"Label_ChangeSlideAfter" = "スライドの変更のタイミング";
+
+"Label_ApplyToAll" = "すべてに適用";
+"Label_ApplyTransition" = "切り替えを適用";
+
+/* Up to 16 chars */
+"Label_SetDuration" = "持続時間の設定";
+
+"Label_Min" = "分";
+"Label_Sec" = "秒";
+
+/* Up to 60 chars */
+"Label_TransitionAppliedToAll" = "切り替え設定はすべてのスライドに適用されています。";
+
+"Label_Subtle" = "微妙";
+"Label_Exciting" = "エキサイティング";
+"Label_DynamicContent" = "動的コンテンツ";
+
+/* Transition names - each one must be 6 chars or less */
+"Label_Fade" = "フェード";
+"Label_Push" = "プッシュ";
+"Label_Wipe" = "ワイプ";
+"Label_Split" = "分割";
+"Label_Reveal" = "表示";
+"Label_RandomBars" = "ランダム バー";
+"Label_Uncover" = "アンカバー";
+"Label_Cover" = "カバー";
+"Label_Flash" = "フラッシュ";
+"Label_Dissolve" = "ディゾルブ";
+"Label_Checkboard" = "チェッカー盤";
+"Label_Blinds" = "ブラインド";
+"Label_Clock" = "時計";
+"Label_Ripple" = "さざ波";
+"Label_Honeycomb" = "ハチの巣";
+"Label_Glitter" = "キラキラ";
+"Label_Vortex" = "渦巻き";
+"Label_Shred" = "細分";
+"Label_Switch" = "スイッチ";
+"Label_Flip" = "反転";
+"Label_Gallery" = "ギャラリー";
+"Label_Cube" = "キューブ";
+"Label_Doors" = "ドア";
+"Label_Box" = "ボックス";
+"Label_Comb" = "コーム";
+"Label_Wheel" = "ホイール";
+"Label_Newsflash" = "ニュース速報";
+"Label_Pan" = "パン";
+"Label_FerrisWheel" = "観覧車";
+"Label_Conveyor" = "コンベア";
+"Label_Rotate" = "回転";
+"Label_Window" = "ウィンドウ";
+"Label_Orbit" = "オービット";
+"Label_FlyThrough" = "フライ スルー";
+/* End Transition names */
+
+// Transition options
+"Label_ThroughBlack" = "黒を通じて";
+"Label_Smoothly" = "スムーズ";
+"Label_FromBottom" = "下から";
+"Label_FromLeft" = "左から";
+"Label_FromRight" = "右から";
+"Label_FromTop" = "上から";
+"Label_FromTopRight" = "右上から";
+"Label_FromTopLeft" = "左上から";
+"Label_FromBottomLeft" = "左下から";
+"Label_FromBottomRight" = "右下から";
+"Label_Vertical" = "垂直";
+"Label_VerticalOut" = "垂直 出";
+"Label_VerticalIn" = "垂直 入";
+"Label_Horizontal" = "水平";
+"Label_HorizontalOut" = "水平 出";
+"Label_HorizontalIn" = "水平 入";
+"Label_SmoothlyFromRight" = "右からスムーズに";
+"Label_SmoothlyFromLeft" = "左からスムーズに";
+"Label_ThroughBlackFromRight" = "右から黒を通じて";
+"Label_ThroughBlackFromLeft" = "左から黒を通じて";
+"Label_Circle" = "円";
+"Label_Diamond" = "ひし形";
+"Label_Plus" = "プラス";
+"Label_In" = "イン";
+"Label_Out" = "アウト";
+"Label_Clockwise" = "時計回り";
+"Label_Counterclockwise" = "反時計回り";
+"Label_Wedge" = "くさび形";
+"Label_Center" = "中央";
+"Label_2SpokesClockwise" = "時計回りに 2 スポーク";
+"Label_3SpokesClockwise" = "時計回りに 3 スポーク";
+"Label_4SpokesClockwise" = "時計回りに 4 スポーク";
+"Label_8SpokesClockwise" = "時計回りに 8 スポーク";
+"Label_2SpokesCounterclockwise" = "半時計回りに 2 スポーク";
+"Label_3SpokesCounterclockwise" = "半時計回りに 3 スポーク";
+"Label_4SpokesCounterclockwise" = "半時計回りに 4 スポーク";
+"Label_8SpokesCounterclockwise" = "半時計回りに 8 スポーク";
+"Label_HexagonsFromLeft" = "左から六角形";
+"Label_HexagonsFromTop" = "上から六角形";
+"Label_HexagonsFromRight" = "右から六角形";
+"Label_HexagonsFromBottom" = "下から六角形";
+"Label_DiamondsFromLeft" = "左からひし形";
+"Label_DiamondsFromTop" = "上からひし形";
+"Label_DiamondsFromRight" = "右からひし形";
+"Label_DiamondsFromBottom" = "下からひし形";
+"Label_StripsIn" = "ストリップ 入";
+"Label_StripsOut" = "ストリップ 出";
+"Label_ParticlesIn" = "粒子 入";
+"Label_ParticlesOut" = "粒子 出";
+"Label_Left" = "左";
+"Label_Right" = "右";
+"Label_InWithBounce" = "バウンスで入";
+"Label_OutWithBounce" = "バウンスで出";
+"Label_ExcelMacroEnabledWorkbook" = "Excel マクロ有効ワークブック";
+"Label_ExcelTemplate" = "スプレッドシート テンプレート";
+"Label_Zip" = "Zip 圧縮";
+"Label_ZipDocument" = "ドキュメントを圧縮";
+"Label_ZipDocuments" = "ドキュメントを圧縮";
+// Conditional Formatting
+"Label_ConditionalFormatting" = "条件付き書式設定";
+
+/* Up to 22 chars */
+"Label_HighlightCellsRules" = "セルの強調表示ルール";
+
+/* Up to 25 chars */
+"Label_Top/Bottom/Avg" = "上/下/平均ルール";
+
+"Label_DataBars" = "データ バー";
+"Label_ColorScales" = "カラー スケール";
+"Label_ClearRulesFromEntireSheet" = "シート全体からルールをクリア";
+"Label_RulesManager" = "ルール マネージャー";
+"Label_TitleClearCFRulesAlert" = "すべてのルールをクリアしますか?";
+"Label_MessageClearCFRulesAlert" = "条件付き書式は削除されます。";
+"Label_FormatCellsRules" = "セルの書式設定ルール";
+
+/* Up to 20 chars */
+"Label_TopBottomAverage" = "上/下/平均";
+
+"Label_Content" = "コンテンツ";
+"Label_Rank" = "ランク";
+"Label_RuleType" = "ルールのタイプ";
+
+/* Up to 10 chars */
+"Label_Value_1" = "値 1";
+
+/* Up to 10 chars */
+"Label_Value_2" = "値 2";
+
+// Conditional format types
+"Excel_CF_CellValue" = "セルの値";
+"Excel_CF_SpecificText" = "特定のテキスト";
+"Excel_CF_Blanks" = "空白";
+"Excel_CF_NoBlanks" = "空白なし";
+"Excel_CF_Errors" = "エラーなし";
+"Excel_CF_NoErrors" = "エラーなし";
+"Excel_CF_Unique" = "独自";
+"Excel_CF_Duplicate" = "重複";
+"Excel_CF_DatesOccurring" = "発生日";
+"Excel_CF_EqualTo" = "等しい";
+"Excel_CF_NotEqualTo" = "等しくない";
+"Excel_CF_LessThan" = "未満";
+"Excel_CF_LessEqual" = "未満か等しい";
+"Excel_CF_GreaterThan" = "大きい";
+"Excel_CF_GreaterEqual" = "大きいか等しい";
+"Excel_CF_Between" = "間";
+"Excel_CF_NotBetween" = "間でない";
+"Excel_CF_Contains" = "含む";
+"Excel_CF_NotContains" = "含まない";
+"Excel_CF_BeginsWith" = "で始まる";
+"Excel_CF_EndsWith" = "で終わる";
+"Excel_CF_Top" = "上部";
+"Excel_CF_Bottom" = "下部";
+"Excel_CF_StdDevAbove" = "標準偏差上";
+"Excel_CF_StdDevBelow" = "標準偏差下";
+"Excel_CF_EqualOrAbove" = "同等またはそれ以上";
+"Excel_CF_EqualOrBelow" = "同等またはそれ以下";
+"Excel_CF_AboveAverage" = "平均以上";
+"Excel_CF_BelowAverage" = "平均以下";
+// Conditional format descriptions
+"Excel_CFDescr_blank" = "セルに空白の値が含まれています";
+"Excel_CFDescr_no_blank" = "セルには空白の値は含まれていません";
+"Excel_CFDescr_error" = "セルにエラーが含まれています";
+"Excel_CFDescr_no_error" = "セルにエラーが含まれていません";
+"Excel_CFDescr_cell_value" = "セルの値";
+"Excel_CFDescr_between" = "間";
+"Excel_CFDescr_not_between" = "間でない";
+"Excel_CFDescr_and" = "と";
+"Excel_CFDescr_contains" = "含む";
+"Excel_CFDescr_does_not_contain" = "含まない";
+"Excel_CFDescr_begins_with" = "で始まる";
+"Excel_CFDescr_ends_with" = "で終わる";
+"Excel_CFDescr_std_dev" = "標準偏差";
+"Excel_CFDescr_equal_to_or" = "等しいまたは";
+"Excel_CFDescr_above_average" = "平均以上";
+"Excel_CFDescr_below_average" = "平均以下";
+"Excel_CFDescr_dates_occurring_yesterday" = "昨日";
+"Excel_CFDescr_dates_occurring_today" = "今日";
+"Excel_CFDescr_dates_occurring_tomorrow" = "明日";
+"Excel_CFDescr_dates_occurring_last_7_days" = "過去 7 日間";
+"Excel_CFDescr_dates_occurring_last_week" = "先週";
+"Excel_CFDescr_dates_occurring_this_week" = "今週";
+"Excel_CFDescr_dates_occurring_next_week" = "来週";
+"Excel_CFDescr_dates_occurring_last_month" = "先月";
+"Excel_CFDescr_dates_occurring_this_month" = "今月";
+"Excel_CFDescr_dates_occurring_next_month" = "来月";
+"Label_XlsSaveCFRulesNotSupported" = "Xls 形式の条件付き書式設定の保存はサポートされていません。条件付き書式は保存されません。";
+// Accessibility labels
+"Label_Inside" = "内側";
+"Label_Outside" = "外側";
+"Label_Vertical_Inside" = "垂直方向の内側";
+"Label_Horizontal_Inside" = "水平方向の内側";
+"Label_ShowFormattingSymbols" = "書式記号を表示";
+"Label_JustifiedParagraphAlignment" = "両端揃え";
+"Label_LeftParagraphAlignment" = "左揃え";
+"Label_CenterParagraphAlignment" = "中央";
+"Label_RightParagraphAlignment" = "右揃え";
+"Label_FontTextColorDropdown" = "テキストの色ドロップダウン";
+"Label_FontHighlightColorDropdown" = "ハイライトの色ドロップダウン";
+"Label_NumberingDropdown" = "番号付けドロップダウン";
+"Label_BulletsDropdown" = "行頭文字ドロップダウン";
+"Label_EnterViewMode" = "表示モードに入る";
+"Label_EnterEditMode" = "編集モードに入る";
+"Label_ChangeTableStyle" = "表のスタイルの変更";
+"Label_InsertTableRowAbove" = "表の行の上に挿入";
+"Label_InsertTableRowBelow" = "表の行の下に挿入";
+"Label_InsertTableColumnToTheLeft" = "表の列を左に挿入";
+"Label_InsertTableColumnToTheRight" = "表の列を右に挿入";
+"Label_DeleteTableRow" = "表の行を削除";
+"Label_DeleteTableColumn" = "表の列を削除";
+"Label_DeleteTableCell" = "表のセルを削除";
+"Label_TableSizeGrid" = "表のサイズのグリッドのセレクター";
+"Label_IncreaseValue" = "値を大きくする";
+"Label_DecreaseValue" = "値を小さくする";
+"Label_Photo" = "写真";
+"Label_Graphic" = "グラフィック";
+"Label_CaptureImage" = "イメージをキャプチャする";
+"Label_SwitchCamera" = "カメラを切り替え";
+"Label_NewSheet" = "新しいシート";
+"Label_SheetOfSheets" = "シート $1 / $2";
+"Label_MenuItem" = "メニュー項目";
+"Label_CellContent" = "セルの内容";
+// pdf
+"Label_ViewMode" = "表示モード";
+"Label_SinglePage" = "1 つのページ";
+"Label_Ellipse" = "楕円";
+"Label_Rectangle" = "四角形";
+"Label_Line" = "線";
+"Label_FreeDraw" = "フリー描画";
+
+// File Browser
+"WarningMsg_ZippingFilesInterrupted" = "アーカイブにファイルを追加できませんでした。";
+"Label_UnsupportedDocumentType" = "サポートされていないドキュメント タイプ";
+"Label_UnknownDocumentType" = "不明なドキュメント タイプ";
+"Label_Certificate" = "証明書";
+"Label_PersonalInformationExchange" = "個人情報交換";
+"ErrTitle_NoPermission" = "許可がありません";
+"ErrMsg_CannotDeleteInboxFolder" = "ICloud がオフになっている場合は、メールボックス フォルダを削除できません。";
+"Label_OpenODF" = "ODFのサポート";
+"Label_OpenODFDescription" = "あなたの .odt、.odsと.odpファイルを開きます";
+// Word
+"WarningMessage_RtfWillLoseFormatting2" = "ファイルを RTF ファイルとして保存する場合は、パスワード保護および書式の一部が失われる可能性があります。続行しますか?";
+"WarningMessage_TxtWillLoseFormatting2" = "テキスト ファイルとして保存すると、ファイルのパスワード保護、書式、写真、オブジェクトが失われます。続行しますか?";
+"WarningMessage_OdtWillLoseFormatting2" = "ファイルを ODT ファイルとして保存する場合は、パスワード保護および書式の一部が失われる可能性があります。続行しますか?";
+"WarningMessage_ExportToPDFWillLoseProtection" = "エクスポートされた PDF ファイルはパスワードで保護されません。続行しますか?";
+// Excel
+"Label_Selection" = "選択";
+"Label_Worksheet" = "ワークシート";
+"ErrMsg_NoStyleForCFRule" = "ルールに設定された書式がありません。";
+"ErrMsg_InvalidCFRule" = "ルールに設定された値がありません。";
+"Label_XlsSaveSomeItemsNotSupported" = "このワークブックの一部の機能は、xls 形式で保存できません。";
+"Label_RandomTransition" = "ランダムに切り替え";
+// pdf accessibility
+"Label_PageNumber" = "ページ %d";
+
+/*
+ NEW STRINGS AFTER VER 4.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Label_ColumnChart" = "縦棒グラフ";
+"Label_BarChart" = "横棒グラフ";
+"Label_LineChart" = "折れ線";
+"Label_AreaChart" = "面グラフ";
+"Label_PieChart" = "円グラフ";
+"Label_ScatterChart" = "散布図";
+"Label_Clustered" = "集合";
+"Label_Stacked" = "積み上げ";
+"Label_Stacked100" = "100% 積み上げ";
+"Label_ScatterMarkers" = "マーカー";
+"Label_ScatterLines" = "折れ線";
+"Label_ScatterLinesMarkers" = "折れ線＆マーカー";
+"Label_FeatureIsNotAvaialableForSheet" = "このシートでは当機能をご利用になれません。";
+"Label_TextToDisplay" = "表示するテキスト";
+"Label_Address" = "アドレス";
+
+//Accessibility strings
+"Accessibility_Label_StrikeThrough" = "取り消し線";
+"Accessibility_Label_TextColorOptions" = "テキストカラーオプション";
+"Accessibility_Label_LeftAlignment" = "左揃え";
+"Accessibility_Label_CenterAlignment" = "中央揃え";
+"Accessibility_Label_RightAlignment" = "右揃え";
+"Accessibility_Label_JustifyAlignment" = "両端揃え";
+"Accessibility_Label_Increase" = "増加";
+"Accessibility_Label_Decrease" = "減少";
+"Accessibility_Label_Hours" = "時間";
+"Accessibility_Label_Minutes" = "分";
+"Accessibility_Label_Seconds" = "秒";
+"Accessibility_Label_Centiseconds" = "ミリ秒";
+"Accessibility_Label_Color_Description" = "カラーレッド %d、グリーン %d、ブルー %d、透明度 %d";
+
+"Label_ShapeType_AccentBorderCallout1" = "枠線とアクセント付きの吹き出し 1";
+"Label_ShapeType_AccentBorderCallout2" = "枠線とアクセント付きの吹き出し 2";
+"Label_ShapeType_AccentBorderCallout3" = "枠線とアクセント付きの吹き出し 3";
+"Label_ShapeType_AccentCallout1" = "アクセント付きの吹き出し 1";
+"Label_ShapeType_AccentCallout2" = "アクセント付きの吹き出し 2";
+"Label_ShapeType_AccentCallout3" = "アクセント付きの吹き出し 3";
+"Label_ShapeType_ActionButtonBackPrevious" = "「戻る」や「前」ボタンの形";
+"Label_ShapeType_ActionButtonBeginning" = "先頭ボタン";
+"Label_ShapeType_ActionButtonBlank" = "空白ボタン";
+"Label_ShapeType_ActionButtonDocument" = "ドキュメントボタン";
+"Label_ShapeType_ActionButtonEnd" = "終了ボタン";
+"Label_ShapeType_ActionButtonForwardNext" = "「進む」や「次へ」ボタンの形";
+"Label_ShapeType_ActionButtonHelp" = "ヘルプボタン";
+"Label_ShapeType_ActionButtonHome" = "ホームボタン";
+"Label_ShapeType_ActionButtonInformation" = "情報ボタン";
+"Label_ShapeType_ActionButtonMovie" = "ムービーボタン";
+"Label_ShapeType_ActionButtonReturn" = "戻るボタン";
+"Label_ShapeType_ActionButtonSound" = "サウンドボタン";
+"Label_ShapeType_Arc" = "曲線アーチ";
+"Label_ShapeType_BentArrow" = "曲折矢印";
+"Label_ShapeType_BentConnector2" = "曲折コネクタ 2";
+"Label_ShapeType_BentConnector3" = "曲折コネクタ 3";
+"Label_ShapeType_BentConnector4" = "曲折コネクタ 4";
+"Label_ShapeType_BentConnector5" = "曲折コネクタ 5";
+"Label_ShapeType_BentUpArrow" = "上曲折矢印";
+"Label_ShapeType_Bevel" = "面取り";
+"Label_ShapeType_BlockArc" = "アーチ";
+"Label_ShapeType_BorderCallout1" = "枠線付き吹き出し 1";
+"Label_ShapeType_BorderCallout2" = "枠線付き吹き出し 2";
+"Label_ShapeType_BorderCallout3" = "枠線付き吹き出し 3";
+"Label_ShapeType_BracePair" = "波かっこのペア";
+"Label_ShapeType_BracketPair" = "角かっこのペア";
+"Label_ShapeType_Callout1" = "吹き出し 1";
+"Label_ShapeType_Callout2" = "吹き出し 2";
+"Label_ShapeType_Callout3" = "吹き出し 3";
+"Label_ShapeType_Can" = "円筒";
+"Label_ShapeType_ChartPlus" = "プラス付き四角形";
+"Label_ShapeType_ChartStar" = "星付き四角形";
+"Label_ShapeType_ChartX" = "図 X";
+"Label_ShapeType_Chevron" = "山形";
+"Label_ShapeType_Chord" = "弦";
+"Label_ShapeType_CircularArrow" = "環状矢印";
+"Label_ShapeType_Cloud" = "雲";
+"Label_ShapeType_CloudCallout" = "雲の吹き出し";
+"Label_ShapeType_Corner" = "コーナー";
+"Label_ShapeType_CornerTabs" = "コーナータブ";
+"Label_ShapeType_Cube" = "立方体";
+"Label_ShapeType_CurvedConnector2" = "曲線コネクタ 2";
+"Label_ShapeType_CurvedConnector3" = "曲線コネクタ 3";
+"Label_ShapeType_CurvedConnector4" = "曲線コネクタ 4";
+"Label_ShapeType_CurvedConnector5" = "曲線コネクタ 5";
+"Label_ShapeType_CurvedDownArrow" = "下曲折矢印";
+"Label_ShapeType_CurvedLeftArrow" = "左曲折矢印";
+"Label_ShapeType_CurvedRightArrow" = "右曲折矢印";
+"Label_ShapeType_CurvedUpArrow" = "上曲折矢印";
+"Label_ShapeType_Decagon" = "十角形";
+"Label_ShapeType_DiagStripe" = "斜め縞";
+"Label_ShapeType_Diamond" = "ダイヤモンド";
+"Label_ShapeType_Dodecagon" = "十二角形";
+"Label_ShapeType_Donut" = "ドーナツ";
+"Label_ShapeType_DoubleWave" = "小波";
+"Label_ShapeType_DownArrow" = "下矢印";
+"Label_ShapeType_DownArrowCallout" = "下矢印の吹き出し";
+"Label_ShapeType_Ellipse" = "楕円";
+"Label_ShapeType_EllipseRibbon" = "楕円リボン";
+"Label_ShapeType_EllipseRibbon2" = "楕円リボン 2";
+"Label_ShapeType_FlowChartAlternateProcess" = "代替プロセスフロー";
+"Label_ShapeType_FlowChartCollate" = "照合フロー";
+"Label_ShapeType_FlowChartConnector" = "コネクタフロー";
+"Label_ShapeType_FlowChartDecision" = "判断フロー";
+"Label_ShapeType_FlowChartDelay" = "遅延フロー";
+"Label_ShapeType_FlowChartDisplay" = "ディスプレイフロー";
+"Label_ShapeType_FlowChartDocument" = "ドキュメントフロー";
+"Label_ShapeType_FlowChartExtract" = "抽出フロー";
+"Label_ShapeType_FlowChartInputOutput" = "入出力フロー";
+"Label_ShapeType_FlowChartInternalStorage" = "内部ストレージフロー";
+"Label_ShapeType_FlowChartMagneticDisk" = "磁気ディスクフロー";
+"Label_ShapeType_FlowChartMagneticDrum" = "磁気ドラムフロー";
+"Label_ShapeType_FlowChartMagneticTape" = "磁気テープフロー";
+"Label_ShapeType_FlowChartManualInput" = "手動入力フロー";
+"Label_ShapeType_FlowChartManualOperation" = "手動作業フロー";
+"Label_ShapeType_FlowChartMerge" = "結合フロー";
+"Label_ShapeType_FlowChartMultidocument" = "マルチドキュメントフロー";
+"Label_ShapeType_FlowChartOfflineStorage" = "オフラインストレージフロー";
+"Label_ShapeType_FlowChartOffpageConnector" = "外部ページコネクタフロー";
+"Label_ShapeType_FlowChartOnlineStorage" = "オンラインストレージフロー";
+"Label_ShapeType_FlowChartOr" = "論理和フロー";
+"Label_ShapeType_FlowChartPredefinedProcess" = "定義済みプロセスフロー";
+"Label_ShapeType_FlowChartPreparation" = "準備フロー";
+"Label_ShapeType_FlowChartProcess" = "プロセスフロー";
+"Label_ShapeType_FlowChartPunchedCard" = "せん孔カードフロー";
+"Label_ShapeType_FlowChartPunchedTape" = "せん孔テープフロー";
+"Label_ShapeType_FlowChartSort" = "並べ替えフロー";
+"Label_ShapeType_FlowChartSummingJunction" = "和接合フロー";
+"Label_ShapeType_FlowChartTerminator" = "端子フロー";
+"Label_ShapeType_FoldedCorner" = "メモ";
+"Label_ShapeType_Frame" = "レイアウト枠";
+"Label_ShapeType_Funnel" = "じょうご";
+"Label_ShapeType_Gear6" = "ギア 6";
+"Label_ShapeType_Gear9" = "ギア 9";
+"Label_ShapeType_HalfFrame" = "レイアウト枠の半分";
+"Label_ShapeType_Heart" = "ハート";
+"Label_ShapeType_Heptagon" = "七角形";
+"Label_ShapeType_Hexagon" = "六角形";
+"Label_ShapeType_HomePlate" = "ホームプレート";
+"Label_ShapeType_HorizontalScroll" = "横スクロール";
+"Label_ShapeType_IrregularSeal1" = "不規則な封印 1";
+"Label_ShapeType_IrregularSeal2" = "不規則な封印 2";
+"Label_ShapeType_LeftArrow" = "左矢印";
+"Label_ShapeType_LeftArrowCallout" = "左矢印の吹き出し";
+"Label_ShapeType_LeftBrace" = "波かっこ（左）";
+"Label_ShapeType_LeftBracket" = "角かっこ（左）";
+"Label_ShapeType_LeftCircularArrow" = "左環状矢印";
+"Label_ShapeType_LeftRightArrow" = "左右矢印";
+"Label_ShapeType_LeftRightArrowCallout" = "左右矢印の吹き出し";
+"Label_ShapeType_LeftRightCircularArrow" = "左右環状矢印";
+"Label_ShapeType_LeftRightRibbon" = "左右リボン";
+"Label_ShapeType_LeftRightUpArrow" = "上左右リボン";
+"Label_ShapeType_LeftUpArrow" = "左上がり矢印";
+"Label_ShapeType_LightningBolt" = "稲妻";
+"Label_ShapeType_Line" = "折れ線";
+"Label_ShapeType_LineInv" = "逆折れ線";
+"Label_ShapeType_MathDivide" = "除算";
+"Label_ShapeType_MathEqual" = "等号";
+"Label_ShapeType_MathMinus" = "減算";
+"Label_ShapeType_MathMultiply" = "乗算";
+"Label_ShapeType_MathNotEqual" = "不等号";
+"Label_ShapeType_MathPlus" = "加算";
+"Label_ShapeType_Moon" = "月";
+"Label_ShapeType_NonIsoscelesTrapezoid" = "不等脚台形";
+"Label_ShapeType_NoSmoking" = "禁煙";
+"Label_ShapeType_NotchedRightArrow" = "刻み目入り右矢印";
+"Label_ShapeType_Octagon" = "八角形";
+"Label_ShapeType_Parallelogram" = "平行四辺形";
+"Label_ShapeType_Pentagon" = "五角形";
+"Label_ShapeType_Pie" = "円グラフ";
+"Label_ShapeType_PieWedge" = "円グラフのウェッジ";
+"Label_ShapeType_Plaque" = "ブローチ";
+"Label_ShapeType_PlaqueTabs" = "ブローチタブ";
+"Label_ShapeType_Plus" = "プラス";
+"Label_ShapeType_QuadArrow" = "四方向矢印";
+"Label_ShapeType_QuadArrowCallout" = "四方向矢印の吹き出し";
+"Label_ShapeType_Rectangle" = "長方形";
+"Label_ShapeType_Ribbon" = "リボン";
+"Label_ShapeType_Ribbon2" = "リボン 2";
+"Label_ShapeType_RightArrow" = "右矢印";
+"Label_ShapeType_RightArrowCallout" = "右矢印吹き出し";
+"Label_ShapeType_RightBrace" = "波かっこ（右）";
+"Label_ShapeType_RightBracket" = "角かっこ（右）";
+"Label_ShapeType_Round1Rect" = "1 つの角を丸めた四角形";
+"Label_ShapeType_Round2DiagRect" = "1 組の対角が丸い四角形";
+"Label_ShapeType_Round2SameRect" = "同じ側の 2 角が丸い四角形";
+"Label_ShapeType_RoundRectangle" = "角の丸い四角形";
+"Label_ShapeType_RightTriangle" = "正三角形";
+"Label_ShapeType_SmileyFace" = "スマイル";
+"Label_ShapeType_Snip1Rect" = "1 つの角が切り取られた四角形";
+"Label_ShapeType_Snip2DiagRect" = "1 組の対角が切り取られた四角形";
+"Label_ShapeType_Snip2SameRect" = "同じ側の 2 角が切り取られた四角形";
+"Label_ShapeType_SnipRoundRect" = "1 つの角が切り取られ、1 つの角を丸めた四角形";
+"Label_ShapeType_SquareTabs" = "正方形タブ";
+"Label_ShapeType_Star10" = "十芒星";
+"Label_ShapeType_Star12" = "十二芒星";
+"Label_ShapeType_Star16" = "十六芒星";
+"Label_ShapeType_Star24" = "二十四芒星";
+"Label_ShapeType_Star32" = "三十二芒星";
+"Label_ShapeType_Star4" = "四芒星";
+"Label_ShapeType_Star" = "五芒星";
+"Label_ShapeType_Star6" = "六芒星";
+"Label_ShapeType_Star7" = "七芒星";
+"Label_ShapeType_Star8" = "八芒星";
+"Label_ShapeType_StraightConnector1" = "直線コネクタ 1";
+"Label_ShapeType_StripedRightArrow" = "ストライプ矢印";
+"Label_ShapeType_Sun" = "太陽";
+"Label_ShapeType_SwooshArrow" = "スウッシュ矢印";
+"Label_ShapeType_Teardrop" = "涙のしずく";
+"Label_ShapeType_Trapezoid" = "台形";
+"Label_ShapeType_Triangle" = "三角形";
+"Label_ShapeType_UpArrow" = "上向き矢印";
+"Label_ShapeType_UpArrowCallout" = "上向き矢印の吹き出し";
+"Label_ShapeType_UpDownArrow" = "上下矢印";
+"Label_ShapeType_UpDownArrowCallout" = "上下矢印の吹き出し";
+"Label_ShapeType_UturnArrow" = "U ターン矢印";
+"Label_ShapeType_VerticalScroll" = "上下スクロール";
+"Label_ShapeType_Wave" = "波";
+"Label_ShapeType_WedgeEllipseCallout" = "楕円グラフウェッジの吹き出し";
+"Label_ShapeType_WedgeRectCallout" = "四角形ウェッジの吹き出し";
+"Label_ShapeType_WedgeRRectCallout" = "角が丸い四角形ウェッジの吹き出し";
+
+"Label_FilledRoundBullets" = "塗りつぶした丸の行頭文字";
+"Label_HollowRoundBullets" = "白抜き丸の行頭文字";
+"Label_FilledSquareBullets" = "塗りつぶした四角の行頭文字";
+"Label_HollowSquareBullets" = "白抜き四角の行頭文字";
+"Label_StarBullets" = "星の行頭文字";
+"Label_ArrowBullets" = "矢印の行頭文字";
+"Label_CheckmarkBullets" = "チェックマークの行頭文字";
+
+"Label_NumbersInBrackets" = "角かっこ入りの数字";
+"Label_LowerLettersInBrackets" = "角かっこ入りの小文字";
+"Label_UpperLettersWithBracket" = "角かっこ付きの大文字";
+"Label_UpperLettersInBrackets" = "角かっこ入りの大文字";
+"Label_UpperRomanNumbersWithBracket" = "角かっこ付きの大文字ローマ数字";
+"Label_UpperRomanNumbersInBrackets" = "角かっこ入りの大文字ローマ数字";
+"Label_LowerRomanNumbersWithBracket" = "角かっこ付きの小文字ローマ数字";
+"Label_LowerRomanNumbersInBrackets" = "角かっこ入りの小文字ローマ数字";
+
+"InfoTitle_AddNotes" = "ダブルタップしてメモを追加";
+
+"Label_BubbleChart" = "バブル";
+"Label_BubbleChart3D" = "3D バブル";
+
+/* Up to 30 chars */
+"Label_ClearHyperlink" = "ハイパーリンクをクリア";
+
+"Label_EnterTitle" = "タイトルを入力";
+"Label_RemoveLink" = "リンクを削除";
+"Label_NumAccounting" = "会計";
+"Label_SelectCell" = "セルを選択";
+"Label_SelectSheet"= "シートを選択";
+"Label_TypeInTheCellRef" = "セル範囲を入力";
+"Label_StockChart" = "株価";
+
+/* Up to 12 chars */
+"Label_StockHLC" = "高値-安値-終値";
+
+/* Up to 12 chars */
+"Label_StockOHLC" = "始値-高値-安値-終値";
+
+/* Up to 10 chars */
+"Label_Comment" = "コメント";
+
+"Label_XlsSaveCommentsNotSupported" = "「.XLS」ファイルでのコメント保存はサポート対象外です。コメントを保存できません。";
+"Label_PrevComment" = "前のコメント";
+"Label_NextComment" = "次のコメント";
+"Label_EditComment" = "コメントを編集";
+"Label_DeleteComment" = "コメントを削除";
+"Label_ClearComments" = "コメントをクリア";
+
+/* Up to 10 chars */
+"Label_XValues" = "X 値";
+"Label_YValues" = "Y 値";
+"Label_ZValues" = "Z 値";
+
+"Label_StockChartInfo" = "株価チャート情報";
+"Label_HighLowClose" = "このチャートを挿入するには、高値、低値、終値の順番でデータを入力してください。日付けか株価の銘柄をラベルに使用してください。";
+"Label_OpenHighLowClose" = "このチャートを挿入するには、始値、高値、低値、終値の順番でデータを入力してください。日付けか株価の銘柄をラベルに使用してください。";
+
+"Label_Other" = "その他";
+"Label_NegativeNumbers" = "負の数";
+
+"Label_Opacity" = "透明度";
+"Label_Thickness" = "濃淡";
+"Label_LineEndings" = "折れ線の終端";
+
+"ErrMsg_RequestTimeOut" = "リクエストがタイムアウトしました";
+"Label_ContactSupport" = "サポートに問い合わせ";
+
+/* Up to 18 chars */
+"Label_FillSurvey" = "フィードバック用フォームに入力";
+
+"InfoTitle_TellUsOpinion" = "OfficeSuite に関するご意見や\nご感想をお待ちしています！";
+"InfoMsg_TellUsOpinion" = "フィードバック用フォームに入力するか\nご意見をやご感想を直接弊社へご連絡ください。";
+"Label_Feedback" = "フィードバックを送信";
+
+/* Up to 10 chars */
+"Label_FeedbackForm" = "フィードバック用";
+
+/* Up to 20 chars */
+"Label_LikeUsOnFacebook" = "Facebook で「いいね！」";
+
+"Label_ShareWithFriends" = "友達とシェア";
+
+/* Up to 28 chars */
+"Label_JoinOurBetaTestingGroup" = "弊社ベータテストグループに参加";
+
+"Label_BetaTesterForm" = "ベータテスト参加者用フォーム";
+"Label_More" = "さらに詳しく";
+
+"Label_RadarChart" = "レーダー";
+"Label_RadarChartStandard" = "標準";
+"Label_RadarChartMarker" = "マーカー";
+"Label_RadarChartFilled" = "Filler";
+
+"Label_HighLowCloseInfo" = "このチャートを挿入するには、高値、低値、終値の順番でデータを入力してください。オプションとして、日付けか株価の銘柄をラベルに使用してください。";
+
+/* Up to 72 chars */
+"Label_AgitationBarGoPremiumLongMessage" = "最先端のモバイル向けオフィスアプリで、作業効率をさらに向上させましょう";
+
+"Label_AgitationBarGoPremiumShortMessage" = "その他の機能をゲット";
+"Label_AgitationBarGoPremiumButtonText" = "詳細情報";
+
+"Label_AgitationBarUpdateLongMessage" = "OfficeSuite のアップデートがご利用になれます";
+"Label_AgitationBarUpdateShortMessage" = "アップデートがご利用になれます";
+"Label_AgitationBarUpdateButtonText" = "ゲットする";
+"Label_PasteFormat" = "貼り付け\n形式";
+
+"Label_3DPie" = "3-D 効果のついた円グラフ";
+"ErrMsg_SaveInOtherFormat" = "現在の形式ではファイルを保存できません。シェアする前に、別のファイル形式で保存してください。";
+
+/*
+ NEW STRINGS AFTER VER 4.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// PDF
+
+"Label_LineEndings_None" = "なし";
+"Label_LineEndings_Square" = "正方形";
+"Label_LineEndings_Circle" = "丸";
+"Label_LineEndings_Diamond" = "ダイヤモンド";
+"Label_LineEndings_OpenArrow" = "開いた矢印";
+"Label_LineEndings_ClosedArrow" = "閉じた矢印";
+"Label_NightMode" = "ナイトモード";
+
+"Label_ChoiceSelection_Multiple" = "オプション選択";
+"Label_ChoiceSelection_Single" = "オプション選択";
+
+"Label_LineThicknessValueFormat" = "%.0f ポイント"; // %.0f is replaced with the actual number programatically
+
+"Label_Done" = "終了";
+
+"Label_AddComment" = "コメントを追加";
+"Label_LineStart" = "行頭";
+"Label_LineEnd" = "行末";
+
+// File Browser
+"Label_ShareWithFriends" = "友達とシェア";
+"InfoMsg_CannotOpenAppStoreForDownload" = "App Store が利用できないため、ダウンロード用ページを開けませんでした。";
+
+"Label_CameraCantStartMessage" = "カメラを起動できませんでした。「設定」メニューで、OfficeSuite がカメラへアクセスできるかを確認してください。";
+"Label_CameraUnavailableMessage" = "Split View と Slide Over モードではカメラを使用できません。";
+"ErrTitle_ConnectionProblem" = "接続の不具合";
+
+/* Up to 28 chars */
+"Label_EditWordDocument" = "新規 Word ドキュメントの編集を開始します。";
+"Label_EditExcelDocument" = "新規 Excel スプレッドシートの編集を開始します。";
+"Label_EditPresentationDocument" = "新規 PowerPoint プレゼン編集を開始します。";
+
+"Label_CreateNewOnly" = "新規作成";
+
+"Label_IncreaseFontSize" = "フォントサイズを拡大";
+"Label_DecreaseFontSize" = "フォントサイズを縮小";
+
+// From windows porting
+"ErrMsg_PDFExportFailed" = "PDF にエクスポートできませんでした。";
+"Label_ZoomFitTwoPages" = "2 ページ分";
+"PRGRSS_PreparingString" = "準備中…";
+
+/*
+ NEW STRINGS AFTER VER 4.2.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Lable_OpenFilesFrom" = "以下でファイルを開く： ";
+"Label_Account" = "アカウント";
+"Label_Add" = "追加";
+
+/* Up to 80 chars
+ %@ will be replaced with a brand name, for instance
+ "Add Dropbox account to view and edit remote files".
+ Brand name length does not count towards the 80 characters limit.
+ */
+"Label_AddAccountSpotlightDescription" = "追加%@アカウントを作成しリモートファイル表示＆編集";
+
+"Label_TouchID" = "Touch ID";
+"Label_TouchIDEnable" = "Touch ID 指紋認証を「オン」にし、OfficeSuite のロックを解除";
+"Label_TouchProvideBiometrics"="「設定」メニューで、指紋を少なくても 1 つ追加してください。";
+"InfoMsg_WarningNonEmptyPassword"="パスワードが空欄のままです。パスワード用に文字や数字を入力してください。";
+"InfoMsg_PreviewNotAvailable"="ファイルブレビューはご利用になれません。";
+"InfoPlist_shortcutTitleCreateFile" = "ファイルを作成";
+// MobileIron Edition strings
+"Label_MobileIronEdition" = "MobileIron エディション";
+
+"Label_OpenInForbidden" = "管理者 %@ が当アプリでドキュメントを開くことを禁止しています。";
+"Label_AppNotAuthorized" = "アプリの認証が済んでいません";
+// End MobileIron Edition strings
+
+//Excel
+"Label_FractionNumberFormat"        = "関数";
+"Label_SpecialNumberFormat"         = "スペシャル";
+"Label_CustomNumberFormat"          = "カスタム";
+
+/* Up to 28 chars */
+"Label_FractionUpToOneDigit"        = "一桁台（1/4）";
+"Label_FractionUpToTwoDigits"       = "ニ桁台（10/25）";
+"Label_FractionUpToThreeDigits"     = "三桁台（300/850）";
+
+"Label_FractionUpAsHalves"          = "2 分の 1（1/2）";
+"Label_FractionUpAsQuarters"        = "4 分の 1（2/4）";
+"Label_FractionUpAsEights"          = "8 分の 1（4/8）";
+"Label_FractionUpAsSixteenths"      = "16 分の 1（8/16）";
+"Label_FractionUpAsTenths"          = "10 分の 1（5/10）";
+"Label_FractionUpAsHundreths"       = "100 分の 1（50/100）";
+
+/* Up to 28 chars */
+"Label_UseCustomDenominator"        = "カスタム分母を使用（1/%ld）";
+
+"Label_FractionCustomdenominator"   = "カスタム分母";
+"Label_FractionCustomDenominator"   = "カスタム分母";
+"Label_Denominator"                 = "分母";
+"Label_PostCode"                    = "郵便番号";
+"Label_ZipCode(US)"                 = "郵便番号 (US)";
+"Label_ZipCode4(US)"                = "郵便番号＋4 (US)";
+"Label_Postcode(A)"                 = "郵便番号 (A)";
+"Label_Postcode(CH)"                = "郵便番号 (CH)";
+"Label_Postcode(D)"                 = "郵便番号 (D)";
+"Label_Postcode(L)"                 = "郵便番号 (L)";
+"Label_Postcode(4digits)"           = "郵便番号（4 桁）";
+"Label_Postcode(5digits)"           = "郵便番号（5 桁）";
+"Label_Postcode(6digits)"           = "郵便番号（6 桁）";
+"Label_PhoneNumber"                 = "電話番号";
+"Label_SocialSecurityNumber"        = "社会保障番号";
+"Label_PdfOptions"                  = "PDF オプション";
+
+"Label_PrintHeadings"               = "プリントの見出し";
+
+/* Up to 26 chars */
+"Label_PrintGridlines"              = "プリントのグリッドライン";
+
+"Label_SelectSheets"                = "シートを選択";
+"Label_ShowHeadings"                = "見出しを表示";
+"Label_EmptyPage"                   = "白紙のページ";
+
+"Label_NewComment"                  = "コメントを追加";
+"Label_DefineName"                  = "名前を追加";
+"Label_CellRange"                   = "セルの範囲";
+
+"Label_PremiumODF" = "「.ODS」「.ODT」「.ODP」を含む OpenDocument 形式（ODF）のファイルへアクセスできます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumBinaryFormat" = "互換性を高めるため、旧式の Word、Excel 形式で保存できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumCSV" = "「.CSV」（Comma Separated Values）ファイルでスプレッドシートを保存できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumConditionalFormatting" = "一定の基準に基づき、セルのフォーマット形式やセルの範囲を変更できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumHyperlinks" = "ウェブサイトやメールアドレスへのハイパーリンクを作成＆編集できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumEditComments" = "Excel ファイル内でコメントを作成＆編集できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumWordToPDF" = "現在のドキュメントから即座に PDF を作成できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumCameraPhoto" = "デバイス搭載カメラでお任せ撮影した写真を即座に挿入できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumAnnotatePdf" = "PDF アノテーションやマークアップを作成＆編集できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumAppProtectionPass" = "カスタムパスワードで OfficeSuite へのアクセスを制限できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumPDFtoWord" = "すべて編集可能な Word ファイルへ現在の PDF を変換できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumPDFtoExcel" = "すべて編集可能なスプレッドシートへ現在の PDF を変換できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumPDFtoEPub" = "ePub ファイルへ現在の PDF を変換できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumPdfPasswordChange" = "カスタムパスワードでファイルへのアクセスを制限できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumExcelToPDF" = "現在のスプレッドシートから即座に PDF へ変換できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumPPTtoPDF" = "現在のプレゼンテーションから即座に PDF へ変換できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumFormFill" = "編集可能な PDF フォームへ入力や保存できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PremiumNightMode" = "夜でも見やすく表示するために、暗めの背景上に明るめのテキストで PDF を表示できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_PdfOptions"                  = "PDF オプション";
+
+//Apple Watch Strings
+"Label_Start" = "スタート";
+"Label_Playing" = "再生中";
+
+/* Up to 40 chars */
+"Label_ParentAppConnectivityPrompt" = "iPhone 用 OfficeSuite でプレゼンを開き先へ進んでください";
+
+"Label_FromSlideNumber" = "スライド %d から";
+"Label_SlideNumberOfSlideCount" = "スライド %d／%d";
+"Label_Restart" = "再スタート";
+"Label_EndShow" = "表示終了";
+
+// PDF
+
+"Label_PDFContainsDigitalSignatures" = "ドキュメントにデジタル署名が含まれています。";
+
+// annotation tips
+"Label_ToolTip_Note" = "メモを追加したい場所をタップ";
+"Label_ToolTip_FreeText" = "テキストを追加したい場所をタップ";
+"Label_ToolTip_Highlight" = "ハイライト表示したいテキスト上をドラッグ";
+"Label_ToolTip_Underline" = "下線を引きたいテキスト上をドラッグ";
+"Label_ToolTip_Strikethrough" = "取り消し線を入れたいテキスト上をドラッグ";
+"Label_ToolTip_FreeDraw" = "自由にドラッグして描画";
+"Label_ToolTip_Line" = "タップ＆ドラッグして線を引く";
+"Label_ToolTip_Rectangle" = "タップ＆ドラッグして四角形を作成";
+"Label_ToolTip_Ellipse" = "タップ＆ドラッグしてだ円を作成";
+
+
+"Label_ProtectYourDocumentsTitle" = "ドキュメントを保護";
+"Label_ProtectYourDocumentsInfo" = "パスワードの追加、Touch ID で OfficeSuite へのアクセスを制限";
+"Label_AnnotatePdfAndFillFormsTitle" = "PDFの注釈やフォーム";
+"Label_AnnotatePdfAndFillFormsInfo" = "アノテーションの作成や編集、編集可能な PDF フォームへ入力や保存";
+"Label_SaveAsPDFTitle" = "PDF で保存";
+"Label_SaveAsPDFInfo" = "書式を損なうこと無く、Word、Excel、PowerPoint から PDF を作成";
+"Label_EditPDFDocumentsTitle" = "PDF ドキュメントを編集";
+"Label_EditPDFDocumentsInfo" = "すべて編集可能な Word、Excel、ePub ファイルへPDF を変換";
+"Label_SaveAsLegacyFormatsTitle" = "旧式の Microsoft 形式で保存";
+"Label_SaveAsLegacyFormatsInfo" = "互換性を高めるため、「.DOC」や「.XLS」でドキュメントを保存";
+"Label_OpenODFDocumentsTitle" = "ODF ドキュメントを利用可能";
+"Label_OpenODFDocumentsInfo" = "「.odt」「.ods」「.odp」ファイルを読み込み可能";
+"Label_GetExtraFontsTitle" = "追加フォントをゲット";
+"Label_GetExtraFontsInfo" = "Tahoma、Calibri、Wingdings など 70 種類以上の必須フォントを内蔵";
+"Label_RemoveAdsTitle" = "広告を削除";
+"Label_RemoveAdsInfo" = "広告無し OfficeSuite をお楽しみください";
+
+
+"Label_PremiumPowerPointEditNotes" = "スライド内にプレゼン用ノートを作成＆編集できます。OfficeSuite プレミアムでご利用可能です。";
+
+/*
+ NEW STRINGS AFTER VER 4.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+/* Up to 14 chars, "free" as "arbitrary", "user-generated"  */
+"Label_FreeText" = "無料テキスト";
+
+"Label_Sign" = "サイン";
+"Label_QuickSign" = "クイックサイン";
+"Label_AddDate" = "日付を追加";
+"Label_PickDate" = "日付を選択";
+"Label_AddSignature" = "署名を追加";
+"Label_QuickSignHint" = "署名かイニシャルを設定";
+"Label_QuickSignNoAvailableSignatures" = "署名なし";
+
+"Label_ToolTip_QuickSign" = "署名を追加したい場所をタップ";
+"Label_ToolTip_Date" = "日付を追加したい場所をタップ";
+
+"Label_TryAgain" = "再度お試しください";
+"Label_YouMustBeOnlineInOrderToUpgrade" = "アップグレードするにはオンラインにしてください";
+"Label_CannotConnectToITunesStore" = "iTunes ストアに接続できません";
+
+"ErrClass_FillString" = "記入できません。 ";
+
+/*
+ NEW STRINGS AFTER VER 4.3.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_UnsupportedDefinedName" = "この文書にはサポート外の定義名が含まれています。文書の保存ができない場合があります。";
+
+"Label_SignIn" = "サインイン";
+"Label_SignUp" = "サインアップ";
+"Label_SignOut" = "サインアウト";
+"Label_ForgotPassword" = "パスワードをお忘れですか ？";
+"Label_ResetPassword"  = "パスワードをリセット";
+"Label_Remove" = "削除";
+"Label_TakePhoto" = "写真を撮る";
+"Label_ChooseFromCameraRoll" = "カメラロールから選択";
+"Err_EnterDifferentPassword" = "以前のパスワードと新しいパスワードが同じです。違うパスワードにしてください！";
+"Label_SaveAppSettings" = "アプリの設定や最近使ったファイルその他の保存";
+
+//Common error strings from Android version
+"Err_PleaseFillYourCredentials" = "認証情報を入力してください。";
+"Err_InvalidEmailAddress"       = "無効なメールアドレスです。";
+"Err_AccountDoesNotExist"       = "アカウントが存在しません。メールアドレスを確認して最初からやり直してください。";
+"Err_AccountAlreadyExist"       = "このアカウントはすでに存在しています。パスワードをリセットしますか？";
+"Err_PasswordMissmatch"         = "ユーザー名かパスワードが間違っています。";
+"Wrn_SighOutDecription"         = "サインアウトしますか？";
+"Msg_PasswordChanged"           = "パスワードが変更されました";
+"Err_AccountNotValidated"       = "アカウントはまだ認証されていません";
+"Btn_ResendValidation"          = "認証";
+"Msg_ValidationResendSuccess"   = "認証用リンクが記載されたメールをあなた宛に送信しました。";
+"Msg_PasswordReset"             = "新しいパスワードが記載されたメールをあなた宛に送信しました。メールを確認してサインインしてください。";
+
+// PDF
+
+"PRGRSS_ExecutingJavaScript" = "Java Script を実行中…";
+
+"Label_AddEditComment" = "コメントを追加/編集";
+
+// MSConnect / Payments
+
+"Label_TooManyDevices" = "ログインしているデバイスが多すぎます。";
+"Label_PleaseUpdatePayment" = "Android のお支払情報がしばらく更新されていないようです。更新していただくまで Premium は無効となります。";
+
+//Word - WebView
+
+"Label_WebView" = "ウェブビュー";
+"Label_PageView" = "ページビュー";
+
+//Go Premium Screen Strings
+"Label_UpgadeToPremium" = "Premium へアップグレード";
+"Label_DescriptionProtectYourDocuments" = "パスワードを追加し、さらに Touch ID で OfficeSuite へのアクセスを制限できます";
+"Label_DescritpionEditPDFs" = "どんな PDF もフル編集可能な Word、Excel、ePub のファイルに変換";
+"Label_TitleSignYourPDFFiles" = "PDF ファイルに署名";
+"Label_DescriptionSignYourPDFFiles" = "クイックサインを使えば、簡単に文書にデジタル署名を入れることができます";
+"Label_SubscriptionPeriodMonthly" = "月";
+"Label_SubscriptionPeriodYearly"  = "年";
+"Label_SaveForPrice" = "値引き:"; // save for price e.g "SAVE $15.99"
+"Label_UpgradeText" = "アップグレード";
+"Label_OfficeSuitePremium" = "OfficeSuite Premium";
+"Label_OfficeSutiePremiumDesc" = "移動中の生産性を最大化";
+"Label_UpgradeNow" = "今すぐアップグレード";
+"Label_LoginInfo" = "複数のプラットフォームやデバイスで同じアカウントを使用できます";
+"Label_SignInWith" = "サインイン： ";
+"Label_DontHaveAccount" = "まだアカウントをお持ちでないですか？";
+"Label_DontHaveAnAccount" = "まだアカウントをお持ちでない？";
+"Label_SignUpHere" = "サインアップはこちらから";
+"Label_AlreadyHaveAccount" = "すでにアカウントをお持ちですか？";
+"Label_SignInNow" = "今すぐサインイン";
+"Label_ResetPasswordDesc" = "以下のアドレス宛にパスワードとリセット方法を記載したメールをお送りしました。";
+"Label_FullName" = "氏名";
+"Label_ChangePassword" = "パスワードを変更";
+"Label_UserSettings" = "ユーザー設定";
+"Label_EnterOldPassword" = "以前のパスワードを入力";
+"Label_EnterNewPassword" = "新しいパスワードを入力";
+"Label_Re-EnterNewPassword" = "新しいパスワードをもう一度";
+
+// MSConnect / Payment messages
+
+"Label_PremiumTransferFailed" = "Premium の連携失敗";
+"Label_PremiumLicenseHasAnotherAccount" = "この Premium のライセンスはすでに %@ と紐付いています";
+"Label_TooManyDevicesMan" = "この Premium ライセンスに紐付けできるデバイスの制限数を超えました。";
+"Label_PremiumLicenseExpired" = "あなたの Premium ライセンスは期限切れです。";
+"Label_PremiumExpired" = "Premium 期限切れ";
+"Label_PremiumPleaseUpdateStatus" = "あなたの Premium ライセンスのステータスが更新されていません。元々使っていたデバイスからサインインして、ライセンスのステータスを更新してください。";
+"Label_PremiumNotUpdated" = "Premium 未更新";
+
+/*
+ NEW STRINGS AFTER VER 4.4
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_TryToLoginWithAnotherAccount" = "このアカウントではログインできません。別のアカウントをお試しください。";
+"Label_NothingToRestore" = "リストアできる購入履歴がありません。";
+"Label_ShareWithFriends" = "友達とシェア";
+
+"Label_InactivityUrge1" = "指先で自在に使いこなせるモバイルオフィスが手元にあるのをご存知でしたか？";
+"Label_InactivityUrge2" = "どんな形式の文書も OfficeSuite で閲覧/編集できることをご存知でしたか？";
+"Label_InactivityUrge3" = "PDF だって OfficeSuite で編集できることをご存知でしたか？";
+"Label_CompleteSubscriptionUrge1" = "急ぎましょう！登録を完了させて生産性を限りなく向上させましょう！";
+"Label_CompleteSubscriptionUrge2" = "登録を完了させて最高のモバイルオフィスアプリ OfficeSuite Premium をゲットしましょう！";
+"Msg_PasswordChangedPassive"      = "パスワードを変更しました。";
+
+// PowerPoint
+
+"Label_FillColor" = "塗りつぶしの色";
+"Label_NoFill" = "塗りつぶしなし";
+"Label_LineColor" = "線の色";
+"Label_NoLine" = "線なし";
+"Label_LineWeight" = "線の太さ";
+"Label_LineStyle" = "線のスタイル";
+
+"Accessibility_Label_DashingType_Solid" = "実線";
+"Accessibility_Label_DashingType_SysDash" = "システム破線";
+"Accessibility_Label_DashingType_SysDot" = "システム点線";
+"Accessibility_Label_DashingType_SysDashDot" = "システム一点鎖線";
+"Accessibility_Label_DashingType_SysDashDotDot" = "システム二点鎖線";
+"Accessibility_Label_DashingType_Dot" = "点線";
+"Accessibility_Label_DashingType_Dash" = "破線";
+"Accessibility_Label_DashingType_LgDash" = "長破線";
+"Accessibility_Label_DashingType_DashDot" = "一点鎖線";
+"Accessibility_Label_DashingType_LgDashDot" = "長一点鎖線";
+"Accessibility_Label_DashingType_LgDashDotDot" = "長二点鎖線";
+
+//File browser
+
+"Label_ForgotYourPassword" = "パスワードをお忘れですか?";
+"Err_EnterLessSimilarPassword" = "以前のパスワードと新しいパスワードがほとんど同じです。違うパスワードにしてください！";
+"Label_PremiumSubscriptionExpired" = "Premium の登録期間が終了しました。";
+"Label_PremiumSubscriptionHasAnotherAccount" = "この Premium 登録はすでに %@ と紐付いています。";
+"Label_TooManyDevicesForSubscriptionMan" = "この Premium 登録で利用可能なデバイス数の上限に達しました。";
+"Msg_ShareDescription" = "ぜひ OfficeSuite をチェックしてみてください。スマホやタブレットで Word、Excel、PowerPoint や PDF 文書まで扱える優れもののアプリです。";
+"Label_CPPleaseTryAgain" = "接続に問題発生。後でまたお試しください。";
+"Label_YouMustBeOnlineToSync" = "アカウントを同期するにはオンラインである必要があります。";
+"Label_LastSync" = "最後に同期したのは:";
+"Wrn_WillLosePremiumSubscriptionIfSignOut" = "サインアウトしてよろしいですか？このデバイスで今後 Premium 登録を利用することができなくなります。";
+
+/*
+ NEW STRINGS AFTER VER 4.5
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// Track Changes Strings
+"Label_Review" = "レビュー";
+"Label_TrackChanges" = "変更履歴";
+
+/* Up to 24 chars */
+"Label_TrackChangesMergedView" = "統合ビュー";
+
+"Label_TrackChangesOriginalView" = "オリジナル ビュー";
+"Label_TrackChangesFinalView" = "最終ビュー";
+"Label_ReviewMarkup" = "レビュー マークアップ";
+"Label_PreviousChange" = "前の変更";
+"Label_NextChange" = "次の変更";
+"Label_PreviousComment" = "前のコメント";
+"Label_NextComment" = "次のコメント";
+"Label_HiddenTrackChanges" = "変更履歴は現在非表示です。";
+"Label_ShowAllTrackChanges" = "すべて表示";
+"Label_NoChangesInDocument" = "この文書には変更履歴がありません。";
+"Label_SearchFromBeginningOfDocument" = "文書の頭から検索を続けますか？";
+"Label_SearchFromEndOfDocument" = "文書の最後から検索を続けますか？";
+"Label_RevisionsTracking" = "改訂トラッキング";
+"Label_RevisionsTrackingMessage" = "このアクションは「変更」として記録されません。このまま続けますか？";
+"Label_UntrackedOperationMessage" = "テーブルに影響してしまうので、この作業は「変更」として記録されません。";
+
+//Months
+"Label_January" = "1月";
+"Label_February" = "2月";
+"Label_March" = "3月";
+"Label_April" = "4月";
+"Label_May" = "5月";
+"Label_June" = "6月";
+"Label_July" = "7月";
+"Label_August" = "8月";
+"Label_September" = "9月";
+"Label_October" = "10月";
+"Label_November" = "11月";
+"Label_December" = "12月";
+
+// PDF
+"Label_SwitchOffReflow" = "リフローモードで編集はできません。連続閲覧モードに切り替えますか？";
+"Label_ProtectedFile" = "保護されたファイル";
+"Label_FullAccessPasswordRequired" = "このファイルはパスワードで保護されています。\nパスワードを入力してください:";
+"Label_Annotations" = "注釈";
+"Label_NoAnnotations" = "注釈なし";
+"Label_NoContents" = "コンテンツなし";
+"Label_WillDeleteAllAnnotations" = "この文書に付いている注釈をすべて削除してよろしいですか？";
+"Label_Reflow" = "リフロー";
+"Label_DocumentNavigation" = "文書ナビゲーション";
+"Label_DeletingAnnotations" = "注釈を削除中…";
+"Label_WillSwitchToContinuousMode" = "リフローモードで注釈は利用できません。連続閲覧モードに切り替えますか？";
+"Label_PdfUserPasswordSameAsOwnerPassword" = "オーナーとユーザーパスワードは同じ文字列にはできません。";
+
+
+"Label_DontAskAgain" = "再表示しない";
+
+//File Browser new design sitrngs
+"Label_TabRecent" = "最近";
+"Label_RecentFilesUp" = "最近利用したファイル";
+"Label_NewBlankDocument" = "白紙の文書";
+"Label_NewBlankSpreadsheet" = "白紙のスプレッドシート";
+"Label_NewBlankPresentation" = "白紙のプレゼンテーション";
+
+/* Up to 28 chars */
+"Label_AddCloudStorage" = "クラウドストレージを追加";
+
+"Label_MDM_Clouds_Disabled" = "管理者がクラウドストレージへのアクセスを「オフ」にしました。現在ファイルを開く／編集する／保存することができるのはローカルのみです。";
+"Label_MDM_AirWatchEdition" = "AirWatch エディション";
+"Lable_MDM_PermissionChanged" = "許可関連が変更されました";
+"Label_MDM_PasscodeDisabled" = "管理者がアプリケーションのパスワードの設定を無効にしました。";
+
+"Label_AboutOfficeSuite" = "OfficeSuite について";
+"Label_AccountSettings" = "アカウント";
+"Label_SelectAll" = "すべて選択";
+"Label_DeselectAll" = "すべての選択を解除";
+"Label_ManagePlaces" = "Manage Places";
+
+//Track changes
+"Label_ReviewMarkupTitleCase" = "レビュー マークアップ";
+"Label_PremiumWordTrackChanges" = "変更履歴を作成および編集して共同作業の効率をアップ。";
+"Label_SearchCommentsFromBeginningOfDocument" = "文書の頭からコメントを検索。";
+"Label_SearchCommentsFromEndOfDocument" = "文書の最後からコメントを検索。";
+
+"Label_SearchTabPlaceHolder" = "OfficeSuite を検索";
+
+/* Up to 22 chars */
+"Label_CloudStorage" = "クラウドストレージ";
+
+/*
+ NEW STRINGS AFTER VER 4.6
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+/* Up to 13 chars */
+"Label_Unprotect" = "未保護";
+
+/* Up to 28 chars */
+"Label_SelectLockedCells" = "ロックされたセルを選択";
+
+/* Up to 30 chars */
+"Label_SelectUnlockedCells" = "ロック解除されたセルを選択";
+
+"Label_FormatCells" = "セルの書式設定";
+"Label_FormatColumns" = "縦列の書式設定";
+"Label_FormatRows" = "横列の書式設定";
+"Label_InsertColumns" = "縦列を挿入";
+"Label_InsertRows" = "横列を挿入";
+
+/* Up to 30 chars */
+"Label_InsertHyperlinks" = "ハイパーリンクを挿入";
+
+"Label_DeleteColumns" = "縦列を削除";
+"Label_DeleteRows" = "横列を削除";
+"Label_UseAutoFilter" = "オートフィルターを使用";
+
+/* Up to 17 chars */
+"Label_PivotTable" = "ピボットテーブル＆チャートを使用";
+
+"Label_EditObjects" = "チャートを編集";
+"Label_EditScenarios" = "シナリオを編集";
+"Label_ProtectSheet" = "シートを保護";
+"Label_UnprotectToChange" = "このシートは保護されています。変更をするには、シートの保護を解除してください。";
+"Label_PasswordProtectedSheet" = "パスワードで保護されているシート";
+"Label_UnprotectSheet" = "シートの保護を解除";
+"Label_ProtectedSheet" = "保護されているシート";
+"Label_HideLockCellInfo" = "セルのロックまたは書式の非表示は保護されているシートにのみ影響します。";
+"Label_CellLocked" = "ロック";
+"Label_CellHidden" = "非表示";
+"Label_CellProtection" = "セル保護";
+"Label_Data" = "データ";
+"Label_DataValidation" = "データ入力規則";
+"Label_ErrorAlert" = "エラーアラート";
+"Label_ErrorMessage" = "エラーメッセージ";
+"Label_InputMessage" = "入力メッセージ";
+"Label_Criteria" = "条件";
+"Label_ValidationCriteria" = "入力規則条件";
+"Label_AnyValue" = "任意の値";
+"Label_WholeNumber" = "整数";
+"Label_Decimal" = "少数";
+"Label_List" = "リスト";
+"Label_Time" = "時間";
+"Label_TextLength" = "テキストの長さ";
+"Label_DVBetween" = "～の間";
+"Label_DVNotBetween" = "～の間ではない";
+"Label_DVEqualTo" = "～に等しい";
+"Label_DVNotEqualTo" = "～に等しくない";
+"Label_DVGreaterThan" = "～より大きい";
+"Label_DVLessThan" = "～より小さい";
+"Label_DVGreaterThanOrEqualTo" = "大なりイコール";
+"Label_DVLessThanOrEqualTo" = "小なりイコール";
+"Label_IgnoreBlank" = "空白セルを無視";
+"Label_InCellDropdown" = "セル内ドロップダウン";
+"Label_Source" = "ソース";
+"Label_Formula" = "式";
+"Label_Minimum" = "最小";
+"Label_Maximum" = "最大";
+"Label_Length" = "長さ";
+"Label_StartDate" = "開始日";
+"Label_EndDate" = "終了日";
+"Label_StartTime" = "開始時間";
+"Label_EndTime" = "終了時間";
+"Label_ShowInputMessage" = "入力メッセージを表示";
+"Label_Message" = "メッセージ";
+"Label_ShowErrorAlert" = "エラーアラートを表示";
+"Label_Warning" = "注意";
+"Label_Information" = "情報";
+"Label_CircleInvalidData" = "無効なデータに円表示";
+"Label_Retry" = "再試行";
+"InfoTitle_Date" = "日付";
+"InfoTitle_SlideNumber" = "スライド番号";
+"InfoTitle_Footer" = "フッター";
+"Label_AllowProtectionTypes" = "このワークシートのユーザー全員に以下を許可:";
+"Label_ProtectChartSheetFor" = "シートを以下から保護:";
+"Label_Objects" = "オブジェクト";
+"Label_NoResult" = "結果なし";
+"Label_EditObjects2" = "オブジェクトを編集";
+"Label_ReplaceAll" = "すべて入れ替え";
+"Label_SeparateCoverPage" = "見開きは表紙だけで表示";
+"Label_ViewModeOptions" = "モードオプションを表示";
+
+/* Up to 26 chars */
+"Label_ContinuousTwoPages" = "連続する2枚のページ";
+
+"Label_PremiumQuickSign" = "PDF文書に手書きの署名を追加できる。OfficeSuite Premiumの一機能として利用可能。";
+"Label_PrintLowQuality" = "低品質で印刷";
+"Label_PrintHighQuality" = "高品質で印刷";
+"Label_FullAccessPasswordRequiredForHighQualityPrinting" = "このファイルはパスワードで保護されています。高品質で印刷するには、完全アクセス権のあるパスワードを入力してください。";
+"Label_DeleteSheet" = "シートを削除";
+"Label_CantDeleteSheet" = "削除できません。削除するには、別のシートを表示（非表示のシートがある場合）するか、新たなシートを追加してください。";
+
+"Label_PremiumAllBinaryFormats" = "互換性を高めるため、旧式の Word、Excel、PowerPoint 形式で保存できます。OfficeSuite プレミアムでご利用可能です。";
+"Label_SaveAsAllLegacyFormatsInfo" = "互換性を高めるため、「.DOC」「.XLS」や「.PPT」でドキュメントを保存";
+
+/*
+ NEW STRINGS AFTER VER 4.7
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrMsg_EmptyTextField" = "テキスト欄を空欄にはできません";
+"Confirm_EraseDataValidation" = "選択した領域は複数の入力規則を含んでいます。現在の入力規則と置き換えて続けますか？";
+"ErrMsg_DataValidationIsInvalid" = "入力した値は無効です";
+"WarnMsg_DataValidationIsInvalid" = "入力した値が有効ではありません。それでもセルを編集しますか？";
+"InfoMsg_DataValidationIsInvalid" = "入力した値は無効です";
+"ErrMsg_InvalidChars" =  "入力した値が無効な文字列を含んでいます";
+
+"Msg_ErrorLockedOutAfterFailedSignIns" = "ログイン失敗が多すぎます。しばらく経ってからもうお試しください";
+"Label_ManageAccount" = "アカウント管理";
+
+//Word
+"Label_Shading" = "網かけ";
+
+"Label_WhatsNew" = "新着情報";
+"Label_Sheets" = "シート";
+"Label_OpenPDF" = "PDF を開く";
+"Label_RateUs" = "アプリを評価";
+"TextBox_DefaultText" = "ダブルタップでテキストを編集";
+"Label_Slides" = "スライド";
+
+/*
+ NEW STRINGS AFTER VER 4.8
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrDoc_Save_Xls_Not_Supported" = "グラフシートしか含まれていないため、ドキュメントを XLS 形式で保存できません。";
+"InfoMsg_InvalidDVAllTable" = "シート全体にデータ認証ルールをセットすることはできません。";
+"Label_MarkerLineChart" = "折れ線グラフ";
+"Err_PleaseLoginAgain"       = "サインアウトしています。再度サインインしてください。";
+"Label_PremiumProtectSheet" = "スプレッドシートのセルを保護してください。OfficeSuite Premium の一部としてご利用可能です。";
+"Label_NoColor" = "カラーなし";
+"Label_CellShading" = "セルのシェーディング";
+"Label_EnterPassToUnprotect" = "パスワードを入力してシートの保護を解除してください。";
+
+//Excel
+"Label_Cells" = "セル";
+"Label_ShiftLeft" = "セルを左へ移動";
+"Label_ShiftUp" = "セルを上へ移動";
+"Label_EntireRow" = "すべての行";
+"Label_EntireColumn" = "すべての列";
+"Label_DeleteOptions" = "削除オプション";
+
+"WarnMsg_Continue" = "\n\n続けますか？";
+
+"Err_WillChangeFilteredRange" = "フィルタリングした範囲が変更されます。";
+"ErrClass_DeleteCells" = "セルを削除できませんでした。";
+
+"Label_Alert" = "アラート";
+"AlertMsg_DeleteRow" = "すべての行を削除？";
+"AlertMsg_WillUnmergeCells" = "このコマンドを実行すると、マージしたセルはこれ以降マージできなくなります。続けてもよろしいですか？";
+
+//File browser
+"Label_SearchByType" = "種類ごとに検索";
+"Label_RecentSearches" = "最近の検索項目";
+
+// Excel
+"Label_BarOfPie" = "円グラフの補助縦棒";
+"Label_PieOfPie" = "補助円グラフ付き円グラフ";
+"Label_3DColumn" = "3D 縦棒グラフ";
+
+/*
+ NEW STRINGS AFTER VER 4.9
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// PowerPoint
+"Label_PowerPointMacroTemplate" = "PowerPoint マクロ使用可能テンプレート";
+"Label_EnterpriseMode" = "エンタープライズ モード";
+"Label_NetForEntrpriseNeeded" = "エンタープライズ モードを利用するにはインターネット接続が必要です。";
+"Label_SolidFill" = "塗りつぶし (単色)";
+"Label_PictureFill" = "塗りつぶし (図)...";
+
+// PDF
+"Label_TwoPages" = "2 ページ";
+"Label_ContinuousScroll" = "連続スクロール";
+"Label_PdfPageView" = "ページビュー";
+"Label_ReflowView" = "リフロービュー";
+
+//FileCommander
+
+"Label_Favorites" = "ピン留め";
+"Label_NoFavorites" = "編集を押して、ファイルをピン留めする。";
+"Label_NoFavoritesInEditMode" = "ピン留めされているファイルはありません。";
+"Label_OtherLocations" = "別のストレージを開く";
+"Label_CreateNewFolder" = "新規フォルダを作成";
+"Label_CreateNewOfficeDoc" = "新規ファイルを作成";
+"Label_MoveToThisLocation" = "この場所に移動";
+"InfoTitle_iCloudSwitchedOn" = "iCloud が有効になりました";
+"InfoMsg_iCloudSwitchedOn" = "このローカルファイルを iCloud へ移動しますか？";
+"InfoMsg_iCloudIsDisabled" = "iCloud ドライブが OfficeSuite 向けには無効になっています。「設定」の次に「iCloud]と開くと、その画面で iCloud ドライブを有効にできます。";
+"Label_AddCloud" = "クラウドを追加";
+"Label_OpenFrom" = "ファイルの場所を開く";
+"InfoMsg_NewItem" = "新規作成";
+"Label_FromTemplate" = "テンプレートから作成";
+"Label_NoResults" = "結果なし";
+"Label_SearchByTypeCapitalized" = "種類で検索";
+"Label_RecentSearchesCapitalized" = "最近の検索";
+"Label_OfficeSutiePremiumDescription" = "必要な機能のすべてを手に入れよう";
+"Label_OfficeForEveryPlatformTitle" = "すべてが詰まったモバイルオフィス";
+"Label_OfficeForEveryPlatformDescription" = "1回だけの登録で、クロスプラットフォームにログイン、スムーズな仕事を楽しもう";
+"Label_NewFromTemplates" = "テンプレートから新規作成";
+
+// Excel charts
+"Label_Doughnut" = "ドーナツグラフ";
+
+// Word
+"Label_Header" = "ヘッダー";
+"Label_Footer" = "フッター";
+"Label_LinkToPrevious" = "前と同じヘッダー/フッター";
+"Label_FirstPage" = "最初のページ";
+"Label_OddAndEvenPages" = "奇数ページ/偶数ページ";
+"Label_GoToFooter" = "フッターに移動";
+"Label_GoToHeader" = "ヘッダーに移動";
+"Label_HeaderOffset" = "ヘッダー オフセット";
+"Label_FooterOffset" = "フッター オフセット";
+"Label_HeaderFooter" = "ヘッダー/フッター";
+"Label_HeaderFromTop" = "上からのヘッダー位置";
+"Label_FooterFromBottom" = "下からのフッター位置";
+"Label_WordPageNumber" = "ページ番号";
+"Label_PageNumberFormat" = "ページ番号の書式";
+"Label_PageNumbering" = "連続番号";
+"Label_NumberFormat" = "番号の書式";
+"Label_Location" = "場所";
+"Label_StartingPage" = "開始ページ";
+"Label_ContinueFromPrevSection" = "前のセクションから継続";
+"Label_DocumentsNewComment" = "新規コメント";
+"Label_DeleteAllComments" = "すべて削除";
+"Label_AcceptChange" = "変更の承諾";
+"Label_RejectChange" = "変更を元に戻す";
+
+/***************************************************************************************************
+ 
+ TRANSLATION ENDS HERE. STRINGS BELOW MAY BE EDITED.
+ 
+ **************************************************************************************************/
+
+/*
+ NEW STRINGS AFTER VER 5.0
+ 
+ STRINGS MAY BE EDITED.
+ */
+
+"Label_IncorrectPassword" = "Incorrect password.";

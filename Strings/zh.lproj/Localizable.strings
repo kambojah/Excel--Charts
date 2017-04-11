@@ -1,0 +1,2526 @@
+/* 
+  Localizable.strings
+  Office Suite Pro
+
+  Created by Vladimir Grigorov on 7/26/12.
+  Copyright (c) 2012 Mobile Systems, Inc. All rights reserved.
+*/
+
+/*
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Untitled" = "无标题";
+"Label_Error" = "错误";
+"Label_OK" = "确定";
+"Label_Cancel" = "取消";
+"Label_Confirmation" = "确认";
+"Label_Enter" = "输入";
+"Label_Password" = "密码";
+"Label_DontSave" = "不保存";
+"Label_Save" = "保存";
+"Label_SaveAs" = "另存为";
+"Label_UndoRedoTitle" = "撤销/重复";
+"Label_Undo" = "撤销";
+"Label_Redo" = "重复";
+"Label_Copy" = "复制";
+"Label_Paste" = "粘贴";
+"Label_Cut" = "剪切";
+"Label_Clear" = "清除";
+"Label_Insert" = "插入";
+"Label_Delete" = "删除";
+"Label_Functions" = "函数";
+"Label_Recalculate" = "重新计算";
+"Label_Hide" = "隐藏";
+"Label_Unhide" = "取消隐藏";
+"Label_Autofit" = "调整";
+"Label_Goto" = "转至...";
+"Label_GoToCell" = "转至单元格";
+"Label_ReferenceNotValid" = "引用无效。";
+"Label_GoToPage" = "转至页";
+"Label_EnterPageNumber" = "页码(1 - %d)";
+"Label_CellAddress" = "输入单元格坐标：";
+"Label_Previous" = "上一个";
+"Label_Next" = "下一个";
+"Label_Replace" = "替换";
+"Label_Done" = "完成";
+"Label_search" = "搜索";
+"Label_SearchOptions" = "搜索选项";
+"Label_replace" = "替换";
+
+/* Up to 26 chars */
+"Label_MatchCase" = "区分大小写";
+
+"Label_MatchWholeWords" = "全字匹配";
+
+/* Up to 22 chars */
+"Label_MatchEntireCell" = "整个单元格匹配";
+
+"Label_Values" = "数值";
+"Label_Formulas" = "公式";
+"Label_Options" = "选项";
+"Label_LookIn" = "查找范围";
+"Label_Rows" = "行";
+"Label_Columns" = "列";
+"Label_Back" = "向后";
+"Label_Menu" = "菜单";
+"Label_Fx" = "Fx";
+"Label_Zoom" = "缩放";
+"Label_ZoomPercentage" = "缩放： $1";
+"Label_ZoomFit" = "调整宽度";
+"Label_Search" = "搜索";
+"Label_Help" = "帮助";
+"Label_About" = "关于";
+"Label_Keyboard" = "键盘";
+"Label_Settings" = "设置";
+"Label_SettingAutoCorrect" = "自动校正";
+
+"Button_Font" = "字体";
+"Button_Cell" = "单元格";
+"Button_Number" = "数值";
+"Button_Paragraph" = "段落";
+"Label_Horizontal" = "水平";
+"Label_Vertical" = "垂直";
+"Label_Indent" = "缩进";
+"Label_Style" = "样式";
+"Label_Color" = "颜色";
+"Label_BorderThin" = "细";
+"Label_BorderMedium" = "中";
+"Label_BorderThick" = "粗";
+"Label_NumGeneral" = "常规";
+"Label_NumNumber" = "数值";
+"Label_NumCurrency" = "货币";
+"Label_NumDate" = "日期";
+"Label_NumTime" = "时间";
+"Label_NumPercentage" = "百分比";
+"Label_NumScientific" = "科学记数";
+"Label_NumText" = "文本";
+
+/* Up to 16 chars */
+"Label_NumDecimalPlaces" = "小数点";
+
+/* Up to 28 chars */
+"Label_NumThousandSeparator" = "使用千位分隔符";
+
+"Label_CurrencyNone" = "无";
+"Label_Font" = "字体";
+"Label_Fonts" = "字体";
+"Label_FontFamilies" = "字体种类";
+"Label_FontFamily" = "字体名称：";
+"Label_FontSize" = "字体大小";
+"Label_FontTextColor" = "文字颜色"; 
+"Label_FontBgColor" = "单元格颜色";
+"Label_FontHighlightColor" = "突出显示颜色";
+"Label_FontBold" = "加粗";
+"Label_FontItalic" = "倾斜";
+"Label_Fill" = "填充";
+"Label_Highlight" = "突出显示";
+
+/* Up to 16 chars */
+"Label_LineSpacing" = "行距";
+
+"Label_TextAlignmentLeft" = "左对齐";
+"Label_TextAlignmentCenter" = "居中";
+"Label_TextAlignmentRight" = "右对齐";
+"Label_TextAlignmentJustified" = "两端对齐";
+"Label_Lists" = "列表";
+"Label_ListTypeNone" = "无";
+"Label_ListTypeBullet" = "编号";
+"Label_ListTypeNumbered" = "符号";
+
+"Label_Top" = "顶部";
+"Label_Bottom" = "底部";
+
+"Label_PasswordProtectedDocument" = "密码保护文件";
+"Label_EnterPassword" = "输入密码";
+
+"Err_UnsupportedFile" = "无效或不支持的文件格式。";
+"Err_IO_Error" = "IO错误";
+"Err_OutOfMemory" = "内存不足";
+
+"Label_Edition" = "专业版";
+"Label_Version" = "版本";
+"Label_Website" = "网站";
+"Label_Facebook" = "Facebook";
+"Label_AppStore" = "应用商店评分";
+"Label_LibsUsed" = "使用的库";
+
+"PRGRSS_LoadingString" = "正在加载...";
+"PRGRSS_SavingString" = "正在保存...";
+"PRGRSS_SearchingString" = "正在搜索..";
+
+/* 
+   All ErrClass strings are used together with other strings,
+   that's why the space at the end is important
+ 
+   THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrClass_NewFileString" = "创建文件失败。 ";
+"ErrClass_LoadFileString" = "加载失败$1。 ";
+"ErrClass_RestoreFileString" = "恢复文件失败。 ";
+"ErrClass_SaveFileString" = "保存文件失败。 ";
+"ErrClass_CellTextString" = "更改单元格文本失败。 ";
+"ErrClass_PasteString" = "粘贴失败。 ";
+"ErrClass_ClearString" = "清除失败。 ";
+"ErrClass_CopyString" = "复制失败。 ";
+"ErrClass_CutString" = "剪切选择内容失败。 ";
+"ErrClass_SetSheetString" = "更改当前工作表失败。 ";
+"ErrClass_UndoString" = "无法撤销。 ";
+"ErrClass_RedoString" = "无法重复。 ";
+"ErrClass_FormatString" = "应用格式失败。 ";
+"ErrClass_InsertRowString" = "插入行失败。 ";
+"ErrClass_InsertColString" = "插入列失败。 ";
+"ErrClass_FormulaString" = "公式错误。 ";
+"ErrClass_GotoString" = "转至失败。 ";
+"ErrClass_HideUnhideString" = "隐藏/取消隐藏失败。 ";
+"ErrClass_ResizeString" = "调整大小失败。 ";
+"ErrClass_DeleteRowsString" = "删除行失败。 ";
+"ErrClass_DeleteColsString" = "删除列失败。 ";
+"ErrClass_ZoomString" = "缩放失败。 ";
+"ErrClass_AddSheetString" = "插入工作表失败。 ";
+"ErrClass_RenameSheetString" = "重命名工作表失败。 ";
+"ErrClass_DeleteSheetString" = "删除工作表失败。 ";
+"ErrClass_FindString" = "查找匹配项失败。 ";
+"ErrClass_ReplaceString" = "替换操作失败。 ";
+
+
+"Err_UnknownString" = "发生未知错误。";
+"Err_InternalString" = "内部错误。";
+"Err_NoMemDynString" = "动态内存不足。";
+"Err_NoMemStgString" = "存储内存不足。";
+"ErrDoc_BadPasswordString" = "无效密码。"; // also used in PDF
+"ErrDoc_Load_UnsupportedString" = "不支持的文件类型。";
+"ErrDoc_Load_FailedToOpenGeneralTitle" = "打开文件失败。";
+"ErrDoc_Load_ReturningToFileManagerString" = "我们必须返回到文件管理器。";
+"ErrDoc_Load_Bad_FileString" = "文件已损坏。";
+"ErrDoc_Load_EncryptionString" = "不支持的加密类型。 支持的加密类型为\"office 97/2000兼容\"方案。 ";
+"ErrDoc_Load_EncryptionNotImplemented" = "尚不支持受密码保护的文件。";
+"ErrDoc_Load_InvalidXlsString" = "无效的XLS格式。";
+"ErrDoc_Save_Bad_Destination" = "目标文件夹已满或无法访问。 请尝试保存到其他位置。";
+"Confirm_Find_Start_OverString" = "您已到达文件末尾。 是否要重新开始？";
+"ErrPaste_Area_Not_SameString" = "复制和粘贴区域不同。";
+"ErrSheet_ExistsString" = "已存在同名工作表。";
+"ErrSheet_LockedString" = "工作表受到保护，命令无法执行。";
+"Confirm_DeleteSheetString" = "您确定要删除所选工作表码？";
+"ErrFile_Illegal_NameString" = "您输入的名称无效。";
+"InfFind_No_MatchesString" = "未找到匹配的结果。"; // also used in PPT & PDF
+"InfFind_No_More_MatchesString" = "未找到更多的匹配结果。"; // also used in PPT & PDF
+"ErrCateg_MinimumOneString" = "您不能删除所有工作表。";
+"Err_CellsNotEmptyString" = "最后的单元格不为空。";
+"ErrFormula_ErrorString" = "未知公式错误。";
+"ErrFormula_NotAFormulaString" = "无效公式。";
+"ErrFormula_MissingOperandString" = "缺少操作数。";
+"ErrFormula_MissingOperatorString" = "缺少运算符。";
+"ErrFormula_IllegalTokenString" = "非法令牌。";
+"ErrFormula_MissingQuoteString" = "缺少引号( \" )。";
+"ErrFormula_MissingArrayCloseString" = "缺少数组右方括号' } '。";
+"ErrFormula_IllegalIdentifierString" = "非法标识符。";
+"ErrFormula_IconsistentArrayString" = "数组不一致。";
+"ErrFormula_MissingArrayEltString" = "缺少数组元素。";
+"ErrFormula_IllegalArrayEltString" = "非法数组元素。";
+"ErrFormula_MissingFuncCloseString" = "缺少函数右方括号') '。";
+"ErrFormula_DeepFuncNestingString" = "函数嵌套太深。";
+"ErrFormula_UnknownFunctionString" = "未知函数。";
+"ErrFormula_MissingSingleQuoteString" = "缺少单引号( ' )。";
+"ErrFormula_CircularReferenceString" = "循环引用。";
+"ErrFormula_UnknownEvalErrorString" = "未知求值错误。";
+"ErrFormula_NotEnoughArgumentsString" = "参数不足。";
+"ErrFormula_TooMuchArgumentsString" = "参数过多。";
+"ErrFormula_InitDependencesFailedString" = "公式设置错误。 将不会计算公式。";
+"Confirm_SelectionTypeString" = "请选择要处理的项目类型。";
+
+
+"FUNCCAT_CommonString" = "常用函数";
+"FUNCCAT_AllString" = "全部";
+"FUNCCAT_DatabaseString" = "数据库";
+"FUNCCAT_InformationString" = "信息";
+"FUNCCAT_LogicalString" = "逻辑";
+"FUNCCAT_MathString" = "数学";
+"FUNCCAT_DateTimeString" = "日期与时间";
+"FUNCCAT_StatisticalString" = "统计";
+"FUNCCAT_FinancialString" = "财务";
+"FUNCCAT_LookRefString" = "查找与引用";
+"FUNCCAT_TextString" = "文本";
+
+
+"CONFIRM_DeleteSheet" = "$1将被删除。 继续？";
+"CONFIRM_SaveFile" = "将更改保存到$1？";
+"CONFIRM_CsvDataLoss" = "该格式不支持多个工作表、公式、格式、对象和其他功能。 只会保存当前工作表。 是否要继续？";
+
+"Label_ExcelWorkbook" = "Excel工作簿";
+"Label_Excel97Workbook" = "Excel 97-2003工作簿";
+"Label_CommaDelimited" = "逗号分隔";
+"Label_CsvDataLoss" = "该格式不支持多个工作表、公式、格式、对象和其他功能。 只会保存当前工作表。";
+"Label_ChartsheetsUnsupported" = "该工作表是图表。 尚不支持图表。";
+
+"Label_ChooseCSVDelims" = "选择CSV分隔符";
+"Label_Column_Delim" = "列分隔符：";
+"Label_Decimal_Delim" = "小数分隔符：";
+"Label_Decimal_Dot" = "点(.)";
+"Label_Decimal_Comma" = "逗号(,)";
+"Lable_CSV_Delim_Warning" = "请选择列分隔符。";
+
+"Label_BorderStyle" = "边框样式";
+"Label_Borders" = "边框";
+
+/* Up to 20 chars */
+"Label_Slideshow" = "幻灯片";
+
+"Label_AdvanceSlides" = "放映幻灯片";
+"Label_Manually" = "手动";
+"Label_Automatically" = "自动";
+"Label_SlideshowDelayFormat" = "%d秒";
+"Label_StartSlideshow" = "开始放映幻灯片";
+"Label_Delay" = "延迟";
+"Label_Notes" = "注释";
+"Label_TableOfContents" = "目录";
+
+
+"Label_Home" = "主页";
+"Label_Documents" = "文件";
+"Label_Cloud" = "云";
+"Label_Prev" = "上一页";
+"Label_Storage" = "存储";
+"Label_OfficeSuite" = "办公套件";
+"Label_Create" = "创建";
+"Label_CreateNew" = "新建...";
+"Label_NewFolder" = "新建文件夹";
+
+/* Up to 10 chars */
+"Label_Rename" = "重命名";
+
+"Label_Close" = "关闭";
+"Label_Properties" = "属性";
+
+/* Up to 22 chars */
+"Label_RemoteAccounts" = "远程帐户";
+"Label_RemoteAccountsCap" = "远程帐户";
+
+"Label_OpenIn" = "打开位置...";
+"Label_Extract" = "解压缩";
+"Label_ExtractTo" = "解压到";
+"Label_Edit" = "编辑";
+"Label_Play" = "播放";
+"Label_Stop" = "停止";
+"Label_Unknown" = "未知";
+"Label_TypeWordDocument" = "Word文档";
+"Label_TypeExcelSpreadsheet" = "Excel电子表格";
+"Label_TypePowerPointPresentation" = "PowerPoint演示文稿";
+"Label_TypePDFFile" = "PDF文档";
+"Label_TypeZipArchive" = "ZIP存档";
+"Label_TypeImage" = "图像";
+"Label_TypeVideo" = "视频";
+"Label_TypeAudio" = "音频";
+"Label_TypeFolder" = "文件夹";
+"Label_SearchResults" = "搜索结果";
+
+/* 针对“文件”属性对话框 */
+"Label_Type" = "类型";
+"Label_Size" = "大小";
+"Label_Date" = "日期";
+"Label_Path" = "路径";
+
+/*
+    THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Label_Share" = "共享";
+"Label_Recover" = "恢复";
+"Label_Relink" = "重连";
+"Label_Later" = "以后";
+"Label_UseICloud" = "使用iCloud";
+"Label_ContinueUsingICloud" = "继续使用iCloud";
+"Label_KeepLocalCopy" = "保留本地副本";
+"Label_KeepOnICloudOnly" = "仅保留在iCloud上";
+
+"ErrTitle_CopyError" = "复制错误";
+"ErrTitle_PasteError" = "粘贴错误";
+"ErrTitle_DownloadError" = "下载错误";
+"ErrTitle_DeleteError" = "删除错误";
+"ErrTitle_RenameFailed" = "重命名失败";
+"ErrTitle_UploadFailed" = "上传失败";
+"ErrTitle_FileExists" = "%@已存在";
+"ErrTitle_NoItemsSelected" = "未选择项目";
+"ErrTitle_Error" = "错误";
+"ErrTitle_CreateFolder" = "创建文件夹失败";
+"ErrTitle_CannotPlayFile" = "无法播放文件";
+"ErrTitle_SessionEnded" = "会话结束";
+"ErrTitle_NoInternet" = "无Internet连接";
+"ErrTitle_FileNameEmpty" = "文件名为空";
+
+"WarningTitle_Warning" = "警告";
+"WarningTitle_CloseDocument" = "关闭当前文件";
+"WarningTitle_ConfirmDeletion" = "确认删除";
+
+"InfoTitle_NotUsingICloud" = "iCloud已关闭";
+"InfoTitle_iCloudAvailable" = "iCloud可用";
+"InfoTitle_UnsupportedFile" = "不支持的文件";
+"InfoTitle_CannotSendMail" = "无法发送电子邮件";
+"InfoTitle_iCloudOn" = "iCloud开启";
+"InfoTitle_iCloudOff" = "iCloud关闭";
+"InfoTitle_DocumentRecovery" = "文件恢复";
+"InfoTitle_DisplayFile" = "无法播放文件";
+"InfoTitle_Info" = "信息";
+
+"ErrMsg_SameFolderCopy" = "将不复制文件夹%@。 它是目标文件夹的子文件夹。";
+"ErrMsg_FileExists" = "名为%@的%@已存在。 您想替换它吗？";
+"ErrMsg_FileRename" = "名为%@的%@已存在。 请选择其他名称。";
+"ErrMsg_PasteError" = "粘贴%@时出错。 错误： %@";
+"ErrMsg_ReadFile" = "读取文件%@失败。";
+"ErrMsg_DeleteFile" = "删除文件%@失败。";
+"ErrMsg_UploadFailed" = "上传文件失败。 请尝试保存到其他位置。";
+"ErrMsg_SelectItems" = "请选择一些项目。";
+"ErrMsg_DocumentLoad" = "无法加载文件%@。";
+"ErrMsg_FileNotFound" = "未找到文件%@。";
+"ErrMsg_InternetOffline" = "无Internet连接。";
+"ErrMsg_UnknownError" = "发生未知错误";
+"ErrMsg_CannotOpenFile" = "无法打开文件%@。 错误： %@";
+"ErrMsg_PlayingAudio" = "播放音频文件时出错。";
+"ErrMsg_SuggestRelink" = "是否要重连?";
+"ErrMsg_NeedsRelink" = "您必须先重新连接，然后才能继续使用您的帐户。";
+"ErrMsg_UnrecognizedPath" = "未识别路径。";
+"ErrMsg_CannotCopyFolder" = "无法复制文件夹%@。";
+"ErrMsg_CannotUploadFile" = "无法通过完整的文件路径%@上传文件";
+"ErrMsg_PasteInSameFolder" = "您正尝试粘贴到源文件夹中。";
+"ErrMsg_InvalidFileName" = "文件名不能以'.'开头。";
+"ErrMsg_TryAgainWhenHavingInternet" = "您连接到Internet后再重试。";
+"ErrMsg_FileNameEmpty" = "文件名不能为空。";
+
+"InfoMsg_DocsStoredInICloud" = "您的文件已从该设备中移除，但仍存储在iCloud中。";
+"InfoMsg_UseICloud" = "自动将您的文件存储在云中，在您所有设备和网络中保持文件更新。";
+"InfoMsg_UnsupportedFile" = "不支持的文件类型。";
+"InfoMsg_CheckMainConf" = "请检查您的电子邮件配置。";
+"InfoMsg_NotUsingICloud" = "您希望对该设备中目前保存的文件进行哪些操作？";
+"InfoMsg_iCloudOn" = "iCloud现已开启。 请选择要保存在iCloud中的文件的位置和名称。";
+"InfoMsg_iCloudOff" = "iCloud现已关闭。 请选择要保存在设备中的文件的位置和名称。";
+"InfoMsg_DocumentRecovery" = "上次打开的文件存在问题。 是否要恢复该文件？";
+"InfoMsg_ProcessingICloudFiles" = "正在处理iCloud文件...";
+"InfoMsg_CannotSendFolders" = "无法发送文件夹。 请使用“压缩并发送”选项代替。";
+"InfoMsg_SwitchOnICloudFromSettings" = "您的设备目前未启用iCloud文件备份功能。 请转至“设置 -> iCloud”启用此功能。";
+
+"WarningMsg_CloseDocument" = "您有已打开的文件。 是否要关闭该文件？";
+"WarningMsg_DeleteItem" = "您确定要删除该项目吗？";
+"WarningMsg_DeleteItems" = "您确定要删除这些项目吗？";
+"WarningMsg_UploadInterrupted" = "文件上传失败。 请再次保存文件。";
+"WarningMsg_PasteInterrupted" = "粘贴操作失败。";
+"WarningMsg_DeleteInterrupted" = "删除操作失败。";
+"WarningMsg_RenameInterrupted" = "重命名操作失败。";
+"WarningMsg_LoadFileListInterrupted" = "加载文件夹内容失败。";
+
+"DetailString_file" = "文件";
+"DetailString_folder" = "文件夹";
+"DetailString_File" = "文件";
+"DetailString_Folder" = "文件夹";
+
+
+"PRGRSS_CopyICloudToLocal" = "正在将文件从iCloud复制到设备...";
+"PRGRSS_CreateFolder" = "正在创建文件夹";
+"PRGRSS_CopyFile" = "正在复制文件%@...";
+"PRGRSS_Moving" = "正在移动";
+"PRGRSS_Copying" = "正在复制";
+"PRGRSS_PreparePaste" = "正在准备粘贴";
+"PRGRSS_Fetching" = "正在获取";
+"PRGRSS_CreatingFolder" = "正在创建文件夹";
+"PRGRSS_UploadingFile" = "正在上传文件";
+"PRGRSS_Deleting" = "正在删除";
+"PRGRSS_LoadingAccountInfo" = "正在加载帐户信息...";
+"PRGRSS_LoadingFileList" = "正在加载文件列表...";
+"PRGRSS_LoadingFile" = "正在加载文件...";
+"PRGRSS_RenamingFile" = "正在重命名文件";
+"PRGRSS_LoadingProperties" = "正在加载属性";
+"PRGRSS_Extracting" = "正在解压";
+"PRGRSS_PleaseWait" = "请等待";
+"PRGRSS_ForBigICloudFolders" = "大iCloud文件夹";
+
+	/*
+		Default names for new file and folder
+	 */
+
+"Name_NewFile" = "无标题";
+"Name_NewFolder" = "无标题文件夹";
+
+/* 
+    NEW STRINGS AFTER VER 2.3 
+ 
+    THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Print" = "打印";
+"Label_WebSearch" = "Web搜索";
+"Label_Dictionary" = "字典";
+"Label_Open" = "打开";
+"Label_LinkURL" = "链接";
+"Label_LinkName" = "显示";
+"Label_Bookmark" = "书签";
+"Label_Section" = "节";
+"Label_NumberOfColumns" = "列数";
+"Label_AddSectionBreak" = "添加分节符";
+"Label_Tools" = "工具";
+"Label_PrintAndShare" = "打印与共享";
+"Label_OpenInAnotherApp" = "在其他应用中打开";
+"Label_Accounts"= "帐户";
+"Label_EmailDocument" = "通过电子邮件发送文档";
+"Label_EmailDocuments" = "通过电子邮件发送文档";
+
+/* Up to 30 chars */
+"Label_ZipAndEmailDocument" = "压缩并通过电子邮件发送文档";
+
+/* Up to 30 chars */
+"Label_ZipAndEmailDocuments" = "压缩并通过电子邮件发送文档";
+
+/* Up to 14 chars */
+"Label_TextSize" = "文本大小";
+
+"Label_RecentFilesCap" = "最近打开的文件";
+"Label_Document" = "文档";
+"Label_Spreadsheet" = "电子表格";
+"Label_Presentation" = "演示文稿";
+"Label_PDF" = "PDF";
+"ErrTitle_CannotSaveFile" = "无法保存文件";
+"InfoTitle_AttachFile" = "要添加文件吗？";
+"InfoTitle_SendCrashReport" = "要发送故障报告吗？";
+"InfoTitle_CrashReportMailSubject" = "故障报告和日志文件";
+"InfoTitle_NoAvailableApps" = "无可用应用";
+"InfoTitle_SelectOnlyOneFile" = "选择文件";
+"ErrMsg_NoPermissionToCreate" = "权限不足，无法创建%@ %@";
+"ErrMsg_NoPermissionToSaveFile" = "权限不足，无法保存文件。请选择其他位置重试。";
+"ErrMsg_InvalidCharInFileName" = "名称中包含无效字符。";
+"ErrMsg_GeneralFileNameError" = "文件名无效。";
+"InfoMsg_AttachFile" = "要向报告中添加%@吗？您的文件可以帮助我们确定错误原因。";
+"InfoMsg_SendCrashReport" = "发送生成的故障报告，帮助改善OfficeSuite。";
+"InfoMsg_CrashReportMailMessage" = "我上次使用OfficeSuite时它崩溃了！";
+"InfoMsg_NoAvailableApps" = "没有可以打开该文件格式的应用。";
+"InfoMsg_SelectOnlyOneFile" = "请仅选择一个文件，在其他应用中打开。";
+
+"InfoMsg_SelectRightEncoding" = "选择可以正常显示文本的编码：";
+"Label_Encoding" = "编码";
+"Label_Preview" = "预览";
+"Encoding_EasternEuropean" = "东欧";
+"Encoding_WesternEuropean" = "西欧";
+"Encoding_NorthEuropean" = "北欧";
+"Encoding_SouthEuropean" = "南欧";
+"Encoding_Cyrillic" = "西里尔文";
+"Encoding_Greek" = "希腊语";
+"Encoding_Turkish" = "土耳其语";
+"Encoding_Baltic" = "波罗的语";
+"Encoding_Latin9" = "拉丁语-9";
+"Encoding_Russian" = "俄语";
+"Encoding_Arabic" = "阿拉伯语";
+"Encoding_Vietnamese" = "越南语";
+"Encoding_Japanese" = "日语";
+"Encoding_Korean" = "韩语";
+"Encoding_ChineseSimplified" = "简体中文";
+"Encoding_ChineseTraditional" = "繁体中文";
+"Encoding_ChineseTraditionalHK" = "香港繁体中文";
+"Encoding_Thai" = "泰语";
+"Encoding_Hebrew" = "希伯来语";
+"Encoding_Indic" = "印度语";
+"Encoding_Unicode" = "Unicode";
+"Encoding_UnicodeBE" = "Unicode Big Endian";
+"Encoding_UnicodeLE" = "Unicode Little Endian";
+
+"Label_Email" = "电子邮件";
+"Label_ZipAndEmail" = "压缩并通过电子邮件发送";
+
+
+/*
+ NEW STRINGS AFTER VER 3.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_PasswordProtectionLoss" = "将文件保存为其他格式后，密码保护将失效。";
+"Label_Freeze" = "冻结";
+"Label_Unfreeze" = "取消冻结";
+"Label_SortMenu" = "排序...";
+"Label_Sort" = "排序";
+
+/* Up to 26 chars */
+"Label_CaseSensitive" = "区分大小写";
+
+"Label_RowNo" = "第%d行";
+"Label_ColumnNo" = "第%S列";
+"Label_SortBy" = "排序标准";
+"Label_ThenSortBy" = "第二标准";
+"Label_Ascending" = "升序";
+"Button_Columns" = "列";
+"Button_Rows" = "行";
+
+"Label_RemoveAds" = "移除广告";
+
+"ErrorTitle_CannotZipFile" = "压缩失败";
+"ErrorMsg_CannotZipFile" = "无法压缩文件。";
+
+"Label_On" = "开";
+"Label_Off" = "关";
+
+/* Up to 20 chars */
+"Label_SettingSpellCheck" = "拼写检查";
+
+"Label_Language" = "语言";
+"Label_LearnedWords" = "已加入字典";
+"Label_LearnWord" = "加入字典";
+"Label_UnLearnWord" = "取消加入字典";
+"Label_NoReplacementsFound" = "未找到可替换的内容";
+
+"Label_WordCount" = "字数";
+"Label_Words" = "单词";
+"Label_Paragraphs" = "段落";
+"Label_Pages" = "页数";
+"Label_CharactersNoSpaces" = "字符数（不包含空格）";
+"Label_CharactersWithSpaces" = "字符数（包含空格）";
+
+"Label_WebDAV_FailedLogIn_Malformed" = "HTTP地址格式错误！";
+"Label_WebDAV_FailedLogIn_Prefix" = "HTTP地址必须以“http://”或“https://”开头！";
+"Label_WebDAV_FailedLogIn_EmptyField" = "必须填写所有字段！";
+"Label_WebDAV_FailedLogIn_IncorrectData" = "验证数据错误！\n请使用其他HTTP地址、用户名或密码重试。";
+"Label_WebDAV_FailedLogIn_BadRequest_400" = "WebDAV服务器：请求无效。\n服务器无法解析该语法。";
+"Label_WebDAV_FailedLogIn_NotImplemented_501" = "WebDAV服务器：未实施。\n可能帐户不支持通过WebDAV客户端读取。请检查帐户配置，开启WebDAV支持。";
+"ErrMsg_WebDAV_Conflict_409" = "WebDAV服务器：存在冲突。可能服务器上的空间不足。";
+"ErrMsg_WebDAV_NotAllowedOperation" = "WebDAV服务器不允许该操作。";
+"ErrMsg_WebDAV_ReservedName" = "无法在此服务器中使用指定的名称，请选择其他名称。";
+"ErrMsg_WebDAV_WriteError" = "缺少目标文件或已损坏。请检查您的帐户权限并清理空间，然后重试。";
+
+/* Up to 32 chars */
+"Label_Timing" = "幻灯片播放计时";
+
+"InfoTitle_NotAvailableICloud" = "iCloud暂不可用";
+"InfoMsg_SwitchOnICloudFromSettingsDetailed" = "要使用iCloud备份本地文件，请确保您已登录iCloud帐户，并且“设置”-> iCloud ->“文档与数据”设为“开”。";
+"Label_UnsupportedWorksheet" = "该工作表不是常规工作表，暂不支持。";
+"ErrDoc_Save_Csv_Not_Supported" = "当前工作表无法保存为csv格式。";
+
+"Label_Professional" = "（专业版）";
+"Label_ProfessionalFeature" = "仅需1美元，即可《OfficeSuite专业版》中的一个组件。您要立即安装吗？";
+
+"InfoTitle_BoxAppFailedToLaunch" = "Box应用启动失败";
+"InfoMsg_BoxAppFailedToLaunch" = "无法启动Box应用";
+
+"Label_Continue" = "继续";
+
+/* Up to 16 chars */
+"Label_Upgrade" = "升到高级版";
+
+"Label_UpgradeText1" = "欢迎使用《OfficeSuite免费版》！";
+"Label_UpgradeText2" = "该版本功能齐全，可以查看和编辑Office文档！";
+"Label_UpgradeText3" = "升级到《OfficeSuite专业版》，可以使用下列功能：";
+"Label_UpgradeText4" = "- 无广告\n- 拼写检查";
+
+/*
+ NEW STRINGS AFTER VER 3.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_SortHasHeaders" = "我的数据有标题";
+"Label_Yes" = "是";
+"Label_No" = "否";
+"Label_CreatePassword" = "设置密码";
+
+/* Up to 22 chars */
+"Label_DontUsePassword" = "不适用密码";
+
+"Label_ConfirmPassword" = "确认密码";
+"Label_RequirePassword" = "需要密码";
+"Label_Enable" = "启用";
+"Label_Confirm" = "确认";
+"Label_Required" = "必填";
+"Label_CreatePasswordWarning" = "您下次启用应用时需要输入密码。请注意，如果密码丢失，将无法找回。";
+"Label_Immediately" = "立即";
+"Label_Minute" = "分";
+"Label_Minutes" = "分";
+"Label_Hour" = "小时";
+"Label_Hours" = "小时";
+"Label_RequirePasswordTime" = "%d %@后";
+
+"Label_EmptyFolder" = "文件夹为空。";
+"Label_Name" = "名称";
+
+/* Up to 26 chars */
+"InfoTitle_PasswordProtection" = "密码保护";
+
+"InfoMsg_EnablePasswordProtection" = "您要设置限制OfficeSuite访问的密码吗？在“工具”菜单选择“密码保护”可以更改密码保护选项。";
+"InfoMsg_EnterCurrentPassword" = "输入当前密码以继续：";
+"InfoMsg_WrongPassword" = "密码无效，请重试。";
+"InfoMsg_PasswordMismatch" = "密码不符，请输入相同的密码。";
+
+"InfoMsg_DocumentPasswordSaved" = "该文档已设置了密码保护。";
+"InfoMsg_DocumentPasswordRemoved" = "文档已不再受密码保护。";
+"InfoMsg_RemoveDocumentPassword" = "撤销文档密码。";
+"InfoMsg_AddDocumentPassword" = "添加文档密码。";
+
+"Label_CurrentPassword" = "当前密码";
+"Label_ExportToPDF" = "导出为PDF";
+
+"Label_Labels" = "标志";
+"Label_ChartTitle" = "图表标题";
+"Label_DataRange" = "数据区域";
+"Label_LegendEntries" = "图例项";
+"Label_Title" = "标题";
+"Label_HorizontalLabels" = "水平标志";
+"Label_Range" = "区域：";
+"Label_SeriesIn" = "系列位置";
+"Label_Series" = "系列";
+"Label_Format" = "格式";
+"Label_Chart" = "图表";
+"Label_Image" = "图像";
+
+
+"Label_TextBox" = "文本框";
+"Label_Picture" = "图片";
+"Label_Duplicate" = "重复";
+"Label_MoveUp" = "向上移动";
+"Label_MoveDown" = "向下移动";
+"Label_MoveLeft" = "向左移动";
+"Label_MoveRight" = "向右移动";
+"Label_ChooseLayout" = "选择布局";
+
+/* Up to 26 chars */
+"InfoTitle_AddTitle" = "轻按两下添加标题";
+
+"InfoTitle_AddSubtitle" = "轻按两下添加副标题";
+"InfoTitle_AddText" = "轻按两下添加正文";
+"InfoTitle_PicturePlaceholder" = "图片占位符";
+
+"ErrMsg_UndoCmdCouldNotBeSaved" = "无法在撤销堆栈中保存命令。";
+"ErrMsg_RedoFailed" = "因为无法向磁盘中写入状态，恢复失败";
+"ErrMsg_UndoFailed" = "因为无法向磁盘中写入状态，撤销失败";
+
+
+"Label_SeriesInfo" = "系列信息";
+"Label_EditSeries" = "编辑系列";
+"Confirm_DeleteUnsupportedDrawObject" = "删除该对象后，将无法撤销。要继续吗？";
+"Label_InvalidRange" = "请输入有效的单元格区域。";
+"Label_InvalidRangeAndList" = "区域值应当是有效的单元格区域或以分号隔开的列表。";
+"Label_InvalidSeriesValues" = "区域值应当是有效的单元格区域或一组值。";
+"Label_GoToCellNotAvailable" = "该工作表无法使用“转到单元格”功能。";
+"Label_FreezeNotAvailable" = "该工作表无法使用“冻结”功能。";
+"Label_SortNotAvailable" = "该工作表无法使用“排序”功能。";
+"Label_ComplexRange" = "区域";
+"Label_ClearOptions" = "清除选项";
+"Label_ClearAll" = "清除所有";
+"Label_ClearFormats" = "清除格式";
+"Label_ClearContents" = "清除内容";
+"Label_RangePlaceholder" = "区域";
+"Label_XlsSaveDrawingsNotSupported" = "不支持以xls格式保存图表和图像。无法保存这些对象。";
+"Label_LabelsIPhone" = "标志：";
+"Label_InvalidLinearRange" = "请输入行/列区域或单独的值列表。";
+"Label_InvalidTitleRange" = "标题应当是单元格/行/列区域或字符串。";
+"Label_InvalidSeriesNameRange" = "名称应当是单元格/行/列区域或字符串。";
+"Label_InvalidSeriesValuesRange" = "值应当是单元格/行/列区域或单独的数字列表。";
+
+/*
+ NEW STRINGS AFTER VER 3.5
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Names" = "名称";
+"Label_FunctionCategories" = "函数类别";
+"Label_DefinedNames" = "已定义名称";
+"Label_NamesInfo" = "名称信息";
+"Label_Range" = "区域";
+"Label_EditNames" = "编辑名称";
+"Label_Scope" = "范围";
+"Label_Workbook" = "工作簿";
+"Label_NoDefinedNames" = "无定义名称";
+"Label_InvalidName" = "该名称包含无效符号。";
+"Label_DuplicateName" = "输入的名称已经存在，请输入一个唯一的名称。";
+"ErrClass_Edit_Name" = "名称编辑失败。";
+"Label_DuplicateNameWarning" = "名称已存在";
+"Label_InvalidNameWarning" = "无效符号";
+"Label_Move" = "移动";
+"InfoMsg_MoveSheetDescription" = "要移动工作表，请按住工作表标签不放。";
+
+"ErrMsg_CannotBeReplacedBySelfContents" = "文件夹%@不为空，无法替换。";
+"Confirm_DeleteRecentFiles" = "您真的要删除最近打开的文件吗？";
+
+
+/*
+ NEW STRINGS AFTER VER 3.5.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Table" = "表格";
+"Label_TableProperties" = "表格属性";
+"Label_InsertRowAfter" = "在后方插入行";
+"Label_InsertRowBefore" = "在前方插入行";
+"Label_DeleteRow" = "删除行";
+"Label_DeleteTable" = "删除表格";
+
+"Label_Export" = "导出";
+"Label_ExportTo" = "导出为";
+
+
+"Label_Filter" = "筛选";
+"Label_ClearFilter" = "清除筛选";
+"Label_ReapplyFilter" = "重新应用筛选";
+"Label_ComparisonFilter" = "比较筛选";
+"Label_Multichoice" = "选择题";
+"Label_AboveAverage" = "高于平均值";
+"Label_BelowAverage" = "低于平均值";
+"Label_Top10" = "前10个";
+
+"Label_Equal" = "等于";
+"Label_LessThan" = "小于";
+"Label_LessThanOrEqual" = "小于或等于";
+"Label_NotEqual" = "不等于";
+"Label_GreaterThanEqual" = "大于或等于";
+"Label_GreaterThan" = "大于";
+"Label_Between" = "范围";
+
+"Label_Items" = "项";
+"Label_Percent" = "百分比";
+"Label_Count" = "计数";
+"Label_Value" = "值";
+"Label_And" = "与";
+"Label_Or" = "或";
+"Label_None" = "无";
+"Label_Blanks" = "（空白）";
+"Label_ShowAll" = "（显示所有）";
+"Label_InvalidFilter" = "无效筛选。";
+
+"Label_XlsSaveFiltersNotSupported" = "不支持以xls格式保存筛选。无法保存筛选信息。";
+"Confirm_ClearUnsupportedFilters" = "工作表中含有不被支持的筛选。您要删除这些筛选并继续编辑筛选吗？无法撤销该操作。";
+"ErrClass_Execute_Command" = "无法执行命令。 ";
+"ErrExecute_EmptyRange" = "所选区域为空。";
+"ErrExecute_RangeWithinFilters" = "所选区域包含筛选。";
+
+"Label_NewSlide" = "新幻灯片";
+"Label_TitleSubtitle" = "使用居中对齐标题和副标题占位符的布局";
+"Label_TitleText" = "标题与文本";
+"Label_TitleTextText" = "标题，文本在左，文本在右";
+"Label_TitleTable" = "标题与表格";
+"Label_TitleTextChart" = "标题，文本在左，图标在右";
+"Label_TitleChartText" = "标题，图标在左，文本在右";
+"Label_TitleDiagram" = "标题与图示";
+"Label_TitleChart" = "图表与图表";
+"Label_TitleTextClipArt" = "标题，文本在左，剪贴画在右";
+"Label_TitleClipArtText" = "标题，剪贴画在左，文本在右";
+"Label_TitleOnly" = "仅标题";
+"Label_Blank" = "空白";
+"Label_TitleTextObject" = "标题，文本在左，对象在右";
+"Label_TitleObjectText" = "标题，对象在左，文本在右";
+"Label_ObjectOnly" = "仅对象";
+"Label_TitleObject" = "标题与对象";
+"Label_TitleTextMedia" = "标题，文本在左，多媒体在右";
+"Label_TitleMediaText" = "标题，多媒体在左，文本在右";
+"Label_TitleTopObjectBottomText" = "标题，对象在上，文本在下";
+"Label_TitleTopTextBottomObject" = "标题，文本在上，对象在下";
+"Label_TitleText2Objects" = "标题，文本在左，两个对象在右";
+"Label_Title2ObjectsText" = "标题，两个对象在左，文本在右";
+"Label_TitleTop2ObjectsBottomText" = "标题，两个对象在上，文本在下";
+"Label_Title4Objects" = "标题和四个对象";
+"Label_TitleVerticalText" ="标题和竖直正文文本";
+"Label_TitleClipArtVerticalText" = "标题，剪贴画在左，竖排文本在右";
+"Label_VerticalTitleVerticalText" = "标题，竖排标题在右，竖排文本在左";
+"Label_VerticalTitleVerticalTextChart" = "竖排标题在右，竖排文本在上，图表在下";
+"Label_TitleObjectObject" = "标题，对象在左，对象在右";
+"Label_TitleObject2Objects" = "标题，一个对象在左，两个对象在右";
+"Label_Title2ObjectsObject" = "标题，两个对象在左，一个对象在右";
+"Label_CustomLayout" = "用户自定义布局";
+"Label_SectionHeaderTitleSubtitle" = "节标题标题与副标题文本";
+"Label_Title2Objects" = "标题与包含文本的两个对象";
+"Label_TitleObjectCaptionText" = "标题，对象，与题注文本";
+"Label_TitlePictureCaptionText" = "标题，图片，与题注文本";
+"Label_SlideNumberNotes" = "幻灯片%d注释";
+
+"Label_OpenHyperlink" = "打开超链接";
+"Label_CopyHyperlink" = "复制超链接";
+"Label_Hyperlink" = "超链接";
+"Label_RemoveHyperlink" = "移除超链接";
+"Label_EnterURL" = "编辑URL地址";
+"Label_EnterEmail" = "输入电子邮件地址";
+"Label_EnterSubject" = "输入主题";
+"Label_URL" = "URL";
+"Label_Slide" = "幻灯片";
+"Label_SetHyperlinkAction" = "设置轻按超链接操作";
+"Label_SlideNumber" = "幻灯片%d";
+"Label_NextSlide" = "下张幻灯片";
+"Label_PreviousSlide" = "上张幻灯片";
+"Label_FirstSlide" = "第一张幻灯片";
+"Label_LastSlide" = "最后一张幻灯片";
+
+/* Up to 32 chars */
+"Label_EndSlideshow" = "终止播放幻灯片";
+
+"Label_NoAction" = "无操作";
+"Label_Unsupported" = "不支持";
+
+
+"Label_Shape" = "形状";
+"Label_Shapes" = "形状";
+"Label_Lines" = "线条";
+"Label_Rectangles" = "矩形";
+"Label_BasicShapes" = "基本形状";
+"Label_BlockArrows" = "箭头总汇";
+"Label_EquationShapes" = "公式形状";
+"Label_FlowchartShapes" = "流程图形状";
+"Label_StarsAndBanners" = "星与旗帜";
+"Label_Callouts" = "标注";
+"Label_ActionButtons" = "动作按钮";
+"Label_Others" = "其他";
+"Label_BringToFront" = "置于顶层";
+"Label_SendToBack" = "置于底层";
+"Label_BringForward" = "上移一层";
+"Label_SendBackward" = "下移一层";
+
+
+"Label_GoPremiumDetails" = "购买《OfficeSuite高级版》，尽享OfficeSuite功能。";
+"Label_HideGoPremium" = "隐藏升到高级版";
+"Label_ShowGoPremium" = "显示升到高级版";
+"Label_RestorePurchases" = "恢复购买";
+
+"Label_BuyMonthly" = "月费：%@";
+"Label_BuyYearly" = "年费：%@（每月%@）";
+
+"Label_Feature1" = "编辑与创建Word文档";
+"Label_Feature2" = "编辑与创建Excel文档";
+"Label_Feature3" = "编辑与创建PowerPoint文档";
+"Label_Feature4" = "查看PDF文件";
+"Label_Feature5" = "云支持与文件共享";
+"Label_Feature6" = "打印";
+"Label_Feature7" = "密码保护";
+"Label_Feature8" = "将文本文档导出为PDF";
+"Label_Feature9" = "将PDF文件导出为Word、Excel与ePub";
+"Label_Feature10" = "拼写检查";
+"Label_Feature11" = "导出为PDF后保存原始布局、格式、表格与图像";
+"Label_Feature12" = "在Excel中插入筛选";
+"Label_Feature13" = "无广告";
+
+"Label_GoPremFeature" = "功能";
+"Label_GoPremFree" = "免费";
+"Label_GoPremPro" = "专业";
+"Label_GoPremPremium" = "高级";
+"Label_Premium" = "高级";
+"Label_GoPremiumBenefits" = "高级包的优势";
+
+"InfoTitle_PremiumFeature" = "高级功能";
+"InfoMsg_PremiumFeature" = "该功能仅限高级版使用。";
+
+"Label_FreeEdition" = "免费版";
+"Label_PremiumEdition" = "高级版";
+
+"Label_TopN" = "前N个";
+"Label_ShowRowsWhere" = "当为下列值时显示行：";
+"Label_TopNAutoFilter" = "前N个自动筛选";
+"Label_ShowTop10" = "显示：";
+"Label_FilterOn" = "开启筛选";
+"Label_FilterOff" = "关闭筛选";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_CopyTo" = "复制到...";
+"Label_MoveTo" = "移动到...";
+"InfoMsg_SelectOnlyOneFileForDocPicker" = "请仅选择一个文件。";
+
+"Label_WebDAV_FailedLogIn_ErrorCode" = "登录出错！\nHTTP错误代码：%d。\n请使用其他HTTP地址、用户名或密码重试。";
+
+"Label_SheetOrientation" = "工作表方向：";
+"Label_Landscape" = "横向";
+"Label_Portrait" = "纵向";
+"Label_SheetsToPrint" = "要打印的工作表：";
+"Label_ActiveSheet" = "当前工作表";
+"Label_MultipleSheets" = "多个工作表";
+"Label_AllSheets" = "整个工作簿";
+"Label_Proceed" = "继续";
+
+"Label_FiltersNotAvailable" = "该工作表无法使用筛选功能。";
+"ErrMsg_InsertImageError" = "无效或不支持的图像";
+"FUNCCAT_Compatibility" = "兼容性";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"InfoTitle_WouldYouRecommend" = "帮助我们改进\nOfficeSuite！";
+"InfoMsg_WouldYouRecommend" = "在App Store评价\n上留言，或者将您的想法直接告知我们。";
+"Label_RateDialogRate" = "评价OfficeSuite";
+"Label_RateDialogSendFeedback" = "发送反馈";
+"Label_RateDialogDismiss" = "稍后再说";
+"InfoTitle_FeedbackMailSubject" = "OfficeSuite版本%@用户反馈";
+"InfoTitle_CannotOpenAppStore" = "App Store不可用";
+"InfoMsg_CannotOpenAppStoreForRate" = "App Store暂不可用，无法打开评价页面";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Files" = "文件";
+"Label_File" = "文件";
+"Label_View" = "查看";
+"Label_Go_To" = "转到";
+"Label_WrapText" = "自动换行";
+"Label_MergeAndCenter" = "合并及居中";
+"Label_AutoSum" = "自动求和";
+
+"Label_New" = "新建";
+"Label_Templates" = "模板";
+"Label_OpenRecent" = "打开最近的文件";
+"Label_Send" = "发送";
+"Label_Protect" = "保护";
+"Label_PageSetup" = "页面设置";
+
+"Label_CameraPicture" = "摄像头图片";
+"Label_RowAbove" = "行（在上方）";
+"Label_ColumnLeft" = "列（在左侧）";
+"Label_ChartInANewSheet" = "新工作表中的图表";
+
+"Label_NumberFormatting" = "数字格式";
+"Label_AlignmentInCell" = "单元格对齐";
+"Label_CellFont" = "单元格字体";
+"Label_CellBorder" = "单元格边框";
+"Label_HideRows" = "隐藏行";
+"Label_UnhideRows" = "取消隐藏行";
+"Label_HideColumns" = "隐藏列";
+"Label_UnhideColumns" = "取消隐藏列";
+"Label_AutoFitColumns" = "自动适应列";
+"Label_RenameSheet" = "重命名工作表";
+"Label_EditHyperlink" = "编辑超链接";
+
+"Label_InsertFunction" = "插入函数";
+"Label_NameManager" = "名称管理器";
+"Label_Reference" = "参考";
+
+"Label_CellContent" = "单元格内容";
+"Label_ShowGridlines" = "显示网格线";
+"Label_StartSelection" = "开始选择";
+"Label_SelectAll" = "选择所有";
+"Label_FindReplace" = "查找和替换";
+
+"Label_PageBreak" = "分页符";
+"Label_Paragraph" = "段落";
+"Label_SelectAll" = "选择所有";
+"Label_FormattingSymbols" = "格式符号";
+"Label_Bullets" = "项目符号";
+"Label_Numbering" = "编号";
+
+/* Up to 20 chars */
+"Label_MultilevelList" = "多级列表";
+
+"Label_IncreaseIndent" = "增加缩进";
+"Label_DecreaseIndent" = "减小缩进";
+"Label_Margins" = "页边距";
+"Label_Orientation" = "方向";
+"Label_SectionBreaks" = "分节符";
+"Label_PageBreaks" = "分页符";
+"Label_GoToTop" = "转到顶部";
+"Label_GoToBottom" = "转到底部";
+"Label_GoToBookmark" = "转到书签";
+"Label_DeleteBookmark" = "删除书签";
+"Label_FullScreen" = "全屏";
+"Label_PasteStyle" = "粘贴\n样式";
+"Label_FormatPainter" = "格式\n刷";
+"Label_ChangeStyle" = "更改样式";
+"Label_InsertAbove" = "在上方插入";
+"Label_InsertBelow" = "在下方插入";
+"Label_InsertToTheLeft" = "在左侧插入";
+"Label_InsertToTheRight" = "在右侧插入";
+"Label_DeleteColumn" = "删除列";
+"Label_DeleteCells" = "删除单元格";
+
+"ErrClass_SortString" = "排序失败。";
+"Err_CellsHasMergesString" = "无法更改部分已合并的单元格。";
+
+
+"Label_RedeemActivationCode" = "兑换激活码";
+"Label_EnterRedeemActivationCode" = "输入激活码";
+
+"InfoTitle_RedeemActivationSuccess" = "兑换激活码成功";
+"ErrTitle_RedeemActivationFailed" = "兑换激活码失败";
+"ErrMsg_RedeemActivationInvalidKey" = "激活秘钥无效！";
+"ErrMsg_RedeemActivationNoInternet" = "无互联网连接！";
+"ErrMsg_RedeemActivationSystemError" = "系统错误！";
+
+"InfoMsg_RedeemActivationStatusRedeemed" = "已成功兑换秘钥！";
+"ErrMsg_RedeemActivationStatusKeyNotFound" = "未找到秘钥！";
+"ErrMsg_RedeemActivationStatusHashNotFound" = "未找到指定秘钥的设备！";
+"ErrMsg_RedeemActivationStatusServerError" = "服务器错误！";
+"ErrMsg_RedeemActivationStatusNotSpecial" = "设备无法使用该秘钥！";
+"ErrMsg_RedeemActivationStatusKeyExpired" = "秘钥已过期！";
+"ErrMsg_RedeemActivationStatusLimitReached" = "已达到秘钥限制！";
+
+"Label_BuyOneTime" = "完全许可%@";
+"ErrMsg_PaymentFailed" = "很遗憾，你的付款失败了。";
+
+/* Up to 22 chars */
+"Label_RecentFiles" = "最近打开的文件";
+"WarningMsg_DeleteRecentItem" = "您真的要将该项目移出最近打开的文档吗？";
+"WarningMsg_DeleteRecentItems" = "您真的要将这些项目移出最近打开的文档吗？";
+"Label_ExternalLocation" = "外部位置";
+"Label_OpenContainingFolder" = "打开所在的文件夹";
+"Label_NoRecentFiles" = "无最近打开的文件";
+"Label_Network" = "网络";
+
+/* Up to 20 chars */
+"Label_AddAccount" = "添加帐户";
+
+"Label_iCloudDrive" = "iCloud Drive";
+"Label_CopyFromICloudDrive" = "从iCloud Drive中复制";
+"Label_CopyToICloudDrive" = "复制到iCloud Drive";
+"Label_MoveToICloudDrive" = "移动到iCloud Drive";
+"Label_iCloud" = "iCloud";
+"Label_LocalStorage" = "本地存储";
+
+"Label_FitPage" = "调整页面";
+"Label_100PercentZoom" = "100%缩放";
+"Label_GoToSlide" = "转到幻灯片";
+"Label_DuplicateSlide" = "复制幻灯片";
+"Label_ReorderSlides" = "重新排序幻灯片";
+"Label_DeleteSlide" = "删除幻灯片";
+"Label_StartSlideShow" = "开始播放幻灯片";
+"Label_StartFromCurrent" = "从当前开始播放";
+"Label_AutomaticAdvance" = "自动换片";
+"Label_Find" = "查找";
+
+"Label_ExportToWord" = "转换为Word";
+"Label_ExportToExcel" = "转换为Excel";
+"Label_ExportToEPub" = "转换为ePub";
+
+"Label_ZoomFitPage" = "调整";
+"Label_Zoom25" = "25%";
+
+"Label_Note" = "注释";
+"Label_Underline" = "下划线";
+"Label_Strikethrough" = "删除线";
+"Label_Text" = "文本";
+
+"Label_Content" = "内容";
+
+"Err_ReloadFailed" = "保存后重新加载文档失败。";
+"Label_SaveChangesBeforeExport" = "未保存的更改将无法导出。您要立即保存吗？";
+"Err_PdfConversion_ServerError" = "远程服务器导出失败。";
+"Err_PdfPasswordChangeNotPermitted" = "您的权限不足，无法更改该文档的用户密码。";
+"Err_PdfSecuritySettingsChangeFailed" = "更改安全设置失败。";
+"Err_PdfConversion_PasswordProtectedFilesNotSupported" = "该文件使用了密码保护，无法被导出。如果想继续导出，请先移除密码保护。";
+
+"Label_Exporting" = "正在导出...";
+"Label_PdfConversionSuccessful" = "已成功导出文件。";
+"Label_PdfPasswordChangeRequiresSaving" = "更改密码需要保存文件。文件保存后，您将无法撤销/恢复保存前所做的更改。";
+
+/* Up to 10 chars */
+"Label_Review" = "审阅";
+
+"Label_Annotation" = "批注";
+
+"Label_Photos" = "照片";
+"Label_ClearStyle" = "清除样式";
+"Label_Normal" = "正常";
+"Label_Wide" = "宽";
+"Label_Narrow" = "窄";
+"Label_Moderate" = "适中";
+
+"Label_a3" = "A3";
+"Label_a4" = "A4";
+"Label_a5" = "A5";
+"Label_b4" = "B4";
+"Label_b5" = "B5";
+"Label_letter" = "信函";
+"Label_tabloid" = "文摘";
+"Label_ledger" = "分类账";
+"Label_legal" = "法律";
+"Label_statement" = "声明";
+"Label_executive" = "行政公文纸";
+"Label_folio" = "对开纸";
+"Label_quarto" = "四开";
+
+"Label_Page" = "页面";
+"Label_Continuous" = "连续";
+"Label_EvenPage" = "偶数页";
+"Label_OddPage" = "奇数页";
+"Label_Column" = "列";
+"Label_TextWrapping" = "文字环绕";
+
+"Label_Zoom200" = "200%";
+"Label_Zoom150" = "150%";
+"Label_Zoom100" = "100%";
+"Label_Zoom75" = "75%";
+"Label_Zoom50" = "50%";
+
+"Label_NoItems" = "无项目";
+"Label_NoBookmarks" = "无书签";
+"Label_EnterBookmarkName" = "输入书签名称";
+"Label_InsertBookmark" = "插入书签";
+"Label_SelectBookmark" = "选择书签";
+"Label_FormatFont" = "设置字体格式";
+
+/* Up to 26 chars */
+"Label_FormatParagraph" = "设置段落格式";
+
+"Label_NONE" = "无";
+"Label_CircleBullets" = "圆形项目符号";
+"Label_SquareBullets" = "方形项目符号";
+
+"Label_NumbersWithDot" = "点号编号";
+"Label_NumbersWithBracket" = "括弧编号";
+"Label_LowerLettersWithDot" = "括号小写字母";
+"Label_LowerLettersWithBracket" = "括号小写字母";
+"Label_LowerRomanNumbersWithDot" = "点号小写罗马数字符号";
+"Label_UpperLettersWithDot" = "括号大写字母";
+"Label_UpperRomanNumbersWithDot" = "点号大写罗马数字符号";
+"Label_MultilevelListWithNumbers" = "使用数字的多级列表";
+"Label_MultilevelListWithNumbersAndLetters" = "使用数字与字母的多级列表";
+
+"Label_1_0" = "1";
+"Label_1_15" = "1.15";
+"Label_1_5" = "1.5";
+"Label_2_0" = "2";
+"Label_2_5" = "2.5";
+"Label_3_0" = "3";
+
+"Label_RevealFormating" = "显示格式";
+"Label_DenyMessagePhotos" = "该应用无法访问你的照片或视频。";
+"Label_DenyMessageInstructions" = "您可以在“隐私设置”中启用访问。";
+"Label_DenyNoAlbumPhotos" = "无照片或视频";
+"Label_DenyNoAlbumPhotosMessage" = "您可以使用摄像头拍摄照片或视频，或通过iTunes同步照片和视频。";
+
+"Button_Paper" = "纸张";
+"Button_Margins" = "页边距";
+"Label_Custom" = "自定义";
+"Label_Width" = "宽度";
+"Label_Height" = "高度";
+"Label_Left" = "左侧";
+"Label_Right" = "右侧";
+"Label_Insert" = "插入";
+"Label_Layout" = "布局";
+"Label_Styles" = "样式";
+"Label_PageMargins" = "页边距";
+"Label_PageOrientation" = "页面方向";
+"Label_PageSize" = "页面大小";
+"Label_Bookmarks" = "书签";
+"Label_Subrscript" = "下标";
+"Label_Superrscript" = "上标";
+"Label_DocumentIndex" = "文档索引";
+"Label_Alignment" = "对齐";
+"Label_Indents" = "缩进";
+"Label_Spacing" = "间距";
+"Label_Before" = "前方";
+"Label_After" = "后方";
+"Label_FirstLine" = "首行";
+"Label_Units" = "单位";
+"Label_Millimeters" = "毫米";
+"Label_Centimeters" = "厘米";
+"Label_Inches" = "英寸";
+"Label_Points" = "磅";
+"Label_InchesTextFormat" = "%@\"";
+"Label_CentimetersTextFormat" = "%@厘米";
+"Label_MillimetersTextFormat" = "%@毫米";
+"Label_PointsTextFormat" = "%@磅";
+"Button_TableStyleStylesTab" = "表格样式";
+"Button_TableStyleSettingsTab" = "设置";
+"Label_TableStyleCustomStyles" = "自定义样式";
+"Label_TableStyleBuiltInStyles" = "内建样式";
+"Label_TableStyleHeaderRow" = "标题行";
+"Label_TableStyleTotalRow" = "汇总行";
+"Label_TableStyleFirstColumn" = "第一列";
+"Label_TableStyleLastColumn" = "最后一列";
+"Label_TableStyleBandedRows" = "镶边行";
+"Label_TableStyleBandedColumns" = "镶边列";
+"Label_Tab" = "制表符";
+"Label_LineBreak" = "换行符";
+
+"Label_MSCaptureCameraUsePhoto" = "使用照片";
+"Label_MSCaptureCameraRetake" = "重新拍摄";
+
+"Label_Moments" = "时刻";
+
+"Label_CameraDenyAccessTitle" = "无法使用摄像头";
+"Label_CameraDenyAccessMessage" = "要使用摄像头，请前往“设置”>“隐私”>“摄像头”，然后将OfficeSuite设为“开”。";
+
+/* Up to 24 chars */
+"Label_SlideShowSettings" = "幻灯片播放设置";
+
+"Label_NewName" = "新名称：";
+"ErrMsg_LongName" = "名称太长。";
+"ErrMsg_SheetNameEmpty" = "工作表名称不能为空。";
+"WarningMessage_RtfWillLoseFormatting" = "如果将文件保存为RTF格式，一些格式会丢失。要继续吗？";
+"WarningMessage_TxtWillLoseFormatting" = "将文件保存为文本文件将导致其中的所有格式、图片与对象丢失。要继续吗？";
+
+/* Up to 16 chars */
+"Label_BuyMoreFonts" = "购买额外字体";
+"Label_InstalledFonts" = "已安装字体";
+
+"Label_Breaks" = "分隔符";
+
+"Label_GoPremium" = "升到高级版";
+"Label_FontPackDescription1" = "一组可以在OfficeSuite中使用的热门字体。以原样方式查看文档的显示效果。";
+"Label_FontPackDescription2" = "包含12种单型字体，比如Calibri、Tahoma与Wingdings。";
+"Label_FontPackDescription3" = "还包括60种OFL字体，比如Garamond、Modern、Open Sans与Times Gothic。";
+
+"Label_FontPack" = "字体包";
+"Label_FontPackDescription" = "包含50多种可以在OfficeSuite中使用的字体，比如Calibri、Tahoma与Wingdings。";
+"Label_EditPdf" = "编辑PDF文档";
+"Label_EditPdfDescription" = "将PDF文件转为可编辑的Word或Excel文件。";
+"Label_SaveAsPdf" = "另存为PDF";
+"Label_SaveAsPdfDescription" = "将文档另存为格式齐全的PDF文档。";
+"Label_AnnotatePdf" = "注释PDF文档";
+"Label_AnnotatePdfDescription" = "审查文件时添加注释和评论";
+"Label_AddCameraPhoto" = "添加摄像头照片";
+"Label_AddCameraPhotoDescription" = "在文档中添加图片";
+"Label_ProtectYourDocs" = "保护文档";
+"Label_ProtectYourDocsDescription" = "通过密码保护单独文档，或者为所有OfficeSuite文档设置密码保护";
+"Label_AdFree" = "无广告";
+"Label_AdFreeDescription" = "可以专心工作，无需分心";
+
+"Label_DoubleUnderline" = "双下划线";
+
+"Label_IncreaseFont" = "增大字体";
+"Label_DecreaseFont" = "缩小字体";
+
+"Label_HorizontalAlignLeft" = "水平左对齐";
+"Label_HorizontalAlignRight" = "水平右对齐";
+"Label_HorizontalAlignCenter" = "水平居中对齐";
+
+"Label_VerticalAlignBottom" = "竖直底端对齐";
+"Label_VerticalAlignMiddle" = "竖直居中对齐";
+"Label_VerticalAlignTop" = "竖直顶端对齐";
+
+"Label_SelectTextColor" = "选择文本颜色";
+"Label_SelectTextBgColor" = "选择单元格颜色";
+
+/* Up to 8 chars (these two strings are part of the phrase "Buy the Font Pack")  */
+"Label_BuyThe" = "购买";
+"Label_Pack" = "包";
+
+"Label_OneTimePurchase" = "一次性购买";
+
+"Label_FontPackMonotypeTitle" = "包含下列12种单型字体：";
+"Label_FontPackMonotypeDesc" = "Arial Narrow, Calibri, Cambria, Cambria Math, Comic Sans Ms, Monotype Sorts, Tahoma, Palace Script MT, Webdings, Wingdings, Wingdings 2, Wingdings 3";
+
+
+"Excel_func_ABS" = "返回数字的绝对值";
+"Excel_func_ACCRINT" = "返回定期支付利息的债券的应计利息";
+"Excel_func_ACCRINTM" = "返回在到期日支付利息的债券的应计利息";
+"Excel_func_ACOS" = "返回数字的反余弦值";
+"Excel_func_ACOSH" = "返回数字的反双曲余弦值";
+"Excel_func_ADDRESS" = "以文本形式将引用值返回到工作表的单个单元格";
+"Excel_func_AMORDEGRC" = "返回使用折旧系数的每个记帐期的折旧值";
+"Excel_func_AMORLINC" = "返回每个记帐期的折旧值";
+"Excel_func_AND" = "如果其所有参数均为TRUE，则返回TRUE";
+"Excel_func_AREAS" = "返回引用中涉及的区域个数";
+"Excel_func_ASC" = "将字符串中的全角（双字节）英文字母或片假名更改为半角（单字节）字符";
+"Excel_func_ASIN" = "返回数字的反正弦值";
+"Excel_func_ASINH" = "返回数字的反双曲正弦值";
+"Excel_func_ATAN" = "返回数字的反正切值";
+"Excel_func_ATAN2" = "返回X和Y坐标的反正切值";
+"Excel_func_ATANH" = "返回数字的反双曲正切值";
+"Excel_func_AVEDEV" = "返回数据点与它们的平均值的绝对偏差平均值";
+"Excel_func_AVERAGE" = "返回其参数的平均值";
+"Excel_func_AVERAGEA" = "返回其参数的平均值，包括数字、文本和逻辑值";
+"Excel_func_AVERAGEIF" = "返回区域中满足给定条件的所有单元格的平均值（算术平均值）";
+"Excel_func_AVERAGEIFS" = "返回满足多个条件的所有单元格的平均值（算术平均值）。";
+"Excel_func_BAHTTEXT" = "使用?（泰铢）货币格式将数字转换为文本";
+"Excel_func_BESSELI" = "返回修正的贝赛耳函数In(x)";
+"Excel_func_BESSELJ" = "返回贝赛耳函数Jn(x)";
+"Excel_func_BESSELK" = "返回修正的贝赛耳函数Kn(x)";
+"Excel_func_BESSELY" = "返回贝赛耳函数Yn(x)";
+"Excel_func_BETADIST" = "返回Beta累积分布函数";
+"Excel_func_BETAINV" = "返回指定Beta分布的累积分布函数的反函数";
+"Excel_func_BIN2DEC" = "将二进制数转换为十进制数";
+"Excel_func_BIN2HEX" = "将二进制数转换为十六进制数";
+"Excel_func_BIN2OCT" = "将二进制数转换为八进制数";
+"Excel_func_BINOMDIST" = "返回一元二项式分布的概率值";
+"Excel_func_CALL" = "调用动态链接库或代码源中的过程";
+"Excel_func_CEILING" = "将数字舍入为最接近的整数或最接近的指定基数的倍数";
+"Excel_func_CELL" = "返回有关单元格格式、位置或内容的信息";
+"Excel_func_CHAR" = "返回由代码数字指定的字符";
+"Excel_func_CHIDIST" = "返回χ2分布的单尾概率值";
+"Excel_func_CHIINV" = "返回γ2分布的单尾概率的反函数";
+"Excel_func_CHITEST" = "返回独立性检验值";
+"Excel_func_CHOOSE" = "从值的列表中选择值";
+"Excel_func_CLEAN" = "删除文本中所有非打印字符";
+"Excel_func_CODE" = "返回文本字符串中第一个字符的数字代码";
+"Excel_func_COLUMN" = "返回引用的列号";
+"Excel_func_COLUMNS" = "返回引用中包含的列数";
+"Excel_func_COMBIN" = "返回给定数目对象的组合数";
+"Excel_func_COMPLEX" = "将实系数和虚系数转换为复数";
+"Excel_func_CONCATENATE" = "将几个文本项合并为一个文本项";
+"Excel_func_CONFIDENCE" = "返回总体平均值的置信区间";
+"Excel_func_CONVERT" = "将数字从一种度量系统转换为另一种度量系统";
+"Excel_func_CORREL" = "返回两个数据集之间的相关系数";
+"Excel_func_COS" = "返回数字的余弦值";
+"Excel_func_COSH" = "返回数字的双曲余弦值";
+"Excel_func_COUNT" = "计算参数列表中数字的个数";
+"Excel_func_COUNTA" = "计算参数列表中值的个数";
+"Excel_func_COUNTBLANK" = "计算区域内空白单元格的数量";
+"Excel_func_COUNTIF" = "计算区域内符合给定条件的单元格的数量";
+"Excel_func_COUNTIFS" = "计算区域内符合多个条件的单元格的数量";
+"Excel_func_COUPDAYBS" = "返回从付息期开始到成交日之间的天数";
+"Excel_func_COUPDAYS" = "返回包含成交日的付息期天数";
+"Excel_func_COUPDAYSNC" = "返回从成交日到下一付息日之间的天数";
+"Excel_func_COUPNCD" = "返回成交日之后的下一个付息日";
+"Excel_func_COUPNUM" = "返回成交日和到期日之间的应付利息次数";
+"Excel_func_COUPPCD" = "返回成交日之前的上一付息日";
+"Excel_func_COVAR" = "返回协方差，成对偏差乘积的平均值";
+"Excel_func_CRITBINOM" = "返回使累积二项式分布小于或等于临界值的最小值";
+"Excel_func_CUMIPMT" = "返回两个付款期之间累积支付的利息";
+"Excel_func_CUMPRINC" = "返回两个付款期之间为贷款累积支付的本金";
+"Excel_func_DATE" = "返回特定日期的序列号";
+"Excel_func_DATEVALUE" = "将文本格式的日期转换为序列号";
+"Excel_func_DAVERAGE" = "返回所选数据库条目的平均值";
+"Excel_func_DAY" = "将序列号转换为月份日期";
+"Excel_func_DAYS360" = "以一年360天为基准计算两个日期间的天数";
+"Excel_func_DB" = "使用固定余额递减法，返回一笔资产在给定期间内的折旧值";
+"Excel_func_DCOUNT" = "计算数据库中包含数字的单元格的数量";
+"Excel_func_DCOUNTA" = "计算数据库中非空单元格的数量";
+"Excel_func_DDB" = "使用双倍余额递减法或其他指定方法，返回一笔资产在给定期间内的折旧值";
+"Excel_func_DEC2BIN" = "将十进制数转换为二进制数";
+"Excel_func_DEC2HEX" = "将十进制数转换为十六进制数";
+"Excel_func_DEC2OCT" = "将十进制数转换为八进制数";
+"Excel_func_DEGREES" = "将弧度转换为度";
+"Excel_func_DELTA" = "检验两个值是否相等";
+"Excel_func_DEVSQ" = "返回偏差的平方和";
+"Excel_func_DGET" = "从数据库提取符合指定条件的单个记录";
+"Excel_func_DISC" = "返回债券的贴现率";
+"Excel_func_DMAX" = "返回所选数据库条目的最大值";
+"Excel_func_DMIN" = "返回所选数据库条目的最小值";
+"Excel_func_DOLLAR" = "使用$（美元）货币格式将数字转换为文本";
+"Excel_func_DOLLARDE" = "将以分数表示的价格转换为以小数表示的价格";
+"Excel_func_DOLLARFR" = "将以小数表示的价格转换为以分数表示的价格";
+"Excel_func_DPRODUCT" = "将数据库中符合条件的记录的特定字段中的值相乘";
+"Excel_func_DSTDEV" = "基于所选数据库条目的样本估算标准偏差";
+"Excel_func_DSTDEVP" = "基于所选数据库条目的样本总体计算标准偏差";
+"Excel_func_DSUM" = "对数据库中符合条件的记录的字段列中的数字求和";
+"Excel_func_DURATION" = "返回定期支付利息的债券的每年期限";
+"Excel_func_DVAR" = "基于所选数据库条目的样本估算方差";
+"Excel_func_DVARP" = "基于所选数据库条目的样本总体计算方差";
+"Excel_func_EDATE" = "返回用于表示开始日期之前或之后月数的日期的序列号";
+"Excel_func_EFFECT" = "返回年有效利率";
+"Excel_func_EOMONTH" = "返回指定月数之前或之后的月份的最后一天的序列号";
+"Excel_func_ERF" = "返回误差函数";
+"Excel_func_ERFC" = "返回互补错误函数";
+"Excel_func_ERROR_TYPE" = "返回对应于错误类型的数字";
+"Excel_func_EUROCONVERT" = "将数字转换为欧元形式，将数字由欧元形式转换为欧盟成员国货币形式，或利用欧元作为中间货币将数字由某一欧盟成员国货币转化为另一欧盟成员国货币的形式（三角转换关系）。";
+"Excel_func_EVEN" = "将数字向上舍入为最接近的偶数";
+"Excel_func_EXACT" = "检查两个文本值是否相同";
+"Excel_func_EXP" = "返回e的n次方";
+"Excel_func_EXPONDIST" = "返回指数分布";
+"Excel_func_FACT" = "返回数字的阶乘";
+"Excel_func_FACTDOUBLE" = "返回数字的双倍阶乘";
+"Excel_func_FALSE" = "返回逻辑值FALSE";
+"Excel_func_FDIST" = "返回F概率分布";
+"Excel_func_FIND" = "在一个文本值中查找另一个文本值（区分大小写）";
+"Excel_func_FINV" = "返回F概率分布的反函数值";
+"Excel_func_FISHER" = "返回Fisher变换值";
+"Excel_func_FISHERINV" = "返回Fisher变换的反函数值";
+"Excel_func_FIXED" = "将数字格式设置为具有固定小数位数的文本";
+"Excel_func_FLOOR" = "向下舍入数字";
+"Excel_func_FORECAST" = "返回沿线性趋势的值";
+"Excel_func_FREQUENCY" = "以垂直数组的形式返回频率分布";
+"Excel_func_FV" = "返回一笔投资的未来值";
+"Excel_func_FVSCHEDULE" = "返回应用一系列复利率计算的初始本金的未来值";
+"Excel_func_GAMMADIST" = "返回γ分布";
+"Excel_func_GAMMAINV" = "返回γ累积分布函数的反函数";
+"Excel_func_GAMMALN" = "返回γ函数的自然对数，Г(x)";
+"Excel_func_GCD" = "返回最大公约数";
+"Excel_func_GEOMEAN" = "返回几何平均值";
+"Excel_func_GESTEP" = "检验数字是否大于阈值";
+"Excel_func_GETPIVOTDATA" = "返回存储在数据透视表中的数据";
+"Excel_func_GROWTH" = "返回沿指数趋势的值";
+"Excel_func_HARMEAN" = "返回调和平均值";
+"Excel_func_HEX2BIN" = "将十六进制数转换为二进制数";
+"Excel_func_HEX2DEC" = "将十六进制数转换为十进制数";
+"Excel_func_HEX2OCT" = "将十六进制数转换为八进制数";
+"Excel_func_HLOOKUP" = "查找数组的首行，并返回指定单元格的值";
+"Excel_func_HOUR" = "将序列号转换为小时";
+"Excel_func_HYPERLINK" = "创建快捷方式或跳转，以打开存储在网络服务器、Intranet或Internet上的文档";
+"Excel_func_HYPGEOMDIST" = "返回超几何分布";
+"Excel_func_IF" = "指定要执行的逻辑检测";
+"Excel_func_IFERROR" = "如果公式的计算结果错误，则返回您指定的值";
+"Excel_func_IMABS" = "返回复数的绝对值（模数）";
+"Excel_func_IMAGINARY" = "返回复数的虚系数";
+"Excel_func_IMARGUMENT" = "返回参数theta，即以弧度表示的角";
+"Excel_func_IMCONJUGATE" = "返回复数的共轭复数";
+"Excel_func_IMCOS" = "返回复数的余弦值";
+"Excel_func_IMDIV" = "返回两个复数的商";
+"Excel_func_IMEXP" = "返回复数的指数";
+"Excel_func_IMLN" = "返回复数的自然对数";
+"Excel_func_IMLOG10" = "返回复数的以10为底的对数";
+"Excel_func_IMLOG2" = "返回复数的以2为底的对数";
+"Excel_func_IMPOWER" = "返回复数的整数幂";
+"Excel_func_IMPRODUCT" = "返回多个复数的乘积";
+"Excel_func_IMREAL" = "返回复数的实系数";
+"Excel_func_IMSIN" = "返回复数的正弦值";
+"Excel_func_IMSQRT" = "返回复数的平方根";
+"Excel_func_IMSUB" = "返回两个复数的差";
+"Excel_func_IMSUM" = "返回多个复数的和";
+"Excel_func_INDEX" = "使用索引从引用或数组中选择值";
+"Excel_func_INDIRECT" = "返回由文本值指定的引用";
+"Excel_func_INFO" = "返回有关当前操作环境的信息";
+"Excel_func_INT" = "将数字向下舍入到最接近的整数";
+"Excel_func_INTERCEPT" = "返回线性回归线的截距";
+"Excel_func_INTRATE" = "返回完全投资型债券的利率";
+"Excel_func_IPMT" = "返回一笔投资在给定期间内支付的利息";
+"Excel_func_IRR" = "返回一系列现金流的内部收益率";
+"Excel_func_ISBLANK" = "如果值为空，则返回TRUE";
+"Excel_func_ISERR" = "如果值为除#N/A以外的任何错误值，则返回TRUE";
+"Excel_func_ISERROR" = "如果值为任何错误值，则返回TRUE";
+"Excel_func_ISEVEN" = "如果数字为偶数，则返回TRUE";
+"Excel_func_ISLOGICAL" = "如果值为逻辑值，则返回TRUE";
+"Excel_func_ISNA" = "如果值为错误值#N/A，则返回TRUE";
+"Excel_func_ISNONTEXT" = "如果值不是文本，则返回TRUE";
+"Excel_func_ISNUMBER" = "如果值为数字，则返回TRUE";
+"Excel_func_ISODD" = "如果数字为奇数，则返回TRUE";
+"Excel_func_ISREF" = "如果值为引用值，则返回TRUE";
+"Excel_func_ISTEXT" = "如果值为文本，则返回TRUE";
+"Excel_func_ISPMT" = "计算特定投资期内要支付的利息";
+"Excel_func_JIS" = "将字符串中的半角（单字节）英文字母或片假名更改为全角（双字节）字符";
+"Excel_func_KURT" = "返回数据集的峰值";
+"Excel_func_LARGE" = "返回数据集中第k个最大值";
+"Excel_func_LCM" = "返回最小公倍数";
+"Excel_func_LEFT" = "返回文本值中最左边的字符";
+"Excel_func_LEN" = "返回文本字符串中的字符个数";
+"Excel_func_LINEST" = "返回线性趋势的参数";
+"Excel_func_LN" = "返回数字的自然对数";
+"Excel_func_LOG" = "返回数字的以指定底为底的对数";
+"Excel_func_LOG10" = "返回数字的以10为底的对数";
+"Excel_func_LOGEST" = "返回指数趋势的参数";
+"Excel_func_LOGINV" = "返回对数分布函数的反函数";
+"Excel_func_LOGNORMDIST" = "返回对数累积分布函数";
+"Excel_func_LOOKUP" = "在向量或数组中查找值";
+"Excel_func_LOWER" = "将文本转换为小写";
+"Excel_func_MATCH" = "在引用或数组中查找值";
+"Excel_func_MAX" = "返回参数列表中的最大值";
+"Excel_func_MAXA" = "返回参数列表中的最大值，包括数字、文本和逻辑值";
+"Excel_func_MDETERM" = "返回数组的矩阵行列式的值";
+"Excel_func_MDURATION" = "返回假设面值为$100的有价证券的Macauley修正期限";
+"Excel_func_MEDIAN" = "返回给定数值集合的中值";
+"Excel_func_MID" = "从文本字符串中的指定位置起返回特定个数的字符";
+"Excel_func_MIN" = "返回参数列表中的最小值";
+"Excel_func_MINA" = "返回参数列表中的最小值，包括数字、文本和逻辑值";
+"Excel_func_MINUTE" = "将序列号转换为分钟";
+"Excel_func_MINVERSE" = "返回数组的逆矩阵";
+"Excel_func_MIRR" = "返回正和负现金流以不同利率进行计算的内部收益率";
+"Excel_func_MMULT" = "返回两个数组的矩阵乘积";
+"Excel_func_MOD" = "返回除法的余数";
+"Excel_func_MODE" = "返回在数据集内出现次数最多的值";
+"Excel_func_MONTH" = "将序列号转换为月";
+"Excel_func_MROUND" = "返回一个舍入到所需倍数的数字";
+"Excel_func_MULTINOMIAL" = "返回一组数字的多项式";
+"Excel_func_N" = "返回转换为数字的值";
+"Excel_func_NA" = "返回错误值#N/A";
+"Excel_func_NEGBINOMDIST" = "返回负二项式分布";
+"Excel_func_NETWORKDAYS" = "返回两个日期间的全部工作日数";
+"Excel_func_NOMINAL" = "返回年度的名义利率";
+"Excel_func_NORMDIST" = "返回正态累积分布";
+"Excel_func_NORMINV" = "返回标准正态累积分布的反函数";
+"Excel_func_NORMSDIST" = "返回标准正态累积分布";
+"Excel_func_NORMSINV" = "返回标准正态累积分布的反函数";
+"Excel_func_NOT" = "对其参数的逻辑求反";
+"Excel_func_NOW" = "返回当前日期和时间的序列号";
+"Excel_func_NPER" = "返回投资的期数";
+"Excel_func_NPV" = "返回基于一系列定期的现金流和贴现率计算的投资的净现值";
+"Excel_func_OCT2BIN" = "将八进制数转换为二进制数";
+"Excel_func_OCT2DEC" = "将八进制数转换为十进制数";
+"Excel_func_OCT2HEX" = "将八进制数转换为十六进制数";
+"Excel_func_ODD" = "将数字向上舍入为最接近的奇数";
+"Excel_func_ODDFPRICE" = "返回每张票面为$100且第一期为奇数的债券的现价";
+"Excel_func_ODDFYIELD" = "返回第一期为奇数的债券的收益";
+"Excel_func_ODDLPRICE" = "返回每张票面为$100且最后一期为奇数的债券的现价";
+"Excel_func_ODDLYIELD" = "返回最后一期为奇数的债券的收益";
+"Excel_func_OFFSET" = "从给定引用中返回引用偏移量";
+"Excel_func_OR" = "如果任一参数为TRUE，则返回TRUE";
+"Excel_func_PEARSON" = "返回Pearson乘积矩相关系数";
+"Excel_func_PERCENTILE" = "返回区域中数值的第k个百分点的值";
+"Excel_func_PERCENTRANK" = "返回数据集中值的百分比排位";
+"Excel_func_PERMUT" = "返回给定数目对象的排列数";
+"Excel_func_PHONETIC" = "提取文本字符串中的拼音（汉字注音）字符";
+"Excel_func_PI" = "返回pi的值";
+"Excel_func_PMT" = "返回年金的定期支付金额";
+"Excel_func_POISSON" = "返回泊松分布";
+"Excel_func_POWER" = "返回数的乘幂";
+"Excel_func_PPMT" = "返回一笔投资在给定期间内偿还的本金";
+"Excel_func_PRICE" = "返回每张票面为$100且定期支付利息的债券的现价";
+"Excel_func_PRICEDISC" = "返回每张票面为$100的已贴现债券的现价";
+"Excel_func_PRICEMAT" = "返回每张票面为$100且在到期日支付利息的债券的现价";
+"Excel_func_PROB" = "返回区域中的数值落在指定区间内的概率";
+"Excel_func_PRODUCT" = "将其参数相乘";
+"Excel_func_PROPER" = "将文本值的每个字的首字母大写";
+"Excel_func_PV" = "返回投资的现值";
+"Excel_func_QUARTILE" = "返回一组数据的四分位点";
+"Excel_func_QUOTIENT" = "返回除法的整数部分";
+"Excel_func_RADIANS" = "将度转换为弧度";
+"Excel_func_RAND" = "返回0和1之间的一个随机数";
+"Excel_func_RANDBETWEEN" = "返回位于两个指定数之间的一个随机数";
+"Excel_func_RANK" = "返回一列数字的数字排位";
+"Excel_func_RATE" = "返回年金的各期利率";
+"Excel_func_RECEIVED" = "返回完全投资型债券在到期日收回的金额";
+"Excel_func_REGISTER_ID" = "返回已注册过的指定动态链接库(DLL)或代码源的注册号";
+"Excel_func_REPLACE" = "替换文本中的字符";
+"Excel_func_REPT" = "按给定次数重复文本";
+"Excel_func_RIGHT" = "返回文本值中最右边的字符";
+"Excel_func_ROMAN" = "将阿拉伯数字转换为文本式罗马数字";
+"Excel_func_ROUND" = "将数字按指定位数舍入";
+"Excel_func_ROUNDDOWN" = "向下舍入数字";
+"Excel_func_ROUNDUP" = "向上舍入数字";
+"Excel_func_ROW" = "返回引用的行号";
+"Excel_func_ROWS" = "返回引用中的行数";
+"Excel_func_RSQ" = "返回Pearson乘积矩相关系数的平方";
+"Excel_func_SEARCH" = "在一个文本值中查找另一个文本值（不区分大小写）";
+"Excel_func_SEARCHB" = "在一个文本值中查找另一个文本值（不区分大小写）";
+"Excel_func_SECOND" = "将序列号转换为秒";
+"Excel_func_SERIESSUM" = "返回基于公式的幂级数的和";
+"Excel_func_SIGN" = "返回数字的符号";
+"Excel_func_SIN" = "返回给定角度的正弦值";
+"Excel_func_SINH" = "返回数字的双曲正弦值";
+"Excel_func_SKEW" = "返回分布的不对称度";
+"Excel_func_SLN" = "返回固定资产的每期线性折旧费";
+"Excel_func_SLOPE" = "返回线性回归线的斜率";
+"Excel_func_SMALL" = "返回数据集中的第k个最小值";
+"Excel_func_SQL_REQUEST" = "连接到一个外部的数据源并从工作表中运行查询，然后将查询结果以数组的形式返回，无需进行宏编程";
+"Excel_func_SQRT" = "返回正平方根";
+"Excel_func_SQRTPI" = "返回某数与pi的乘积的平方根";
+"Excel_func_STANDARDIZE" = "返回正态化数值";
+"Excel_func_STDEV" = "基于样本估算标准偏差";
+"Excel_func_STDEVA" = "基于样本（包括数字、文本和逻辑值）估算标准偏差";
+"Excel_func_STDEVP" = "计算基于样本总体的标准偏差";
+"Excel_func_STDEVPA" = "基于总体（包括数字、文本和逻辑值）计算标准偏差";
+"Excel_func_STEYX" = "返回通过线性回归法预测每个x的y值时所产生的标准误差";
+"Excel_func_SUBSTITUTE" = "在文本字符串中用新文本替换旧文本";
+"Excel_func_SUBTOTAL" = "返回列表或数据库中的分类汇总";
+"Excel_func_SUM" = "求参数的和";
+"Excel_func_SUMIF" = "按给定条件对指定单元格求和";
+"Excel_func_SUMIFS" = "在区域中添加满足多个条件的单元格";
+"Excel_func_SUMPRODUCT" = "返回对应的数组元素的乘积和";
+"Excel_func_SUMSQ" = "返回参数的平方和";
+"Excel_func_SUMX2MY2" = "返回两数组中对应值平方差之和";
+"Excel_func_SUMX2PY2" = "返回两数组中对应值的平方和之和";
+"Excel_func_SUMXMY2" = "返回两个数组中对应值差的平方和";
+"Excel_func_SYD" = "返回某项固定资产按年限总和折旧法计算的每期折旧金额";
+"Excel_func_T" = "将其参数转换为文本";
+"Excel_func_TAN" = "返回数字的正切值";
+"Excel_func_TANH" = "返回数字的双曲正切值";
+"Excel_func_TBILLEQ" = "返回国库券的等价债券收益";
+"Excel_func_TBILLPRICE" = "返回面值$100的国库券的价格";
+"Excel_func_TBILLYIELD" = "返回国库券的收益率";
+"Excel_func_TDIST" = "返回学生的t分布";
+"Excel_func_TEXT" = "设置数字格式并将其转换为文本";
+"Excel_func_TIME" = "返回特定时间的序列号";
+"Excel_func_TIMEVALUE" = "将文本格式的时间转换为序列号";
+"Excel_func_TINV" = "返回学生的t分布的反函数";
+"Excel_func_TODAY" = "返回今天日期的序列号";
+"Excel_func_TRANSPOSE" = "返回数组的转置";
+"Excel_func_TREND" = "返回沿线性趋势的值";
+"Excel_func_TRIM" = "删除文本中的空格";
+"Excel_func_TRIMMEAN" = "返回数据集的内部平均值";
+"Excel_func_TRUE" = "返回逻辑值TRUE";
+"Excel_func_TRUNC" = "将数字截尾取整";
+"Excel_func_TTEST" = "返回与学生的t检验相关的概率";
+"Excel_func_TYPE" = "返回表示值的数据类型的数字";
+"Excel_func_UPPER" = "将文本转换为大写形式";
+"Excel_func_VALUE" = "将文本参数转换为数字";
+"Excel_func_VAR" = "基于样本估算方差";
+"Excel_func_VARA" = "基于样本（包括数字、文本和逻辑值）估算方差";
+"Excel_func_VARP" = "计算基于样本总体的方差";
+"Excel_func_VARPA" = "计算基于总体（包括数字、文本和逻辑值）的方差";
+"Excel_func_VDB" = "使用余额递减法，返回一笔资产在给定期间或部分期间内的折旧值";
+"Excel_func_VLOOKUP" = "在数组第一列中查找，然后在行之间移动以返回单元格的值";
+"Excel_func_WEEKDAY" = "将序列号转换为星期日期";
+"Excel_func_WEEKNUM" = "将序列号转换为代表该星期为一年中第几周的数字";
+"Excel_func_WEIBULL" = "计算基于总体（包括数字、文本和逻辑值）的方差";
+"Excel_func_WORKDAY" = "返回指定的若干个工作日之前或之后的日期的序列号";
+"Excel_func_XIRR" = "返回一组现金流的内部收益率，这些现金流不一定定期发生";
+"Excel_func_XNPV" = "返回一组现金流的净现值，这些现金流不一定定期发生";
+"Excel_func_YEAR" = "将序列号转换为年";
+"Excel_func_YEARFRAC" = "返回代表start_date和end_date之间整天天数的年分数";
+"Excel_func_YIELD" = "返回定期支付利息的债券的收益";
+"Excel_func_YIELDDISC" = "返回已贴现债券的年收益";
+"Excel_func_YIELDMAT" = "返回在到期日支付利息的债券的年收益";
+"Excel_func_ZTEST" = "返回z检验的单尾概率值";
+"Excel_func_FTEST" = "返回当array1和array2之间的方差无明显差异时的双尾概率";
+"Excel_func_DATEDIF" = "根据指定的间隔，返回两个日期值之间的差";
+"Excel_func_DBCS" = "将字符串中的半角（单字节）字母更改为全角（双字节）字符";
+"Excel_func_USDOLLAR" = "使用货币格式将数字转换为文本，并将小数四舍五入至指定位数";
+"Excel_func_UNICHAR" = "返回由指定数值引用的Unicode字符";
+"Excel_func_UNICODE" = "返回与文本第一个字符对应的数值（码位）";
+
+/*
+ NEW STRINGS AFTER VER 3.7.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"InfoMsg_TransactionInProgress" = "交易可能需要花费几分钟...";
+"InfoTitle_TransactionCompleted" = "交易已完成";
+"InfoMsg_InAppRestoreDone" = "还原已成功完成。";
+"Label_FontPackDescription70" = "集成 70 多种字体，比如 Calibri、Tahoma 和 Wingdings，可供 OfficeSuite 内部使用。";
+"Label_FontPackDescriptionOFL" = "此外，还包括 60 种 OFL 字体，比如 Garamond、Open Sans 和 Times Gothic。";
+"Label_OneTimePurchase2" = "一次性购买";
+
+/* Up to 10 chars */
+"Label_Unlock" = "解锁";
+
+/* Up to 14 chars */
+"Label_Features" = "功能";
+
+"Label_InfoMsgAutoSumNotAvailable" = "选择不应包含整行、整列或整个表。";
+"Label_MultiSelection" = "多重选择";
+"Label_ClearFilterC" = "清除筛选器";
+"Label_ReapplyFilterC" = "重新应用筛选器";
+"Label_AboveAverageC" = "高于平均水平";
+"Label_BelowAverageC" = "低于平均水平";
+"Label_DeleteCell" = "删除单元格";
+"Label_Buy" = "购买";
+"Label_YourHTTPAddress" = "您的 HTTP 地址";
+"Label_YourUsername" = "您的用户名";
+"Label_YourPassword" = "您的密码";
+
+/*
+ NEW STRINGS AFTER VER 4.0
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// File Browser
+"Label_NewFile" = "新文件";
+"Label_FolderUp" = "上一层文件夹";
+"Label_Sidebar" = "侧边栏";
+"Label_Ad" = "广告";
+"Label_DeselectAll" = "取消全选";
+"Label_Apply" = "应用";
+"ErrMsg_LocalStorageOnly" = "您只能在本地存储器中保存文件。";
+"Label_Submit" = "提交";
+"Label_Username" = "用户名";
+"InfoTitle_LoginFailure" = "登录失败";
+"InfoTitle_ServerIdentity" = "无法验证服务器标识";
+"InfoTitle_LoginRequired" = "本页面要求您登录方可访问";
+"InfoMsg_LoginFailureSSOUntrusted" = "由于未信任 SSO 服务器，因此无法完成登录。请联系管理员了解更多信息。";
+"InfoMsg_ServerIdentity" = "Box 无法验证“%@”标识，是否仍要继续？";
+"InfoMsg_VerifyUsernameAndPassword" = "无法登录，请检查您的用户名/密码并重试。";
+"Label_WordTemplates" = "Word 模板";
+"Label_ExcelTemplates" = "电子表格模板";
+"Label_PowerpointTemplates" = "演示文稿模板";
+// PowerPoint
+"Label_PowerPoint97Presentation" = "PowerPoint 97-2003 演示文稿";
+"Label_PowerPointMacroPresentation" = "启用宏的 PowerPoint 演示文稿";
+"Label_PowerPointSlideShow" = "PowerPoint 幻灯片放映";
+"Label_PowerPoint97SlideShow" = "PowerPoint 97-2003 幻灯片放映";
+"Label_PowerPointMacroSlideShow" = "启用宏的 PowerPoint 幻灯片放映";
+"Label_SlideRange" = "幻灯片编号 (1 - %d)";
+"Label_DataLostAfterSave" = "一些数据可能未保存。";
+"Label_PowerPointTemplate" = "PowerPoint 模板";
+"Label_Transitions" = "过渡";
+"Label_TransitionEffect" = "过渡效果";
+"Label_EffectOptions" = "效果选项";
+"Label_TransitionDuration" = "过渡持续时间";
+"Label_AdvanceSlideAfter" = "换片方式";
+
+/* Up to 22 chars */
+"Label_ChangeSlideAfter" = "幻灯片更换时间：";
+
+"Label_ApplyToAll" = "全部应用";
+"Label_ApplyTransition" = "应用过渡";
+
+/* Up to 16 chars */
+"Label_SetDuration" = "设置持续时间";
+
+"Label_Min" = "分钟";
+"Label_Sec" = "秒";
+
+/* Up to 60 chars */
+"Label_TransitionAppliedToAll" = "过渡设置已应用到所有幻灯片。";
+
+"Label_Subtle" = "细微型";
+"Label_Exciting" = "华丽型";
+"Label_DynamicContent" = "动态内容";
+
+/* Transition names - each one must be 6 chars or less */
+"Label_Fade" = "淡入淡出";
+"Label_Push" = "推动";
+"Label_Wipe" = "擦除";
+"Label_Split" = "拆分";
+"Label_Reveal" = "展现";
+"Label_RandomBars" = "随机条形";
+"Label_Uncover" = "揭开";
+"Label_Cover" = "封面";
+"Label_Flash" = "闪存";
+"Label_Dissolve" = "溶解";
+"Label_Checkboard" = "棋盘";
+"Label_Blinds" = "百叶窗";
+"Label_Clock" = "时钟";
+"Label_Ripple" = "波纹";
+"Label_Honeycomb" = "蜂巢";
+"Label_Glitter" = "闪光";
+"Label_Vortex" = "涡流";
+"Label_Shred" = "碎片";
+"Label_Switch" = "切换";
+"Label_Flip" = "翻转";
+"Label_Gallery" = "画廊";
+"Label_Cube" = "多维数据集";
+"Label_Doors" = "门";
+"Label_Box" = "框";
+"Label_Comb" = "梳理";
+"Label_Wheel" = "轮子";
+"Label_Newsflash" = "新闻快报";
+"Label_Pan" = "平移";
+"Label_FerrisWheel" = "摩天轮";
+"Label_Conveyor" = "传送带";
+"Label_Rotate" = "旋转";
+"Label_Window" = "窗口";
+"Label_Orbit" = "轨道";
+"Label_FlyThrough" = "飞过";
+/* End Transition names */
+
+// Transition options
+"Label_ThroughBlack" = "全黑";
+"Label_Smoothly" = "平滑";
+"Label_FromBottom" = "从底部";
+"Label_FromLeft" = "从左";
+"Label_FromRight" = "从右";
+"Label_FromTop" = "从顶部";
+"Label_FromTopRight" = "从右上角";
+"Label_FromTopLeft" = "从左上角";
+"Label_FromBottomLeft" = "从左下角";
+"Label_FromBottomRight" = "从右下角";
+"Label_Vertical" = "垂直";
+"Label_VerticalOut" = "垂直移出";
+"Label_VerticalIn" = "垂直移入";
+"Label_Horizontal" = "水平";
+"Label_HorizontalOut" = "水平移出";
+"Label_HorizontalIn" = "水平移入";
+"Label_SmoothlyFromRight" = "从右侧淡出";
+"Label_SmoothlyFromLeft" = "从左侧淡出";
+"Label_ThroughBlackFromRight" = "从右侧全黑";
+"Label_ThroughBlackFromLeft" = "从左侧全黑";
+"Label_Circle" = "圆";
+"Label_Diamond" = "菱形";
+"Label_Plus" = "加号";
+"Label_In" = "移入";
+"Label_Out" = "移出";
+"Label_Clockwise" = "顺时针";
+"Label_Counterclockwise" = "逆时针";
+"Label_Wedge" = "楔形";
+"Label_Center" = "中心";
+"Label_2SpokesClockwise" = "顺时针 2 轮辐图案";
+"Label_3SpokesClockwise" = "顺时针 3 轮辐图案";
+"Label_4SpokesClockwise" = "顺时针 4 轮辐图案";
+"Label_8SpokesClockwise" = "顺时针 8 轮辐图案";
+"Label_2SpokesCounterclockwise" = "逆时针 2 轮辐图案";
+"Label_3SpokesCounterclockwise" = "逆时针 3 轮辐图案";
+"Label_4SpokesCounterclockwise" = "逆时针 4 轮辐图案";
+"Label_8SpokesCounterclockwise" = "逆时针 8 轮辐图案";
+"Label_HexagonsFromLeft" = "从左侧闪耀的六边形";
+"Label_HexagonsFromTop" = "从顶部闪耀的六边形";
+"Label_HexagonsFromRight" = "从右侧闪耀的六边形";
+"Label_HexagonsFromBottom" = "从底部闪耀的六边形";
+"Label_DiamondsFromLeft" = "从左侧闪耀的菱形";
+"Label_DiamondsFromTop" = "从顶部闪耀的菱形";
+"Label_DiamondsFromRight" = "从右侧闪耀的菱形";
+"Label_DiamondsFromBottom" = "从底部闪耀的菱形";
+"Label_StripsIn" = "条纹移入";
+"Label_StripsOut" = "条纹移出";
+"Label_ParticlesIn" = "粒子输入";
+"Label_ParticlesOut" = "粒子输出";
+"Label_Left" = "左";
+"Label_Right" = "右";
+"Label_InWithBounce" = "弹跳移入";
+"Label_OutWithBounce" = "弹跳移出";
+"Label_ExcelMacroEnabledWorkbook" = "启用宏的 Excel 工作簿";
+"Label_ExcelTemplate" = "Excel 模板";
+"Label_Zip" = "压缩";
+"Label_ZipDocument" = "压缩文件";
+"Label_ZipDocuments" = "压缩文件";
+// Conditional Formatting
+"Label_ConditionalFormatting" = "条件格式";
+
+/* Up to 22 chars */
+"Label_HighlightCellsRules" = "突出显示单元格规则";
+
+/* Up to 25 chars */
+"Label_Top/Bottom/Avg" = "最高/最低 /平均规则";
+
+"Label_DataBars" = "数据条";
+"Label_ColorScales" = "色阶";
+"Label_ClearRulesFromEntireSheet" = "从整个工作表中清除规则";
+"Label_RulesManager" = "规则管理器";
+"Label_TitleClearCFRulesAlert" = "是否要清除所有规则？";
+"Label_MessageClearCFRulesAlert" = "条件格式将被删除。";
+"Label_FormatCellsRules" = "格式单元格规则";
+
+/* Up to 20 chars */
+"Label_TopBottomAverage" = "最高/最低/平均";
+
+"Label_Content" = "内容";
+"Label_Rank" = "级别";
+"Label_RuleType" = "规则类型";
+
+/* Up to 10 chars */
+"Label_Value_1" = "值 1";
+
+/* Up to 10 chars */
+"Label_Value_2" = "值 2";
+
+// Conditional format types
+"Excel_CF_CellValue" = "单元格值";
+"Excel_CF_SpecificText" = "特定文本";
+"Excel_CF_Blanks" = "空白";
+"Excel_CF_NoBlanks" = "无空白";
+"Excel_CF_Errors" = "错误";
+"Excel_CF_NoErrors" = "无错误";
+"Excel_CF_Unique" = "唯一";
+"Excel_CF_Duplicate" = "重复";
+"Excel_CF_DatesOccurring" = "发生日期";
+"Excel_CF_EqualTo" = "等于";
+"Excel_CF_NotEqualTo" = "不等于";
+"Excel_CF_LessThan" = "小于";
+"Excel_CF_LessEqual" = "小于或等于";
+"Excel_CF_GreaterThan" = "大于";
+"Excel_CF_GreaterEqual" = "大于或等于";
+"Excel_CF_Between" = "介于";
+"Excel_CF_NotBetween" = "未介于";
+"Excel_CF_Contains" = "包含";
+"Excel_CF_NotContains" = "不包含";
+"Excel_CF_BeginsWith" = "开始于";
+"Excel_CF_EndsWith" = "结束于";
+"Excel_CF_Top" = "顶部";
+"Excel_CF_Bottom" = "底部";
+"Excel_CF_StdDevAbove" = "标准偏差高于";
+"Excel_CF_StdDevBelow" = "标准偏差低于";
+"Excel_CF_EqualOrAbove" = "等于或高于";
+"Excel_CF_EqualOrBelow" = "等于或低于";
+"Excel_CF_AboveAverage" = "高于平均水平";
+"Excel_CF_BelowAverage" = "低于平均水平";
+// Conditional format descriptions
+"Excel_CFDescr_blank" = "单元格包含空值";
+"Excel_CFDescr_no_blank" = "单元格不包含空值";
+"Excel_CFDescr_error" = "单元格包含错误";
+"Excel_CFDescr_no_error" = "单元格不包含错误";
+"Excel_CFDescr_cell_value" = "单元格值";
+"Excel_CFDescr_between" = "介于";
+"Excel_CFDescr_not_between" = "未介于";
+"Excel_CFDescr_and" = "和";
+"Excel_CFDescr_contains" = "包含";
+"Excel_CFDescr_does_not_contain" = "不包含";
+"Excel_CFDescr_begins_with" = "开始于";
+"Excel_CFDescr_ends_with" = "结束于";
+"Excel_CFDescr_std_dev" = "标准偏差";
+"Excel_CFDescr_equal_to_or" = "等于或";
+"Excel_CFDescr_above_average" = "高于平均水平";
+"Excel_CFDescr_below_average" = "低于平均水平";
+"Excel_CFDescr_dates_occurring_yesterday" = "昨天";
+"Excel_CFDescr_dates_occurring_today" = "今天";
+"Excel_CFDescr_dates_occurring_tomorrow" = "明天";
+"Excel_CFDescr_dates_occurring_last_7_days" = "最近 7 天";
+"Excel_CFDescr_dates_occurring_last_week" = "上周";
+"Excel_CFDescr_dates_occurring_this_week" = "本周";
+"Excel_CFDescr_dates_occurring_next_week" = "下周";
+"Excel_CFDescr_dates_occurring_last_month" = "上个月";
+"Excel_CFDescr_dates_occurring_this_month" = "本月";
+"Excel_CFDescr_dates_occurring_next_month" = "下个月";
+"Label_XlsSaveCFRulesNotSupported" = "不支持以 xls 格式保存条件格式，条件格式将不保存。";
+// Accessibility labels
+"Label_Inside" = "内部";
+"Label_Outside" = "外部";
+"Label_Vertical_Inside" = "垂直内部";
+"Label_Horizontal_Inside" = "水平内部";
+"Label_ShowFormattingSymbols" = "显示格式符号";
+"Label_JustifiedParagraphAlignment" = "两端对齐";
+"Label_LeftParagraphAlignment" = "左对齐";
+"Label_CenterParagraphAlignment" = "居中";
+"Label_RightParagraphAlignment" = "右对齐";
+"Label_FontTextColorDropdown" = "文本颜色下拉框";
+"Label_FontHighlightColorDropdown" = "突出显示颜色下拉框";
+"Label_NumberingDropdown" = "编号下拉框";
+"Label_BulletsDropdown" = "项目符号下拉列表";
+"Label_EnterViewMode" = "进入视图模式";
+"Label_EnterEditMode" = "进入编辑模式";
+"Label_ChangeTableStyle" = "更改表格样式";
+"Label_InsertTableRowAbove" = "在上方插入表格行";
+"Label_InsertTableRowBelow" = "在下方插入表格行";
+"Label_InsertTableColumnToTheLeft" = "在左侧插入表格列";
+"Label_InsertTableColumnToTheRight" = "在右侧插入表格列";
+"Label_DeleteTableRow" = "删除表格行";
+"Label_DeleteTableColumn" = "删除表格列";
+"Label_DeleteTableCell" = "删除表格单元格";
+"Label_TableSizeGrid" = "表格大小网格选择器";
+"Label_IncreaseValue" = "增加值";
+"Label_DecreaseValue" = "减小值";
+"Label_Photo" = "照片";
+"Label_Graphic" = "图形";
+"Label_CaptureImage" = "捕获图像";
+"Label_SwitchCamera" = "切换摄像头";
+"Label_NewSheet" = "新建工作表";
+"Label_SheetOfSheets" = "第 $1 份工作表（共 $2 份）";
+"Label_MenuItem" = "菜单项";
+"Label_CellContent" = "单元格内容";
+// pdf
+"Label_ViewMode" = "视图模式";
+"Label_SinglePage" = "单页";
+"Label_Ellipse" = "椭圆";
+"Label_Rectangle" = "矩形";
+"Label_Line" = "线";
+"Label_FreeDraw" = "自由绘制";
+
+// File Browser
+"WarningMsg_ZippingFilesInterrupted" = "添加文件存档失败。";
+"Label_UnsupportedDocumentType" = "不支持的文件类型";
+"Label_UnknownDocumentType" = "未知的文件类型";
+"Label_Certificate" = "证书";
+"Label_PersonalInformationExchange" = "个人信息交换";
+"ErrTitle_NoPermission" = "没有权限";
+"ErrMsg_CannotDeleteInboxFolder" = "iCloud 关闭时，无法删除收件箱文件夹。";
+"Label_OpenODF" = "ODF支持";
+"Label_OpenODFDescription" = "打开你的文件 -.odt, .ods, .odp";
+// Word
+"WarningMessage_RtfWillLoseFormatting2" = "如果将文件保存为 RTF 文件，密码保护和部分格式可能丢失。是否继续？";
+"WarningMessage_TxtWillLoseFormatting2" = "保存为文本文件会导致文件的密码保护、格式、图片和对象丢失。是否继续？";
+"WarningMessage_OdtWillLoseFormatting2" = "如果将文件保存为 ODT 文件，密码保护和部分格式可能丢失。是否继续？";
+"WarningMessage_ExportToPDFWillLoseProtection" = "导出的 PDF 文件将不受密码保护。是否继续？";
+// Excel
+"Label_Selection" = "选择";
+"Label_Worksheet" = "工作表";
+"ErrMsg_NoStyleForCFRule" = "此规则没有设置格式。";
+"ErrMsg_InvalidCFRule" = "此规则没有设置任何值。";
+"Label_XlsSaveSomeItemsNotSupported" = "不支持将此工作簿的一些功能保存为 xls 格式。";
+"Label_RandomTransition" = "随机过渡";
+// pdf accessibility
+"Label_PageNumber" = "第 %d 页";
+
+/*
+ NEW STRINGS AFTER VER 4.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Label_ColumnChart" = "柱形";
+"Label_BarChart" = "条形";
+"Label_LineChart" = "直线";
+"Label_AreaChart" = "面积";
+"Label_PieChart" = "饼";
+"Label_ScatterChart" = "散点";
+"Label_Clustered" = "簇状";
+"Label_Stacked" = "堆积";
+"Label_Stacked100" = "100% 堆积";
+"Label_ScatterMarkers" = "标记";
+"Label_ScatterLines" = "直线";
+"Label_ScatterLinesMarkers" = "折线和标记";
+"Label_FeatureIsNotAvaialableForSheet" = "此项功能对此工作表不可用。";
+"Label_TextToDisplay" = "要显示的文本";
+"Label_Address" = "地址";
+
+//Accessibility strings
+"Accessibility_Label_StrikeThrough" = "删除线";
+"Accessibility_Label_TextColorOptions" = "文本颜色选项";
+"Accessibility_Label_LeftAlignment" = "靠左对齐";
+"Accessibility_Label_CenterAlignment" = "水平居中";
+"Accessibility_Label_RightAlignment" = "靠右对齐";
+"Accessibility_Label_JustifyAlignment" = "两端对齐";
+"Accessibility_Label_Increase" = "增加";
+"Accessibility_Label_Decrease" = "减少";
+"Accessibility_Label_Hours" = "小时";
+"Accessibility_Label_Minutes" = "分钟";
+"Accessibility_Label_Seconds" = "秒";
+"Accessibility_Label_Centiseconds" = "厘秒";
+"Accessibility_Label_Color_Description" = "红色 %d、绿色 %d、蓝色 %d 和透明度 %d";
+
+"Label_ShapeType_AccentBorderCallout1" = "标注 1（带边框和强调线）";
+"Label_ShapeType_AccentBorderCallout2" = "标注 2（带边框和强调线）";
+"Label_ShapeType_AccentBorderCallout3" = "标注 3（带边框和强调线）";
+"Label_ShapeType_AccentCallout1" = "标注 1（带强调线）";
+"Label_ShapeType_AccentCallout2" = "标注 2（带强调线）";
+"Label_ShapeType_AccentCallout3" = "标注 3（带强调线）";
+"Label_ShapeType_ActionButtonBackPrevious" = "后退或上一个按钮形状";
+"Label_ShapeType_ActionButtonBeginning" = "开始按钮";
+"Label_ShapeType_ActionButtonBlank" = "空白按钮";
+"Label_ShapeType_ActionButtonDocument" = "文档按钮";
+"Label_ShapeType_ActionButtonEnd" = "结束按钮";
+"Label_ShapeType_ActionButtonForwardNext" = "前进或下一个按钮形状";
+"Label_ShapeType_ActionButtonHelp" = "帮助按钮";
+"Label_ShapeType_ActionButtonHome" = "首页按钮";
+"Label_ShapeType_ActionButtonInformation" = "信息按钮";
+"Label_ShapeType_ActionButtonMovie" = "电影按钮";
+"Label_ShapeType_ActionButtonReturn" = "返回按钮";
+"Label_ShapeType_ActionButtonSound" = "声音按钮";
+"Label_ShapeType_Arc" = "曲线弧";
+"Label_ShapeType_BentArrow" = "圆角右箭头";
+"Label_ShapeType_BentConnector2" = "圆角连接符 2";
+"Label_ShapeType_BentConnector3" = "圆角连接符 3";
+"Label_ShapeType_BentConnector4" = "圆角连接符 4";
+"Label_ShapeType_BentConnector5" = "圆角连接符 5";
+"Label_ShapeType_BentUpArrow" = "直角上箭头";
+"Label_ShapeType_Bevel" = "棱台";
+"Label_ShapeType_BlockArc" = "空心弧";
+"Label_ShapeType_BorderCallout1" = "带边框标注 1";
+"Label_ShapeType_BorderCallout2" = "带边框标注 2";
+"Label_ShapeType_BorderCallout3" = "带边框标注 3";
+"Label_ShapeType_BracePair" = "大括号对";
+"Label_ShapeType_BracketPair" = "方括号对";
+"Label_ShapeType_Callout1" = "标注 1";
+"Label_ShapeType_Callout2" = "标注 2";
+"Label_ShapeType_Callout3" = "标注 3";
+"Label_ShapeType_Can" = "罐形";
+"Label_ShapeType_ChartPlus" = "加法图";
+"Label_ShapeType_ChartStar" = "星状图";
+"Label_ShapeType_ChartX" = "X 图";
+"Label_ShapeType_Chevron" = "燕尾形";
+"Label_ShapeType_Chord" = "弦形";
+"Label_ShapeType_CircularArrow" = "环形箭头";
+"Label_ShapeType_Cloud" = "云形";
+"Label_ShapeType_CloudCallout" = "标注云";
+"Label_ShapeType_Corner" = "角形";
+"Label_ShapeType_CornerTabs" = "角形制表符";
+"Label_ShapeType_Cube" = "立方体";
+"Label_ShapeType_CurvedConnector2" = "曲线连接符 2";
+"Label_ShapeType_CurvedConnector3" = "曲线连接符 3";
+"Label_ShapeType_CurvedConnector4" = "曲线连接符 4";
+"Label_ShapeType_CurvedConnector5" = "曲线连接符 5";
+"Label_ShapeType_CurvedDownArrow" = "下弧形箭头";
+"Label_ShapeType_CurvedLeftArrow" = "左弧形箭头";
+"Label_ShapeType_CurvedRightArrow" = "右弧形箭头";
+"Label_ShapeType_CurvedUpArrow" = "上弧形箭头";
+"Label_ShapeType_Decagon" = "十边形";
+"Label_ShapeType_DiagStripe" = "斜纹";
+"Label_ShapeType_Diamond" = "菱形";
+"Label_ShapeType_Dodecagon" = "十二边形";
+"Label_ShapeType_Donut" = "同心圆";
+"Label_ShapeType_DoubleWave" = "双波形";
+"Label_ShapeType_DownArrow" = "下箭头";
+"Label_ShapeType_DownArrowCallout" = "标注下箭头";
+"Label_ShapeType_Ellipse" = "椭圆形";
+"Label_ShapeType_EllipseRibbon" = "椭圆带形";
+"Label_ShapeType_EllipseRibbon2" = "椭圆带形 2";
+"Label_ShapeType_FlowChartAlternateProcess" = "可选流程";
+"Label_ShapeType_FlowChartCollate" = "整理流程";
+"Label_ShapeType_FlowChartConnector" = "连接符流程";
+"Label_ShapeType_FlowChartDecision" = "决策流程";
+"Label_ShapeType_FlowChartDelay" = "延误流程";
+"Label_ShapeType_FlowChartDisplay" = "显示流程";
+"Label_ShapeType_FlowChartDocument" = "文档流程";
+"Label_ShapeType_FlowChartExtract" = "提取流程";
+"Label_ShapeType_FlowChartInputOutput" = "输入/输出流程";
+"Label_ShapeType_FlowChartInternalStorage" = "内部存储流程";
+"Label_ShapeType_FlowChartMagneticDisk" = "磁盘流程";
+"Label_ShapeType_FlowChartMagneticDrum" = "磁鼓流程";
+"Label_ShapeType_FlowChartMagneticTape" = "磁带流程";
+"Label_ShapeType_FlowChartManualInput" = "手动输入流程";
+"Label_ShapeType_FlowChartManualOperation" = "手动操作流程";
+"Label_ShapeType_FlowChartMerge" = "合并流程";
+"Label_ShapeType_FlowChartMultidocument" = "多文档流程";
+"Label_ShapeType_FlowChartOfflineStorage" = "离线存储流程";
+"Label_ShapeType_FlowChartOffpageConnector" = "页外连接符流程";
+"Label_ShapeType_FlowChartOnlineStorage" = "在线存储流程";
+"Label_ShapeType_FlowChartOr" = "或者流程";
+"Label_ShapeType_FlowChartPredefinedProcess" = "预定义流程";
+"Label_ShapeType_FlowChartPreparation" = "准备流程";
+"Label_ShapeType_FlowChartProcess" = "进程流程";
+"Label_ShapeType_FlowChartPunchedCard" = "穿孔卡流程";
+"Label_ShapeType_FlowChartPunchedTape" = "资料带流程";
+"Label_ShapeType_FlowChartSort" = "排序流程";
+"Label_ShapeType_FlowChartSummingJunction" = "汇总连接流程";
+"Label_ShapeType_FlowChartTerminator" = "终止符流程";
+"Label_ShapeType_FoldedCorner" = "折角形";
+"Label_ShapeType_Frame" = "框架";
+"Label_ShapeType_Funnel" = "漏斗";
+"Label_ShapeType_Gear6" = "齿轮 6";
+"Label_ShapeType_Gear9" = "齿轮 9";
+"Label_ShapeType_HalfFrame" = "半闭框";
+"Label_ShapeType_Heart" = "心形";
+"Label_ShapeType_Heptagon" = "七边形";
+"Label_ShapeType_Hexagon" = "六边形";
+"Label_ShapeType_HomePlate" = "本垒板";
+"Label_ShapeType_HorizontalScroll" = "横卷形";
+"Label_ShapeType_IrregularSeal1" = "不规则封装 1";
+"Label_ShapeType_IrregularSeal2" = "不规则封装 2";
+"Label_ShapeType_LeftArrow" = "左箭头";
+"Label_ShapeType_LeftArrowCallout" = "标注左箭头";
+"Label_ShapeType_LeftBrace" = "左大括号";
+"Label_ShapeType_LeftBracket" = "左方括号";
+"Label_ShapeType_LeftCircularArrow" = "左环形箭头";
+"Label_ShapeType_LeftRightArrow" = "左右箭头";
+"Label_ShapeType_LeftRightArrowCallout" = "标注左右箭头";
+"Label_ShapeType_LeftRightCircularArrow" = "左右环形箭头";
+"Label_ShapeType_LeftRightRibbon" = "左右带形";
+"Label_ShapeType_LeftRightUpArrow" = "左右上箭头";
+"Label_ShapeType_LeftUpArrow" = "左上箭头";
+"Label_ShapeType_LightningBolt" = "闪电形";
+"Label_ShapeType_Line" = "直线";
+"Label_ShapeType_LineInv" = "反转线";
+"Label_ShapeType_MathDivide" = "除法数学";
+"Label_ShapeType_MathEqual" = "等于数学";
+"Label_ShapeType_MathMinus" = "减法数学";
+"Label_ShapeType_MathMultiply" = "乘法数学";
+"Label_ShapeType_MathNotEqual" = "不等于数学";
+"Label_ShapeType_MathPlus" = "加法数学";
+"Label_ShapeType_Moon" = "月亮";
+"Label_ShapeType_NonIsoscelesTrapezoid" = "非等腰梯形";
+"Label_ShapeType_NoSmoking" = "禁止吸烟";
+"Label_ShapeType_NotchedRightArrow" = "燕尾形箭头";
+"Label_ShapeType_Octagon" = "八边形";
+"Label_ShapeType_Parallelogram" = "平行四边形";
+"Label_ShapeType_Pentagon" = "五边形";
+"Label_ShapeType_Pie" = "饼";
+"Label_ShapeType_PieWedge" = "饼图楔形";
+"Label_ShapeType_Plaque" = "缺角矩形";
+"Label_ShapeType_PlaqueTabs" = "缺角矩形制表符";
+"Label_ShapeType_Plus" = "加法";
+"Label_ShapeType_QuadArrow" = "十字箭头";
+"Label_ShapeType_QuadArrowCallout" = "十字箭头标注";
+"Label_ShapeType_Rectangle" = "矩形";
+"Label_ShapeType_Ribbon" = "带形";
+"Label_ShapeType_Ribbon2" = "带形 2";
+"Label_ShapeType_RightArrow" = "右箭头";
+"Label_ShapeType_RightArrowCallout" = "标注右箭头";
+"Label_ShapeType_RightBrace" = "右大括号";
+"Label_ShapeType_RightBracket" = "右方括号";
+"Label_ShapeType_Round1Rect" = "单圆角矩形";
+"Label_ShapeType_Round2DiagRect" = "对角圆角矩形";
+"Label_ShapeType_Round2SameRect" = "同侧圆角矩形";
+"Label_ShapeType_RoundRectangle" = "圆角矩形";
+"Label_ShapeType_RightTriangle" = "直角三角形";
+"Label_ShapeType_SmileyFace" = "笑脸";
+"Label_ShapeType_Snip1Rect" = "剪去单角的矩形";
+"Label_ShapeType_Snip2DiagRect" = "剪去对角的矩形";
+"Label_ShapeType_Snip2SameRect" = "剪去同侧角的矩形";
+"Label_ShapeType_SnipRoundRect" = "剪去单圆角的矩形";
+"Label_ShapeType_SquareTabs" = "正方形制表符";
+"Label_ShapeType_Star10" = "十角星";
+"Label_ShapeType_Star12" = "十二角星";
+"Label_ShapeType_Star16" = "十六角星";
+"Label_ShapeType_Star24" = "二十四角星";
+"Label_ShapeType_Star32" = "三十二角星";
+"Label_ShapeType_Star4" = "四角星";
+"Label_ShapeType_Star" = "五角星";
+"Label_ShapeType_Star6" = "六角星";
+"Label_ShapeType_Star7" = "七角星";
+"Label_ShapeType_Star8" = "八角星";
+"Label_ShapeType_StraightConnector1" = "直接连接符 1";
+"Label_ShapeType_StripedRightArrow" = "虚尾箭头";
+"Label_ShapeType_Sun" = "太阳";
+"Label_ShapeType_SwooshArrow" = "飘扬形箭头";
+"Label_ShapeType_Teardrop" = "泪珠形";
+"Label_ShapeType_Trapezoid" = "梯形";
+"Label_ShapeType_Triangle" = "三角形";
+"Label_ShapeType_UpArrow" = "上箭头";
+"Label_ShapeType_UpArrowCallout" = "上箭头标注";
+"Label_ShapeType_UpDownArrow" = "上下箭头";
+"Label_ShapeType_UpDownArrowCallout" = "上下箭头标注";
+"Label_ShapeType_UturnArrow" = "手杖形箭头";
+"Label_ShapeType_VerticalScroll" = "竖卷形";
+"Label_ShapeType_Wave" = "波形";
+"Label_ShapeType_WedgeEllipseCallout" = "楔形椭圆形标注";
+"Label_ShapeType_WedgeRectCallout" = "楔形矩形标注";
+"Label_ShapeType_WedgeRRectCallout" = "楔形圆角矩形标注";
+
+"Label_FilledRoundBullets" = "实心圆形项目符号";
+"Label_HollowRoundBullets" = "空心圆形项目符号";
+"Label_FilledSquareBullets" = "实心正方形项目符号";
+"Label_HollowSquareBullets" = "空心正方形项目符号";
+"Label_StarBullets" = "星形项目符号";
+"Label_ArrowBullets" = "箭头项目符号";
+"Label_CheckmarkBullets" = "选中标记项目符号";
+
+"Label_NumbersInBrackets" = "方括号中的数字";
+"Label_LowerLettersInBrackets" = "方括号中的小写字母";
+"Label_UpperLettersWithBracket" = "带方括号的大写字母";
+"Label_UpperLettersInBrackets" = "方括号中的大写字母";
+"Label_UpperRomanNumbersWithBracket" = "带方括号的大写罗马字母";
+"Label_UpperRomanNumbersInBrackets" = "方括号中的大写罗马字母";
+"Label_LowerRomanNumbersWithBracket" = "带方括号的小写罗马字母";
+"Label_LowerRomanNumbersInBrackets" = "方括号中的小写罗马字母";
+
+"InfoTitle_AddNotes" = "连按两下以添加注释";
+
+"Label_BubbleChart" = "气泡图";
+"Label_BubbleChart3D" = "3D 气泡图";
+
+/* Up to 30 chars */
+"Label_ClearHyperlink" = "清除超链接";
+
+"Label_EnterTitle" = "输入标题";
+"Label_RemoveLink" = "移除链接";
+"Label_NumAccounting" = "会计";
+"Label_SelectCell" = "选择单元格";
+"Label_SelectSheet"= "选择工作表";
+"Label_TypeInTheCellRef" = "输入单元格引用";
+"Label_StockChart" = "股价图";
+
+/* Up to 22 chars */
+"Label_StockHLC" = "盘高—盘低—收盘图";
+
+/* Up to 22 chars */
+"Label_StockOHLC" = "开盘—盘高—盘低—收盘图";
+
+/* Up to 10 chars */
+"Label_Comment" = "评论";
+
+"Label_XlsSaveCommentsNotSupported" = "不支持将评论保存至 .XLS 文件。评论不会保存。";
+"Label_PrevComment" = "上一条评论";
+"Label_NextComment" = "下一条评论";
+"Label_EditComment" = "编辑评论";
+"Label_DeleteComment" = "删除评论";
+"Label_ClearComments" = "清除评论";
+
+/* Up to 10 chars */
+"Label_XValues" = "X 值";
+"Label_YValues" = "Y 值";
+"Label_ZValues" = "Z 值";
+
+"Label_StockChartInfo" = "股价图信息";
+"Label_HighLowClose" = "要插入此图表，请按下列顺序提供您的数据：高价、低价、收盘价。请使用日期或股票名称作为标签。";
+"Label_OpenHighLowClose" = "要插入此图表，请按下列顺序提供您的数据：开盘价、高价、低价、收盘价。请使用日期或股票名称作为标签。";
+
+"Label_Other" = "其他";
+"Label_NegativeNumbers" = "负数";
+
+"Label_Opacity" = "不透明度";
+"Label_Thickness" = "厚度";
+"Label_LineEndings" = "行尾";
+
+"ErrMsg_RequestTimeOut" = "请求超时";
+"Label_ContactSupport" = "联系支持部门";
+
+/* Up to 28 chars */
+"Label_FillSurvey" = "填写反馈表";
+
+"InfoTitle_TellUsOpinion" = "请告诉我们您对\nOfficeSuite 的看法！";
+"InfoMsg_TellUsOpinion" = "填写反馈表或直接联系我们 \n，让我们知道您的想法。";
+"Label_Feedback" = "发送反馈意见";
+
+/* Up to 20 chars */
+"Label_FeedbackForm" = "反馈表";
+
+/* Up to 28 chars */
+"Label_LikeUsOnFacebook" = "在 Facebook 上赞我们";
+
+"Label_ShareWithFriends" = "与朋友分享";
+
+/* Up to 28 chars */
+"Label_JoinOurBetaTestingGroup" = "加入我们的 Beta 测试群";
+
+"Label_BetaTesterForm" = "Beta 测试者表格";
+"Label_More" = "更多";
+
+"Label_RadarChart" = "雷达";
+"Label_RadarChartStandard" = "标准";
+"Label_RadarChartMarker" = "标记";
+"Label_RadarChartFilled" = "填充";
+
+"Label_HighLowCloseInfo" = "要插入此图表，请按下列顺序提供您的数据：高价、低价、收盘价。可以选择使用日期或股票名称作为标签。";
+
+/* Up to 72 chars */
+"Label_AgitationBarGoPremiumLongMessage" = "使用最先进的移动设备办公应用程序，完成更多工作。";
+
+"Label_AgitationBarGoPremiumShortMessage" = "获得更多功能";
+"Label_AgitationBarGoPremiumButtonText" = "了解更多";
+
+"Label_AgitationBarUpdateLongMessage" = "OfficeSuite 有可用更新";
+"Label_AgitationBarUpdateShortMessage" = "有可用更新";
+"Label_AgitationBarUpdateButtonText" = "立刻获取";
+"Label_PasteFormat" = "粘贴\n格式";
+
+"Label_3DPie" = "3D 饼图";
+"ErrMsg_SaveInOtherFormat" = "无法以当前格式保存文件。分享前请使用不同的格式保存文件。";
+
+/*
+ NEW STRINGS AFTER VER 4.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// PDF
+
+"Label_LineEndings_None" = "无";
+"Label_LineEndings_Square" = "方形";
+"Label_LineEndings_Circle" = "圆形";
+"Label_LineEndings_Diamond" = "菱形";
+"Label_LineEndings_OpenArrow" = "开放箭头";
+"Label_LineEndings_ClosedArrow" = "闭合箭头";
+"Label_NightMode" = "夜晚模式";
+
+"Label_ChoiceSelection_Multiple" = "选择选项";
+"Label_ChoiceSelection_Single" = "选择选项";
+
+"Label_LineThicknessValueFormat" = "%.0f 点"; // %.0f is replaced with the actual number programatically
+
+"Label_Done" = "完成";
+
+"Label_AddComment" = "添加评论";
+"Label_LineStart" = "行首";
+"Label_LineEnd" = "行尾";
+
+// File Browser
+"Label_ShareWithFriends" = "与好友分享";
+"InfoMsg_CannotOpenAppStoreForDownload" = "由于 App Store 不可用，下载页面无法打开。";
+
+"Label_CameraCantStartMessage" = "无法打开相机。请确保在设置菜单中允许 OfficeSuite 访问相机。";
+"Label_CameraUnavailableMessage" = "相机在 Split View 和 Slide Over 模式中不可用。";
+"ErrTitle_ConnectionProblem" = "连接问题";
+
+/* Up to 45 chars */
+"Label_EditWordDocument" = "开始编辑新的 Word 文档。";
+"Label_EditExcelDocument" = "开始编辑新的 Excel 电子表格。";
+"Label_EditPresentationDocument" = "开始编辑新的 PowerPoint 演示文稿。";
+
+"Label_CreateNewOnly" = "新建";
+
+"Label_IncreaseFontSize" = "增加字体大小";
+"Label_DecreaseFontSize" = "减小字体大小";
+
+// From windows porting
+"ErrMsg_PDFExportFailed" = "导出为 PDF 失败。";
+"Label_ZoomFitTwoPages" = "适合两页";
+"PRGRSS_PreparingString" = "正在准备...";
+
+/*
+ NEW STRINGS AFTER VER 4.2.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Lable_OpenFilesFrom" = "打开文件自";
+"Label_Account" = "帐户";
+"Label_Add" = "添加";
+
+/* Up to 80 chars
+ %@ will be replaced with a brand name, for instance
+ "Add Dropbox account to view and edit remote files".
+ Brand name length does not count towards the 80 characters limit.
+ */
+"Label_AddAccountSpotlightDescription" = "添加 %@ 的帐户来查看和编辑远程文件";
+
+"Label_TouchID" = "Touch ID";
+"Label_TouchIDEnable" = "启用 Touch ID 指纹来解锁 OfficeSuite";
+"Label_TouchProvideBiometrics"="请在设置菜单中添加至少一个指纹。";
+"InfoMsg_WarningNonEmptyPassword"="密码为空。请输入非空密码。";
+"InfoMsg_PreviewNotAvailable"="文件预览不可用。";
+"InfoPlist_shortcutTitleCreateFile" = "创建文件";
+// MobileIron Edition strings
+"Label_MobileIronEdition" = "MobileIron 版";
+
+"Label_OpenInForbidden" = "您的 %@ 管理员已禁止在此应用程序中打开文档。";
+"Label_AppNotAuthorized" = "应用程序未经授权";
+// End MobileIron Edition strings
+
+//Excel
+"Label_FractionNumberFormat"        = "分数";
+"Label_SpecialNumberFormat"         = "特殊";
+"Label_CustomNumberFormat"          = "自定义";
+
+/* Up to 28 chars */
+"Label_FractionUpToOneDigit"        = "分母为一位数 (1/4)";
+"Label_FractionUpToTwoDigits"       = "分母为两位数 (10/25)";
+"Label_FractionUpToThreeDigits"     = "分母为三位数 (300/850)";
+
+"Label_FractionUpAsHalves"          = "以 2 为分母 (1/2)";
+"Label_FractionUpAsQuarters"        = "以 4 为分母 (2/4)";
+"Label_FractionUpAsEights"          = "以 8 为分母 (4/8)";
+"Label_FractionUpAsSixteenths"      = "以 16 为分母 (8/16)";
+"Label_FractionUpAsTenths"          = "以 10 为分母 (5/10)";
+"Label_FractionUpAsHundreths"       = "以 100 为分母 (50/100)";
+
+/* Up to 28 chars */
+"Label_UseCustomDenominator"        = "使用自定义分母 (1/%ld)";
+
+"Label_FractionCustomdenominator"   = "自定义分母";
+"Label_FractionCustomDenominator"   = "自定义分母";
+"Label_Denominator"                 = "分母";
+"Label_PostCode"                    = "邮政编码";
+"Label_ZipCode(US)"                 = "邮编（美国）";
+"Label_ZipCode4(US)"                = "邮编 + 4（美国）";
+"Label_Postcode(A)"                 = "邮编（A）";
+"Label_Postcode(CH)"                = "邮编（CH）";
+"Label_Postcode(D)"                 = "邮编（D）";
+"Label_Postcode(L)"                 = "邮编（L）";
+"Label_Postcode(4digits)"           = "邮编（4 位数）";
+"Label_Postcode(5digits)"           = "邮编（5 位数）";
+"Label_Postcode(6digits)"           = "邮编（6 位数）";
+"Label_PhoneNumber"                 = "电话号码";
+"Label_SocialSecurityNumber"        = "社会保险号码";
+"Label_PdfOptions"                  = "PDF 选项";
+
+"Label_PrintHeadings"               = "打印标题";
+
+/* Up to 26 chars */
+"Label_PrintGridlines"              = "打印网格线";
+
+"Label_SelectSheets"                = "选择工作表";
+"Label_ShowHeadings"                = "显示标题";
+"Label_EmptyPage"                   = "空白页";
+
+"Label_NewComment"                  = "添加评论";
+"Label_DefineName"                  = "添加名称";
+"Label_CellRange"                   = "单元格区域";
+
+"Label_PremiumODF" = "访问开放文档格式 (ODF) 文件，包括 ODS、ODT 和 ODP。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumBinaryFormat" = "保存为旧版的 Word 和 Excel 格式，以获得最大的兼容性。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumCSV" = "将您的电子表格保存为 .CSV（逗号分隔值）文件。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumConditionalFormatting" = "基于特定标准更改单元格和单元格区域的格式。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumHyperlinks" = "创建及编辑网站和电子邮件地址的超链接。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumEditComments" = "创建及编辑 Excel 文件中的注释。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumWordToPDF" = "从当前文档快速创建 PDF。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumCameraPhoto" = "用您设备的相机对准拍摄来快速插入照片。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumAnnotatePdf" = "创建及编辑 PDF 注释和标记。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumAppProtectionPass" = "使用自定义密码限制访问 OfficeSuite。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumPDFtoWord" = "将当前 PDF 转换为完全可编辑的 Word 文档。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumPDFtoExcel" = "将当前的 PDF 转换为完全可编辑的电子表格。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumPDFtoEPub" = "将当前的 PDF 转换为 ePub 文件。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumPdfPasswordChange" = "使用自定义密码限制访问文件。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumExcelToPDF" = "从当前电子表格快速创建 PDF。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumPPTtoPDF" = "从当前演示文稿快速创建 PDF。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumFormFill" = "填写并保存可编辑的 PDF 表单。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PremiumNightMode" = "显示 PDF 为暗色背景浅色文本，以便在晚上更容易查看。作为 OfficeSuite Premium 高级版的一项功能提供。";
+"Label_PdfOptions"                  = "PDF 选项";
+
+//Apple Watch Strings
+"Label_Start" = "开始";
+"Label_Playing" = "正在放映";
+
+/* Up to 57 chars */
+"Label_ParentAppConnectivityPrompt" = "在 iPhone 版的 OfficeSuite 中打开演示文稿以继续";
+
+"Label_FromSlideNumber" = "从幻灯片 %d";
+"Label_SlideNumberOfSlideCount" = "幻灯片 %d / %d";
+"Label_Restart" = "重新开始";
+"Label_EndShow" = "结束放映";
+
+// PDF
+
+"Label_PDFContainsDigitalSignatures" = "文档包含数字签名。";
+
+// annotation tips
+"Label_ToolTip_Note" = "轻按要添加注释的地方";
+"Label_ToolTip_FreeText" = "轻按要添加文本的地方";
+"Label_ToolTip_Highlight" = "在文本上拖动以突出显示";
+"Label_ToolTip_Underline" = "在文本上拖动以添加下划线";
+"Label_ToolTip_Strikethrough" = "在文本上拖动以添加删除线";
+"Label_ToolTip_FreeDraw" = "自由拖动进行绘制";
+"Label_ToolTip_Line" = "轻按并拖动以创建线条";
+"Label_ToolTip_Rectangle" = "轻按并拖动以创建矩形";
+"Label_ToolTip_Ellipse" = "轻按并拖动以创建椭圆";
+
+
+"Label_ProtectYourDocumentsTitle" = "保护您的文档";
+"Label_ProtectYourDocumentsInfo" = "添加密码并使用 Touch ID 限制访问 OfficeSuite。";
+"Label_AnnotatePdfAndFillFormsTitle" = "注释 PDF 及填写表单";
+"Label_AnnotatePdfAndFillFormsInfo" = "创建及编辑注释、填写并保存可编辑的 PDF 表单";
+"Label_SaveAsPDFTitle" = "另存为 PDF";
+"Label_SaveAsPDFInfo" = "从 Word、Excel、PowerPoint 创建 PDF 且不丢失格式。";
+"Label_EditPDFDocumentsTitle" = "编辑 PDF 文档";
+"Label_EditPDFDocumentsInfo" = "将任何 PDF 转换为完全可编辑的 Word、Excel 或 ePub 文件";
+"Label_SaveAsLegacyFormatsTitle" = "另存为旧版的 Microsoft 格式";
+"Label_SaveAsLegacyFormatsInfo" = "保存您的文档为 .DOC 和 .XLS，以获得最大的兼容性。";
+"Label_OpenODFDocumentsTitle" = "打开 ODF 文档";
+"Label_OpenODFDocumentsInfo" = "读取.odt、ods 和.odp 文件";
+"Label_GetExtraFontsTitle" = "获取额外字体";
+"Label_GetExtraFontsInfo" = "70 多种基本字体，例如 Tahoma、Calibri 和 Wingdings";
+"Label_RemoveAdsTitle" = "移除广告";
+"Label_RemoveAdsInfo" = "享受无广告的 OfficeSuite";
+
+
+"Label_PremiumPowerPointEditNotes" = "在您的幻灯片中创建及编辑演讲者备注。作为 OfficeSuite Premium 高级版的一项功能提供。";
+
+/***************************************************************************************************
+ 
+ TRANSLATION ENDS HERE. STRINGS BELOW MAY BE EDITED.
+ 
+ **************************************************************************************************/
+
+/*
+ NEW STRINGS AFTER VER 4.3
+ 
+ STRINGS MAY BE EDITED.
+ */
+
+/* Up to 14 chars, "free" as "arbitrary", "user-generated"  */
+"Label_FreeText" = "Text";

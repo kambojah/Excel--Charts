@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+"Create File" = "फ़ाइल बनाएँ";
+kSTRING_NEW_FROM_TEMPLATES = "टेम्पलेट से नया";

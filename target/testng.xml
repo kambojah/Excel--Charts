@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Excel Charts Test" configfailurepolicy="continue">
+
+    <parameter name="automationName"    value="XCUITest"/>
+    <parameter name="platformName"      value="iOS"/>
+    <parameter name="iosVersion"        value="10.3.1"/>
+    <parameter name="deviceName"        value="QA Air 2"/>
+    <parameter name="bundleID"          value="com.mobisystems.OfficeSuite"/>
+    <parameter name="deviceUDID"        value="1ff3ca8785493b460ccbdab2fc913e9e0b58032a"/>
+    <parameter name="outputPath"        value="Screenshots"/>
+    <parameter name="localePath"        value="/Users/pavelpopov/Desktop/Automation/Excel/Charts/Strings"/>
+    <parameter name="language"          value="en"/>
+
+    <parameter name="pdfngreport-properties" value="/Users/pavelpopov/Desktop/Automation/Excel/Charts/src/main/resources/pdfngreport.properties" />
+
+    <listeners>
+        <listener class-name="com.uttesh.pdfngreport.PDFReportListener" />
+    </listeners>
+
+
+    <test name="Test Data">
+        <parameter name="startingTab" value="data"/>
+        <classes>
+            <class name="com.mobisystems.automation.excel.data.TestData"/>
+        </classes>
+    </test>
+
+    <test name="Area Charts">
+        <parameter name="startingTab" value="area"/>
+        <classes>
+            <class name="com.mobisystems.automation.excel.area.AreaStacked100"/>
+        </classes>
+    </test>
+</suite>

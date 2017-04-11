@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+"Create File" = "ファイルを作成";
+kSTRING_NEW_FROM_TEMPLATES = "テンプレートから新規作成";

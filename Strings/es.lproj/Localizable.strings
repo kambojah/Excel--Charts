@@ -1,0 +1,3020 @@
+/* 
+  Localizable.strings
+  Office Suite Pro
+
+  Created by Vladimir Grigorov on 7/26/12.
+  Copyright (c) 2012 Mobile Systems, Inc. All rights reserved.
+*/
+
+/*
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Untitled" = "Sin título";
+"Label_Error" = "Error";
+"Label_OK" = "Aceptar";
+"Label_Cancel" = "Cancelar";
+"Label_Confirmation" = "Confirmación";
+"Label_Enter" = "Introducir";
+"Label_Password" = "Contraseña";
+"Label_DontSave" = "No guardar";
+"Label_Save" = "Guardar";
+"Label_SaveAs" = "Guardar como";
+"Label_UndoRedoTitle" = "Deshacer/Rehacer";
+"Label_Undo" = "Deshacer";
+"Label_Redo" = "Rehacer";
+"Label_Copy" = "Copiar";
+"Label_Paste" = "Pegar";
+"Label_Cut" = "Cortar";
+"Label_Clear" = "Borrar";
+"Label_Insert" = "Insertar";
+"Label_Delete" = "Eliminar";
+"Label_Functions" = "Funciones";
+"Label_Recalculate" = "Recalcular";
+"Label_Hide" = "Ocultar";
+"Label_Unhide" = "Mostrar";
+"Label_Autofit" = "Ajustar";
+"Label_Goto" = "Ir a...";
+"Label_GoToCell" = "Ir a celda";
+"Label_ReferenceNotValid" = "Referencia no válida.";
+"Label_GoToPage" = "Ir a página";
+"Label_EnterPageNumber" = "Número de página (1 - %d)";
+"Label_CellAddress" = "Introduzca las coordenadas de celda:";
+"Label_Previous" = "Anterior";
+"Label_Next" = "Siguiente";
+"Label_Replace" = "Reemplazar";
+"Label_Done" = "Listo";
+"Label_search" = "Buscar";
+"Label_SearchOptions" = "Opciones de búsqueda";
+"Label_replace" = "reemplazar";
+
+/* Up to 26 chars */
+"Label_MatchCase" = "Mayúsculas y minúsculas";
+
+"Label_MatchWholeWords" = "Coincidir palabras completas";
+
+/* Up to 22 chars */
+"Label_MatchEntireCell" = "Coincidir con toda la celda";
+
+"Label_Values" = "Valores";
+"Label_Formulas" = "Fórmulas";
+"Label_Options" = "Opciones";
+"Label_LookIn" = "Buscar en";
+"Label_Rows" = "Filas";
+"Label_Columns" = "Columnas";
+"Label_Back" = "Atrás";
+"Label_Menu" = "Menú";
+"Label_Fx" = "Fx";
+"Label_Zoom" = "Zoom";
+"Label_ZoomPercentage" = "Zoom: $1";
+"Label_ZoomFit" = "Ajustar a ancho";
+"Label_Search" = "Buscar";
+"Label_Help" = "Ayuda";
+"Label_About" = "Acerca de";
+"Label_Keyboard" = "Teclado";
+"Label_Settings" = "Configuración";
+"Label_SettingAutoCorrect" = "Autocorrección";
+
+"Button_Font" = "Fuente";
+"Button_Cell" = "Celda";
+"Button_Number" = "Número";
+"Button_Paragraph" = "Párrafo";
+"Label_Horizontal" = "Horizontal";
+"Label_Vertical" = "Vertical";
+"Label_Indent" = "Sangría";
+"Label_Style" = "Estilo";
+"Label_Color" = "Color";
+"Label_BorderThin" = "Fino";
+"Label_BorderMedium" = "Medio";
+"Label_BorderThick" = "Grueso";
+"Label_NumGeneral" = "General";
+"Label_NumNumber" = "Número";
+"Label_NumCurrency" = "Moneda";
+"Label_NumDate" = "Fecha";
+"Label_NumTime" = "Hora";
+"Label_NumPercentage" = "Porcentaje";
+"Label_NumScientific" = "Científico";
+"Label_NumText" = "Texto";
+
+/* Up to 16 chars */
+"Label_NumDecimalPlaces" = "Posiciones decimales";
+
+/* Up to 28 chars */
+"Label_NumThousandSeparator" = "Utilizar separador de miles";
+
+"Label_CurrencyNone" = "Ninguno";
+"Label_Font" = "Fuente";
+"Label_Fonts" = "Fuentes";
+"Label_FontFamilies" = "Familias de fuentes";
+"Label_FontFamily" = "Nombre de fuente:";
+"Label_FontSize" = "Tamaño de fuente";
+"Label_FontTextColor" = "Color del texto"; 
+"Label_FontBgColor" = "Color de celda";
+"Label_FontHighlightColor" = "Color de resaltado";
+"Label_FontBold" = "Negrita";
+"Label_FontItalic" = "Cursiva";
+"Label_Fill" = "Relleno";
+"Label_Highlight" = "Resaltar";
+
+/* Up to 16 chars */
+"Label_LineSpacing" = "Interlineado";
+
+"Label_TextAlignmentLeft" = "Izquierda";
+"Label_TextAlignmentCenter" = "Centro";
+"Label_TextAlignmentRight" = "Derecha";
+"Label_TextAlignmentJustified" = "Justificado";
+"Label_Lists" = "Listas";
+"Label_ListTypeNone" = "Ninguno";
+"Label_ListTypeBullet" = "Viñetas";
+"Label_ListTypeNumbered" = "Numerada";
+
+"Label_Top" = "Superior";
+"Label_Bottom" = "Inferior";
+
+"Label_PasswordProtectedDocument" = "Documento protegido con contraseña";
+"Label_EnterPassword" = "Introducir contraseña";
+
+"Err_UnsupportedFile" = "Archivo no válido o formato no admitido.";
+"Err_IO_Error" = "Error de E/S";
+"Err_OutOfMemory" = "Sin memoria";
+
+"Label_Edition" = "Edición profesional";
+"Label_Version" = "Versión";
+"Label_Website" = "Sitio Web";
+"Label_Facebook" = "Facebook";
+"Label_AppStore" = "Clasificación en App Store";
+"Label_LibsUsed" = "Bibliotecas utilizadas";
+
+"PRGRSS_LoadingString" = "Cargando...";
+"PRGRSS_SavingString" = "Guardando...";
+"PRGRSS_SearchingString" = "Buscando...";
+
+/* 
+   All ErrClass strings are used together with other strings,
+   that's why the space at the end is important
+ 
+   THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrClass_NewFileString" = "No se ha podido crear el archivo. ";
+"ErrClass_LoadFileString" = "No se ha podido cargar $1. ";
+"ErrClass_RestoreFileString" = "No se ha podido restaurar el documento. ";
+"ErrClass_SaveFileString" = "No se ha podido guardar el archivo. ";
+"ErrClass_CellTextString" = "No se ha podido cambiar el texto de la celda. ";
+"ErrClass_PasteString" = "No se ha podido pegar. ";
+"ErrClass_ClearString" = "No se ha podido borrar. ";
+"ErrClass_CopyString" = "No se ha podido copiar ";
+"ErrClass_CutString" = "No se ha podido cortar la sección. ";
+"ErrClass_SetSheetString" = "No se ha podido modificar la hoja activa. ";
+"ErrClass_UndoString" = "No se puede deshacer. ";
+"ErrClass_RedoString" = "No se puede rehacer. ";
+"ErrClass_FormatString" = "No se ha podido aplicar el formato. ";
+"ErrClass_InsertRowString" = "No se han podido insertar las filas. ";
+"ErrClass_InsertColString" = "No se han podido insertar las columnas. ";
+"ErrClass_FormulaString" = "Error de fórmula. ";
+"ErrClass_GotoString" = "Error al ir a. ";
+"ErrClass_HideUnhideString" = "No se ha podido ocultar/mostrar. ";
+"ErrClass_ResizeString" = "No se ha podido cambiar el tamaño. ";
+"ErrClass_DeleteRowsString" = "No se han podido eliminar las filas. ";
+"ErrClass_DeleteColsString" = "No se han podido eliminar las columnas. ";
+"ErrClass_ZoomString" = "No se ha podido ir a zoom. ";
+"ErrClass_AddSheetString" = "No se ha podido insertar la hoja. ";
+"ErrClass_RenameSheetString" = "No se ha podido cambiar de nombre la hoja. ";
+"ErrClass_DeleteSheetString" = "No se ha podido eliminar la hoja. ";
+"ErrClass_FindString" = "No se ha podido encontrar una correspondencia. ";
+"ErrClass_ReplaceString" = "No se ha podido sustituir. ";
+
+
+"Err_UnknownString" = "Se ha producido un error desconocido.";
+"Err_InternalString" = "Error interno.";
+"Err_NoMemDynString" = "Memoria dinámica insuficiente.";
+"Err_NoMemStgString" = "Memoria de almacenamiento insuficiente.";
+"ErrDoc_BadPasswordString" = "Contraseña no válida."; // also used in PDF
+"ErrDoc_Load_UnsupportedString" = "Versión de archivo no admitida.";
+"ErrDoc_Load_FailedToOpenGeneralTitle" = "No se ha podido abrir el archivo.";
+"ErrDoc_Load_ReturningToFileManagerString" = "Debemos volver al administrador de archivos.";
+"ErrDoc_Load_Bad_FileString" = "Archivo dañado.";
+"ErrDoc_Load_EncryptionString" = "Tipo de cifrado no admitido. El cifrado admitido es el esquema \"office 97/2000 compatible\".";
+"ErrDoc_Load_EncryptionNotImplemented" = "Los archivos protegidos con contraseña no se admiten aún.";
+"ErrDoc_Load_InvalidXlsString" = "Formato XLS no válido.";
+"ErrDoc_Save_Bad_Destination" = "No se puede acceder a la carpeta de destino o está llena. Intente guardar en otra ubicación.";
+"Confirm_Find_Start_OverString" = "Ha llegado al final del documento. ¿Desea seguir buscando desde el principio?";
+"ErrPaste_Area_Not_SameString" = "Las áreas de copia y pegado no son iguales.";
+"ErrSheet_ExistsString" = "Ya existe una hoja con el mismo nombre.";
+"ErrSheet_LockedString" = "No se puede ejecutar el comando porque la hoja está protegida.";
+"Confirm_DeleteSheetString" = "¿Seguro que desea eliminar las hojas seleccionadas?";
+"ErrFile_Illegal_NameString" = "El nombre introducido no es válido.";
+"InfFind_No_MatchesString" = "No se han encontrado coincidencias."; // also used in PPT & PDF
+"InfFind_No_More_MatchesString" = "No se han encontrado más coincidencias."; // also used in PPT & PDF
+"ErrCateg_MinimumOneString" = "No puede eliminar todas las hojas.";
+"Err_CellsNotEmptyString" = "Las últimas celdas no están vacías.";
+"ErrFormula_ErrorString" = "Error de fórmula desconocido.";
+"ErrFormula_NotAFormulaString" = "Fórmula no válida.";
+"ErrFormula_MissingOperandString" = "Falta un operando.";
+"ErrFormula_MissingOperatorString" = "Falta un operador.";
+"ErrFormula_IllegalTokenString" = "Símbolo (token) no válido.";
+"ErrFormula_MissingQuoteString" = "Faltan comillas ( \" ).";
+"ErrFormula_MissingArrayCloseString" = "Falta paréntesis de cierre de variable ' } '.";
+"ErrFormula_IllegalIdentifierString" = "Identificador no válido.";
+"ErrFormula_IconsistentArrayString" = "Variable incoherente.";
+"ErrFormula_MissingArrayEltString" = "Falta elemento de variable.";
+"ErrFormula_IllegalArrayEltString" = "Elemento de variable no válido.";
+"ErrFormula_MissingFuncCloseString" = "Falta paréntesis de función de variable ' ) '.";
+"ErrFormula_DeepFuncNestingString" = "Demasiados niveles de anidamiento de la función.";
+"ErrFormula_UnknownFunctionString" = "Función desconocida.";
+"ErrFormula_MissingSingleQuoteString" = "Falta comilla simple ( ' ).";
+"ErrFormula_CircularReferenceString" = "Referencia circular.";
+"ErrFormula_UnknownEvalErrorString" = "Error de evaluación desconocido.";
+"ErrFormula_NotEnoughArgumentsString" = "No hay suficientes argumentos.";
+"ErrFormula_TooMuchArgumentsString" = "Hay demasiados argumentos.";
+"ErrFormula_InitDependencesFailedString" = "Error en configuración de fórmula. No se calcularán las fórmulas.";
+"Confirm_SelectionTypeString" = "Seleccione el tipo de elementos que se van a procesar.";
+
+
+"FUNCCAT_CommonString" = "Comunes";
+"FUNCCAT_AllString" = "Todo";
+"FUNCCAT_DatabaseString" = "Base de datos";
+"FUNCCAT_InformationString" = "Información";
+"FUNCCAT_LogicalString" = "Lógica";
+"FUNCCAT_MathString" = "Matemática";
+"FUNCCAT_DateTimeString" = "Fecha y hora";
+"FUNCCAT_StatisticalString" = "Estadística";
+"FUNCCAT_FinancialString" = "Financiera";
+"FUNCCAT_LookRefString" = "Buscar y ref.";
+"FUNCCAT_TextString" = "Texto";
+
+
+"CONFIRM_DeleteSheet" = "Se eliminará $1. ¿Continuar?";
+"CONFIRM_SaveFile" = "¿Guardar cambios en $1?";
+"CONFIRM_CsvDataLoss" = "Este formato no admite varias hojas, fórmulas, formatos, objetos y otras funciones. Solamente se guardará la hoja activa. ¿Desea continuar?";
+
+"Label_ExcelWorkbook" = "Libro Excel";
+"Label_Excel97Workbook" = "Libro Excel 97-2003";
+"Label_CommaDelimited" = "Delimitado por comas";
+"Label_CsvDataLoss" = "Este formato no admite varias hojas, fórmulas, formatos, objetos y otras funciones. Solamente se guardará la hoja activa.";
+"Label_ChartsheetsUnsupported" = "Esta es una hoja de gráfico. Por el momento no se admiten los gráficos.";
+
+"Label_ChooseCSVDelims" = "Elija delimitadores CSV";
+"Label_Column_Delim" = "Delimitador de columnas:";
+"Label_Decimal_Delim" = "Delimitador decimal:";
+"Label_Decimal_Dot" = "Punto (.)";
+"Label_Decimal_Comma" = "Coma (,)";
+"Lable_CSV_Delim_Warning" = "Elija un delimitador de columnas.";
+
+"Label_BorderStyle" = "Estilo de borde";
+"Label_Borders" = "Bordes";
+
+/* Up to 20 chars */
+"Label_Slideshow" = "Presentación";
+
+"Label_AdvanceSlides" = "Avance de diapositivas";
+"Label_Manually" = "Manualmente";
+"Label_Automatically" = "Automáticamente";
+"Label_SlideshowDelayFormat" = "%d seg.";
+"Label_StartSlideshow" = "Iniciar presentación";
+"Label_Delay" = "Retraso";
+"Label_Notes" = "Notas";
+"Label_TableOfContents" = "Tabla de contenido";
+
+
+"Label_Home" = "Inicio";
+"Label_Documents" = "Documentos";
+"Label_Cloud" = "Nube";
+"Label_Prev" = "Anterior";
+"Label_Storage" = "Almacenamiento";
+"Label_OfficeSuite" = "OfficeSuite";
+"Label_Create" = "Crear";
+"Label_CreateNew" = "Crear nueva...";
+"Label_NewFolder" = "Nueva carpeta";
+
+/* Up to 10 chars */
+"Label_Rename" = "Renombrar";
+
+"Label_Close" = "Cerrar";
+"Label_Properties" = "Propiedades";
+
+/* Up to 22 chars */
+"Label_RemoteAccounts" = "Cuentas remotas";
+"Label_RemoteAccountsCap" = "CUENTAS REMOTAS";
+
+"Label_OpenIn" = "Abrir en...";
+"Label_Extract" = "Extraer";
+"Label_ExtractTo" = "Extraer en";
+"Label_Edit" = "Editar";
+"Label_Play" = "Reproducir";
+"Label_Stop" = "Detener";
+"Label_Unknown" = "Desconocido";
+"Label_TypeWordDocument" = "Documento";
+"Label_TypeExcelSpreadsheet" = "Hoja";
+"Label_TypePowerPointPresentation" = "Presentación";
+"Label_TypePDFFile" = "Archivo PDF";
+"Label_TypeZipArchive" = "Archivo ZIP";
+"Label_TypeImage" = "Imagen";
+"Label_TypeVideo" = "Vídeo";
+"Label_TypeAudio" = "Audio";
+"Label_TypeFolder" = "Carpeta";
+"Label_SearchResults" = "Resultados de la búsqueda";
+
+/* Para el cuadro de diálogo Propiedades de archivo */
+"Label_Type" = "Tipo";
+"Label_Size" = "Tamaño";
+"Label_Date" = "Fecha";
+"Label_Path" = "Ruta";
+
+/*
+    THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Label_Share" = "Compartir";
+"Label_Recover" = "Recuperar";
+"Label_Relink" = "Reconectar";
+"Label_Later" = "Más tarde";
+"Label_UseICloud" = "Utilizar iCloud";
+"Label_ContinueUsingICloud" = "Seguir utilizando iCloud";
+"Label_KeepLocalCopy" = "Mantener una copia local";
+"Label_KeepOnICloudOnly" = "Mantener solo en iCloud";
+
+"ErrTitle_CopyError" = "Error al copiar";
+"ErrTitle_PasteError" = "Error al pegar";
+"ErrTitle_DownloadError" = "Error al descargar";
+"ErrTitle_DeleteError" = "Error al eliminar";
+"ErrTitle_RenameFailed" = "No se ha podido cambiar el nombre";
+"ErrTitle_UploadFailed" = "No se ha podido cargar";
+"ErrTitle_FileExists" = "Ya existe %@";
+"ErrTitle_NoItemsSelected" = "No se ha seleccionado ningún elemento";
+"ErrTitle_Error" = "Error";
+"ErrTitle_CreateFolder" = "No se ha podido crear la carpeta";
+"ErrTitle_CannotPlayFile" = "No se puede reproducir el archivo";
+"ErrTitle_SessionEnded" = "Fin de la sesión";
+"ErrTitle_NoInternet" = "No hay una conexión a Internet";
+"ErrTitle_FileNameEmpty" = "El nombre de archivo está vacío";
+
+"WarningTitle_Warning" = "Advertencia";
+"WarningTitle_CloseDocument" = "Cerrar documento actual";
+"WarningTitle_ConfirmDeletion" = "Confirmar eliminación";
+
+"InfoTitle_NotUsingICloud" = "Se ha desactivado iCloud";
+"InfoTitle_iCloudAvailable" = "iCloud está disponible";
+"InfoTitle_UnsupportedFile" = "Archivo no admitido";
+"InfoTitle_CannotSendMail" = "No se puede enviar el mensaje de correo electrónico";
+"InfoTitle_iCloudOn" = "iCloud está activado";
+"InfoTitle_iCloudOff" = "iCloud está desactivado";
+"InfoTitle_DocumentRecovery" = "Recuperación de documentos";
+"InfoTitle_DisplayFile" = "No se puede mostrar el archivo";
+"InfoTitle_Info" = "Información";
+
+"ErrMsg_SameFolderCopy" = "No se copiará la carpeta %@. Se trata de una subcarpeta de la carpeta de destino.";
+"ErrMsg_FileExists" = "Ya existe una %@ llamada %@. ¿Desea reemplazarla?";
+"ErrMsg_FileRename" = "Ya existe una %@ llamada %@. Elija un nombre distinto.";
+"ErrMsg_PasteError" = "Se ha producido un error al pegar %@. Error: %@";
+"ErrMsg_ReadFile" = "No se ha podido leer el archivo %@.";
+"ErrMsg_DeleteFile" = "No se ha podido eliminar el archivo %@.";
+"ErrMsg_UploadFailed" = "No se ha podido cargar el archivo. Intente guardarlo en otra ubicación.";
+"ErrMsg_SelectItems" = "Seleccione algunos elementos.";
+"ErrMsg_DocumentLoad" = "No se ha podido cargar el documento %@.";
+"ErrMsg_FileNotFound" = "No se ha encontrado el archivo %@.";
+"ErrMsg_InternetOffline" = "No hay una conexión a Internet.";
+"ErrMsg_UnknownError" = "Se ha producido un error desconocido";
+"ErrMsg_CannotOpenFile" = "No se puede abrir el archivo %@. Error: %@";
+"ErrMsg_PlayingAudio" = "Se ha producido un error al reproducir el archivo de audio.";
+"ErrMsg_SuggestRelink" = "¿Desea volver a conectar?";
+"ErrMsg_NeedsRelink" = "Debe volver a conectarse para continuar utilizando su cuenta.";
+"ErrMsg_UnrecognizedPath" = "Ruta no reconocida.";
+"ErrMsg_CannotCopyFolder" = "No se ha podido copiar la carpeta %@.";
+"ErrMsg_CannotUploadFile" = "No se ha podido cargar el archivo con la ruta completa %@";
+"ErrMsg_PasteInSameFolder" = "Está intentando pegar en la carpeta de origen.";
+"ErrMsg_InvalidFileName" = "El nombre de archivo no puede empezar por '.'.";
+"ErrMsg_TryAgainWhenHavingInternet" = "Inténtelo de nuevo cuando disponga de una conexión a Internet.";
+"ErrMsg_FileNameEmpty" = "El nombre de archivo no puede estar vacío.";
+
+"InfoMsg_DocsStoredInICloud" = "Se han eliminado sus documentos de este dispositivo pero siguen almacenados en iCloud.";
+"InfoMsg_UseICloud" = "Almacene automáticamente sus documentos en la nube para mantenerlos actualizados en todos sus dispositivos y en la Web.";
+"InfoMsg_UnsupportedFile" = "Formato de archivo no admitido.";
+"InfoMsg_CheckMainConf" = "Compruebe su configuración de correo electrónico";
+"InfoMsg_NotUsingICloud" = "¿Qué desea hacer con los documentos almacenados en este dispositivo?";
+"InfoMsg_iCloudOn" = "iCloud está ahora activado. Elija una ubicación y un nombre para guardar el archivo en iCloud.";
+"InfoMsg_iCloudOff" = "iCloud está ahora desactivado. Elija una ubicación y un nombre para guardar el archivo en el dispositivo.";
+"InfoMsg_DocumentRecovery" = "Se ha producido un problema con el último documento abierto. ¿Desea recuperarlo?";
+"InfoMsg_ProcessingICloudFiles" = "Procesando archivos iCloud...";
+"InfoMsg_CannotSendFolders" = "No se pueden enviar las carpetas. Utilice en su lugar la opción Comprimir y enviar.";
+"InfoMsg_SwitchOnICloudFromSettings" = "La copia de seguridad de documentos en iCloud no está activada actualmente en su dispositivo. Vaya a Configuración -> iCloud para activarla.";
+
+"WarningMsg_CloseDocument" = "Tiene un documento abierto. ¿Desea cerrarlo?";
+"WarningMsg_DeleteItem" = "¿Seguro que desea eliminar este elemento?";
+"WarningMsg_DeleteItems" = "¿Seguro que desea eliminar estos elementos?";
+"WarningMsg_UploadInterrupted" = "No se ha podido cargar el archivo. Guárdelo de nuevo.";
+"WarningMsg_PasteInterrupted" = "No se ha podido pegar.";
+"WarningMsg_DeleteInterrupted" = "No se ha podido eliminar.";
+"WarningMsg_RenameInterrupted" = "No se ha podido cambiar el nombre.";
+"WarningMsg_LoadFileListInterrupted" = "No se ha podido cargar el contenido del archivo.";
+
+"DetailString_file" = "archivo";
+"DetailString_folder" = "carpeta";
+"DetailString_File" = "Archivo";
+"DetailString_Folder" = "Carpeta";
+
+
+"PRGRSS_CopyICloudToLocal" = "Copiando archivos de iCloud al dispositivo...";
+"PRGRSS_CreateFolder" = "Creando carpeta";
+"PRGRSS_CopyFile" = "Copiando el archivo %@...";
+"PRGRSS_Moving" = "Moviendo";
+"PRGRSS_Copying" = "Copiando";
+"PRGRSS_PreparePaste" = "Preparando para pegar";
+"PRGRSS_Fetching" = "Recopilando";
+"PRGRSS_CreatingFolder" = "Creando carpeta";
+"PRGRSS_UploadingFile" = "Cargando archivo";
+"PRGRSS_Deleting" = "Eliminando";
+"PRGRSS_LoadingAccountInfo" = "Cargando información de cuenta...";
+"PRGRSS_LoadingFileList" = "Cargando lista de archivos...";
+"PRGRSS_LoadingFile" = "Cargando archivo...";
+"PRGRSS_RenamingFile" = "Cambiando de nombre el archivo";
+"PRGRSS_LoadingProperties" = "Cargando propiedades";
+"PRGRSS_Extracting" = "Extrayendo";
+"PRGRSS_PleaseWait" = "Espere";
+"PRGRSS_ForBigICloudFolders" = "para carpetas grandes de iCloud";
+
+	/*
+		Default names for new file and folder
+	 */
+
+"Name_NewFile" = "Sin título";
+"Name_NewFolder" = "Carpeta sin título";
+
+/* 
+    NEW STRINGS AFTER VER 2.3 
+ 
+    THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Print" = "Imprimir";
+"Label_WebSearch" = "Buscar en la web";
+"Label_Dictionary" = "Diccionario";
+"Label_Open" = "Abrir";
+"Label_LinkURL" = "Enlace";
+"Label_LinkName" = "Mostrar";
+"Label_Bookmark" = "Marcador";
+"Label_Section" = "Sección";
+"Label_NumberOfColumns" = "Número de columnas";
+"Label_AddSectionBreak" = "Añadir salto de sección";
+"Label_Tools" = "Herramientas";
+"Label_PrintAndShare" = "Imprimir y Compartir";
+"Label_OpenInAnotherApp" = "Abrir en otra app";
+"Label_Accounts"= "Cuentas";
+"Label_EmailDocument" = "Enviar documento por correo";
+"Label_EmailDocuments" = "Enviar documentos por correo";
+
+/* Up to 30 chars */
+"Label_ZipAndEmailDocument" = "Comprimir y enviar documento";
+
+/* Up to 30 chars */
+"Label_ZipAndEmailDocuments" = "Comprimir y enviar documentos";
+
+/* Up to 14 chars */
+"Label_TextSize" = "Tamaño de texto";
+
+"Label_RecentFilesCap" = "ARCHIVOS RECIENTES";
+"Label_Document" = "Documento";
+"Label_Spreadsheet" = "Hoja de cálculo";
+"Label_Presentation" = "Presentación";
+"Label_PDF" = "PDF";
+"ErrTitle_CannotSaveFile" = "No se puede guardar archivo";
+"InfoTitle_AttachFile" = "¿Adjuntar archivo?";
+"InfoTitle_SendCrashReport" = "¿Enviar informe sobre el fallo?";
+"InfoTitle_CrashReportMailSubject" = "Informe sobre el fallo y archivos de registro";
+"InfoTitle_NoAvailableApps" = "No hay aplicaciones disponibles";
+"InfoTitle_SelectOnlyOneFile" = "Seleccione un archivo";
+"ErrMsg_NoPermissionToCreate" = "No hay permiso para crear %@ %@";
+"ErrMsg_NoPermissionToSaveFile" = "No hay permiso para guardar el archivo. Intente hacerlo en otra ubicación.";
+"ErrMsg_InvalidCharInFileName" = "Caracteres no válidos en el nombre.";
+"ErrMsg_GeneralFileNameError" = "Nombre de archivo no válido.";
+"InfoMsg_AttachFile" = "¿Desea adjuntar %@ al informe? Su archivo puede ayudarnos a identificar la causa del error.";
+"InfoMsg_SendCrashReport" = "Generar y enviar un informe sobre el fallo para ayudar a mejorar OfficeSuite.";
+"InfoMsg_CrashReportMailMessage" = "¡OfficeSuite se bloqueó cuando lo utilicé la última vez!";
+"InfoMsg_NoAvailableApps" = "No hay aplicaciones instaladas que puedan abrir este formato de archivo.";
+"InfoMsg_SelectOnlyOneFile" = "Por favor, seleccione solo un archivo para abrir en otra aplicación.";
+
+"InfoMsg_SelectRightEncoding" = "Seleccione la codificación que permita leer el texto:";
+"Label_Encoding" = "Codificación";
+"Label_Preview" = "Vista previa";
+"Encoding_EasternEuropean" = "Centroeuropeo";
+"Encoding_WesternEuropean" = "Europa Occidental";
+"Encoding_NorthEuropean" = "Europa del Norte";
+"Encoding_SouthEuropean" = "Europa del Sur";
+"Encoding_Cyrillic" = "Cirílico";
+"Encoding_Greek" = "Griego";
+"Encoding_Turkish" = "Turco";
+"Encoding_Baltic" = "Báltico";
+"Encoding_Latin9" = "Latín-9";
+"Encoding_Russian" = "Ruso";
+"Encoding_Arabic" = "Árabe";
+"Encoding_Vietnamese" = "Vietnamita";
+"Encoding_Japanese" = "Japónés";
+"Encoding_Korean" = "Coreano";
+"Encoding_ChineseSimplified" = "Chino simplificado";
+"Encoding_ChineseTraditional" = "Chino tradicional";
+"Encoding_ChineseTraditionalHK" = "Chino tradicional con extensiones de Hong Kong";
+"Encoding_Thai" = "Tailandés";
+"Encoding_Hebrew" = "Hebreo";
+"Encoding_Indic" = "Indio";
+"Encoding_Unicode" = "Unicode";
+"Encoding_UnicodeBE" = "Unicode Big Endian";
+"Encoding_UnicodeLE" = "Unicode Little Endian";
+
+"Label_Email" = "Enviar por correo";
+"Label_ZipAndEmail" = "Comprimir y enviar por correo";
+
+
+/*
+ NEW STRINGS AFTER VER 3.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_PasswordProtectionLoss" = "El archivo no tendrá la protección mediante contraseña si lo guarda en otro formato.";
+"Label_Freeze" = "Inmovilizar";
+"Label_Unfreeze" = "Liberar";
+"Label_SortMenu" = "Ordenar...";
+"Label_Sort" = "Ordenar";
+
+/* Up to 26 chars */
+"Label_CaseSensitive" = "Distinguir Mayús./Minús.";
+
+"Label_RowNo" = "Fila %d";
+"Label_ColumnNo" = "Columna %S";
+"Label_SortBy" = "Ordenar por";
+"Label_ThenSortBy" = "Luego por";
+"Label_Ascending" = "Orden ascendente";
+"Button_Columns" = "Columnas";
+"Button_Rows" = "Filas";
+
+"Label_RemoveAds" = "Quitar publicidad";
+
+"ErrorTitle_CannotZipFile" = "Error de compresión";
+"ErrorMsg_CannotZipFile" = "No se puede comprimir el archivo.";
+
+"Label_On" = "Act.";
+"Label_Off" = "Desact.";
+
+/* Up to 20 chars */
+"Label_SettingSpellCheck" = "Corrección ortográfica";
+
+"Label_Language" = "Idioma";
+"Label_LearnedWords" = "Palabras añadidas";
+"Label_LearnWord" = "Añadir palabra";
+"Label_UnLearnWord" = "Quitar palabra";
+"Label_NoReplacementsFound" = "No se han encontrado reemplazos";
+
+"Label_WordCount" = "Número de palabras";
+"Label_Words" = "Palabras";
+"Label_Paragraphs" = "Párrafos";
+"Label_Pages" = "Páginas";
+"Label_CharactersNoSpaces" = "Caracteres (sin espacios)";
+"Label_CharactersWithSpaces" = "Caracteres (con espacios)";
+
+"Label_WebDAV_FailedLogIn_Malformed" = "¡La dirección HTTP tiene formato incorrecto!";
+"Label_WebDAV_FailedLogIn_Prefix" = "La dirección HTTP debe empezar con 'http://' o 'https://'!";
+"Label_WebDAV_FailedLogIn_EmptyField" = "¡Todos los campos son obligatorios!";
+"Label_WebDAV_FailedLogIn_IncorrectData" = "¡Datos de autenticación incorrectos!\nPor favor, inténtelo de nuevo con otra dirección HTTP, nombre de usuario o contraseña.";
+"Label_WebDAV_FailedLogIn_BadRequest_400" = "Servidor WebDAV: Solicitud defectuosa.\nEl servidor no pudo entender la sintaxis.";
+"Label_WebDAV_FailedLogIn_NotImplemented_501" = "Servidor WebDAV: No implementado.\nEs posible que la cuenta no admite acceso a través de clientes de WebDAV. Por favor, compruebe la configuración de la cuenta para habilitar la compatibilidad con WebDAV.";
+"ErrMsg_WebDAV_Conflict_409" = "Servidor WebDAV: Conflicto detectado. Es posible que no hay espacio suficiente en el servidor.";
+"ErrMsg_WebDAV_NotAllowedOperation" = "El servidor WebDAV no permite esta operación.";
+"ErrMsg_WebDAV_ReservedName" = "El nombre especificado no se puede usar en este servidor. Por favor, elija otro nombre.";
+"ErrMsg_WebDAV_WriteError" = "El archivo de destino no se encuentra o está dañado. Por favor, compruebe los permisos de la cuenta y el espacio libre, e inténtelo de nuevo.";
+
+/* Up to 32 chars */
+"Label_Timing" = "Temporización de presentación";
+
+"InfoTitle_NotAvailableICloud" = "iCloud no está disponible";
+"InfoMsg_SwitchOnICloudFromSettingsDetailed" = "Para usar iCloud con el fin de crear una copia de seguridad de sus archivos, asegúrese de haber iniciado sesión en su cuenta de iCloud y que Ajustes -> iCloud -> Documentos y datos estén activados.";
+"Label_UnsupportedWorksheet" = "No es una hoja de cálculo corriente y aún no es compatible con la aplicación.";
+"ErrDoc_Save_Csv_Not_Supported" = "La hoja de cálculo activa no se puede guardar en el formato csv.";
+
+"Label_Professional" = "( Profesional )";
+"Label_ProfessionalFeature" = "$1 está disponible como parte de OfficeSuite Professional. ¿Desea instalarlo ahora?";
+
+"InfoTitle_BoxAppFailedToLaunch" = "La aplicación Box no se ha podido iniciar";
+"InfoMsg_BoxAppFailedToLaunch" = "No se ha podido iniciar la aplicación Box.";
+
+"Label_Continue" = "Continuar";
+
+/* Up to 16 chars */
+"Label_Upgrade" = "Modo Premium";
+
+"Label_UpgradeText1" = "¡Bienvenidos a OfficeSuite GRATUITO!";
+"Label_UpgradeText2" = "¡Esta es una versión plenamente funcional para la visualización y edición de documentos de office!";
+"Label_UpgradeText3" = "Actualice a OfficeSuite Professional para:";
+"Label_UpgradeText4" = "- Disfrutar de la edición de documentos sin publicidad\n- Aplicar el corrector ortográfico a los documentos";
+
+/*
+ NEW STRINGS AFTER VER 3.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_SortHasHeaders" = "Mis datos tienen encabezados";
+"Label_Yes" = "Sí";
+"Label_No" = "No";
+"Label_CreatePassword" = "Crear contraseña";
+
+/* Up to 22 chars */
+"Label_DontUsePassword" = "No usar contraseña";
+
+"Label_ConfirmPassword" = "Confirmar contraseña";
+"Label_RequirePassword" = "Pedir contraseña";
+"Label_Enable" = "Habilitar";
+"Label_Confirm" = "Confirmar";
+"Label_Required" = "Requerido";
+"Label_CreatePasswordWarning" = "AL iniciar la aplicación, se le pedirá la contraseña. Tenga en cuenta que la contraseña no se puede recuperar en caso de su pérdida u olvido.";
+"Label_Immediately" = "Inmediatamente";
+"Label_Minute" = "minuto";
+"Label_Minutes" = "minutos";
+"Label_Hour" = "hora";
+"Label_Hours" = "horas";
+"Label_RequirePasswordTime" = "Después de %d %@";
+
+"Label_EmptyFolder" = "Esta carpeta está vacía.";
+"Label_Name" = "Nombre";
+
+/* Up to 26 chars */
+"InfoTitle_PasswordProtection" = "Protección de contraseña";
+
+"InfoMsg_EnablePasswordProtection" = "¿Desea crear una contraseña para restringir el acceso a OfficeSuite? Puede cambiar las opciones de protección mediante contraseña. Para ello, seleccione \"Protección mediante contraseña\" en el menú Herramientas.";
+"InfoMsg_EnterCurrentPassword" = "Introduzca la contraseña actual para continuar:";
+"InfoMsg_WrongPassword" = "Contraseña incorrecta. Inténtelo de nuevo.";
+"InfoMsg_PasswordMismatch" = "Las contraseñas no coinciden. Introduzca contraseñas idénticas.";
+
+"InfoMsg_DocumentPasswordSaved" = "La contraseña para este documento ha sido establecida con éxito.";
+"InfoMsg_DocumentPasswordRemoved" = "El documento ya no está protegido con contraseña.";
+"InfoMsg_RemoveDocumentPassword" = "Quitar la contraseña del documento.";
+"InfoMsg_AddDocumentPassword" = "Agregar contraseña para el documento.";
+
+"Label_CurrentPassword" = "Contraseña actual";
+"Label_ExportToPDF" = "Exportar a PDF";
+
+"Label_Labels" = "Etiquetas";
+"Label_ChartTitle" = "Título de gráfico";
+"Label_DataRange" = "Intervalo de datos";
+"Label_LegendEntries" = "Entradas de leyenda";
+"Label_Title" = "Título";
+"Label_HorizontalLabels" = "Etiquetas horizontales";
+"Label_Range" = "Intervalo:";
+"Label_SeriesIn" = "Serie en";
+"Label_Series" = "Serie";
+"Label_Format" = "Formato";
+"Label_Chart" = "Gráfico";
+"Label_Image" = "Imagen";
+
+
+"Label_TextBox" = "Cuadro de texto";
+"Label_Picture" = "Imagen";
+"Label_Duplicate" = "Crear duplicado";
+"Label_MoveUp" = "Mover arriba";
+"Label_MoveDown" = "Mover abajo";
+"Label_MoveLeft" = "Mover a la izquierda";
+"Label_MoveRight" = "Mover a la derecha";
+"Label_ChooseLayout" = "Seleccionar diseño";
+
+/* Up to 26 chars */
+"InfoTitle_AddTitle" = "Pulse para añadir título";
+
+"InfoTitle_AddSubtitle" = "Pulse dos veces para añadir subtítulo";
+"InfoTitle_AddText" = "Pulse dos veces para añadir texto";
+"InfoTitle_PicturePlaceholder" = "Marcador de posición de imagen";
+
+"ErrMsg_UndoCmdCouldNotBeSaved" = "El comando no se puede guardar en la pila de tareas por deshacer";
+"ErrMsg_RedoFailed" = "La tarea de Rehacer no se ha podido realizar debido a que la configuración no se pudo grabar en el disco";
+"ErrMsg_UndoFailed" = "La tarea de Deshacer no se ha podido realizar debido a que la configuración no se pudo grabar en el disco";
+
+
+"Label_SeriesInfo" = "Información de serie";
+"Label_EditSeries" = "Editar serie";
+"Confirm_DeleteUnsupportedDrawObject" = "No se puede deshacer la eliminación de este objeto. ¿Desea continuar?";
+"Label_InvalidRange" = "Introduzca una rango de celdas válido.";
+"Label_InvalidRangeAndList" = "El valor debe ser un intervalo de celdas válido o una lista separada con punto y coma.";
+"Label_InvalidSeriesValues" = "El valor debe ser un intervalo de celdas válido o una lista de valores.";
+"Label_GoToCellNotAvailable" = "La opción 'Ir a celda' no está disponible para esta hoja.";
+"Label_FreezeNotAvailable" = "La opción 'Inmovilizar' no está disponible para esta hoja.";
+"Label_SortNotAvailable" = "La opción 'Ordenar' no está disponible para esta hoja.";
+"Label_ComplexRange" = "Intervalo complejo";
+"Label_ClearOptions" = "Borrar opciones";
+"Label_ClearAll" = "Borrar todo";
+"Label_ClearFormats" = "Borrar formatos";
+"Label_ClearContents" = "Borrar contenidos";
+"Label_RangePlaceholder" = "Intervalo";
+"Label_XlsSaveDrawingsNotSupported" = "No se puede guardar gráficos e imágenes en formato xls. Estos objetos no se guardarán.";
+"Label_LabelsIPhone" = "Etiquetas:";
+"Label_InvalidLinearRange" = "Introduzca un intervalo de filas/columnas o una lista de valores.";
+"Label_InvalidTitleRange" = "El título debe ser un intervalo de celdas/filas/columnas o una cadena.";
+"Label_InvalidSeriesNameRange" = "El nombre debe ser un intervalo de celdas/filas/columnas o una cadena.";
+"Label_InvalidSeriesValuesRange" = "Los valores deben ser un intervalo de filas/columnas o una lista de valores.";
+
+/*
+ NEW STRINGS AFTER VER 3.5
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Names" = "Nombres";
+"Label_FunctionCategories" = "Categorías de funciones";
+"Label_DefinedNames" = "Nombres definidos";
+"Label_NamesInfo" = "Información de nombres";
+"Label_Range" = "Intervalo";
+"Label_EditNames" = "Editar nombres";
+"Label_Scope" = "Ámbito";
+"Label_Workbook" = "Libro";
+"Label_NoDefinedNames" = "Sin nombres definidos";
+"Label_InvalidName" = "Este nombre contiene caracteres no válidos.";
+"Label_DuplicateName" = "El nombre introducido ya existe. Introduzca un nombre que no se haya introducido antes.";
+"ErrClass_Edit_Name" = "Error de edición de nombre.";
+"Label_DuplicateNameWarning" = "Este nombre ya existe";
+"Label_InvalidNameWarning" = "Caracteres no válidos";
+"Label_Move" = "Mover";
+"InfoMsg_MoveSheetDescription" = "Para mover una hoja, pulse y mantenga pulsada la pestaña de la hoja.";
+
+"ErrMsg_CannotBeReplacedBySelfContents" = "La carpeta %@ no se puede reemplazar con un elemento que se encuentra dentro de esa carpeta.";
+"Confirm_DeleteRecentFiles" = "¿Está seguro de que desea eliminar los archivos recientes?";
+
+
+/*
+ NEW STRINGS AFTER VER 3.5.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Table" = "Tabla";
+"Label_TableProperties" = "Propiedades de tabla";
+"Label_InsertRowAfter" = "Insertar fila posterior";
+"Label_InsertRowBefore" = "Insertar fila anterior";
+"Label_DeleteRow" = "Eliminar fila";
+"Label_DeleteTable" = "Eliminar tabla";
+
+"Label_Export" = "Exportar";
+"Label_ExportTo" = "Exportar a";
+
+
+"Label_Filter" = "Filtro";
+"Label_ClearFilter" = "Borrar filtro";
+"Label_ReapplyFilter" = "Volver a aplicar el filtro";
+"Label_ComparisonFilter" = "Filtro de comparación";
+"Label_Multichoice" = "Elección múltiple";
+"Label_AboveAverage" = "Superior al promedio";
+"Label_BelowAverage" = "Inferior al promedio";
+"Label_Top10" = "Los diez mejores";
+
+"Label_Equal" = "Igual a";
+"Label_LessThan" = "Menor que";
+"Label_LessThanOrEqual" = "Menor o igual a";
+"Label_NotEqual" = "Distinto de";
+"Label_GreaterThanEqual" = "Mayor o igual a";
+"Label_GreaterThan" = "Mayor a";
+"Label_Between" = "Entre";
+
+"Label_Items" = "Elementos";
+"Label_Percent" = "Porcentaje";
+"Label_Count" = "Cantidad";
+"Label_Value" = "Valor";
+"Label_And" = "Y";
+"Label_Or" = "O";
+"Label_None" = "Ninguna";
+"Label_Blanks" = "(celdas en blanco)";
+"Label_ShowAll" = "(mostrar todo)";
+"Label_InvalidFilter" = "Filtro no válido.";
+
+"Label_XlsSaveFiltersNotSupported" = "No se puede guardar filtros en formato xls. La información sobre filtros no se guardará.";
+"Confirm_ClearUnsupportedFilters" = "La hoja contiene filtros no compatibles. ¿Desea eliminar estos filtros y continuar con la edición de filtros? Esta acción no se podrá deshacer.";
+"ErrClass_Execute_Command" = "No se puede ejecutar el comando.";
+"ErrExecute_EmptyRange" = "El intervalo seleccionado está vacío.";
+"ErrExecute_RangeWithinFilters" = "El intervalo seleccionado contiene filtros.";
+
+"Label_NewSlide" = "Nueva diapositiva";
+"Label_TitleSubtitle" = "Diseño con marcadores de posición centrados del título y el subtítulo";
+"Label_TitleText" = "Título y texto";
+"Label_TitleTextText" = "Título, texto a la izquierda, texto a la derecha";
+"Label_TitleTable" = "Título y tabla";
+"Label_TitleTextChart" = "Título, texto a la izquierda y gráfico a la derecha";
+"Label_TitleChartText" = "Título, gráfico a la izquierda y texto a la derecha";
+"Label_TitleDiagram" = "Título y diagrama";
+"Label_TitleChart" = "Título y gráfico";
+"Label_TitleTextClipArt" = "Título, texto a la izquierda, imagen prediseñada a la derecha";
+"Label_TitleClipArtText" = "Título, imagen prediseñada a la izquierda, texto a la derecha";
+"Label_TitleOnly" = "Solo título";
+"Label_Blank" = "Diapositiva en blanco";
+"Label_TitleTextObject" = "Título, texto a la izquierda, objeto a la derecha";
+"Label_TitleObjectText" = "Título, objeto a la izquierda, texto a la derecha";
+"Label_ObjectOnly" = "Solo objeto";
+"Label_TitleObject" = "Título y objeto";
+"Label_TitleTextMedia" = "Título, texto a la izquierda, elemento multimedia a la derecha";
+"Label_TitleMediaText" = "Título, elemento multimedia a la izquierda, texto a la derecha";
+"Label_TitleTopObjectBottomText" = "Título, objeto arriba, texto abajo";
+"Label_TitleTopTextBottomObject" = "Título, texto arriba, objeto abajo";
+"Label_TitleText2Objects" = "Título, texto a la izquierda, dos objetos a la derecha";
+"Label_Title2ObjectsText" = "Título, dos objetos a la izquierda, texto a la derecha";
+"Label_TitleTop2ObjectsBottomText" = "Título, dos objetos arriba, texto abajo";
+"Label_Title4Objects" = "Título y cuatro objetos";
+"Label_TitleVerticalText" ="Título y cuadro de texto vertical";
+"Label_TitleClipArtVerticalText" = "Título, imagen prediseñada a la izquierda, texto vertical a la derecha";
+"Label_VerticalTitleVerticalText" = "Título vertical a la derecha, texto vertical a la izquierda";
+"Label_VerticalTitleVerticalTextChart" = "Título vertical a la derecha, texto vertical arriba, gráfico abajo";
+"Label_TitleObjectObject" = "Título, objeto a la izquierda, objeto a la derecha";
+"Label_TitleObject2Objects" = "Titulo, un objeto a la izquierda, dos objetos a la derecha";
+"Label_Title2ObjectsObject" = "Título, dos objetos a la izquierda, un objeto a la derecha";
+"Label_CustomLayout" = "Diseño personalizado";
+"Label_SectionHeaderTitleSubtitle" = "Título del encabezado de sección y texto del subtítulo";
+"Label_Title2Objects" = "Título y dos objetos con texto";
+"Label_TitleObjectCaptionText" = "Título, objeto y texto de leyenda";
+"Label_TitlePictureCaptionText" = "Título, imagen y texto de leyenda";
+"Label_SlideNumberNotes" = "Notas de diapositiva %d";
+
+"Label_OpenHyperlink" = "Abrir hipervínculo";
+"Label_CopyHyperlink" = "Copiar hipervínculo";
+"Label_Hyperlink" = "Hipervínculo";
+"Label_RemoveHyperlink" = "Eliminar hipervínculo";
+"Label_EnterURL" = "Introduzca la dirección URL";
+"Label_EnterEmail" = "Introduzca la dirección de correo electrónico";
+"Label_EnterSubject" = "Introduzca el asunto";
+"Label_URL" = "URL";
+"Label_Slide" = "Diapositiva";
+"Label_SetHyperlinkAction" = "Activar hipervínculo con una pulsación";
+"Label_SlideNumber" = "Diapositiva %d";
+"Label_NextSlide" = "Siguiente diapositiva";
+"Label_PreviousSlide" = "Diapositiva anterior";
+"Label_FirstSlide" = "Primera diapositiva";
+"Label_LastSlide" = "Última diapositiva";
+
+/* Up to 32 chars */
+"Label_EndSlideshow" = "Finalizar presentación";
+
+"Label_NoAction" = "Sin acción";
+"Label_Unsupported" = "No compatible";
+
+
+"Label_Shape" = "Forma";
+"Label_Shapes" = "Formas";
+"Label_Lines" = "Líneas";
+"Label_Rectangles" = "Rectángulos";
+"Label_BasicShapes" = "Formas básicas";
+"Label_BlockArrows" = "Flechas de bloque";
+"Label_EquationShapes" = "Formas de ecuación";
+"Label_FlowchartShapes" = "Formas para diagramas de flujo";
+"Label_StarsAndBanners" = "Cintas y estrellas";
+"Label_Callouts" = "Llamadas";
+"Label_ActionButtons" = "Botones de acción";
+"Label_Others" = "Otros";
+"Label_BringToFront" = "Traer al frente";
+"Label_SendToBack" = "Enviar al fondo";
+"Label_BringForward" = "Traer hacia adelante";
+"Label_SendBackward" = "Enviar hacia atrás";
+
+
+"Label_GoPremiumDetails" = "Aproveche al máximo las posibilidades de OfficeSuite con OfficeSuite Premium";
+"Label_HideGoPremium" = "Ocultar el modo Premium";
+"Label_ShowGoPremium" = "Mostrar el modo Premium";
+"Label_RestorePurchases" = "Restaurar compras";
+
+"Label_BuyMonthly" = "%@ al mes";
+"Label_BuyYearly" = "%@ al año (%@ al mes)";
+
+"Label_Feature1" = "Editar y crear documentos Word";
+"Label_Feature2" = "Editar y crear documentos Excel";
+"Label_Feature3" = "Editar y crear documentos PowerPoint";
+"Label_Feature4" = "Ver archivos PDF";
+"Label_Feature5" = "Posibilidad de utilizar la nube y compartir documentos";
+"Label_Feature6" = "Impresión";
+"Label_Feature7" = "Protección mediante contraseña";
+"Label_Feature8" = "Exportar documentos de texto a PDF";
+"Label_Feature9" = "Exportar archivos PDF a Word, Excel y ePub";
+"Label_Feature10" = "Corrector ortográfico";
+"Label_Feature11" = "Mantener el diseño, el formato, las tablas y los gráficos originales después de exportar a PDF";
+"Label_Feature12" = "Insertar filtros en Excel";
+"Label_Feature13" = "Sin publicidad";
+
+"Label_GoPremFeature" = "Funcionalidad";
+"Label_GoPremFree" = "Gratis";
+"Label_GoPremPro" = "Pro";
+"Label_GoPremPremium" = "Premium";
+"Label_Premium" = "Premium";
+"Label_GoPremiumBenefits" = "Beneficios del paquete Premium";
+
+"InfoTitle_PremiumFeature" = "Funcionalidad de la versión Premium";
+"InfoMsg_PremiumFeature" = "Esta opción está disponible solamente en la versión Premium.";
+
+"Label_FreeEdition" = "Edición gratuita";
+"Label_PremiumEdition" = "Edición Premium";
+
+"Label_TopN" = "Top N";
+"Label_ShowRowsWhere" = "Mostrar filas con el valor:";
+"Label_TopNAutoFilter" = "Autofiltro Top N";
+"Label_ShowTop10" = "Mostrar:";
+"Label_FilterOn" = "Activar filtros";
+"Label_FilterOff" = "Desactivar filtros";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_CopyTo" = "Copiar a...";
+"Label_MoveTo" = "Mover a...";
+"InfoMsg_SelectOnlyOneFileForDocPicker" = "Seleccione solo un archivo.";
+
+"Label_WebDAV_FailedLogIn_ErrorCode" = "¡No se ha podido iniciar sesión!\nCódigo de error HTTP: %d.\nInténtelo de nuevo con otra dirección HTTP, nombre de usuario o contraseña.";
+
+"Label_SheetOrientation" = "Orientación:";
+"Label_Landscape" = "Horizontal";
+"Label_Portrait" = "Vertical";
+"Label_SheetsToPrint" = "Hojas a imprimir:";
+"Label_ActiveSheet" = "Hoja actual";
+"Label_MultipleSheets" = "Varias hojas";
+"Label_AllSheets" = "Todo el libro";
+"Label_Proceed" = "Continuar";
+
+"Label_FiltersNotAvailable" = "La opción de filtros no está disponible en esta hoja.";
+"ErrMsg_InsertImageError" = "Imagen no válida o no compatible";
+"FUNCCAT_Compatibility" = "Compatibilidad";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"InfoTitle_WouldYouRecommend" = "¡Ayúdenos a mejorar\nOfficeSuite!";
+"InfoMsg_WouldYouRecommend" = "Comparta su opinión dejando una rápida evaluación en\nApp Store, o contáctenos directamente para dejar un comentario.";
+"Label_RateDialogRate" = "Evaluar OfficeSuite";
+"Label_RateDialogSendFeedback" = "Enviar comentario";
+"Label_RateDialogDismiss" = "Más tarde";
+"InfoTitle_FeedbackMailSubject" = "Comentario de usuario de OfficeSuite de la versión %@";
+"InfoTitle_CannotOpenAppStore" = "App Store no disponible";
+"InfoMsg_CannotOpenAppStoreForRate" = "La página de evaluación no se puede abrir porque App Store no está disponible";
+
+
+/*
+ NEW STRINGS AFTER VER 3.7.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_Files" = "Archivos";
+"Label_File" = "Archivo";
+"Label_View" = "Ver";
+"Label_Go_To" = "Ir a";
+"Label_WrapText" = "Ajustar texto";
+"Label_MergeAndCenter" = "Combinar y centrar";
+"Label_AutoSum" = "Autosuma";
+
+"Label_New" = "Nuevo";
+"Label_Templates" = "Plantillas";
+"Label_OpenRecent" = "Abrir reciente";
+"Label_Send" = "Enviar";
+"Label_Protect" = "Proteger";
+"Label_PageSetup" = "Configuración de página";
+
+"Label_CameraPicture" = "Imagen de la cámara";
+"Label_RowAbove" = "Fila arriba";
+"Label_ColumnLeft" = "Columna a la izquierda";
+"Label_ChartInANewSheet" = "Gráfico en una nueva hoja";
+
+"Label_NumberFormatting" = "Formato de números";
+"Label_AlignmentInCell" = "Alineación de celda";
+"Label_CellFont" = "Fuente de celda";
+"Label_CellBorder" = "Borde de celda";
+"Label_HideRows" = "Ocultar filas";
+"Label_UnhideRows" = "Mostrar filas";
+"Label_HideColumns" = "Ocultar columnas";
+"Label_UnhideColumns" = "Mostrar columnas";
+"Label_AutoFitColumns" = "Autoajustar columnas";
+"Label_RenameSheet" = "Cambiar nombre de hoja";
+"Label_EditHyperlink" = "Editar hipervínculo";
+
+"Label_InsertFunction" = "Insertar función";
+"Label_NameManager" = "Administrador de nombres";
+"Label_Reference" = "Referencia";
+
+"Label_CellContent" = "Contenido de celda";
+"Label_ShowGridlines" = "Mostrar líneas de la cuadrícula";
+"Label_StartSelection" = "Empezar selección";
+"Label_SelectAll" = "Seleccionar todo";
+"Label_FindReplace" = "Buscar y reemplazar";
+
+"Label_PageBreak" = "Salto de página";
+"Label_Paragraph" = "Párrafo";
+"Label_SelectAll" = "Seleccioanr todo";
+"Label_FormattingSymbols" = "Símbolos de formato";
+"Label_Bullets" = "Viñetas";
+"Label_Numbering" = "Numeración";
+
+/* Up to 20 chars */
+"Label_MultilevelList" = "Lista multinivel";
+
+"Label_IncreaseIndent" = "Aumentar sangría";
+"Label_DecreaseIndent" = "Reducir sangría";
+"Label_Margins" = "Márgenes";
+"Label_Orientation" = "Orientación";
+"Label_SectionBreaks" = "Saltos de sección";
+"Label_PageBreaks" = "Saltos de página";
+"Label_GoToTop" = "Ir al principio";
+"Label_GoToBottom" = "Ir al final";
+"Label_GoToBookmark" = "Ir al marcador";
+"Label_DeleteBookmark" = "Eliminar marcador";
+"Label_FullScreen" = "Pantalla completa";
+"Label_PasteStyle" = "Pegar\nestilo";
+"Label_FormatPainter" = "Copiar\nformato";
+"Label_ChangeStyle" = "Cambiar estilo";
+"Label_InsertAbove" = "Insertar arriba";
+"Label_InsertBelow" = "Insertar abajo";
+"Label_InsertToTheLeft" = "Insertar a la izquierda";
+"Label_InsertToTheRight" = "Insertar a la derecha";
+"Label_DeleteColumn" = "Eliminar columna";
+"Label_DeleteCells" = "Eliminar celdas";
+
+"ErrClass_SortString" = "Error de orden. ";
+"Err_CellsHasMergesString" = "No se puede cambiar parte de una celda combinada.";
+
+
+"Label_RedeemActivationCode" = "Canjear código de activación";
+"Label_EnterRedeemActivationCode" = "Introduzca el código de activación";
+
+"InfoTitle_RedeemActivationSuccess" = "El código de activación se ha canjeado con éxito";
+"ErrTitle_RedeemActivationFailed" = "Error de canje del código de activación";
+"ErrMsg_RedeemActivationInvalidKey" = "¡Clave de activación no válida!";
+"ErrMsg_RedeemActivationNoInternet" = "¡No hay conexión a internet!";
+"ErrMsg_RedeemActivationSystemError" = "¡Error del sistema!";
+
+"InfoMsg_RedeemActivationStatusRedeemed" = "¡Clave canjeada con éxito!";
+"ErrMsg_RedeemActivationStatusKeyNotFound" = "¡Clave no encontrada!";
+"ErrMsg_RedeemActivationStatusHashNotFound" = "¡No se encuentra el dispositivo para la clave especificada!";
+"ErrMsg_RedeemActivationStatusServerError" = "¡Error del servidor!";
+"ErrMsg_RedeemActivationStatusNotSpecial" = "¡El dispositivo no corresponde a esta clave!";
+"ErrMsg_RedeemActivationStatusKeyExpired" = "¡Clave caducada!";
+"ErrMsg_RedeemActivationStatusLimitReached" = "¡Se ha alcanzado el límite de la clave!";
+
+"Label_BuyOneTime" = "Licencia completa %@";
+"ErrMsg_PaymentFailed" = "Lamentablemente, el pago no se ha podido realizar.";
+
+/* Up to 22 chars */
+"Label_RecentFiles" = "Archivos recientes";
+"WarningMsg_DeleteRecentItem" = "¿Realmente desea quitar este elemento de archivos recientes?";
+"WarningMsg_DeleteRecentItems" = "¿Realmente desea quitar estos elementos de archivos recientes?";
+"Label_ExternalLocation" = "Ubicación externa";
+"Label_OpenContainingFolder" = "Abrir carpeta que lo contiene";
+"Label_NoRecentFiles" = "No hay archivos recientes";
+"Label_Network" = "Red";
+
+/* Up to 20 chars */
+"Label_AddAccount" = "Agregar cuenta";
+
+"Label_iCloudDrive" = "iCloud Drive";
+"Label_CopyFromICloudDrive" = "Copiar de iCloud Drive";
+"Label_CopyToICloudDrive" = "Copiar a iCloud Drive";
+"Label_MoveToICloudDrive" = "Mover a iCloud Drive";
+"Label_iCloud" = "iCloud";
+"Label_LocalStorage" = "Almacenamiento local";
+
+"Label_FitPage" = "Ajustar a la página";
+"Label_100PercentZoom" = "Zoom 100%";
+"Label_GoToSlide" = "Ir a diapositiva";
+"Label_DuplicateSlide" = "Duplicar diapositiva";
+"Label_ReorderSlides" = "Volver a ordenar diapositivas";
+"Label_DeleteSlide" = "Eliminar diapositiva";
+"Label_StartSlideShow" = "Iniciar presentación";
+"Label_StartFromCurrent" = "Iniciar desde la actual";
+"Label_AutomaticAdvance" = "Avance automático";
+"Label_Find" = "Buscar";
+
+"Label_ExportToWord" = "Convertir a Word";
+"Label_ExportToExcel" = "Convertir a Excel";
+"Label_ExportToEPub" = "Convertir a ePub";
+
+"Label_ZoomFitPage" = "Ajustar";
+"Label_Zoom25" = "25%";
+
+"Label_Note" = "Nota";
+"Label_Underline" = "Subrayado";
+"Label_Strikethrough" = "Tachado";
+"Label_Text" = "Texto";
+
+"Label_Content" = "Contenido";
+
+"Err_ReloadFailed" = "No se ha podido recargar el documento después de guardarlo.";
+"Label_SaveChangesBeforeExport" = "Los cambios sin guardar no se exportarán. ¿Desea guardar ahora?";
+"Err_PdfConversion_ServerError" = "Error de exportación del servidor remoto.";
+"Err_PdfPasswordChangeNotPermitted" = "Usted no tiene permiso para cambiar la contraseña de ususario de este documento.";
+"Err_PdfSecuritySettingsChangeFailed" = "No se ha podido cambiar la configuración de seguridad.";
+"Err_PdfConversion_PasswordProtectedFilesNotSupported" = "Este archivo no se puede exportar porque está protegido con contraseña. Elimine la protección mediante contraseña si desea continuar.";
+
+"Label_Exporting" = "Exportando...";
+"Label_PdfConversionSuccessful" = "El archivo se ha exportado con éxito.";
+"Label_PdfPasswordChangeRequiresSaving" = "Debe guardar el archivo para cambiar la contraseña. Una vez guardado, no podrá deshacer/rehacer los cambios hechos antes de guardarlo.";
+
+/* Up to 10 chars */
+"Label_Review" = "Revisión";
+
+"Label_Annotation" = "Inserción de notas";
+
+"Label_Photos" = "Fotos";
+"Label_ClearStyle" = "Borrar estilo";
+"Label_Normal" = "Normal";
+"Label_Wide" = "Ancho";
+"Label_Narrow" = "Estrecho";
+"Label_Moderate" = "Moderado";
+
+"Label_a3" = "A3";
+"Label_a4" = "A4";
+"Label_a5" = "A5";
+"Label_b4" = "B4";
+"Label_b5" = "B5";
+"Label_letter" = "Letter";
+"Label_tabloid" = "Tabloid";
+"Label_ledger" = "Ledger";
+"Label_legal" = "Legal";
+"Label_statement" = "Statement";
+"Label_executive" = "Executive";
+"Label_folio" = "Folio";
+"Label_quarto" = "Quarto";
+
+"Label_Page" = "Página";
+"Label_Continuous" = "Continuo";
+"Label_EvenPage" = "Página par";
+"Label_OddPage" = "Página impar";
+"Label_Column" = "Columna";
+"Label_TextWrapping" = "Ajuste de texto";
+
+"Label_Zoom200" = "200%";
+"Label_Zoom150" = "150%";
+"Label_Zoom100" = "100%";
+"Label_Zoom75" = "75%";
+"Label_Zoom50" = "50%";
+
+"Label_NoItems" = "No hay elementos";
+"Label_NoBookmarks" = "No hay marcadores";
+"Label_EnterBookmarkName" = "Introduzca nombre de marcador";
+"Label_InsertBookmark" = "Insertar marcador";
+"Label_SelectBookmark" = "Seleccionar marcador";
+"Label_FormatFont" = "Formato - Fuente";
+
+/* Up to 26 chars */
+"Label_FormatParagraph" = "Formato - Párrafo";
+
+"Label_NONE" = "NONE";
+"Label_CircleBullets" = "Viñetas circulares";
+"Label_SquareBullets" = "Viñetas cuadradas";
+
+"Label_NumbersWithDot" = "Números con punto";
+"Label_NumbersWithBracket" = "Números con paréntesis";
+"Label_LowerLettersWithDot" = "Letras minúsculas con punto";
+"Label_LowerLettersWithBracket" = "Letras minúsculas con paréntesis";
+"Label_LowerRomanNumbersWithDot" = "Números romanos en minúscula con punto";
+"Label_UpperLettersWithDot" = "Letras mayúsculas con punto";
+"Label_UpperRomanNumbersWithDot" = "Números romanos en mayúscula con punto";
+"Label_MultilevelListWithNumbers" = "Lista multinivel con números";
+"Label_MultilevelListWithNumbersAndLetters" = "Lista multinivel con números y letras";
+
+"Label_1_0" = "1.0";
+"Label_1_15" = "1.15";
+"Label_1_5" = "1.5";
+"Label_2_0" = "2.0";
+"Label_2_5" = "2.5";
+"Label_3_0" = "3.0";
+
+"Label_RevealFormating" = "Mostrar formato";
+"Label_DenyMessagePhotos" = "Esta aplicación no tiene acceso a sus fotos o vídeos.";
+"Label_DenyMessageInstructions" = "Puede habilitar el acceso en la Configuración de la Privacidad.";
+"Label_DenyNoAlbumPhotos" = "Sin Fotos ni vídeos";
+"Label_DenyNoAlbumPhotosMessage" = "Puede tomar fotografías y grabar vídeos con la cámara o sincronizar imágenes y vídeos mediante iTunes.";
+
+"Button_Paper" = "Papel";
+"Button_Margins" = "Márgenes";
+"Label_Custom" = "Personalizado";
+"Label_Width" = "Ancho";
+"Label_Height" = "Alto";
+"Label_Left" = "Izquierda";
+"Label_Right" = "Derecha";
+"Label_Insert" = "Insertar";
+"Label_Layout" = "Diseño";
+"Label_Styles" = "Estilos";
+"Label_PageMargins" = "Márgenes de página";
+"Label_PageOrientation" = "Orientación de página";
+"Label_PageSize" = "Tamaño de página";
+"Label_Bookmarks" = "Marcadores";
+"Label_Subrscript" = "Subíndice";
+"Label_Superrscript" = "Superíndice";
+"Label_DocumentIndex" = "Índice del documento";
+"Label_Alignment" = "Alineación";
+"Label_Indents" = "Sangría";
+"Label_Spacing" = "Espaciado";
+"Label_Before" = "Antes";
+"Label_After" = "Después";
+"Label_FirstLine" = "Primera línea";
+"Label_Units" = "Unidades";
+"Label_Millimeters" = "Milímetros";
+"Label_Centimeters" = "Centímetros";
+"Label_Inches" = "Pulgadas";
+"Label_Points" = "Puntos";
+"Label_InchesTextFormat" = "%@\"";
+"Label_CentimetersTextFormat" = "%@ cm";
+"Label_MillimetersTextFormat" = "%@ mm";
+"Label_PointsTextFormat" = "%@ pt";
+"Button_TableStyleStylesTab" = "Estilos de tabla";
+"Button_TableStyleSettingsTab" = "Configuración";
+"Label_TableStyleCustomStyles" = "Estilos personalizados";
+"Label_TableStyleBuiltInStyles" = "Estilos integrados";
+"Label_TableStyleHeaderRow" = "Fila de encabezado";
+"Label_TableStyleTotalRow" = "Fila Total";
+"Label_TableStyleFirstColumn" = "Primera columna";
+"Label_TableStyleLastColumn" = "Última columna";
+"Label_TableStyleBandedRows" = "Filas con bandas";
+"Label_TableStyleBandedColumns" = "Columnas con bandas";
+"Label_Tab" = "Tabulador";
+"Label_LineBreak" = "Salto de línea";
+
+"Label_MSCaptureCameraUsePhoto" = "Usar foto";
+"Label_MSCaptureCameraRetake" = "Repetir";
+
+"Label_Moments" = "Momentos";
+
+"Label_CameraDenyAccessTitle" = "No se puede acceder a la cámara";
+"Label_CameraDenyAccessMessage" = "Para acceder a la cámara, vaya a Configuración > Privacidad > Cámara y active la casilla de OfficeSuite.";
+
+/* Up to 24 chars */
+"Label_SlideShowSettings" = "Ajustes de presentación";
+
+"Label_NewName" = "Nuevo nombre:";
+"ErrMsg_LongName" = "El nombre es demasiado largo.";
+"ErrMsg_SheetNameEmpty" = "El nombre de la hoja está vacío.";
+"WarningMessage_RtfWillLoseFormatting" = "Si guarda el archivo en formato RTF, alguna parte del formato se podría perder. ¿Desea continuar?";
+"WarningMessage_TxtWillLoseFormatting" = "El hecho de guardar el archivo como archivo de texto provocará la pérdida de formato, imágenes y objetos. ¿Desea continuar?";
+
+/* Up to 16 chars */
+"Label_BuyMoreFonts" = "Más Fuentes";
+"Label_InstalledFonts" = "Fuentes instaladas";
+
+"Label_Breaks" = "Saltos";
+
+"Label_GoPremium" = "Modo Premium";
+"Label_FontPackDescription1" = "Una colección de las fuentes más populares para usar en OfficeSuite. Visualice los documentos de la manera en que fueron pensados.";
+"Label_FontPackDescription2" = "Contiene 12 fuentes monotipo, tales como Calibri, Tahoma y Wingdings.";
+"Label_FontPackDescription3" = "Además, contiene 60 fuentes OFL, tales como Garamond, Modern, Open Sans y Times Gothic.";
+
+"Label_FontPack" = "Paquete de fuentes";
+"Label_FontPackDescription" = "Una colección de más de 50 fuentes, tales como Calibri, Tahoma y Wingdings para usar en OfficeSuite.";
+"Label_EditPdf" = "Editar documentos PDF";
+"Label_EditPdfDescription" = "Convierta archivos PDF en archivos totalmente editables de tipo Word/Excel";
+"Label_SaveAsPdf" = "Guardar como PDF";
+"Label_SaveAsPdfDescription" = "Guarde documentos como PDF sin perder el formato de los datos";
+"Label_AnnotatePdf" = "Inserte notas en los PDF";
+"Label_AnnotatePdfDescription" = "Cree notas y comentarios al revisar documentos";
+"Label_AddCameraPhoto" = "Añadir foto de cámara";
+"Label_AddCameraPhotoDescription" = "Incluir imágenes en los documentos";
+"Label_ProtectYourDocs" = "Proteja sus documentos";
+"Label_ProtectYourDocsDescription" = "Proteja con contraseña archivos individuales o fije un código para todos los documentos en OfficeSuite";
+"Label_AdFree" = "Sin publicidad";
+"Label_AdFreeDescription" = "Sin distracciones en el trabajo";
+
+"Label_DoubleUnderline" = "Subrayado doble";
+
+"Label_IncreaseFont" = "Agrandar fuente";
+"Label_DecreaseFont" = "Reducir fuente";
+
+"Label_HorizontalAlignLeft" = "Alineamiento horizontal izquierda";
+"Label_HorizontalAlignRight" = "Alineamiento horizontal derecha";
+"Label_HorizontalAlignCenter" = "Alineamiento horizontal centro";
+
+"Label_VerticalAlignBottom" = "Alineamiento vertical inferior";
+"Label_VerticalAlignMiddle" = "Alineamiento vertical medio";
+"Label_VerticalAlignTop" = "Alineamiento vertical superior";
+
+"Label_SelectTextColor" = "Seleccione el color del texto";
+"Label_SelectTextBgColor" = "Seleccione el color de la celda";
+
+/* Up to 8 chars (these two strings are part of the phrase "Buy the Font Pack")  */
+"Label_BuyThe" = "Comprar";
+"Label_Pack" = "Paquete";
+
+"Label_OneTimePurchase" = "Compra única";
+
+"Label_FontPackMonotypeTitle" = "Contiene las siguientes 12 fuentes monotipo:";
+"Label_FontPackMonotypeDesc" = "Arial Narrow, Calibri, Cambria, Cambria Math, Comic Sans Ms, Monotype Sorts, Tahoma, Palace Script MT, Webdings, Wingdings, Wingdings 2, Wingdings 3";
+
+
+"Excel_func_ABS" = "Devuelve el valor absoluto de un número";
+"Excel_func_ACCRINT" = "Devuelve el interés acumulado de una inversión bursátil que paga un interés de forma periódica";
+"Excel_func_ACCRINTM" = "Devuelve el interés acumulado de una inversión bursátil que paga un interés por vencimiento";
+"Excel_func_ACOS" = "Devuelve el arcocoseno de un número";
+"Excel_func_ACOSH" = "Devuelve el coseno hiperbólico inverso de un número";
+"Excel_func_ADDRESS" = "Devuelve una referencia como texto para una sola celda en una hoja de cálculo";
+"Excel_func_AMORDEGRC" = "Devuelve la depreciación de cada período contable mediante un coeficiente de depreciación";
+"Excel_func_AMORLINC" = "Devuelve la depreciación de cada período contable";
+"Excel_func_AND" = "Devuelve VERDADERO si todos los argumentos son VERDADEROS";
+"Excel_func_AREAS" = "Devuelve el número de áreas en una referencia";
+"Excel_func_ASC" = "Cambia letras inglesas o katakana de ancho completo (bit doble) dentro de una cadena de caracteres a caracteres de ancho medio (bit sencillo)";
+"Excel_func_ASIN" = "Devuelve el arcoseno de un número";
+"Excel_func_ASINH" = "Devuelve el seno hiperbólico inverso de un número";
+"Excel_func_ATAN" = "Devuelve la arcotangente de un número";
+"Excel_func_ATAN2" = "Devuelve el arcotanegente de coordenadas x e y";
+"Excel_func_ATANH" = "Devuelve la tangente hiperbólica inversa de un número";
+"Excel_func_AVEDEV" = "Devuelve el promedio de las desviaciones absolutas de los puntos de datos de su media";
+"Excel_func_AVERAGE" = "Devuelve el promedio de los argumentos";
+"Excel_func_AVERAGEA" = "Devuelve el promedio de los argumentos, incluidos números, texto y valores lógicos";
+"Excel_func_AVERAGEIF" = "Devuelve el promedio (media aritmética) de todas las celdas en un rango que cumpla con un criterio dado";
+"Excel_func_AVERAGEIFS" = "Devuelve el promedio (media aritmética) de todas las celdas que cumplan con múltiples criterios.";
+"Excel_func_BAHTTEXT" = "Convierte un número a texto, mediante el formato de moneda ? (baht)";
+"Excel_func_BESSELI" = "Devuelve la función de Bessel modificada In(x)";
+"Excel_func_BESSELJ" = "Devuelve la función de Bessel Jn(x)";
+"Excel_func_BESSELK" = "Devuelve la función de Bessel modificada Kn(x)";
+"Excel_func_BESSELY" = "Devuelve la función de Bessel Yn(x)";
+"Excel_func_BETADIST" = "Devuelve la función de distribución acumulativa beta";
+"Excel_func_BETAINV" = "Devuelve el inverso de la función de distribución acumulativa para una distribución beta especificada";
+"Excel_func_BIN2DEC" = "Convierte un número binario a decimal";
+"Excel_func_BIN2HEX" = "Convierte un número binario a hexadecimal";
+"Excel_func_BIN2OCT" = "Convierte un número binario a octal";
+"Excel_func_BINOMDIST" = "Devuelve la probabilidad de distribución binomial de un término individual";
+"Excel_func_CALL" = "Llama a un procedimiento de la biblioteca de enlace dinámico o recurso de código";
+"Excel_func_CEILING" = "Redondea un número al entero más cercano o el múltiplo significante más cercano";
+"Excel_func_CELL" = "Devuelve información acerca del formato, la ubicación o contenido de una celda";
+"Excel_func_CHAR" = "Devuelve el caracter especificado por el número de código";
+"Excel_func_CHIDIST" = "Devuelve la probabilidad de una dimensión de la distribución del chi cuadrado";
+"Excel_func_CHIINV" = "Devuelve el inverso de la probabilidad de una dimensión de la distribución del chi cuadrado";
+"Excel_func_CHITEST" = "Devuelve la prueba de independencia";
+"Excel_func_CHOOSE" = "Elige un valor de la lista de valores";
+"Excel_func_CLEAN" = "Quita todos los caracteres no imprimibles de un texto";
+"Excel_func_CODE" = "Devuelve un código numérico para el primer caracter en una cadena de texto";
+"Excel_func_COLUMN" = "Devuelve el número de columna de una referencia";
+"Excel_func_COLUMNS" = "Devuelve el número de columnas en una referencia";
+"Excel_func_COMBIN" = "Devuelve el número de combinaciones para un número de objetos dado";
+"Excel_func_COMPLEX" = "Convierte los coeficientes reales e imaginarios en números complejos";
+"Excel_func_CONCATENATE" = "Une varios elementos de texto en un elemento de texto";
+"Excel_func_CONFIDENCE" = "Devuelve el intervalo de confianza para una media poblacional";
+"Excel_func_CONVERT" = "Convierte un número de un sistema de medida a otro";
+"Excel_func_CORREL" = "Devuelve el coeficiente de correlación entre dos conjuntos de datos";
+"Excel_func_COS" = "Devuelve el coseno de un número";
+"Excel_func_COSH" = "Devuelve el coseno hiperbólico de un número";
+"Excel_func_COUNT" = "Cuenta la cantidad de números en la lista de argumentos";
+"Excel_func_COUNTA" = "Cuenta la cantidad de valores en la lista de argumentos";
+"Excel_func_COUNTBLANK" = "Cuenta el número de celdas vacías en un rango";
+"Excel_func_COUNTIF" = "Cuenta el número de celdas en un rango que cumpla criterios dados";
+"Excel_func_COUNTIFS" = "Cuenta el número de celdas en un rango que cumpla múltiples criterios";
+"Excel_func_COUPDAYBS" = "Devuelve el número de días desde el comienzo del período del cupón hasta la fecha de liquidación";
+"Excel_func_COUPDAYS" = "Devuelve el número de días en el período del cupón que contiene la fecha de liquidación";
+"Excel_func_COUPDAYSNC" = "Devuelve el número de días desde la fecha de liquidación hasta la próxima fecha de cupón";
+"Excel_func_COUPNCD" = "Devuelve la siguiente fecha de cupón luego de la fecha de liquidación";
+"Excel_func_COUPNUM" = "Devuelve el número de cupones a pagar entre la fecha de liquidación y la fecha de vencimiento";
+"Excel_func_COUPPCD" = "Devuelve la fecha de cupón anterior antes de la fecha de liquidación";
+"Excel_func_COVAR" = "Devuelve la covarianza, el promedio de los productos de desviaciones pareadas";
+"Excel_func_CRITBINOM" = "Devuelve el valor más pequeño para el cual la distribución binomial acumulativa es menor que o igual a un valor de criterio";
+"Excel_func_CUMIPMT" = "Devuelve el interés acumulativo pagado entre dos períodos";
+"Excel_func_CUMPRINC" = "Devuelve el principal acumulativo pagado en un préstamo entre dos períodos";
+"Excel_func_DATE" = "Devuelve el número de serie de una fecha particular";
+"Excel_func_DATEVALUE" = "Convierte una fecha en forma de texto en un número de serie";
+"Excel_func_DAVERAGE" = "Devuelve el promedio de las entradas de bases de datos seleccionadas";
+"Excel_func_DAY" = "Convierte un número de serie a un día del mes";
+"Excel_func_DAYS360" = "Calcula el número de días entre dos fechas en función de un año de 360 días";
+"Excel_func_DB" = "Devuelve la depreciación de un activo para un período específico mediante el uso de métodos de balance de declinación fija";
+"Excel_func_DCOUNT" = "Cuenta las celdas que contienen números en una base de datos";
+"Excel_func_DCOUNTA" = "Cuenta las celdas que no están vacías en una base de datos";
+"Excel_func_DDB" = "Devuelve la depreciación de un activo para un período específico mediante un método de balance de doble declinación o algún otro método que especifique";
+"Excel_func_DEC2BIN" = "Convierte un número decimal a binario";
+"Excel_func_DEC2HEX" = "Convierte un número decimal a un hexadecimal";
+"Excel_func_DEC2OCT" = "Convierte un número decimal a un octal";
+"Excel_func_DEGREES" = "Convierte radianes a grados";
+"Excel_func_DELTA" = "Evalúa si dos valores son iguales";
+"Excel_func_DEVSQ" = "Devuelve la suma de cuadrados de desviaciones";
+"Excel_func_DGET" = "Extrae de una base de datos un registro sencillo que coincide con los criterios especificados";
+"Excel_func_DISC" = "Devuelve la tasa de descuento para una inversión bursátil";
+"Excel_func_DMAX" = "Devuelve el valor máximo de entradas de la base de datos seleccionada";
+"Excel_func_DMIN" = "Devuelve el valor mínimo de entradas de la base de datos seleccionada";
+"Excel_func_DOLLAR" = "Convierte un número a texto, usando el formato de moneda $ (dólar)";
+"Excel_func_DOLLARDE" = "Convierte un precio en dólar, expresado como fracción, a un precio en dólar expresado como número decimal";
+"Excel_func_DOLLARFR" = "Convierte un precio en dólar, expresado como número decimal, a un precio en dólar, expresado como fracción";
+"Excel_func_DPRODUCT" = "Multiplica los valores en un campo de registros particular que coincida con los criterios en una base de datos";
+"Excel_func_DSTDEV" = "Calcula la desviación estándar en función de una muestra de las entradas de la base de datos seleccionada";
+"Excel_func_DSTDEVP" = "Calcula la desviación estándar en función de la población completa de las entradas de la base de datos seleccionada";
+"Excel_func_DSUM" = "Agrega los números en el campo columna de registros en la base de datos que coincide con los criterios";
+"Excel_func_DURATION" = "Devuelve la duración anual de una inversión bursátil con pagos de intereses periódicos";
+"Excel_func_DVAR" = "Calcula la varianza en función de una muestra de las entradas de la base de datos seleccionada";
+"Excel_func_DVARP" = "Calcula la varianza en función de la población entera de las entradas de la base de datos seleccionada";
+"Excel_func_EDATE" = "Devuelve el número de serie de la fecha que es el número de meses indicado antes o después de la fecha de inicio";
+"Excel_func_EFFECT" = "Devuelve la tasa de interés anual efectiva";
+"Excel_func_EOMONTH" = "Devuelve el número de serie del último día del mes anterior o posterior a un número de meses especificados";
+"Excel_func_ERF" = "Devuelve la función de error";
+"Excel_func_ERFC" = "Devuelve la función de error complementaria";
+"Excel_func_ERROR_TYPE" = "Devuelve un número que corresponde a un tipo de error";
+"Excel_func_EUROCONVERT" = "Convierte un número a euros, convierte un número de euros a una moneda miembro del euro o convierte un número de una moneda miembro del euro a otra usando el euro como intermediario (triangulación).";
+"Excel_func_EVEN" = "Redondea un número hacia arriba al par entero más cercano";
+"Excel_func_EXACT" = "Comprueba si dos valores de texto son idénticos";
+"Excel_func_EXP" = "Devuelve e elevado a la potencia de un número dado";
+"Excel_func_EXPONDIST" = "Devuelve la distribución exponencial";
+"Excel_func_FACT" = "Devuelve el factorial de un número";
+"Excel_func_FACTDOUBLE" = "Devuelve el factorial doble de un número";
+"Excel_func_FALSE" = "Devuelve el valor lógico FALSO";
+"Excel_func_FDIST" = "Devuelve la distribución de probabilidad F";
+"Excel_func_FIND" = "Encuentra un valor de texto dentro de otro (distingue mayúsculas de minúsculas)";
+"Excel_func_FINV" = "Devuelve el inverso de la distribución de probabilidad F";
+"Excel_func_FISHER" = "Devuelve la transformación Fisher";
+"Excel_func_FISHERINV" = "Devuelve el inverso de la transformación Fisher";
+"Excel_func_FIXED" = "Da formato de texto a un número de decimales fijo";
+"Excel_func_FLOOR" = "Redondea un número hacia abajo, en dirección hacia el cero";
+"Excel_func_FORECAST" = "Devuelve un valor siguiendo una tendencia lineal";
+"Excel_func_FREQUENCY" = "Devuelve una distribución de frecuencia como una matriz vertical";
+"Excel_func_FV" = "Devuelve el valor futuro de una inversión";
+"Excel_func_FVSCHEDULE" = "Devuelve el valor futuro de un principal inicial luego de aplicar una serie de tasas de interés compuesto";
+"Excel_func_GAMMADIST" = "Devuelve la distribución gama";
+"Excel_func_GAMMAINV" = "Devuelve el inverso de la distribución acumulativa gama";
+"Excel_func_GAMMALN" = "Devuelve el logaritmo natural de la función gama, Г(x)";
+"Excel_func_GCD" = "Devuelve el máximo común divisor";
+"Excel_func_GEOMEAN" = "Devuelve la media geométrica";
+"Excel_func_GESTEP" = "Evalúa si un número es mayor que un valor límite";
+"Excel_func_GETPIVOTDATA" = "Devuelve datos almacenados en un reporte PivotTable";
+"Excel_func_GROWTH" = "Devuelve valores con una tendencia exponencial";
+"Excel_func_HARMEAN" = "Devuelve la media armónica";
+"Excel_func_HEX2BIN" = "Convierte un número hexadecimal a uno binario";
+"Excel_func_HEX2DEC" = "Convierte un número hexadecimal a uno decimal";
+"Excel_func_HEX2OCT" = "Convierte un número hexadecimal a uno octal";
+"Excel_func_HLOOKUP" = "Busca en la fila superior de una matriz y devuelve el valor de la celda indicada";
+"Excel_func_HOUR" = "Convierte un número de serie a una hora";
+"Excel_func_HYPERLINK" = "Crea un atajo o salto que abre un documento almacenado en un servidor de red, una intranet o Internet";
+"Excel_func_HYPGEOMDIST" = "Devuelve la distribución hipergeométrica";
+"Excel_func_IF" = "Especifica una prueba lógica para realizar";
+"Excel_func_IFERROR" = "Devuelve un valor que especifique si una fórmula evalúa un error";
+"Excel_func_IMABS" = "Devuelve el valor absoluto (módulos) de un número complejo";
+"Excel_func_IMAGINARY" = "Devuelve el coeficiente imaginario de un número complejo";
+"Excel_func_IMARGUMENT" = "Devuelve el argumento theta, un ángulo expresado en radianes";
+"Excel_func_IMCONJUGATE" = "Devuelve la conjugada compleja de un número complejo";
+"Excel_func_IMCOS" = "Devuelve el coseno de un número complejo";
+"Excel_func_IMDIV" = "Devuelve el cociente entre dos números complejos";
+"Excel_func_IMEXP" = "Devuelve el exponencial de un número complejo";
+"Excel_func_IMLN" = "Devuelve el logaritmo natural de un número complejo";
+"Excel_func_IMLOG10" = "Devuelve el logaritmo en base 10 de un número complejo";
+"Excel_func_IMLOG2" = "Devuelve el logaritmo en base 2 de un número complejo";
+"Excel_func_IMPOWER" = "Devuelve un número complejo elevado a una potencia entera";
+"Excel_func_IMPRODUCT" = "Devuelve el producto de números complejos";
+"Excel_func_IMREAL" = "Devuelve el coeficiente real de un número complejo";
+"Excel_func_IMSIN" = "Devuelve el seno de un número complejo";
+"Excel_func_IMSQRT" = "Devuelve la raíz cuadrada de un número complejo";
+"Excel_func_IMSUB" = "Devuelve la diferencia entre dos números complejos";
+"Excel_func_IMSUM" = "Devuelve la suma de números complejos";
+"Excel_func_INDEX" = "Utiliza un índice para elegir un valor de una referencia o matriz";
+"Excel_func_INDIRECT" = "Devuelve una referencia indicada por un valor de texto";
+"Excel_func_INFO" = "Devuelve información acerca del entorno operativo actual";
+"Excel_func_INT" = "Redondea un número hacia abajo al entero más cercano";
+"Excel_func_INTERCEPT" = "Devuelve un eje de la línea de regresión lienal";
+"Excel_func_INTRATE" = "Devuelve la tasa de interés para la inversión total de un valor bursátil";
+"Excel_func_IPMT" = "Devuelve el pago de interés para una inversión por un período dado";
+"Excel_func_IRR" = "Devuelve la tasa interna de devolución para una serie de flujos de efectivo";
+"Excel_func_ISBLANK" = "Devuelve VERDADERO si el valor está vacío";
+"Excel_func_ISERR" = "Devuelve VERDADERO si el valor es cualquier valor de error excepto #N/A";
+"Excel_func_ISERROR" = "Devuelve VERDADERO si el valor es cualquier valor de error";
+"Excel_func_ISEVEN" = "Devuelve VERDADERO si el número es par";
+"Excel_func_ISLOGICAL" = "Devuelve VERDADERO si el valor es un valor lógico";
+"Excel_func_ISNA" = "Devuelve VERDADERO si el valor es el valor de error #N/A";
+"Excel_func_ISNONTEXT" = "Devuelve VERDADERO si el valor no es un texto";
+"Excel_func_ISNUMBER" = "Devuelve VERDADERO si el valor es un número";
+"Excel_func_ISODD" = "Devuelve VERDADERO si el número es impar";
+"Excel_func_ISREF" = "Devuelve VERDADERO si el valor es una referencia";
+"Excel_func_ISTEXT" = "Devuelve VERDADERO si el valor es texto";
+"Excel_func_ISPMT" = "Calcula el interés pagado durante un período específico de una inversión";
+"Excel_func_JIS" = "Cambia letras inglesas o katakana de ancho medio (bit sencillo) dentro de una cadena de caracteres a caracteres de ancho completo (bit doble)";
+"Excel_func_KURT" = "Devuelve el kurtosis de un conjunto de datos";
+"Excel_func_LARGE" = "Devuelve el k-ésimo máximo valor en un conjunto de datos";
+"Excel_func_LCM" = "Devuelve el múltiplo menos común";
+"Excel_func_LEFT" = "Devuelve los caracteres que se encuentran más hacia la izquierda de un valor de texto";
+"Excel_func_LEN" = "Devuelve el número de caracteres en una cadena de texto";
+"Excel_func_LINEST" = "Devuelve los parámetros de una tendencia lineal";
+"Excel_func_LN" = "Devuelve el logaritmo natural de un número";
+"Excel_func_LOG" = "Devuelve el logaritmo de un número a una base especificada";
+"Excel_func_LOG10" = "Devuelve el logaritmo en base 10 de un número";
+"Excel_func_LOGEST" = "Devuelve los parámetros de una tendencia exponencial";
+"Excel_func_LOGINV" = "Devuelve el inverso de una distribución lognormal";
+"Excel_func_LOGNORMDIST" = "Devuelve la distribución acumulativa lognormal";
+"Excel_func_LOOKUP" = "Busca valores en un vector o matriz";
+"Excel_func_LOWER" = "Convierte texto en minúsculas";
+"Excel_func_MATCH" = "Busca valores en una referencia o matriz";
+"Excel_func_MAX" = "Devuelve el valor máximo en una lista de argumentos";
+"Excel_func_MAXA" = "Devuelve el valor máximo en una lista de argumentos, incluidos números, texto y valores lógicos";
+"Excel_func_MDETERM" = "Devuelve la matriz determinante de una matriz";
+"Excel_func_MDURATION" = "Devuelve la duración de Macauley modificada de un valor bursátil con un valor nominal supuesto de $100";
+"Excel_func_MEDIAN" = "Devuelve la mediana de los números dados";
+"Excel_func_MID" = "Devuelve un número específico de caracteres de una cadena de caracteres que comienza en una posición que especifique";
+"Excel_func_MIN" = "Devuelve el valor mínimo en una lista de argumentos";
+"Excel_func_MINA" = "Devuelve el valor mínimo en una lista de argumentos, incluidos números, texto y valores lógicos";
+"Excel_func_MINUTE" = "Convierte un número de serie a un minuto";
+"Excel_func_MINVERSE" = "Devuelve la matriz inversa de una matriz";
+"Excel_func_MIRR" = "Devuelve la tasa interna de devolución donde los flujos de efectivo positivos y negativos se financian con tasas diferentes";
+"Excel_func_MMULT" = "Devuelve el producto matriz de dos matrices";
+"Excel_func_MOD" = "Devuelve el recordatorio de la división";
+"Excel_func_MODE" = "Devuelve el valor más común en un conjunto de datos";
+"Excel_func_MONTH" = "Convierte un número de serie en un mes";
+"Excel_func_MROUND" = "Devuelve un número redondeado al múltiplo deseado";
+"Excel_func_MULTINOMIAL" = "Devuelve el multinomial de un conjunto de números";
+"Excel_func_N" = "Devuelve un valor convertido a un número";
+"Excel_func_NA" = "Devuelve el valor de error #N/A";
+"Excel_func_NEGBINOMDIST" = "Devuelve la distribución binomial negativa";
+"Excel_func_NETWORKDAYS" = "Devuelve el número de los días laborables completos entre dos fechas";
+"Excel_func_NOMINAL" = "Devuelve la tasa de interés nominal anual";
+"Excel_func_NORMDIST" = "Devuelve la distribución acumulativa normal";
+"Excel_func_NORMINV" = "Devuelve el inverso de la distribución acumulativa normal";
+"Excel_func_NORMSDIST" = "Devuelve la distribución acumulativa normal estándar";
+"Excel_func_NORMSINV" = "Devuelve el inverso de la distribución acumulativa normal estándar";
+"Excel_func_NOT" = "Invierte la lógica de su argumento";
+"Excel_func_NOW" = "Devuelve el número de serie de la fecha y hora actual";
+"Excel_func_NPER" = "Devuelve el número de períodos para una inversión";
+"Excel_func_NPV" = "Devuelve el valor neto actual de una inversión en función de una serie de flujos de efectivo periódicos y una tasa de descuento";
+"Excel_func_OCT2BIN" = "Convierte un número octal a binario";
+"Excel_func_OCT2DEC" = "Convierte un número octal a decimal";
+"Excel_func_OCT2HEX" = "Convierte un número octal a hexadecimal";
+"Excel_func_ODD" = "Redondea un número hacia arriba al entero impar más cercano";
+"Excel_func_ODDFPRICE" = "Devuelve el precio por $100 de valor nominal de un valor bursátil con un primer período impar";
+"Excel_func_ODDFYIELD" = "Devuelve el rendimiento de un valor bursátil con un primer período impar";
+"Excel_func_ODDLPRICE" = "Devuelve el precio por un valor nominal de $100 de un valor bursátil con un último período impar";
+"Excel_func_ODDLYIELD" = "Devuelve el rendimiento de un valor bursátil con un último período impar";
+"Excel_func_OFFSET" = "Devuelve un desplazamiento de referencia respecto a una referencia dada";
+"Excel_func_OR" = "Devuelve VERDADERO si cualquier argumento es VERDADERO";
+"Excel_func_PEARSON" = "Devuelve el coeficiente de momento de correlación de producto Pearson";
+"Excel_func_PERCENTILE" = "Devuelve el k-ésimo percentil de los valores de un rango";
+"Excel_func_PERCENTRANK" = "Devuelve el rango porcentual de un valor de un conjunto de datos";
+"Excel_func_PERMUT" = "Devuelve el número de permutaciones de un número determinado de objetos";
+"Excel_func_PHONETIC" = "Extrae los caracteres fonéticos (furigana) de una cadena de texto";
+"Excel_func_PI" = "Devuelve el valor de pi";
+"Excel_func_PMT" = "Devuelve el pago periódico de una anualidad";
+"Excel_func_POISSON" = "Devuelve la distribución de Poisson";
+"Excel_func_POWER" = "Devuelve el resultado de elevar un número a una potencia";
+"Excel_func_PPMT" = "Devuelve el pago de capital de una inversión durante un período determinado";
+"Excel_func_PRICE" = "Devuelve el precio por un valor nominal de $100 de un valor bursátil que paga una tasa de interés periódico";
+"Excel_func_PRICEDISC" = "Devuelve el precio por un valor nominal de $100 de un valor bursátil con descuento";
+"Excel_func_PRICEMAT" = "Devuelve el precio por un valor nominal de $100 de un valor bursátil que paga interés a su vencimiento";
+"Excel_func_PROB" = "Devuelve la probabilidad de que los valores de un rango se encuentren entre dos límites";
+"Excel_func_PRODUCT" = "Multiplica sus argumentos";
+"Excel_func_PROPER" = "Pone en mayúscula la primera letra de cada palabra de un valor de texto";
+"Excel_func_PV" = "Devuelve el valor actual de una inversión";
+"Excel_func_QUARTILE" = "Devuelve el cuartil de un conjunto de datos";
+"Excel_func_QUOTIENT" = "Devuelve la parte entera de una división";
+"Excel_func_RADIANS" = "Convierte grados en radianes";
+"Excel_func_RAND" = "Devuelve un número aleatorio entre 0 y 1";
+"Excel_func_RANDBETWEEN" = "Devuelve un número aleatorio entre los números que especifique";
+"Excel_func_RANK" = "Devuelve la jerarquía de un número en una lista de números";
+"Excel_func_RATE" = "Devuelve la tasa de interés por período de una anualidad";
+"Excel_func_RECEIVED" = "Devuelve la cantidad recibida al vencimiento de un valor bursátil completamente invertido";
+"Excel_func_REGISTER_ID" = "Devuelve el número de identificación del registro de la biblioteca de vínculos dinámicos (DLL) especificada o del recurso de código previamente registrado";
+"Excel_func_REPLACE" = "Reemplaza caracteres de texto";
+"Excel_func_REPT" = "Repite el texto un número determinado de veces";
+"Excel_func_RIGHT" = "Devuelve los caracteres del lado derecho de un valor de texto";
+"Excel_func_ROMAN" = "Convierte un número arábigo en número romano, con formato de texto";
+"Excel_func_ROUND" = "Redondea un número al número de decimales especificados";
+"Excel_func_ROUNDDOWN" = "Redondea un número hacia abajo, en dirección hacia el cero";
+"Excel_func_ROUNDUP" = "Redondea un número hacia arriba, en dirección contraria a cero";
+"Excel_func_ROW" = "Devuelve el número de fila de una referencia";
+"Excel_func_ROWS" = "Devuelve el número de filas de una referencia";
+"Excel_func_RSQ" = "Devuelve el cuadrado del coeficiente de momento de correlación de producto Pearson";
+"Excel_func_SEARCH" = "Busca un valor de texto dentro de otro (no distingue mayúsculas de minúsculas)";
+"Excel_func_SEARCHB" = "Busca un valor de texto dentro de otro (no distingue mayúsculas de minúsculas)";
+"Excel_func_SECOND" = "Convierte un número de serie en un valor de segundo";
+"Excel_func_SERIESSUM" = "Devuelve la suma de una serie de potencias en función de la fórmula";
+"Excel_func_SIGN" = "Devuelve el signo de un número";
+"Excel_func_SIN" = "Devuelve el seno de un ángulo determinado";
+"Excel_func_SINH" = "Devuelve el seno hiperbólico de un número";
+"Excel_func_SKEW" = "Devuelve la asimetría de una distribución";
+"Excel_func_SLN" = "Devuelve la depreciación por método directo de un bien en un período dado";
+"Excel_func_SLOPE" = "Devuelve la pendiente de la línea de regresión lineal";
+"Excel_func_SMALL" = "Devuelve el k-ésimo menor valor de un conjunto de datos";
+"Excel_func_SQL_REQUEST" = "Establece conexión con un origen de datos externo, ejecuta una consulta desde una hoja de cálculo y, a continuación, devuelve el resultado en forma de matriz sin necesidad de programar una macro";
+"Excel_func_SQRT" = "Devuelve la raíz cuadrada positiva de un número";
+"Excel_func_SQRTPI" = "Devuelve la raíz cuadrada de (número * pi)";
+"Excel_func_STANDARDIZE" = "Devuelve un valor normalizado";
+"Excel_func_STDEV" = "Calcula la desviación estándar a partir de una muestra";
+"Excel_func_STDEVA" = "Calcula la desviación estándar a partir de una muestra, incluidos números, texto y valores lógicos";
+"Excel_func_STDEVP" = "Calcula la desviación estándar en función de toda la población";
+"Excel_func_STDEVPA" = "Calcula la desviación estándar en función de toda la población, incluidos números, texto y valores lógicos";
+"Excel_func_STEYX" = "Devuelve el error estándar del valor de y previsto para cada x de la regresión";
+"Excel_func_SUBSTITUTE" = "Sustituye texto nuevo por texto antiguo en una cadena de texto";
+"Excel_func_SUBTOTAL" = "Devuelve un subtotal en una lista o base de datos";
+"Excel_func_SUM" = "Suma sus argumentos";
+"Excel_func_SUMIF" = "Suma las celdas especificadas según unos criterios determinados";
+"Excel_func_SUMIFS" = "Suma las celdas de un rango que cumplen varios criterios";
+"Excel_func_SUMPRODUCT" = "Devuelve la suma de los productos de los componentes de matriz correspondientes";
+"Excel_func_SUMSQ" = "Devuelve la suma de los cuadrados de los argumentos";
+"Excel_func_SUMX2MY2" = "Devuelve la suma de la diferencia de los cuadrados de los valores correspondientes de dos matrices";
+"Excel_func_SUMX2PY2" = "Devuelve la suma de la suma de los cuadrados de los valores correspondientes de dos matrices";
+"Excel_func_SUMXMY2" = "Devuelve la suma de los cuadrados de las diferencias de los valores correspondientes de dos matrices";
+"Excel_func_SYD" = "Devuelve la depreciación por suma de dígitos de los años de un bien durante un período especificado";
+"Excel_func_T" = "Convierte sus argumentos a texto";
+"Excel_func_TAN" = "Devuelve la tangente de un número";
+"Excel_func_TANH" = "Devuelve la tangente hiperbólica de un número";
+"Excel_func_TBILLEQ" = "Devuelve el rendimiento de un bono equivalente a una letra del Tesoro";
+"Excel_func_TBILLPRICE" = "Devuelve el precio por un valor nominal de $100 de una letra del Tesoro";
+"Excel_func_TBILLYIELD" = "Devuelve el rendimiento de una letra del Tesoro";
+"Excel_func_TDIST" = "Devuelve la distribución de t de Student";
+"Excel_func_TEXT" = "Da formato a un número y lo convierte en texto";
+"Excel_func_TIME" = "Devuelve el número de serie correspondiente a una hora determinada";
+"Excel_func_TIMEVALUE" = "Convierte una hora con formato de texto en un valor de número de serie";
+"Excel_func_TINV" = "Devuelve la función inversa de la distribución de t de Student";
+"Excel_func_TODAY" = "Devuelve el número de serie del día actual";
+"Excel_func_TRANSPOSE" = "Devuelve la transposición de una matriz";
+"Excel_func_TREND" = "Devuelve valores en una tendencia lineal";
+"Excel_func_TRIM" = "Quita los espacios del texto";
+"Excel_func_TRIMMEAN" = "Devuelve la media del interior de un conjunto de datos";
+"Excel_func_TRUE" = "Devuelve el valor lógico VERDADERO";
+"Excel_func_TRUNC" = "Trunca un número a un entero";
+"Excel_func_TTEST" = "Devuelve la probabilidad asociada a una prueba t de Student";
+"Excel_func_TYPE" = "Devuelve un número que indica el tipo de datos de un valor";
+"Excel_func_UPPER" = "Convierte el texto en mayúsculas";
+"Excel_func_VALUE" = "Convierte un argumento de texto en un número";
+"Excel_func_VAR" = "Calcula la varianza en función de una muestra";
+"Excel_func_VARA" = "Calcula la varianza en función de una muestra, incluidos números, texto y valores lógicos";
+"Excel_func_VARP" = "Calcula la varianza en función de toda la población";
+"Excel_func_VARPA" = "Calcula la varianza en función de toda la población, incluidos números, texto y valores lógicos";
+"Excel_func_VDB" = "Devuelve la depreciación de un bien durante un período específico o parcial a través del método de cálculo en disminución";
+"Excel_func_VLOOKUP" = "Busca en la primera columna de una matriz y se mueve en horizontal por la fila para devolver el valor de una celda";
+"Excel_func_WEEKDAY" = "Convierte un número de serie en un valor de día de la semana";
+"Excel_func_WEEKNUM" = "Convierte un número de serie en un número que representa el lugar numérico de una semana con un año";
+"Excel_func_WEIBULL" = "Calcula la varianza en función de toda la población, incluidos números, texto y valores lógicos";
+"Excel_func_WORKDAY" = "Devuelve el número de serie de la fecha que tiene lugar antes o después de un número de días laborables especificados";
+"Excel_func_XIRR" = "Devuelve la tasa interna de retorno para un flujo de efectivo que no es necesariamente periódico";
+"Excel_func_XNPV" = "Devuelve el valor neto actual para un flujo de efectivo que no es necesariamente periódico";
+"Excel_func_YEAR" = "Convierte un número de serie en un valor de año";
+"Excel_func_YEARFRAC" = "Devuelve la fracción de año que representa el número total de días existentes entre el valor de fecha_inicial y el de fecha_final";
+"Excel_func_YIELD" = "Devuelve el rendimiento de un valor bursátil que paga intereses periódicos";
+"Excel_func_YIELDDISC" = "Devuelve el rendimiento anual de un valor bursátil con descuento";
+"Excel_func_YIELDMAT" = "Devuelve el rendimiento anual de un valor bursátil que paga intereses al vencimiento";
+"Excel_func_ZTEST" = "Devuelve el valor de una probabilidad de una dimensión de una prueba z";
+"Excel_func_FTEST" = "Devuelve la probabilidad de dos dimensiones que las varianzas en la matriz1 y en la matriz2 no son significativamente diferentes";
+"Excel_func_DATEDIF" = "Devuelve la diferencia entre dos valores de fecha, en función del intervalo especificado";
+"Excel_func_DBCS" = "Convierte las letras de ancho medio (bit sencillo) dentro de una cadena de caracteres a caracteres de ancho completo (bit doble)";
+"Excel_func_USDOLLAR" = "Convierte un número a texto usando el formato de moneda, con los decimales redondeados al lugar especificado";
+"Excel_func_UNICHAR" = "Devuelve el carácter Unicode al que hace referencia el valor numérico dado";
+"Excel_func_UNICODE" = "Devuelve el número (punto de código) que corresponde al primer carácter de texto";
+
+/*
+ NEW STRINGS AFTER VER 3.7.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"InfoMsg_TransactionInProgress" = "La transacción puede tardar unos minutos...";
+"InfoTitle_TransactionCompleted" = "Transacción completada";
+"InfoMsg_InAppRestoreDone" = "Restauración completada correctamente.";
+"Label_FontPackDescription70" = "Una colección de más de 70 fuentes, como Calibri, Tahoma y Wingdings, para usar en OfficeSuite.";
+"Label_FontPackDescriptionOFL" = "También contiene 60 fuentes OFL como Garamond, Open Sans y Times Gothic.";
+"Label_OneTimePurchase2" = "Compra única";
+
+/* Up to 10 chars */
+"Label_Unlock" = "Desbloquear";
+
+/* Up to 14 chars */
+"Label_Features" = "Características";
+
+"Label_InfoMsgAutoSumNotAvailable" = "La selección no debe contener filas, columnas o tablas enteras.";
+"Label_MultiSelection" = "Selección múltiple";
+"Label_ClearFilterC" = "Eliminar filtro";
+"Label_ReapplyFilterC" = "Volver a aplicar filtro";
+"Label_AboveAverageC" = "Por encima de la media";
+"Label_BelowAverageC" = "Por debajo de la media";
+"Label_DeleteCell" = "Eliminar celda";
+"Label_Buy" = "Comprar";
+"Label_YourHTTPAddress" = "Tu dirección HTTP";
+"Label_YourUsername" = "Tu nombre de usuario";
+"Label_YourPassword" = "Tu contraseña";
+
+/*
+ NEW STRINGS AFTER VER 4.0
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// File Browser
+"Label_NewFile" = "Nuevo archivo";
+"Label_FolderUp" = "Carpeta superior";
+"Label_Sidebar" = "Barra lateral";
+"Label_Ad" = "Anuncio";
+"Label_DeselectAll" = "Desmarcar todo";
+"Label_Apply" = "Aplicar";
+"ErrMsg_LocalStorageOnly" = "Puedes guardar archivos solo en el almacenamiento local.";
+"Label_Submit" = "Enviar";
+"Label_Username" = "Nombre de usuario";
+"InfoTitle_LoginFailure" = "Error de inicio de sesión";
+"InfoTitle_ServerIdentity" = "No se puede verificar la identidad del servidor";
+"InfoTitle_LoginRequired" = "Esta página requiere que inicies sesión";
+"InfoMsg_LoginFailureSSOUntrusted" = "No se ha podido iniciar sesión porque el servidor SSO no es de confianza. Contacta con tu administrador para obtener más información.";
+"InfoMsg_ServerIdentity" = "Box no ha podido verificar la identidad de \"%@\". ¿Quieres continuar de todos modos?";
+"InfoMsg_VerifyUsernameAndPassword" = "No se ha podido iniciar sesión. Revisa tu nombre de usuario\\contraseña e inténtalo de nuevo.";
+"Label_WordTemplates" = "Plantillas de Documento";
+"Label_ExcelTemplates" = "Plantillas de hoja de cálculo";
+"Label_PowerpointTemplates" = "Plantillas de presentación";
+// PowerPoint
+"Label_PowerPoint97Presentation" = "Presentación PowerPoint 97-2003";
+"Label_PowerPointMacroPresentation" = "Presentación de PowerPoint habilitada para macros";
+"Label_PowerPointSlideShow" = "Presentación de diapositivas de PowerPoint";
+"Label_PowerPoint97SlideShow" = "Presentación de diapositivas de PowerPoint 97-2003";
+"Label_PowerPointMacroSlideShow" = "Presentación de diapositivas de PowerPoint habilitada para macros";
+"Label_SlideRange" = "Diapositiva número (1 - %d)";
+"Label_DataLostAfterSave" = "Puede que algunos datos no se guarden.";
+"Label_PowerPointTemplate" = "Plantilla de Presentación";
+"Label_Transitions" = "Transiciones";
+"Label_TransitionEffect" = "Efecto de transición";
+"Label_EffectOptions" = "Opciones de efecto";
+"Label_TransitionDuration" = "Duración de la transición";
+"Label_AdvanceSlideAfter" = "Avanzar a la siguiente diapositiva tras";
+
+/* Up to 22 chars */
+"Label_ChangeSlideAfter" = "Cambiar diapositiva tras";
+
+"Label_ApplyToAll" = "Aplicar a todo";
+"Label_ApplyTransition" = "Aplicar transición";
+
+/* Up to 16 chars */
+"Label_SetDuration" = "Fijar duración";
+
+"Label_Min" = "Min";
+"Label_Sec" = "Seg";
+
+/* Up to 60 chars */
+"Label_TransitionAppliedToAll" = "Los ajustes de transición se han aplicado a todas las diapositivas.";
+
+"Label_Subtle" = "Sutil";
+"Label_Exciting" = "Llamativo";
+"Label_DynamicContent" = "Contenido dinámico";
+
+/* Transition names - each one must be 12 chars or less */
+"Label_Fade" = "Desvanecer";
+"Label_Push" = "Empuje";
+"Label_Wipe" = "Barrido";
+"Label_Split" = "Dividir";
+"Label_Reveal" = "Mostrar";
+"Label_RandomBars" = "Aleatorias";
+"Label_Uncover" = "Revelar";
+"Label_Cover" = "Cubrir";
+"Label_Flash" = "Flash";
+"Label_Dissolve" = "Disolver";
+"Label_Checkboard" = "Ajedrez";
+"Label_Blinds" = "Persianas";
+"Label_Clock" = "Reloj";
+"Label_Ripple" = "Ondulación";
+"Label_Honeycomb" = "Panal";
+"Label_Glitter" = "Brillo";
+"Label_Vortex" = "Vórtice";
+"Label_Shred" = "Destruir";
+"Label_Switch" = "Cambiar";
+"Label_Flip" = "Voltear";
+"Label_Gallery" = "Galería";
+"Label_Cube" = "Cubo";
+"Label_Doors" = "Puertas";
+"Label_Box" = "Cuadro";
+"Label_Comb" = "Barrido";
+"Label_Wheel" = "Rueda";
+"Label_Newsflash" = "Noticias";
+"Label_Pan" = "Panorámica";
+"Label_FerrisWheel" = "Noria";
+"Label_Conveyor" = "Transportador";
+"Label_Rotate" = "Girar";
+"Label_Window" = "Ventana";
+"Label_Orbit" = "Órbita";
+"Label_FlyThrough" = "Volar";
+/* End Transition names */
+
+// Transition options
+"Label_ThroughBlack" = "En negro";
+"Label_Smoothly" = "Suavemente";
+"Label_FromBottom" = "Desde abajo";
+"Label_FromLeft" = "Desde la izquierda";
+"Label_FromRight" = "Desde la derecha";
+"Label_FromTop" = "Desde arriba";
+"Label_FromTopRight" = "Desde arriba a la derecha";
+"Label_FromTopLeft" = "Desde arriba a la izquierda";
+"Label_FromBottomLeft" = "Desde abajo a la izquierda";
+"Label_FromBottomRight" = "Desde abajo a la derecha";
+"Label_Vertical" = "Vertical";
+"Label_VerticalOut" = "Vertical hacia fuera";
+"Label_VerticalIn" = "Vertical hacia dentro";
+"Label_Horizontal" = "Horizontal";
+"Label_HorizontalOut" = "Horizontal hacia fuera";
+"Label_HorizontalIn" = "Horizontal hacia dentro";
+"Label_SmoothlyFromRight" = "Suavemente desde la derecha";
+"Label_SmoothlyFromLeft" = "Suavemente desde la izquierda";
+"Label_ThroughBlackFromRight" = "En negro desde la derecha";
+"Label_ThroughBlackFromLeft" = "En negro desde la izquierda";
+"Label_Circle" = "Círculo";
+"Label_Diamond" = "Rombo";
+"Label_Plus" = "Más";
+"Label_In" = "Hacia dentro";
+"Label_Out" = "Hacia fuera";
+"Label_Clockwise" = "Sentido de las agujas del reloj";
+"Label_Counterclockwise" = "Sentido contrario a las agujas del reloj";
+"Label_Wedge" = "Cuña";
+"Label_Center" = "Centro";
+"Label_2SpokesClockwise" = "2 radios en el sentido de las agujas del reloj";
+"Label_3SpokesClockwise" = "3 radios en el sentido de las agujas del reloj";
+"Label_4SpokesClockwise" = "4 radios en el sentido de las agujas del reloj";
+"Label_8SpokesClockwise" = "8 radios en el sentido de las agujas del reloj";
+"Label_2SpokesCounterclockwise" = "2 radios en sentido contrario a las agujas del reloj";
+"Label_3SpokesCounterclockwise" = "3 radios en sentido contrario a las agujas del reloj";
+"Label_4SpokesCounterclockwise" = "4 radios en sentido contrario a las agujas del reloj";
+"Label_8SpokesCounterclockwise" = "8 radios en sentido contrario a las agujas del reloj";
+"Label_HexagonsFromLeft" = "Hexágonos desde la izquierda";
+"Label_HexagonsFromTop" = "Hexágonos desde arriba";
+"Label_HexagonsFromRight" = "Hexágonos desde la derecha";
+"Label_HexagonsFromBottom" = "Hexágonos desde abajo";
+"Label_DiamondsFromLeft" = "Rombos desde la izquierda";
+"Label_DiamondsFromTop" = "Rombos desde arriba";
+"Label_DiamondsFromRight" = "Rombos desde la derecha";
+"Label_DiamondsFromBottom" = "Rombos desde abajo";
+"Label_StripsIn" = "Rayas hacia dentro";
+"Label_StripsOut" = "Rayas hacia fuera";
+"Label_ParticlesIn" = "Partículas hacia dentro";
+"Label_ParticlesOut" = "Partículas hacia fuera";
+"Label_Left" = "Izquierda";
+"Label_Right" = "Derecha";
+"Label_InWithBounce" = "Hacia dentro con rebote";
+"Label_OutWithBounce" = "Hacia fuera con rebote";
+"Label_ExcelMacroEnabledWorkbook" = "Libro de Excel habilitado para macros";
+"Label_ExcelTemplate" = "Plantilla de Hoja";
+"Label_Zip" = "Comprimir";
+"Label_ZipDocument" = "Comprimir documento";
+"Label_ZipDocuments" = "Comprimir documentos";
+// Conditional Formatting
+"Label_ConditionalFormatting" = "Formato condicional";
+
+/* Up to 22 chars */
+"Label_HighlightCellsRules" = "Reglas celdas seleccionadas";
+
+/* Up to 25 chars */
+"Label_Top/Bottom/Avg" = "Reglas Superior/Inferior/Media";
+
+"Label_DataBars" = "Barras de datos";
+"Label_ColorScales" = "Escalas de color";
+"Label_ClearRulesFromEntireSheet" = "Eliminar reglas para la hoja entera";
+"Label_RulesManager" = "Administrador de reglas";
+"Label_TitleClearCFRulesAlert" = "¿Quieres eliminar todas las reglas?";
+"Label_MessageClearCFRulesAlert" = "Se eliminará el formato condicional.";
+"Label_FormatCellsRules" = "Reglas de formato de celdas";
+
+/* Up to 20 chars */
+"Label_TopBottomAverage" = "Superior/Inferior/Media";
+
+"Label_Content" = "Contenido";
+"Label_Rank" = "Clasificación";
+"Label_RuleType" = "Tipo de regla";
+
+/* Up to 10 chars */
+"Label_Value_1" = "Valor 1";
+
+/* Up to 10 chars */
+"Label_Value_2" = "Valor 2";
+
+// Conditional format types
+"Excel_CF_CellValue" = "Valor de la celda";
+"Excel_CF_SpecificText" = "Texto específico";
+"Excel_CF_Blanks" = "Celdas en blanco";
+"Excel_CF_NoBlanks" = "Sin celdas en blanco";
+"Excel_CF_Errors" = "Errores";
+"Excel_CF_NoErrors" = "Sin errores";
+"Excel_CF_Unique" = "Único";
+"Excel_CF_Duplicate" = "Duplicado";
+"Excel_CF_DatesOccurring" = "Fechas de ocurrencia";
+"Excel_CF_EqualTo" = "igual a";
+"Excel_CF_NotEqualTo" = "distinto de";
+"Excel_CF_LessThan" = "menor que";
+"Excel_CF_LessEqual" = "menor o igual que";
+"Excel_CF_GreaterThan" = "mayor que";
+"Excel_CF_GreaterEqual" = "mayor o igual que";
+"Excel_CF_Between" = "entre";
+"Excel_CF_NotBetween" = "no está entre";
+"Excel_CF_Contains" = "contiene";
+"Excel_CF_NotContains" = "no contiene";
+"Excel_CF_BeginsWith" = "empieza por";
+"Excel_CF_EndsWith" = "termina por";
+"Excel_CF_Top" = "Arriba";
+"Excel_CF_Bottom" = "Abajo";
+"Excel_CF_StdDevAbove" = "desviación típica por encima";
+"Excel_CF_StdDevBelow" = "desviación típica por debajo";
+"Excel_CF_EqualOrAbove" = "Mayor o igual";
+"Excel_CF_EqualOrBelow" = "Menor o igual";
+"Excel_CF_AboveAverage" = "Por encima de la media";
+"Excel_CF_BelowAverage" = "Por debajo de la media";
+// Conditional format descriptions
+"Excel_CFDescr_blank" = "La celda contiene un valor en blanco";
+"Excel_CFDescr_no_blank" = "La celda no contiene un valor en blanco";
+"Excel_CFDescr_error" = "La celda contiene un error";
+"Excel_CFDescr_no_error" = "La celda no contiene un error";
+"Excel_CFDescr_cell_value" = "Valor de la celda";
+"Excel_CFDescr_between" = "Entre";
+"Excel_CFDescr_not_between" = "No está entre";
+"Excel_CFDescr_and" = "y";
+"Excel_CFDescr_contains" = "Contiene";
+"Excel_CFDescr_does_not_contain" = "No contiene";
+"Excel_CFDescr_begins_with" = "Empieza por";
+"Excel_CFDescr_ends_with" = "Termina por";
+"Excel_CFDescr_std_dev" = "Desviación típica";
+"Excel_CFDescr_equal_to_or" = "Igual a o";
+"Excel_CFDescr_above_average" = "Por encima de la media";
+"Excel_CFDescr_below_average" = "Por debajo de la media";
+"Excel_CFDescr_dates_occurring_yesterday" = "Ayer";
+"Excel_CFDescr_dates_occurring_today" = "Hoy";
+"Excel_CFDescr_dates_occurring_tomorrow" = "Mañana";
+"Excel_CFDescr_dates_occurring_last_7_days" = "Últimos 7 días";
+"Excel_CFDescr_dates_occurring_last_week" = "La semana pasada";
+"Excel_CFDescr_dates_occurring_this_week" = "Esta semana";
+"Excel_CFDescr_dates_occurring_next_week" = "La próxima semana";
+"Excel_CFDescr_dates_occurring_last_month" = "El mes pasado";
+"Excel_CFDescr_dates_occurring_this_month" = "Este mes";
+"Excel_CFDescr_dates_occurring_next_month" = "El mes que viene";
+"Label_XlsSaveCFRulesNotSupported" = "No se puede guardar el formato condicional en formato xls. El formato condicional no se guardará.";
+// Accessibility labels
+"Label_Inside" = "Hacia dentro";
+"Label_Outside" = "Hacia fuera";
+"Label_Vertical_Inside" = "Vertical hacia dentro";
+"Label_Horizontal_Inside" = "Horizontal hacia dentro";
+"Label_ShowFormattingSymbols" = "Mostrar símbolos de formato";
+"Label_JustifiedParagraphAlignment" = "Justificar";
+"Label_LeftParagraphAlignment" = "Alinear a la izquierda";
+"Label_CenterParagraphAlignment" = "Centrar";
+"Label_RightParagraphAlignment" = "Alinear a la derecha";
+"Label_FontTextColorDropdown" = "Menú desplegable de Color de texto";
+"Label_FontHighlightColorDropdown" = "Menú desplegable de Color de resaltado";
+"Label_NumberingDropdown" = "Menú desplegable de Numeración";
+"Label_BulletsDropdown" = "Menú desplegable de Viñetas";
+"Label_EnterViewMode" = "Entrar en el modo vista";
+"Label_EnterEditMode" = "Entrar en el modo edición";
+"Label_ChangeTableStyle" = "Cambiar estilo de tabla";
+"Label_InsertTableRowAbove" = "Insertar fila de tabla por encima";
+"Label_InsertTableRowBelow" = "Insertar fila de tabla por debajo";
+"Label_InsertTableColumnToTheLeft" = "Insertar columna de tabla a la izquierda";
+"Label_InsertTableColumnToTheRight" = "Insertar columna de tabla a la derecha";
+"Label_DeleteTableRow" = "Eliminar fila de tabla";
+"Label_DeleteTableColumn" = "Eliminar columna de tabla";
+"Label_DeleteTableCell" = "Eliminar celda de tabla";
+"Label_TableSizeGrid" = "Selector de cuadrícula de tamaño de tabla";
+"Label_IncreaseValue" = "Aumentar valor";
+"Label_DecreaseValue" = "Disminuir valor";
+"Label_Photo" = "Foto";
+"Label_Graphic" = "Gráfico";
+"Label_CaptureImage" = "Capturar imagen";
+"Label_SwitchCamera" = "Cambiar cámara";
+"Label_NewSheet" = "Nueva hoja";
+"Label_SheetOfSheets" = "Hoja $1 de $2";
+"Label_MenuItem" = "Elemento de menú";
+"Label_CellContent" = "Contenido de celda";
+// pdf
+"Label_ViewMode" = "Modo vista";
+"Label_SinglePage" = "Página única";
+"Label_Ellipse" = "Elipse";
+"Label_Rectangle" = "Rectángulo";
+"Label_Line" = "Línea";
+"Label_FreeDraw" = "Dibujo libre";
+
+// File Browser
+"WarningMsg_ZippingFilesInterrupted" = "Error al almacenar archivos.";
+"Label_UnsupportedDocumentType" = "Tipo de documento no compatible";
+"Label_UnknownDocumentType" = "Tipo de documento desconocido";
+"Label_Certificate" = "Certificado";
+"Label_PersonalInformationExchange" = "Intercambio de información personal";
+"ErrTitle_NoPermission" = "Sin permiso";
+"ErrMsg_CannotDeleteInboxFolder" = "No puedes eliminar la carpeta Bandeja de entrada si iCloud está desactivado.";
+"Label_OpenODF" = "Soporte ODF";
+"Label_OpenODFDescription" = "Abre .odt, .ods y archivos .odp";
+// Word
+"WarningMessage_RtfWillLoseFormatting2" = "Si guardas tu archivo con formato RTF, puede que se pierdan la protección con contraseña y parte del formato. ¿Continuar?";
+"WarningMessage_TxtWillLoseFormatting2" = "Si guardas como archivo de texto, la protección con contraseña, el formato, las imágenes y los objetos del archivo se perderán. ¿Continuar?";
+"WarningMessage_OdtWillLoseFormatting2" = "Si guardas tu archivo con formato ODT, puede que se pierdan la protección con contraseña y parte del formato. ¿Continuar?";
+"WarningMessage_ExportToPDFWillLoseProtection" = "El archivo PDF exportado no estará protegido con contraseña. ¿Continuar?";
+// Excel
+"Label_Selection" = "Selección";
+"Label_Worksheet" = "Hoja de cálculo";
+"ErrMsg_NoStyleForCFRule" = "La regla no tiene formato establecido.";
+"ErrMsg_InvalidCFRule" = "La regla no tiene valores establecidos.";
+"Label_XlsSaveSomeItemsNotSupported" = "No se pueden guardar algunas funciones de este libro en formato xls.";
+"Label_RandomTransition" = "Transición aleatoria";
+// pdf accessibility
+"Label_PageNumber" = "Página %d";
+
+/*
+ NEW STRINGS AFTER VER 4.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Label_ColumnChart" = "Columnas";
+"Label_BarChart" = "Barras";
+"Label_LineChart" = "Línea";
+"Label_AreaChart" = "Áreas";
+"Label_PieChart" = "Circular";
+"Label_ScatterChart" = "Dispersión";
+"Label_Clustered" = "Agrupado";
+"Label_Stacked" = "Apilado";
+"Label_Stacked100" = "100% apilado";
+"Label_ScatterMarkers" = "Marcador";
+"Label_ScatterLines" = "Línea";
+"Label_ScatterLinesMarkers" = "Línea y marcador";
+"Label_FeatureIsNotAvaialableForSheet" = "Esta función no está disponible en esta hoja.";
+"Label_TextToDisplay" = "Texto para mostrar";
+"Label_Address" = "Dirección";
+
+//Accessibility strings
+"Accessibility_Label_StrikeThrough" = "Tachado";
+"Accessibility_Label_TextColorOptions" = "Opciones de color de texto";
+"Accessibility_Label_LeftAlignment" = "Alinear a la izquierda";
+"Accessibility_Label_CenterAlignment" = "Alinear al centro";
+"Accessibility_Label_RightAlignment" = "Alinear a la derecha";
+"Accessibility_Label_JustifyAlignment" = "Alinear justificado";
+"Accessibility_Label_Increase" = "Aumentar";
+"Accessibility_Label_Decrease" = "Reducir";
+"Accessibility_Label_Hours" = "Horas";
+"Accessibility_Label_Minutes" = "Minutos";
+"Accessibility_Label_Seconds" = "Segundos";
+"Accessibility_Label_Centiseconds" = "Centésima de segundo";
+"Accessibility_Label_Color_Description" = "Color rojo %d, verde %d, azul %d y transparencia %d";
+
+"Label_ShapeType_AccentBorderCallout1" = "Llamada 1 con borde y énfasis";
+"Label_ShapeType_AccentBorderCallout2" = "Llamada 2 con borde y énfasis";
+"Label_ShapeType_AccentBorderCallout3" = "Llamada 3 con borde y énfasis";
+"Label_ShapeType_AccentCallout1" = "Llamada 1 con énfasis";
+"Label_ShapeType_AccentCallout2" = "Llamada 2 con énfasis";
+"Label_ShapeType_AccentCallout3" = "Llamada 3 con énfasis";
+"Label_ShapeType_ActionButtonBackPrevious" = "Forma de botón atrás o anterior";
+"Label_ShapeType_ActionButtonBeginning" = "Botón de inicio";
+"Label_ShapeType_ActionButtonBlank" = "Botón en blanco";
+"Label_ShapeType_ActionButtonDocument" = "Botón de documento";
+"Label_ShapeType_ActionButtonEnd" = "Botón de fin";
+"Label_ShapeType_ActionButtonForwardNext" = "Forma de botón adelante o siguiente";
+"Label_ShapeType_ActionButtonHelp" = "Botón de ayuda";
+"Label_ShapeType_ActionButtonHome" = "Botón de inicio";
+"Label_ShapeType_ActionButtonInformation" = "Botón de información";
+"Label_ShapeType_ActionButtonMovie" = "Botón de película";
+"Label_ShapeType_ActionButtonReturn" = "Botón de retroceso";
+"Label_ShapeType_ActionButtonSound" = "Botón de sonido";
+"Label_ShapeType_Arc" = "Arco curvado";
+"Label_ShapeType_BentArrow" = "Flecha doblada";
+"Label_ShapeType_BentConnector2" = "Conector doblado 2";
+"Label_ShapeType_BentConnector3" = "Conector doblado 3";
+"Label_ShapeType_BentConnector4" = "Conector doblado 4";
+"Label_ShapeType_BentConnector5" = "Conector doblado 5";
+"Label_ShapeType_BentUpArrow" = "Flecha doblada hacia arriba";
+"Label_ShapeType_Bevel" = "Bisel";
+"Label_ShapeType_BlockArc" = "Arco de bloque";
+"Label_ShapeType_BorderCallout1" = "Llamada 1 con borde";
+"Label_ShapeType_BorderCallout2" = "Llamada 2 con borde";
+"Label_ShapeType_BorderCallout3" = "Llamada 3 con borde";
+"Label_ShapeType_BracePair" = "Par de llaves";
+"Label_ShapeType_BracketPair" = "Par de corchetes";
+"Label_ShapeType_Callout1" = "Llamada 1";
+"Label_ShapeType_Callout2" = "Llamada 2";
+"Label_ShapeType_Callout3" = "Llamada 3";
+"Label_ShapeType_Can" = "Cilindro";
+"Label_ShapeType_ChartPlus" = "Rectángulo con más";
+"Label_ShapeType_ChartStar" = "Gráfico de estrella";
+"Label_ShapeType_ChartX" = "Gráfico de X";
+"Label_ShapeType_Chevron" = "Cheurón";
+"Label_ShapeType_Chord" = "Cuerda";
+"Label_ShapeType_CircularArrow" = "Flecha circular";
+"Label_ShapeType_Cloud" = "Nube";
+"Label_ShapeType_CloudCallout" = "Llamada de nube";
+"Label_ShapeType_Corner" = "Esquina";
+"Label_ShapeType_CornerTabs" = "Esquinas de marco";
+"Label_ShapeType_Cube" = "Cubo";
+"Label_ShapeType_CurvedConnector2" = "Conector curvado 2";
+"Label_ShapeType_CurvedConnector3" = "Conector curvado 3";
+"Label_ShapeType_CurvedConnector4" = "Conector curvado 4";
+"Label_ShapeType_CurvedConnector5" = "Conector curvado 5";
+"Label_ShapeType_CurvedDownArrow" = "Flecha abajo curvada";
+"Label_ShapeType_CurvedLeftArrow" = "Flecha izquierda curvada";
+"Label_ShapeType_CurvedRightArrow" = "Flecha derecha curvada";
+"Label_ShapeType_CurvedUpArrow" = "Flecha arriba curvada";
+"Label_ShapeType_Decagon" = "Decágono";
+"Label_ShapeType_DiagStripe" = "Franja diagonal";
+"Label_ShapeType_Diamond" = "Diamante";
+"Label_ShapeType_Dodecagon" = "Dodecágono";
+"Label_ShapeType_Donut" = "Anilla";
+"Label_ShapeType_DoubleWave" = "Doble onda";
+"Label_ShapeType_DownArrow" = "Flecha abajo";
+"Label_ShapeType_DownArrowCallout" = "Llamada de flecha abajo";
+"Label_ShapeType_Ellipse" = "Elipse";
+"Label_ShapeType_EllipseRibbon" = "Cinta de elipses";
+"Label_ShapeType_EllipseRibbon2" = "Cinta de elipses 2";
+"Label_ShapeType_FlowChartAlternateProcess" = "Proceso alternativo";
+"Label_ShapeType_FlowChartCollate" = "Intercalar";
+"Label_ShapeType_FlowChartConnector" = "Conector fuera de página";
+"Label_ShapeType_FlowChartDecision" = "Decisión";
+"Label_ShapeType_FlowChartDelay" = "Retraso";
+"Label_ShapeType_FlowChartDisplay" = "Pantalla";
+"Label_ShapeType_FlowChartDocument" = "Documento";
+"Label_ShapeType_FlowChartExtract" = "Extracto";
+"Label_ShapeType_FlowChartInputOutput" = "Datos";
+"Label_ShapeType_FlowChartInternalStorage" = "Almacenamiento interno";
+"Label_ShapeType_FlowChartMagneticDisk" = "Disco magnético";
+"Label_ShapeType_FlowChartMagneticDrum" = "Almacenamiento de acceso directo";
+"Label_ShapeType_FlowChartMagneticTape" = "Almacenamiento de acceso secuencial";
+"Label_ShapeType_FlowChartManualInput" = "Entrada manual";
+"Label_ShapeType_FlowChartManualOperation" = "Operación manual";
+"Label_ShapeType_FlowChartMerge" = "Combinar";
+"Label_ShapeType_FlowChartMultidocument" = "Multidocumento";
+"Label_ShapeType_FlowChartOfflineStorage" = "Datos offline";
+"Label_ShapeType_FlowChartOffpageConnector" = "Conector fuera de página";
+"Label_ShapeType_FlowChartOnlineStorage" = "Datos online";
+"Label_ShapeType_FlowChartOr" = "O";
+"Label_ShapeType_FlowChartPredefinedProcess" = "Proceso predefinido";
+"Label_ShapeType_FlowChartPreparation" = "Preparación";
+"Label_ShapeType_FlowChartProcess" = "Proceso";
+"Label_ShapeType_FlowChartPunchedCard" = "Tarjeta";
+"Label_ShapeType_FlowChartPunchedTape" = "Cinta perforada";
+"Label_ShapeType_FlowChartSort" = "Organizar";
+"Label_ShapeType_FlowChartSummingJunction" = "Y";
+"Label_ShapeType_FlowChartTerminator" = "Terminador";
+"Label_ShapeType_FoldedCorner" = "Esquina doblada";
+"Label_ShapeType_Frame" = "Marco";
+"Label_ShapeType_Funnel" = "Embudo";
+"Label_ShapeType_Gear6" = "Engranaje 6";
+"Label_ShapeType_Gear9" = "Engranaje 9";
+"Label_ShapeType_HalfFrame" = "Medio marco";
+"Label_ShapeType_Heart" = "Corazón";
+"Label_ShapeType_Heptagon" = "Heptágono";
+"Label_ShapeType_Hexagon" = "Hexágono";
+"Label_ShapeType_HomePlate" = "Pentágono irregular";
+"Label_ShapeType_HorizontalScroll" = "Desplazamiento horizontal";
+"Label_ShapeType_IrregularSeal1" = "Sello irregular 1";
+"Label_ShapeType_IrregularSeal2" = "Sello irregular 2";
+"Label_ShapeType_LeftArrow" = "Flecha izquierda";
+"Label_ShapeType_LeftArrowCallout" = "Llamada de flecha izquierda";
+"Label_ShapeType_LeftBrace" = "Llave de apertura";
+"Label_ShapeType_LeftBracket" = "Corchete izquierdo";
+"Label_ShapeType_LeftCircularArrow" = "Flecha circular izquierda";
+"Label_ShapeType_LeftRightArrow" = "Flecha izquierda y derecha";
+"Label_ShapeType_LeftRightArrowCallout" = "Llamada de flecha izquierda y derecha";
+"Label_ShapeType_LeftRightCircularArrow" = "Flecha circular izquierda y derecha";
+"Label_ShapeType_LeftRightRibbon" = "Cinta izquierda y derecha";
+"Label_ShapeType_LeftRightUpArrow" = "Flecha arriba izquierda y derecha";
+"Label_ShapeType_LeftUpArrow" = "Flecha arriba izquierda";
+"Label_ShapeType_LightningBolt" = "Relámpago ";
+"Label_ShapeType_Line" = "Línea";
+"Label_ShapeType_LineInv" = "Línea invertida";
+"Label_ShapeType_MathDivide" = "División";
+"Label_ShapeType_MathEqual" = "Igual que";
+"Label_ShapeType_MathMinus" = "Menos";
+"Label_ShapeType_MathMultiply" = "Multiplicar";
+"Label_ShapeType_MathNotEqual" = "Distinto de";
+"Label_ShapeType_MathPlus" = "Más";
+"Label_ShapeType_Moon" = "Luna";
+"Label_ShapeType_NonIsoscelesTrapezoid" = "Trapecio no isósceles";
+"Label_ShapeType_NoSmoking" = "Prohibido fumar";
+"Label_ShapeType_NotchedRightArrow" = "Flecha derecha con muesca";
+"Label_ShapeType_Octagon" = "Octógono";
+"Label_ShapeType_Parallelogram" = "Paralelogramo";
+"Label_ShapeType_Pentagon" = "Pentágono";
+"Label_ShapeType_Pie" = "Circular";
+"Label_ShapeType_PieWedge" = "Porción del gráfico";
+"Label_ShapeType_Plaque" = "Placa";
+"Label_ShapeType_PlaqueTabs" = "Abanicos esquineros";
+"Label_ShapeType_Plus" = "Más";
+"Label_ShapeType_QuadArrow" = "Flecha cuádruple";
+"Label_ShapeType_QuadArrowCallout" = "Llamada de flecha cuádruple";
+"Label_ShapeType_Rectangle" = "Rectángulo";
+"Label_ShapeType_Ribbon" = "Lazo";
+"Label_ShapeType_Ribbon2" = "Lazo 2";
+"Label_ShapeType_RightArrow" = "Flecha derecha";
+"Label_ShapeType_RightArrowCallout" = "Llamada de flecha derecha";
+"Label_ShapeType_RightBrace" = "Llave de cierre";
+"Label_ShapeType_RightBracket" = "Corchete derecho";
+"Label_ShapeType_Round1Rect" = "Rectángulo con una esquina redondeada";
+"Label_ShapeType_Round2DiagRect" = "Rectángulo con dos esquinas redondeadas en diagonal";
+"Label_ShapeType_Round2SameRect" = "Rectángulo con dos esquinas redondeadas en el mismo lado";
+"Label_ShapeType_RoundRectangle" = "Rectángulo de esquina redondeada";
+"Label_ShapeType_RightTriangle" = "Triángulo rectángulo";
+"Label_ShapeType_SmileyFace" = "Cara sonriente";
+"Label_ShapeType_Snip1Rect" = "Rectángulo sin una esquina";
+"Label_ShapeType_Snip2DiagRect" = "Rectángulo sin dos esquinas en diagonal";
+"Label_ShapeType_Snip2SameRect" = "Rectángulo sin dos esquinas en el mismo lado";
+"Label_ShapeType_SnipRoundRect" = "Rectángulo redondeado sin una esquina";
+"Label_ShapeType_SquareTabs" = "Recuadros esquineros";
+"Label_ShapeType_Star10" = "Estrella de diez puntas";
+"Label_ShapeType_Star12" = "Estrella de doce puntas";
+"Label_ShapeType_Star16" = "Estrella de dieciséis puntas";
+"Label_ShapeType_Star24" = "Estrella de veinticuatro puntas";
+"Label_ShapeType_Star32" = "Estrella de treinta y dos puntas";
+"Label_ShapeType_Star4" = "Estrella de cuatro puntas";
+"Label_ShapeType_Star" = "Estrella de cinco puntas";
+"Label_ShapeType_Star6" = "Estrella de seis puntas";
+"Label_ShapeType_Star7" = "Estrella de siete puntas";
+"Label_ShapeType_Star8" = "Estrella de ocho puntas";
+"Label_ShapeType_StraightConnector1" = "Conector recto 1";
+"Label_ShapeType_StripedRightArrow" = "Flecha derecha con bandas";
+"Label_ShapeType_Sun" = "Sol";
+"Label_ShapeType_SwooshArrow" = "Flecha curvada";
+"Label_ShapeType_Teardrop" = "Lágrima";
+"Label_ShapeType_Trapezoid" = "Trapecio";
+"Label_ShapeType_Triangle" = "Triángulo";
+"Label_ShapeType_UpArrow" = "Flecha arriba";
+"Label_ShapeType_UpArrowCallout" = "Llamada de flecha arriba";
+"Label_ShapeType_UpDownArrow" = "Flecha arriba y abajo";
+"Label_ShapeType_UpDownArrowCallout" = "Llamada de flecha arriba y abajo";
+"Label_ShapeType_UturnArrow" = "Flecha en U";
+"Label_ShapeType_VerticalScroll" = "Desplazamiento vertical";
+"Label_ShapeType_Wave" = "Onda";
+"Label_ShapeType_WedgeEllipseCallout" = "Llamada elíptica";
+"Label_ShapeType_WedgeRectCallout" = "Llamada rectangular";
+"Label_ShapeType_WedgeRRectCallout" = "Llamada con rectángulo redondeado";
+
+"Label_FilledRoundBullets" = "Viñetas redondas rellenas";
+"Label_HollowRoundBullets" = "Viñetas redondas huecas";
+"Label_FilledSquareBullets" = "Viñetas cuadradas rellenas";
+"Label_HollowSquareBullets" = "Viñetas cuadradas huecas";
+"Label_StarBullets" = "Viñetas estrella";
+"Label_ArrowBullets" = "Viñetas flecha";
+"Label_CheckmarkBullets" = "Viñetas marca de verificación";
+
+"Label_NumbersInBrackets" = "Números en corchetes";
+"Label_LowerLettersInBrackets" = "Letras minúsculas entre corchetes";
+"Label_UpperLettersWithBracket" = "Letras mayúsculas con corchete";
+"Label_UpperLettersInBrackets" = "Letras mayúsculas entre corchetes";
+"Label_UpperRomanNumbersWithBracket" = "Números romanos en mayúscula con corchete";
+"Label_UpperRomanNumbersInBrackets" = "Números romanos en mayúscula entre corchetes";
+"Label_LowerRomanNumbersWithBracket" = "Números romanos en minúscula con corchete";
+"Label_LowerRomanNumbersInBrackets" = "Números romanos en minúscula entre corchetes";
+
+"InfoTitle_AddNotes" = "Doble toque para añadir notas";
+
+"Label_BubbleChart" = "Burbuja";
+"Label_BubbleChart3D" = "Burbuja en 3D";
+
+/* Up to 30 chars */
+"Label_ClearHyperlink" = "Borrar hiperenlaces";
+
+"Label_EnterTitle" = "Indicar título";
+"Label_RemoveLink" = "Quitar enlace";
+"Label_NumAccounting" = "Contabilidad";
+"Label_SelectCell" = "Seleccionar celda";
+"Label_SelectSheet"= "Seleccionar hoja";
+"Label_TypeInTheCellRef" = "Escribir referencia de celda";
+"Label_StockChart" = "Existencias";
+
+/* Up to 22 chars */
+"Label_StockHLC" = "Máximo-Mínimo-Cierre";
+
+/* Up to 22 chars */
+"Label_StockOHLC" = "Apert-Máx-Mín-Cierre";
+
+/* Up to 10 chars */
+"Label_Comment" = "Comentario";
+
+"Label_XlsSaveCommentsNotSupported" = "Los comentarios no se pueden guardar en archivos .XLS. Los comentarios no se guardarán.";
+"Label_PrevComment" = "Comentario anterior";
+"Label_NextComment" = "Comentario siguiente";
+"Label_EditComment" = "Editar comentario";
+"Label_DeleteComment" = "Borrar comentario";
+"Label_ClearComments" = "Borrar comentarios";
+
+/* Up to 10 chars */
+"Label_XValues" = "Valores X";
+"Label_YValues" = "Valores Y";
+"Label_ZValues" = "Valores Z";
+
+"Label_StockChartInfo" = "Información gráfica de existencias";
+"Label_HighLowClose" = "Para insertar este gráfico, indique sus datos en este orden: precio superior, precio inferior, precio de cierre. Use las fechas o nombres de artículo como etiquetas.";
+"Label_OpenHighLowClose" = "Para insertar este gráfico, indique sus datos en este orden: precio de apertura, precio superior, precio inferior, precio de cierre. Use las fechas o nombres de artículo como etiquetas.";
+
+"Label_Other" = "Otro";
+"Label_NegativeNumbers" = "Números negativos";
+
+"Label_Opacity" = "Opacidad";
+"Label_Thickness" = "Grosor";
+"Label_LineEndings" = "Fin de línea";
+
+"ErrMsg_RequestTimeOut" = "Tiempo de solicitud expirado";
+"Label_ContactSupport" = "Contactar con asistencia técnica";
+
+/* Up to 28 chars */
+"Label_FillSurvey" = "Completar formulario de comentarios";
+
+"InfoTitle_TellUsOpinion" = "¡Díganos qué le parece\nOfficeSuite!";
+"InfoMsg_TellUsOpinion" = "Complete el formulario de comentarios o póngase en contacto con nosotros\ndirectamente para contarnos su opinión.";
+"Label_Feedback" = "Enviar comentarios";
+
+/* Up to 20 chars */
+"Label_FeedbackForm" = "Formulario de comentarios";
+
+/* Up to 28 chars */
+"Label_LikeUsOnFacebook" = "Denos un Me gusta en Facebook";
+
+"Label_ShareWithFriends" = "Compartir con amigos";
+
+/* Up to 28 chars */
+"Label_JoinOurBetaTestingGroup" = "Únase a nuestro grupo de testeo";
+
+"Label_BetaTesterForm" = "Formulario de beta tester";
+"Label_More" = "Más";
+
+"Label_RadarChart" = "Radar";
+"Label_RadarChartStandard" = "Estándar";
+"Label_RadarChartMarker" = "Marcadores";
+"Label_RadarChartFilled" = "Relleno";
+
+"Label_HighLowCloseInfo" = "Para insertar este gráfico, indique sus datos en este orden: precio superior, precio inferior, precio de cierre. Opcionalmente, use las fechas o nombres de artículos como etiquetas.";
+
+/* Up to 72 chars */
+"Label_AgitationBarGoPremiumLongMessage" = "Saque aún más partido a la app para Office en versión móvil más avanzada";
+
+"Label_AgitationBarGoPremiumShortMessage" = "Obtener más funciones";
+"Label_AgitationBarGoPremiumButtonText" = "MÁS INFORMACIÓN";
+
+"Label_AgitationBarUpdateLongMessage" = "Hay una actualización de OfficeSuite disponible";
+"Label_AgitationBarUpdateShortMessage" = "Actualización disponible";
+"Label_AgitationBarUpdateButtonText" = "CONSÍGALA";
+"Label_PasteFormat" = "Pegar\nformato";
+
+"Label_3DPie" = "Circular en 3D";
+"ErrMsg_SaveInOtherFormat" = "El archivo no se puede guardar en el formato actual. Guarde el archivo en un formato diferente antes de compartirlo.";
+
+/*
+ NEW STRINGS AFTER VER 4.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// PDF
+
+"Label_LineEndings_None" = "Ninguno";
+"Label_LineEndings_Square" = "Cuadrado";
+"Label_LineEndings_Circle" = "Círculo";
+"Label_LineEndings_Diamond" = "Diamante";
+"Label_LineEndings_OpenArrow" = "Flecha abierta";
+"Label_LineEndings_ClosedArrow" = "Flecha cerrada";
+"Label_NightMode" = "Modo nocturno";
+
+"Label_ChoiceSelection_Multiple" = "Seleccionar opciones";
+"Label_ChoiceSelection_Single" = "Seleccionar opción";
+
+"Label_LineThicknessValueFormat" = "%.0f pt."; // %.0f is replaced with the actual number programatically
+
+"Label_Done" = "Listo";
+
+"Label_AddComment" = "Añadir comentario";
+"Label_LineStart" = "Inicio de línea";
+"Label_LineEnd" = "Fin de línea";
+
+// File Browser
+"Label_ShareWithFriends" = "Compartir con amigos";
+"InfoMsg_CannotOpenAppStoreForDownload" = "La página de descarga no se puede abrir porque el App Store no está disponible.";
+
+"Label_CameraCantStartMessage" = "No se pudo iniciar la cámara. Asegúrese de que OfficeSuite tenga acceso a la cámara en el menú Ajustes.";
+"Label_CameraUnavailableMessage" = "Cámara no disponible en modos Split View y Slide Over.";
+"ErrTitle_ConnectionProblem" = "Error de conexión";
+
+/* Up to 45 chars */
+"Label_EditWordDocument" = "Empiece a editar un nuevo documento de Word.";
+"Label_EditExcelDocument" = "Empiece a editar una nueva hoja de Excel.";
+"Label_EditPresentationDocument" = "Edite una nueva presentación de PowerPoint.";
+
+"Label_CreateNewOnly" = "Crear nuevo";
+
+"Label_IncreaseFontSize" = "Aumentar tamaño de fuente";
+"Label_DecreaseFontSize" = "Reducir tamaño de fuente";
+
+// From windows porting
+"ErrMsg_PDFExportFailed" = "Error al exportar a PDF.";
+"Label_ZoomFitTwoPages" = "Ajustar dos páginas";
+"PRGRSS_PreparingString" = "Preparando...";
+
+/*
+ NEW STRINGS AFTER VER 4.2.1
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+"Lable_OpenFilesFrom" = "Abrir archivos desde";
+"Label_Account" = "Cuenta";
+"Label_Add" = "Añadir";
+
+/* Up to 80 chars
+ %@ will be replaced with a brand name, for instance
+ "Add Dropbox account to view and edit remote files".
+ Brand name length does not count towards the 80 characters limit.
+ */
+"Label_AddAccountSpotlightDescription" = "Añadir %@ cuenta para ver y editar archivos en remoto";
+
+"Label_TouchID" = "Touch ID";
+"Label_TouchIDEnable" = "Permitir huella de Touch ID para desbloquear OfficeSuite";
+"Label_TouchProvideBiometrics"="Añada al menos una huella dactilar desde el menú Ajustes.";
+"InfoMsg_WarningNonEmptyPassword"="La contraseña está vacía. Indique una.";
+"InfoMsg_PreviewNotAvailable"="La vista previa del archivo no está disponible.";
+"InfoPlist_shortcutTitleCreateFile" = "Crear archivo";
+// MobileIron Edition strings
+"Label_MobileIronEdition" = "Edición de MobileIron";
+
+"Label_OpenInForbidden" = "Su administrador %@ ha impedido que los documentos se abran en esta aplicación.";
+"Label_AppNotAuthorized" = "La app no tiene autorización";
+// End MobileIron Edition strings
+
+//Excel
+"Label_FractionNumberFormat"        = "Fracción";
+"Label_SpecialNumberFormat"         = "Especial";
+"Label_CustomNumberFormat"          = "Personalizado";
+
+/* Up to 28 chars */
+"Label_FractionUpToOneDigit"        = "Hasta un dígito (1/4)";
+"Label_FractionUpToTwoDigits"       = "Hasta dos dígitos (10/25)";
+"Label_FractionUpToThreeDigits"     = "Hasta tres dígitos (300/850)";
+
+"Label_FractionUpAsHalves"          = "Como mitades (1/2)";
+"Label_FractionUpAsQuarters"        = "Como cuartos (2/4)";
+"Label_FractionUpAsEights"          = "Como octavos (4/8)";
+"Label_FractionUpAsSixteenths"      = "Como dieciseisavos (8/16)";
+"Label_FractionUpAsTenths"          = "Como décimos (5/10)";
+"Label_FractionUpAsHundreths"       = "Como centésimos (50/100)";
+
+/* Up to 28 chars */
+"Label_UseCustomDenominator"        = "Denominador person. (1/%ld)";
+
+"Label_FractionCustomdenominator"   = "Denominador personalizado";
+"Label_FractionCustomDenominator"   = "Denominador personalizado";
+"Label_Denominator"                 = "Denominador";
+"Label_PostCode"                    = "Código postal";
+"Label_ZipCode(US)"                 = "Código postal (EE. UU.)";
+"Label_ZipCode4(US)"                = "Código postal +4 (EE. UU.)";
+"Label_Postcode(A)"                 = "Código postal (A)";
+"Label_Postcode(CH)"                = "Código postal (CH)";
+"Label_Postcode(D)"                 = "Código postal (D)";
+"Label_Postcode(L)"                 = "Código postal (L)";
+"Label_Postcode(4digits)"           = "Código postal (4 dígitos)";
+"Label_Postcode(5digits)"           = "Código postal (5 dígitos)";
+"Label_Postcode(6digits)"           = "Código postal (6 dígitos)";
+"Label_PhoneNumber"                 = "Número de teléfono";
+"Label_SocialSecurityNumber"        = "Número de la Seguridad Social";
+"Label_PdfOptions"                  = "Opciones de PDF";
+
+"Label_PrintHeadings"               = "Imprimir encabezados";
+
+/* Up to 26 chars */
+"Label_PrintGridlines"              = "Imprimir líneas cuadrícula";
+
+"Label_SelectSheets"                = "Seleccionar hojas";
+"Label_ShowHeadings"                = "Mostrar encabezados";
+"Label_EmptyPage"                   = "Página vacía";
+
+"Label_NewComment"                  = "Añadir comentario";
+"Label_DefineName"                  = "Añadir nombre";
+"Label_CellRange"                   = "Rango de celdas";
+
+"Label_PremiumODF" = "Acceda a archivos con formato OpenDocument Format (ODF), incluidos .ODS, .ODT y .ODP. Disponible en OfficeSuite Premium.";
+"Label_PremiumBinaryFormat" = "Guarde como formatos antiguos de Word y Excel para una compatibilidad máxima. Disponible en OfficeSuite Premium.";
+"Label_PremiumCSV" = "Guarde su hoja de cálculo como archivo .CSV (valores separados por comas). Disponible en OfficeSuite Premium.";
+"Label_PremiumConditionalFormatting" = "Cambie el formato de celdas y rangos de celdas en función de determinados criterios. Disponible en OfficeSuite Premium.";
+"Label_PremiumHyperlinks" = "Cree y edite hipervínculos a páginas web y direcciones de correo electrónico. Disponible en OfficeSuite Premium.";
+"Label_PremiumEditComments" = "Cree y edite comentarios en archivos de Excel. Disponible en OfficeSuite Premium.";
+"Label_PremiumWordToPDF" = "Cree rápidamente un PDF a partir del documento actual. Disponible en OfficeSuite Premium.";
+"Label_PremiumCameraPhoto" = "Enfoque y dispare para insertar rápidamente una foto desde la cámara de su dispositivo. Disponible en OfficeSuite Premium.";
+"Label_PremiumAnnotatePdf" = "Cree y edite anotaciones y marcadores en PDF. Disponible en OfficeSuite Premium.";
+"Label_PremiumAppProtectionPass" = "Restrinja el acceso a OfficeSuite con una contraseña personalizada. Disponible en OfficeSuite Premium.";
+"Label_PremiumPDFtoWord" = "Convierta el PDF actual en un documento de Word completamente editable. Disponible en OfficeSuite Premium.";
+"Label_PremiumPDFtoExcel" = "Convierta el PDF actual en una hoja de cálculo completamente editable. Disponible en OfficeSuite Premium.";
+"Label_PremiumPDFtoEPub" = "Convierta el PDF actual en un archivo ePub. Disponible en OfficeSuite Premium.";
+"Label_PremiumPdfPasswordChange" = "Restrinja el acceso al archivo con una contraseña personalizada. Disponible en OfficeSuite Premium.";
+"Label_PremiumExcelToPDF" = "Cree rápidamente un PDF a partir de la hoja de cálculo actual. Disponible en OfficeSuite Premium.";
+"Label_PremiumPPTtoPDF" = "Cree rápidamente un PDF a partir de la presentación actual. Disponible en OfficeSuite Premium.";
+"Label_PremiumFormFill" = "Rellene y guarde formularios editables en PDF. Disponible en OfficeSuite Premium.";
+"Label_PremiumNightMode" = "Muestre PDF con texto claro sobre fondo oscuro para que se vea más cómodamente de noche. Disponible en OfficeSuite Premium.";
+"Label_PdfOptions"                  = "Opciones de PDF";
+
+//Apple Watch Strings
+"Label_Start" = "Inicio";
+"Label_Playing" = "Reproduciendo";
+
+/* Up to 57 chars */
+"Label_ParentAppConnectivityPrompt" = "Abrir presentación en OfficeSuite para iPhone para seguir";
+
+"Label_FromSlideNumber" = "Desde diapositiva %d";
+"Label_SlideNumberOfSlideCount" = "Diapositiva %d de %d";
+"Label_Restart" = "Reiniciar";
+"Label_EndShow" = "Finalizar presentación";
+
+// PDF
+
+"Label_PDFContainsDigitalSignatures" = "El documento incluye firmas digitales.";
+
+// annotation tips
+"Label_ToolTip_Note" = "Tocar donde quiera añadir una nota";
+"Label_ToolTip_FreeText" = "Tocar donde quiera añadir texto";
+"Label_ToolTip_Highlight" = "Arrastrar sobre el texto para marcarlo";
+"Label_ToolTip_Underline" = "Arrastrar sobre el texto para subrayarlo";
+"Label_ToolTip_Strikethrough" = "Arrastrar sobre el texto para tacharlo";
+"Label_ToolTip_FreeDraw" = "Arrastrar libremente para dibujar";
+"Label_ToolTip_Line" = "Tocar y arrastrar para crear una línea";
+"Label_ToolTip_Rectangle" = "Tocar y arrastrar para crear un rectángulo";
+"Label_ToolTip_Ellipse" = "Tocar y arrastrar para crear una elipse";
+
+
+"Label_ProtectYourDocumentsTitle" = "Proteger sus documentos";
+"Label_ProtectYourDocumentsInfo" = "Y contraseñas y restringir el acceso a OfficeSuite con Touch ID";
+"Label_AnnotatePdfAndFillFormsTitle" = "Anotar PDF y rellenar formularios";
+"Label_AnnotatePdfAndFillFormsInfo" = "Crear y editar anotaciones, completar y guardar formularios en PDF editables";
+"Label_SaveAsPDFTitle" = "Guardar como PDF";
+"Label_SaveAsPDFInfo" = "Crear PDF desde Word, Excel y PowerPoint sin pérdidas de formato";
+"Label_EditPDFDocumentsTitle" = "Editar documentos en PDF";
+"Label_EditPDFDocumentsInfo" = "Convertir un PDF en un archivo de Word, Excel o ePub completamente editable";
+"Label_SaveAsLegacyFormatsTitle" = "Heredados formaciones de Microsoft";
+"Label_SaveAsLegacyFormatsInfo" = "Guardar sus documentos como .DOC y .XLS para que la compatibilidad sea máxima";
+"Label_OpenODFDocumentsTitle" = "Abrir documentos en ODF";
+"Label_OpenODFDocumentsInfo" = "Leer archivos .odt, .ods y .odp";
+"Label_GetExtraFontsTitle" = "Conseguir más fuentes";
+"Label_GetExtraFontsInfo" = "Más de 70 fuentes básicas como Tahoma, Calibri y Wingdings";
+"Label_RemoveAdsTitle" = "Quitar los anuncios";
+"Label_RemoveAdsInfo" = "Disfrutar de OfficeSuite sin anuncios";
+
+
+"Label_PremiumPowerPointEditNotes" = "Crear y editar notas para el ponente en sus diapositivas. Disponible en OfficeSuite Premium.";
+
+/*
+ NEW STRINGS AFTER VER 4.3
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+/* Up to 14 chars, "free" as "arbitrary", "user-generated"  */
+"Label_FreeText" = "Texto";
+
+"Label_Sign" = "Firma";
+"Label_QuickSign" = "Firma rápida";
+"Label_AddDate" = "Añadir fecha";
+"Label_PickDate" = "Selecciona una fecha";
+"Label_AddSignature" = "Añadir firma";
+"Label_QuickSignHint" = "Incluya su firma o iniciales";
+"Label_QuickSignNoAvailableSignatures" = "Sin firmas";
+
+"Label_ToolTip_QuickSign" = "Pulse donde desee añadir una firma";
+"Label_ToolTip_Date" = "Pulse donde desee añadir una fecha";
+
+"Label_TryAgain" = "Intentar de nuevo";
+"Label_YouMustBeOnlineInOrderToUpgrade" = "Debe estar conectado para poder actualizar la aplicación";
+"Label_CannotConnectToITunesStore" = "No se puede conectar a la tienda de iTunes";
+
+"ErrClass_FillString" = "Error al rellenar. ";
+
+/*
+ NEW STRINGS AFTER VER 4.3.2
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_UnsupportedDefinedName" = "Este documento incluye un nombre definido no compatible. Quizá no se pueda guardar el documento.";
+
+"Label_SignIn" = "Iniciar sesión";
+"Label_SignUp" = "Registrarse";
+"Label_SignOut" = "Cerrar sesión";
+"Label_ForgotPassword" = "¿Ha olvidado su contraseña?";
+"Label_ResetPassword"  = "Restablecer contraseña";
+"Label_Remove" = "Eliminar";
+"Label_TakePhoto" = "Hacer una foto";
+"Label_ChooseFromCameraRoll" = "Elegir del carrete";
+"Err_EnterDifferentPassword" = "La contraseña antigua y nueva son iguales. ¡Indique una contraseña nueva!";
+"Label_SaveAppSettings" = "Guarde ajustes de la app, archivos recientes y más";
+
+//Common error strings from Android version
+"Err_PleaseFillYourCredentials" = "Indique sus credenciales.";
+"Err_InvalidEmailAddress"       = "Correo electrónico no válido.";
+"Err_AccountDoesNotExist"       = "La cuenta no existe. Compruebe su correo electrónico y vuelva a intentarlo.";
+"Err_AccountAlreadyExist"       = "Esta cuenta ya existe. ¿Quiere restablecer la contraseña?";
+"Err_PasswordMissmatch"         = "Nombre de usuario o contraseña incorrectos.";
+"Wrn_SighOutDecription"         = "¿Seguro que quiere cerrar la sesión?";
+"Msg_PasswordChanged"           = "Su contraseña ha cambiado";
+"Err_AccountNotValidated"       = "Cuenta aún sin validar";
+"Btn_ResendValidation"          = "Validar";
+"Msg_ValidationResendSuccess"   = "Se ha enviado el enlace de validación a su correo electrónico.";
+"Msg_PasswordReset"             = "Se ha enviado su nueva contraseña a su correo electrónico. Revise su buzón e inicie sesión.";
+
+// PDF
+
+"PRGRSS_ExecutingJavaScript" = "Ejecutando Java Script...";
+
+"Label_AddEditComment" = "Añadir/Editar comentario";
+
+// MSConnect / Payments
+
+"Label_TooManyDevices" = "Ha iniciado sesión en demasiados dispositivos.";
+"Label_PleaseUpdatePayment" = "Hace mucho que no actualiza su información de pago de Android. No tiene acceso a Premium hasta que no lo haga.";
+
+//Word - WebView
+
+"Label_WebView" = "Vista de web";
+"Label_PageView" = "Vista de página";
+
+//Go Premium Screen Strings
+"Label_UpgadeToPremium" = "Actualizar a Premium";
+"Label_DescriptionProtectYourDocuments" = "Añada contraseñas y limite el acceso a OfficeSuite con TouchID";
+"Label_DescritpionEditPDFs" = "Convierta cualquier PDF en un archivo Word, Excel o ePub completamente editable";
+"Label_TitleSignYourPDFFiles" = "Firme sus archivos en PDF";
+"Label_DescriptionSignYourPDFFiles" = "Use Firma rápida para añadir fácilmente firmas digitales a sus documentos";
+"Label_SubscriptionPeriodMonthly" = "mes";
+"Label_SubscriptionPeriodYearly"  = "año";
+"Label_SaveForPrice" = "GUARDAR"; // save for price e.g "SAVE $15.99"
+"Label_UpgradeText" = "Actualizar";
+"Label_OfficeSuitePremium" = "OfficeSuite Premium";
+"Label_OfficeSutiePremiumDesc" = "Aumente su productividad móvil";
+"Label_UpgradeNow" = "Actualizar ahora";
+"Label_LoginInfo" = "Use su suscripción en varias plataformas y dispositivos";
+"Label_SignInWith" = "Iniciar sesión con";
+"Label_DontHaveAccount" = "¿Todavía no tiene cuenta?";
+"Label_DontHaveAnAccount" = "¿Aún no tiene cuenta?";
+"Label_SignUpHere" = "Regístrese aquí";
+"Label_AlreadyHaveAccount" = "¿Ya tiene una cuenta?";
+"Label_SignInNow" = "Iniciar sesión ahora";
+"Label_ResetPasswordDesc" = "Te enviaremos un correo electrónico a la dirección siguiente con la contraseña y las instrucciones para el restablecimiento.";
+"Label_FullName" = "Nombre completo";
+"Label_ChangePassword" = "Cambiar contraseña";
+"Label_UserSettings" = "Ajustes de usuario";
+"Label_EnterOldPassword" = "Indicar contraseña antigua";
+"Label_EnterNewPassword" = "Indicar contraseña nueva";
+"Label_Re-EnterNewPassword" = "Volver a indicar contraseña nueva";
+
+// MSConnect / Payment messages
+
+"Label_PremiumTransferFailed" = "Error en la transferencia de Premium";
+"Label_PremiumLicenseHasAnotherAccount" = "Esta licencia Premium ya está vinculada a %@";
+"Label_TooManyDevicesMan" = "Ha superado el número de dispositivos vinculados a esta licencia Premium.";
+"Label_PremiumLicenseExpired" = "Su licencia Premium ha caducado.";
+"Label_PremiumExpired" = "Premium caducado";
+"Label_PremiumPleaseUpdateStatus" = "El estado de su licencia Premium no se ha actualizado. Inicie sesión desde su dispositivo original para actualizar el estado de la licencia.";
+"Label_PremiumNotUpdated" = "Premium no actualizado";
+
+/*
+ NEW STRINGS AFTER VER 4.4
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"Label_TryToLoginWithAnotherAccount" = "No se ha podido iniciar sesión con esta cuenta. Inténtelo con otra.";
+"Label_NothingToRestore" = "No tiene compras para restaurar.";
+"Label_ShareWithFriends" = "Compartir con amigos";
+
+"Label_InactivityUrge1" = "¿Sabía que dispone de una oficina móvil completa al alcance de la mano?";
+"Label_InactivityUrge2" = "¿Sabía que puede leer y editar cualquier documento con OfficeSuite?";
+"Label_InactivityUrge3" = "¿Sabía que ahora puede editar archivos PDF con OfficeSuite?";
+"Label_CompleteSubscriptionUrge1" = "¿Por qué esperar? Complete su suscripción y maximice su productividad.";
+"Label_CompleteSubscriptionUrge2" = "Complete su suscripción para obtener la mejor aplicación de ofimática móvil, OfficeSuite Premium.";
+"Msg_PasswordChangedPassive"      = "Su contraseña se ha cambiado.";
+
+// PowerPoint
+
+"Label_FillColor" = "Color de relleno";
+"Label_NoFill" = "Sin relleno";
+"Label_LineColor" = "Color de línea";
+"Label_NoLine" = "Sin línea";
+"Label_LineWeight" = "Grosor de línea";
+"Label_LineStyle" = "Estilo de línea";
+
+"Accessibility_Label_DashingType_Solid" = "Sólida";
+"Accessibility_Label_DashingType_SysDash" = "Guión del sistema";
+"Accessibility_Label_DashingType_SysDot" = "Punto del sistema";
+"Accessibility_Label_DashingType_SysDashDot" = "Guión punto del sistema";
+"Accessibility_Label_DashingType_SysDashDotDot" = "Guión punto punto del sistema";
+"Accessibility_Label_DashingType_Dot" = "Punto";
+"Accessibility_Label_DashingType_Dash" = "Guión";
+"Accessibility_Label_DashingType_LgDash" = "Guión largo";
+"Accessibility_Label_DashingType_DashDot" = "Guión punto";
+"Accessibility_Label_DashingType_LgDashDot" = "Guión punto largo";
+"Accessibility_Label_DashingType_LgDashDotDot" = "Guión punto punto largo";
+
+//File browser
+
+"Label_ForgotYourPassword" = "¿Ha olvidado su contraseña?";
+"Err_EnterLessSimilarPassword" = "Las contraseñas nueva y antigua son demasiado parecidas. Utilice otra contraseña.";
+"Label_PremiumSubscriptionExpired" = "Su suscripción Premium ha caducado.";
+"Label_PremiumSubscriptionHasAnotherAccount" = "Esta suscripción Premium ya está asociada a %@.";
+"Label_TooManyDevicesForSubscriptionMan" = "Ha superado el número máximo de dispositivos permitidos para esta suscripción Premium.";
+"Msg_ShareDescription" = "OfficeSuite - una aplicación fantástica para trabajar con documentos de Word, Excel, PowerPoint y PDF.";
+"Label_CPPleaseTryAgain" = "Problema de conexión. Inténtelo de nuevo más tarde.";
+"Label_YouMustBeOnlineToSync" = "Debe estar conectado para poder sincronizar su cuenta.";
+"Label_LastSync" = "Última sincronización:";
+"Wrn_WillLosePremiumSubscriptionIfSignOut" = "¿Seguro que quiere cerrar la sesión? No podrá usar su suscripción Premium en este dispositivo.";
+
+/*
+ NEW STRINGS AFTER VER 4.5
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// Track Changes Strings
+"Label_Review" = "Revisar";
+"Label_TrackChanges" = "CONTROL DE CAMBIOS";
+
+/* Up to 24 chars */
+"Label_TrackChangesMergedView" = "Vista combinada";
+
+"Label_TrackChangesOriginalView" = "Vista original";
+"Label_TrackChangesFinalView" = "Vista final";
+"Label_ReviewMarkup" = "REVISAR MARCAS";
+"Label_PreviousChange" = "CAMBIO ANTERIOR";
+"Label_NextChange" = "CAMBIO SIGUIENTE";
+"Label_PreviousComment" = "COMENTARIO ANTERIOR";
+"Label_NextComment" = "COMENTARIO SIGUIENTE";
+"Label_HiddenTrackChanges" = "Actualmente todas las marcas de revisión están ocultas.";
+"Label_ShowAllTrackChanges" = "Mostrar todo";
+"Label_NoChangesInDocument" = "El documento no contiene marcas de revisión.";
+"Label_SearchFromBeginningOfDocument" = "¿Continuar buscando desde el principio del documento?";
+"Label_SearchFromEndOfDocument" = "¿Continuar buscando desde el final del documento?";
+"Label_RevisionsTracking" = "Control de revisiones";
+"Label_RevisionsTrackingMessage" = "Esta acción no se marcará como un cambio. ¿Desea continuar?";
+"Label_UntrackedOperationMessage" = "Esta operación no se marcará como un cambio porque afecta a una tabla.";
+
+//Months
+"Label_January" = "Enero";
+"Label_February" = "Febrero";
+"Label_March" = "Marzo";
+"Label_April" = "Abril";
+"Label_May" = "Mayo";
+"Label_June" = "Junio";
+"Label_July" = "Julio";
+"Label_August" = "Agosto";
+"Label_September" = "Septiembre";
+"Label_October" = "Octubre";
+"Label_November" = "Noviembre";
+"Label_December" = "Diciembre";
+
+// PDF
+"Label_SwitchOffReflow" = "No es posible editar el documento en Modo de redistribución. ¿Desea cambiar a Modo continuo?";
+"Label_ProtectedFile" = "Archivo protegido";
+"Label_FullAccessPasswordRequired" = "El archivo está protegido por contraseña.\nIntroduzca la contraseña de acceso completa:";
+"Label_Annotations" = "Anotaciones";
+"Label_NoAnnotations" = "No hay anotaciones";
+"Label_NoContents" = "No hay contenido";
+"Label_WillDeleteAllAnnotations" = "¿Seguro que desea eliminar todas las anotaciones de este documento?";
+"Label_Reflow" = "Redistribución";
+"Label_DocumentNavigation" = "Navegación por el documento";
+"Label_DeletingAnnotations" = "Eliminando anotaciones...";
+"Label_WillSwitchToContinuousMode" = "Las anotaciones no están disponibles en Modo de redistribución. ¿Desea cambiar a Modo continuo?";
+"Label_PdfUserPasswordSameAsOwnerPassword" = "Las contraseñas de propietario y de usuario no pueden ser idénticas.";
+
+
+"Label_DontAskAgain" = "No volver a preguntar";
+
+//File Browser new design sitrngs
+"Label_TabRecent" = "Recientes";
+"Label_RecentFilesUp" = "Archivos recientes";
+"Label_NewBlankDocument" = "Nuevo documento en blanco";
+"Label_NewBlankSpreadsheet" = "Nueva hoja de cálculo en blanco";
+"Label_NewBlankPresentation" = "Nueva presentación en blanco";
+
+/* Up to 28 chars */
+"Label_AddCloudStorage" = "Añadir almacen. en la nube";
+
+"Label_MDM_Clouds_Disabled" = "Su administrador ha desactivado el acceso a plataformas de almacenamiento en la nube. Solo puede abrir/editar/guardar archivos locales.";
+"Label_MDM_AirWatchEdition" = "Edición AirWatch";
+"Lable_MDM_PermissionChanged" = "Permiso cambiado";
+"Label_MDM_PasscodeDisabled" = "Su administrador ha desactivado la posibilidad de definir una contraseña para la aplicación.";
+
+"Label_AboutOfficeSuite" = "Acerca de OfficeSuite";
+"Label_AccountSettings" = "Cuenta";
+"Label_SelectAll" = "Seleccionar todo";
+"Label_DeselectAll" = "Desmarcar todo";
+"Label_ManagePlaces" = "Manage Places";
+
+//Track changes
+"Label_ReviewMarkupTitleCase" = "Revisar marcas";
+"Label_PremiumWordTrackChanges" = "Cree y edite marcas de revisión para mejorar la colaboración.";
+"Label_SearchCommentsFromBeginningOfDocument" = "Buscando comentarios desde el principio del documento.";
+"Label_SearchCommentsFromEndOfDocument" = "Buscando comentarios desde el final del documento.";
+
+"Label_SearchTabPlaceHolder" = "Buscar en OfficeSuite";
+
+/* Up to 22 chars */
+"Label_CloudStorage" = "Almacen. en la nube";
+
+/*
+ NEW STRINGS AFTER VER 4.6
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+/* Up to 13 chars */
+"Label_Unprotect" = "Desproteger";
+
+/* Up to 28 chars */
+"Label_SelectLockedCells" = "Seleccionar celdas bloqueadas";
+
+/* Up to 30 chars */
+"Label_SelectUnlockedCells" = "Selecc. celdas desbloqueadas";
+
+"Label_FormatCells" = "Aplicar formato a celdas";
+"Label_FormatColumns" = "Aplicar formato a columnas";
+"Label_FormatRows" = "Aplicar formato a filas";
+"Label_InsertColumns" = "Insertar columnas";
+"Label_InsertRows" = "Insertar filas";
+
+/* Up to 30 chars */
+"Label_InsertHyperlinks" = "Insertar hipervínculos";
+
+"Label_DeleteColumns" = "Eliminar columnas";
+"Label_DeleteRows" = "Eliminar filas";
+"Label_UseAutoFilter" = "Usar filtro automático";
+
+/* Up to 30 chars */
+"Label_PivotTable" = "Usar tabla y gráfico dinámicos";
+
+"Label_EditObjects" = "Modificar gráficos";
+"Label_EditScenarios" = "Modificar escenarios";
+"Label_ProtectSheet" = "Proteger hoja";
+"Label_UnprotectToChange" = "Esta hoja está protegida. Para realizar cambios, desproteja la hoja.";
+"Label_PasswordProtectedSheet" = "Hoja protegida por contraseña";
+"Label_UnprotectSheet" = "Desproteger hoja";
+"Label_ProtectedSheet" = "Hoja protegida";
+"Label_HideLockCellInfo" = "Bloquear celdas u ocultar fórmulas solo afecta a las hojas protegidas.";
+"Label_CellLocked" = "Bloqueado";
+"Label_CellHidden" = "Oculto";
+"Label_CellProtection" = "Protección de la celda";
+"Label_Data" = "Datos";
+"Label_DataValidation" = "Valid. datos";
+"Label_ErrorAlert" = "Alerta de error";
+"Label_ErrorMessage" = "Mensaje de error";
+"Label_InputMessage" = "Mensaje de entrada";
+"Label_Criteria" = "Criterios";
+"Label_ValidationCriteria" = "Criterios de validación";
+"Label_AnyValue" = "Cualquier valor";
+"Label_WholeNumber" = "Número entero";
+"Label_Decimal" = "Decimal";
+"Label_List" = "Lista";
+"Label_Time" = "Hora";
+"Label_TextLength" = "Longitud del texto";
+"Label_DVBetween" = "entre";
+"Label_DVNotBetween" = "no entre";
+"Label_DVEqualTo" = "igual a";
+"Label_DVNotEqualTo" = "no igual a";
+"Label_DVGreaterThan" = "mayor que";
+"Label_DVLessThan" = "menor que";
+"Label_DVGreaterThanOrEqualTo" = "mayor o igual que";
+"Label_DVLessThanOrEqualTo" = "menor o igual que";
+"Label_IgnoreBlank" = "Omitir blancos";
+"Label_InCellDropdown" = "Celda con lista desplegable";
+"Label_Source" = "Origen";
+"Label_Formula" = "Fórmula";
+"Label_Minimum" = "Mínimo";
+"Label_Maximum" = "Máximo";
+"Label_Length" = "Longitud";
+"Label_StartDate" = "Fecha de inicio";
+"Label_EndDate" = "Fecha de fin";
+"Label_StartTime" = "Hora de inicio";
+"Label_EndTime" = "Hora de fin";
+"Label_ShowInputMessage" = "Mostrar mensaje de entrada";
+"Label_Message" = "Mensaje";
+"Label_ShowErrorAlert" = "Mostrar alerta de error";
+"Label_Warning" = "Advertencia";
+"Label_Information" = "Información";
+"Label_CircleInvalidData" = "Rodear con un círculo datos no válidos";
+"Label_Retry" = "Reintentar";
+"InfoTitle_Date" = "Fecha";
+"InfoTitle_SlideNumber" = "Número de diapositiva";
+"InfoTitle_Footer" = "Pie de página";
+"Label_AllowProtectionTypes" = "Permitir a los usuarios de esta hoja de cálculo:";
+"Label_ProtectChartSheetFor" = "Proteger en la hoja de cálculo:";
+"Label_Objects" = "Objetos";
+"Label_NoResult" = "Sin resultados";
+"Label_EditObjects2" = "Modificar objetos";
+"Label_ReplaceAll" = "Reemplazar todo";
+"Label_SeparateCoverPage" = "Separar portada";
+"Label_ViewModeOptions" = "Opciones de modo de visualización";
+
+/* Up to 26 chars */
+"Label_ContinuousTwoPages" = "Dos páginas continuas";
+
+"Label_PremiumQuickSign" = "Añada una firma manuscrita a sus documentos PDF. Disponible en OfficeSuite Premium.";
+"Label_PrintLowQuality" = "Baja calidad de impresión";
+"Label_PrintHighQuality" = "Alta calidad de impresión";
+"Label_FullAccessPasswordRequiredForHighQualityPrinting" = "Este archivo está protegido por contraseña. Para imprimir en alta calidad, introduzca la contraseña de acceso completo.";
+"Label_DeleteSheet" = "Eliminar hoja";
+"Label_CantDeleteSheet" = "No se puede eliminar. Muestre otra hoja (si hay hojas ocultas) o añada una hoja nueva para poder eliminarla.";
+
+"Label_PremiumAllBinaryFormats" = "Guarde como formatos antiguos de Word, Excel y PowerPoint para una compatibilidad máxima. Disponible en OfficeSuite Premium.";
+"Label_SaveAsAllLegacyFormatsInfo" = "Guardar sus documentos como .DOC, .XLS y .PPT para máxima compatibilidad";
+
+/*
+ NEW STRINGS AFTER VER 4.7
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrMsg_EmptyTextField" = "No se permiten campos de texto en blanco";
+"Confirm_EraseDataValidation" = "La selección contiene más de un tipo de validación. ¿Desea sustituir la validación actual y continuar?";
+"ErrMsg_DataValidationIsInvalid" = "El valor que ha introducido no es válido.";
+"WarnMsg_DataValidationIsInvalid" = "El valor que ha introducido no es válido. ¿Desea editar la celda de todas formas?";
+"InfoMsg_DataValidationIsInvalid" = "El valor que ha introducido no es válido.";
+"ErrMsg_InvalidChars" =  "Hay caracteres no válidos en valor introducido";
+
+"Msg_ErrorLockedOutAfterFailedSignIns" = "Demasiados intentos de inicio de sesión. Inténtelo de nuevo más tarde.";
+"Label_ManageAccount" = "Gestionar cuenta";
+
+//Word
+"Label_Shading" = "Sombreado";
+
+"Label_WhatsNew" = "Novedades";
+"Label_Sheets" = "Hojas";
+"Label_OpenPDF" = "Abrir PDF";
+"Label_RateUs" = "Valórenos";
+"TextBox_DefaultText" = "Doble toque para editar el texto";
+"Label_Slides" = "Diapositivas";
+
+/*
+ NEW STRINGS AFTER VER 4.8
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+"ErrDoc_Save_Xls_Not_Supported" = "El documento no se puede guardar en formato XLS, ya que solo contiene hojas con gráficos.";
+"InfoMsg_InvalidDVAllTable" = "No puede definir reglas de validación de datos para toda la hoja.";
+"Label_MarkerLineChart" = "Línea con marcadores";
+"Err_PleaseLoginAgain"       = "Se ha cerrado su sesión. Vuelva a iniciar sesión.";
+"Label_PremiumProtectSheet" = "Proteja las celdas de las hojas de cálculo. Disponible en OfficeSuite Premium.";
+"Label_NoColor" = "Sin color";
+"Label_CellShading" = "Sombra";
+"Label_EnterPassToUnprotect" = "Introduzca la contraseña para desproteger la hoja.";
+
+//Excel
+"Label_Cells" = "Celdas";
+"Label_ShiftLeft" = "Desplazar las celdas hacia la izquierda";
+"Label_ShiftUp" = "Desplazar las celdas hacia arriba";
+"Label_EntireRow" = "Toda la fila";
+"Label_EntireColumn" = "Toda la columna";
+"Label_DeleteOptions" = "Opciones de eliminación";
+
+"WarnMsg_Continue" = "\n\n¿Continuar?";
+
+"Err_WillChangeFilteredRange" = "Cambiará el rango filtrado.";
+"ErrClass_DeleteCells" = "Error al eliminar la(s) celda(s)";
+
+"Label_Alert" = "Aviso";
+"AlertMsg_DeleteRow" = "¿Eliminar toda la fila?";
+"AlertMsg_WillUnmergeCells" = "Con este comando se anulará la combinación de algunas celdas combinadas. ¿Desea continuar?";
+
+//File browser
+"Label_SearchByType" = "Buscar por tipo";
+"Label_RecentSearches" = "Búsquedas recientes";
+
+// Excel
+"Label_BarOfPie" = "Gráfico circular con subgráfico de barras";
+"Label_PieOfPie" = "Gráfico circular con subgráfico circular";
+"Label_3DColumn" = "Columna en 3D";
+
+/*
+ NEW STRINGS AFTER VER 4.9
+ 
+ THESE STRINGS ARE TRANSLATED. DO NOT EDIT!
+ */
+
+// PowerPoint
+"Label_PowerPointMacroTemplate" = "Plantilla habilitada para macros de PowerPoint";
+"Label_EnterpriseMode" = "Modo empresarial";
+"Label_NetForEntrpriseNeeded" = "Se necesita conexión a Internet para activar el modo empresarial.";
+"Label_SolidFill" = "Relleno sólido";
+"Label_PictureFill" = "Relleno de imagen";
+
+// PDF
+"Label_TwoPages" = "Dos páginas";
+"Label_ContinuousScroll" = "Desplazamiento continuo";
+"Label_PdfPageView" = "Vista de página";
+"Label_ReflowView" = "Vista de redistribución";
+
+//FileCommander
+
+"Label_Favorites" = "Anclado";
+"Label_NoFavorites" = "Pulse Editar para anclar archivos.";
+"Label_NoFavoritesInEditMode" = "No hay archivos anclados.";
+"Label_OtherLocations" = "Abrir otro almacenamiento";
+"Label_CreateNewFolder" = "Crear nueva carpeta";
+"Label_CreateNewOfficeDoc" = "Crear nuevo archivo";
+"Label_MoveToThisLocation" = "Mover a esta ubicación";
+"InfoTitle_iCloudSwitchedOn" = "iCloud se ha activado";
+"InfoMsg_iCloudSwitchedOn" = "¿Desea mover archivos locales a iCloud?";
+"InfoMsg_iCloudIsDisabled" = "La unidad iCloud está desactivada para OfficeSuite. Puede activar la unidad iCloud desde la aplicación Ajustes y, a continuación, iCloud.";
+"Label_AddCloud" = "Añadir almacenamiento en la nube";
+"Label_OpenFrom" = "Abrir desde ubicación";
+"InfoMsg_NewItem" = "Crear nuevo";
+"Label_FromTemplate" = "Desde plantilla";
+"Label_NoResults" = "No hay resultados";
+"Label_SearchByTypeCapitalized" = "Buscar por tipo";
+"Label_RecentSearchesCapitalized" = "Búsquedas recientes";
+"Label_OfficeSutiePremiumDescription" = "Obtenga todas las funciones que necesita";
+"Label_OfficeForEveryPlatformTitle" = "La oficina móvil todo en uno";
+"Label_OfficeForEveryPlatformDescription" = "Inicie sesión y disfrute de una experiencia multiplataforma con una sola suscripción";
+"Label_NewFromTemplates" = "Nuevo desde plantillas";
+
+// Excel charts
+"Label_Doughnut" = "Anillo";
+
+// Word
+"Label_Header" = "Encabezado";
+"Label_Footer" = "Pie de página";
+"Label_LinkToPrevious" = "Enlace a anterior";
+"Label_FirstPage" = "Primera página";
+"Label_OddAndEvenPages" = "Páginas pares e impares";
+"Label_GoToFooter" = "Ir al pie de página";
+"Label_GoToHeader" = "Ir al encabezado";
+"Label_HeaderOffset" = "Desplazamiento de encabezado";
+"Label_FooterOffset" = "Desplazamiento de pie de página";
+"Label_HeaderFooter" = "Encabezado/pie de página";
+"Label_HeaderFromTop" = "Encabezado desde arriba";
+"Label_FooterFromBottom" = "Encabezado desde abajo";
+"Label_WordPageNumber" = "Número de página";
+"Label_PageNumberFormat" = "Formato de los números de página";
+"Label_PageNumbering" = "Numeración de páginas";
+"Label_NumberFormat" = "Formato de número";
+"Label_Location" = "Ubicación";
+"Label_StartingPage" = "Página de inicio";
+"Label_ContinueFromPrevSection" = "Continuar desde la sección anterior";
+"Label_DocumentsNewComment" = "Nuevo comentario";
+"Label_DeleteAllComments" = "Eliminar todos";
+"Label_AcceptChange" = "ACEPTAR CAMBIO";
+"Label_RejectChange" = "RECHAZAR CAMBIO";
+
+/***************************************************************************************************
+ 
+ TRANSLATION ENDS HERE. STRINGS BELOW MAY BE EDITED.
+ 
+ **************************************************************************************************/
+
+/*
+ NEW STRINGS AFTER VER 5.0
+ 
+ STRINGS MAY BE EDITED.
+ */
+
+"Label_IncorrectPassword" = "Incorrect password.";

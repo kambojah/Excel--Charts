@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+"Create File" = "สร้างไฟล์";
+kSTRING_NEW_FROM_TEMPLATES = "สร้างใหม่จากเทมเพลต";
